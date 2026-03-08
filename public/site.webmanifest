@@ -1,0 +1,22 @@
+{
+  "name": "Canalizador Urgente - Serviço 24h Trás-os-Montes",
+  "short_name": "Canalizador Urgente",
+  "description": "Canalizador urgente 24h. Fugas de água, entupimentos, esquentadores. Atendimento imediato em toda a região.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#1E88E5",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
