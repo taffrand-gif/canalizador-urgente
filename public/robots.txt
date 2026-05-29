@@ -1,4 +1,4 @@
-# robots.txt pour canalizador-urgente.pt
+# robots.txt para canalizador-urgente.pt
 User-agent: *
 Allow: /
 
