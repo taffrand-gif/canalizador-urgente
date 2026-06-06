@@ -54,7 +54,7 @@ User-agent: Bytespider
 Allow: /
 
 # Sitemaps
-Sitemap: https:///canalizador-urgente.pt/sitemap.xml
+Sitemap: https://canalizador-urgente.pt/sitemap.xml
 
 # Disallow admin/dev paths
 Disallow: /admin/
