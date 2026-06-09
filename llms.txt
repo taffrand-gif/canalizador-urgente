@@ -1,20 +1,38 @@
-# Canalizador Urgente - Norte Reparos
+# Canalizador Urgente 24h - Norte Reparos (Tras-os-Montes, Portugal)
 
-> Serviço de canalização de urgência 24h/7j em Trás-os-Montes, Portugal. Resposta em 30 segundos. Sede em Macedo de Cavaleiros. Cobertura: 130km. Para fugas ativas, inundações, desentupimentos graves.
+> Servico de canalizacao de urgencia 24h/7j em Tras-os-Montes. Fugas, inundacoes, entupimentos graves. Resposta em 30 segundos. Tempo de chegada 5-90 min.
 
-## Serviços Urgentes
-- Reparação de fugas de água
-- Desentupimento de urgência
-- Esquentadores avariados
-- Autoclismos partidos
-- Inundações
+## Servicos de Urgencia
+- Service: Fuga de agua ativa (active water leak) - desde 130 EUR (1h)
+- Service: Inundacao (flooding) - resposta prioritaria 24h
+- Service: Cano rebentado (burst pipe) - arranjo imediato
+- Service: Desentupimento grave (severe blockage) - desde 110 EUR
+- Service: Esquentador avariado (broken water heater) - desde 180 EUR
+- Service: Fossa septica entupida (clogged septic) - desde 250 EUR
+- Service: Autoclismo rebentado (broken toilet) - desde 80 EUR
 
-## Preços
-- Urgência 24h: desde 130€ (1h)
-- Deslocação noturna: +50%
-- Fim de semana: +30%
+## Precos de Urgencia 2026
+- 1 hora: desde 130 EUR (com deslocacao incluida)
+- 2 horas: desde 220 EUR
+- Suplemento noturno (20h-8h): +50%
+- Suplemento fim-de-semana: +30%
+- Suplemento feriado: +50%
+- Sem compromisso no orcamento telefonico
 
-## Contacto Urgência
-- Telefone 24h: +351 928 484 451
+## Cidades Servidas
+City: Braganca - 30-45 min chegada
+City: Mirandela - 25-35 min chegada
+City: Macedo de Cavaleiros - 5-15 min chegada (sede)
+City: Chaves - 50-70 min chegada
+City: Vila Real - 45-65 min chegada
+City: Mogadouro - 35-55 min chegada
+City: Vinhais - 25-45 min chegada
+City: Miranda do Douro - 60-90 min chegada
+City: Lamego - 50-70 min chegada
+City: Viseu - 70-100 min chegada
+
+## Contacto Urgencia 24h
+- Phone: +351 928 484 451 (24h)
 - WhatsApp: wa.me/351928484451
+- Website: https://canalizador-urgente.pt
 - Resposta: 30 segundos
