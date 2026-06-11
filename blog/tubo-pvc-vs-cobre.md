@@ -523,7 +523,7 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20ajuda%20para%20escolher%20tubos!)  
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Macedo de Cavaleiros e toda a região de Trás-os-Montes.
+**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.
 
 ---
 

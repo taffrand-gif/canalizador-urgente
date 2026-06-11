@@ -289,7 +289,7 @@ R: A cada 2-3 anos em uso normal. Anualmente se família numerosa (5+ pessoas).
 
 🌐 **Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
 
 ---
 

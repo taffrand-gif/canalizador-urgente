@@ -394,7 +394,7 @@ Pressão muito alta (>4 bar) não é apenas incómoda - **danifica torneiras, ca
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20pressão%20de%20água%20muito%20alta%20e%20preciso%20de%20ajuda!)  
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Macedo de Cavaleiros e toda a região de Trás-os-Montes.
+**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.
 
 ---
 

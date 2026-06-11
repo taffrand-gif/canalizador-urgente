@@ -549,7 +549,7 @@ Substituir uma torneira é uma tarefa **acessível para DIY** se tiver ferrament
 
 **Cobertura:**
 - Bragança e arredores (30 minutos)
-- Mirandela, Macedo de Cavaleiros, Miranda do Douro
+- Mirandela, Trás-os-Montes, Miranda do Douro
 - Toda a região de Trás-os-Montes
 
 **💬 WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20quero%20substituir%20uma%20torneira.%20Podem%20ajudar%3F)**

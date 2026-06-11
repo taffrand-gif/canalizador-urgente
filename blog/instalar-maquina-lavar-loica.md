@@ -447,7 +447,7 @@ Instalar máquina de lavar loiça é **relativamente simples** se ligações est
 ✅ Garantia 1 ano no serviço  
 ✅ Materiais incluídos  
 ✅ Técnico em sua casa em 30-45 minutos  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Instalação bem feita = máquina dura mais!** Contacte-nos já para instalação profissional com garantia.
 

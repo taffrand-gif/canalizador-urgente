@@ -458,7 +458,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20mau%20cheiro%20no%20sifão%20e%20preciso%20de%20ajuda!)  
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Macedo de Cavaleiros e toda a região de Trás-os-Montes.
+**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.
 
 ---
 

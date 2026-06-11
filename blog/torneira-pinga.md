@@ -471,7 +471,7 @@ Torneira que pinga é **problema simples de resolver** na maioria dos casos:
 ✅ Garantia 1 ano no serviço  
 ✅ Preços transparentes  
 ✅ Técnico em sua casa em 30-45 minutos  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não desperdice água e dinheiro!** Uma torneira que pinga pode custar €360-600/ano. Contacte-nos já para arranjo rápida.
 

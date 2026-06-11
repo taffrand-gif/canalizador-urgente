@@ -456,7 +456,7 @@ Substituir uma torneira de cozinha é um trabalho **relativamente simples** que 
 ✅ Fornecemos torneiras de qualidade  
 ✅ Orçamento grátis sem compromisso  
 ✅ Técnico em sua casa em 30-45 minutos  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Torneira a pingar desperdiça 30-50 litros/dia!** Não deixe o problema piorar. Contacte-nos já.
 

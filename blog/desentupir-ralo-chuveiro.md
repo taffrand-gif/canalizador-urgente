@@ -320,7 +320,7 @@ O ralo do chuveiro entupido é um problema comum mas **facilmente resolvível** 
 ✅ Orçamento grátis sem compromisso  
 ✅ Técnico em sua casa em 30-45 minutos  
 ✅ Garantia de 6 meses no serviço  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não deixe o problema piorar!** Um entupimento simples hoje pode tornar-se numa arranjo cara amanhã. Contacte-nos já.
 

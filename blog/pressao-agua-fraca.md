@@ -154,7 +154,7 @@ Com base na nossa experiência de 900+ intervenções em Trás-os-Montes:
 **Dureza da água em Trás-os-Montes:**
 - Bragança: 150-250 mg/L CaCO₃ (dura a muito dura)
 - Mirandela: 180-280 mg/L CaCO₃ (muito dura)
-- Macedo de Cavaleiros: 160-240 mg/L CaCO₃ (dura a muito dura)
+- Trás-os-Montes: 160-240 mg/L CaCO₃ (dura a muito dura)
 
 **Como identificar:**
 1. Pressão fraca em toda a casa
@@ -454,7 +454,7 @@ Pressão de água fraca não é apenas inconveniente — **reduz qualidade de vi
 
 **Serviço rápido em:**
 - Bragança e arredores (30 minutos)
-- Mirandela, Macedo de Cavaleiros, Miranda do Douro
+- Mirandela, Trás-os-Montes, Miranda do Douro
 - Toda a região de Trás-os-Montes
 
 **💬 WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20pressão%20de%20água%20na%20minha%20casa%20está%20muito%20fraca.%20Podem%20ajudar%3F)**

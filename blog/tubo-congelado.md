@@ -410,7 +410,7 @@ Tubos congelados são um **problema sério mas evitável** em Trás-os-Montes. *
 
 **Serviço urgente em:**
 - Bragança e arredores (30 minutos)
-- Mirandela, Macedo de Cavaleiros, Miranda do Douro
+- Mirandela, Trás-os-Montes, Miranda do Douro
 - Toda a região de Trás-os-Montes
 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20os%20meus%20tubos%20congelaram.%20Preciso%20de%20ajuda%20urgente.)**

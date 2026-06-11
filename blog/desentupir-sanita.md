@@ -303,7 +303,7 @@ Antes de desentupir, é importante perceber **o que causou o entupimento** para 
 | **Substituir sanita** | €150-400 | 2-3h |
 | **Urgência 24h (acréscimo)** | +€30-80 | — |
 
-**Nota:** Preços para Trás-os-Montes (Bragança, Mirandela, Macedo de Cavaleiros).
+**Nota:** Preços para Trás-os-Montes (Bragança, Mirandela, Trás-os-Montes).
 
 ---
 
@@ -435,7 +435,7 @@ Antes de desentupir, é importante perceber **o que causou o entupimento** para 
 
 **💬 WhatsApp:** [Clique para falar connosco](https://wa.me/351928484451?text=Olá%2C%20tenho%20a%20sanita%20entupida%20e%20preciso%20de%20ajuda%20urgente.)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
 
 **Tempo de resposta:** 30-45 minutos em Bragança e arredores.
 

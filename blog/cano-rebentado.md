@@ -436,7 +436,7 @@ Cano rebentado é **emergência que requer ação imediata**:
 ✅ **Equipamento profissional**  
 ✅ **Minimizamos danos**  
 ✅ **Garantia no serviço**  
-✅ **Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região**
+✅ **Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região**
 
 **Cada minuto conta!** Quanto mais rápido arranjar, menos danos. Contacte-nos JÁ para intervenção urgente.
 

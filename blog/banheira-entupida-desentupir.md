@@ -346,7 +346,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20a%20banheira%20entupida%20e%20preciso%20de%20ajuda!)  
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Macedo de Cavaleiros e toda a região de Trás-os-Montes.
+**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.
 
 ---
 

@@ -47,7 +47,7 @@ Se a água está perto de tomadas ou quadro elétrico:
 
 📞 **+351 928 484 451** (24h/7d)
 
-Chegamos em **30-60 minutos** em Bragança, Mirandela, Macedo de Cavaleiros.
+Chegamos em **30-60 minutos** em Bragança, Mirandela, Trás-os-Montes.
 
 ## 🔍 Causas Comuns de Canos Rebentados
 

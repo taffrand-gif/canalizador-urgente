@@ -442,7 +442,7 @@ Cheiro a esgoto na casa de banho não é apenas desagradável — **afeta qualid
 
 **Serviço rápido em:**
 - Bragança e arredores (30 minutos)
-- Mirandela, Macedo de Cavaleiros, Miranda do Douro
+- Mirandela, Trás-os-Montes, Miranda do Douro
 - Toda a região de Trás-os-Montes
 
 **💬 WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20cheiro%20a%20esgoto%20na%20casa%20de%20banho.%20Podem%20ajudar%3F)**

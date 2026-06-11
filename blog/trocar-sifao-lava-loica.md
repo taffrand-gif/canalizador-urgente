@@ -28,7 +28,7 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 - ✅ Erros comuns a evitar
 - ✅ Quando chamar picheleiro
 
-**📞 Precisa de ajuda? Ligue já: [928 484 451](tel:+351928484451)** — Picheleiro certificado em Bragança, Mirandela, Macedo de Cavaleiros.
+**📞 Precisa de ajuda? Ligue já: [928 484 451](tel:+351928484451)** — Picheleiro certificado em Bragança, Mirandela, Trás-os-Montes.
 
 ---
 
@@ -358,7 +358,7 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 
 **📞 Picheleiro Certificado: [928 484 451](tel:+351928484451)**
 
-**Cobertura:** Bragança, Mirandela, Macedo de Cavaleiros e todo o distrito.
+**Cobertura:** Bragança, Mirandela, Trás-os-Montes e todo o distrito.
 
 ---
 
@@ -494,7 +494,7 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 
 **💬 WhatsApp:** [Clique para falar connosco](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20ajuda%20com%20o%20sifão%20do%20lava-loiça.)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
 
 ---
 

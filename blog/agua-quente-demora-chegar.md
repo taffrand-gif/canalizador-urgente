@@ -425,7 +425,7 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20água%20quente%20demora%20muito%20a%20chegar!)  
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Macedo de Cavaleiros e toda a região de Trás-os-Montes.
+**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.
 
 ---
 

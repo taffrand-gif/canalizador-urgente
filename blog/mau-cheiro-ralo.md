@@ -438,7 +438,7 @@ Mau cheiro no ralo tem **causas identificáveis e soluções eficazes**:
 ✅ Instalação de ventilação se necessário  
 ✅ Garantia 1 ano no serviço  
 ✅ Técnico em sua casa em 30-45 minutos  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não viva com mau cheiro!** É problema de saúde e conforto. Contacte-nos já para solução definitiva.
 

@@ -457,7 +457,7 @@ Pressão de água baixa tem **múltiplas causas**, desde simples (filtro entupid
 ✅ Deteção de fugas com equipamento profissional  
 ✅ Garantia 1 ano no serviço  
 ✅ Orçamento grátis sem compromisso  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não viva com pressão baixa!** Afeta conforto, higiene e funcionamento de aparelhos. Contacte-nos já para diagnóstico grátis.
 
