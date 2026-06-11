@@ -478,7 +478,7 @@ R: NÃO! Mesmo "biodegradáveis" demoram meses a desfazer-se. Causam 15% dos ent
 **Norte Reparos - Picheleiro Certificado em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento Atendimento 24h/7d (urgências)
+- ✅ Atendimento 24h/7d (urgências)
 - ✅ Técnico com equipamento profissional chega em 30-60 minutos
 - ✅ Mola elétrica + Alta pressão + Câmara inspeção
 - ✅ Orçamento grátis sem compromisso

@@ -316,7 +316,7 @@ O ralo do chuveiro entupido é um problema comum mas **facilmente resolvível** 
 📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20desentupir%20o%20ralo%20do%20chuveiro.%20Pode%20ajudar%3F)**
 
-✅ Atendimento Atendimento 24h/7d (urgências)  
+✅ Atendimento 24h/7d (urgências)  
 ✅ Orçamento grátis sem compromisso  
 ✅ Técnico em sua casa em 30-45 minutos  
 ✅ Garantia de 6 meses no serviço  

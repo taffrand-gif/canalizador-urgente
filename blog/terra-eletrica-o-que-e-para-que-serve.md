@@ -28,4 +28,4 @@ A ausência de terra é uma violação do regulamento português para instalaç�
 
 **Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendimento 24h, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
-Se precisa de um eletricista em terra elétrica, ligue já. Resposta Resposta rápida garantida.
+Se precisa de um eletricista em terra elétrica, ligue já. Resposta rápida garantida.

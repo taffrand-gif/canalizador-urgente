@@ -500,7 +500,7 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 **Norte Reparos - Técnico Certificado Caldeiras em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento Atendimento 24h/7d (emergências inverno)
+- ✅ Atendimento 24h/7d (emergências inverno)
 - ✅ Técnico certificado gás chega em 30-60 minutos
 - ✅ Manutenção anual obrigatória €80-150
 - ✅ Arranjos todas as marcas

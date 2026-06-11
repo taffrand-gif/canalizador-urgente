@@ -412,7 +412,7 @@ R: Use apenas como último recurso. Nunca misture produtos. Ventile bem. Prefira
 **Norte Reparos - Picheleiro Certificado em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento Atendimento 24h/7d (urgências)
+- ✅ Atendimento 24h/7d (urgências)
 - ✅ Técnico chega em 30-60 minutos
 - ✅ Orçamento grátis sem compromisso
 - ✅ Garantia 12 meses em todos os serviços
