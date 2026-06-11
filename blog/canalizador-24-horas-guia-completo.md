@@ -479,7 +479,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 **Ligue IMEDIATAMENTE: 928 484 451**
 
 ✅ Atendimento <3 toques
-✅ Chegamos em 15-90 minutos
+✅ Resposta rápida garantida-90 minutos
 ✅ Atendimento 24h/7d/7 dias/365 dias
 ✅ Viatura equipada completa
 ✅ Orçamento antes arranjar

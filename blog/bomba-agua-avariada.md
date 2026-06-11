@@ -472,6 +472,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Sem água = Emergência. Picheleiro urgente 24h. Chegamos em 30-60 minutos.**
+**Sem água = Emergência. Picheleiro urgente 24h. Resposta rápida garantida-60 minutos.**
 
 📞 +351 928 484 451 | 💬 WhatsApp 24h | 🌐 canalizador-norte-reparos.pt

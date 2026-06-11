@@ -458,6 +458,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Fuga gás = Emergência extrema. Não arrisque. Picheleiro urgente 24h. Chegamos em 15-30 minutos.**
+**Fuga gás = Emergência extrema. Não arrisque. Picheleiro urgente 24h. Resposta rápida garantida-30 minutos.**
 
 📞 +351 928 484 451 | 💬 WhatsApp 24h | 🌐 canalizador-norte-reparos.pt

@@ -431,7 +431,7 @@ Cano rebentado é **emergência que requer ação imediata**:
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=URGÊNCIA%3A%20Cano%20rebentado!%20Preciso%20de%20ajuda%20imediata!)**
 
 ✅ **Disponível Atendimento 24h/7d, 7 dias por semana**  
-✅ **Chegamos em 30-45 minutos**  
+✅ **Resposta rápida garantida-45 minutos**  
 ✅ **Arranjo imediata**  
 ✅ **Equipamento profissional**  
 ✅ **Minimizamos danos**  
