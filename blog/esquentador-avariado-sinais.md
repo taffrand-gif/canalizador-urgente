@@ -238,7 +238,7 @@ keywords: ["esquentador avariado", "esquentador não aquece", "canalizador urgen
 - 10+ anos experiência
 - Todas as marcas (Vulcano, Junkers, Roca, Ariston)
 - Peças originais em stock
-- Certificado CERTIEL
+- Fichas eletrotécnicas assinadas por técnico certificado DGEG
 
 ### Resposta Rápida
 - **30-60 minutos** em Bragança, Mirandela, Macedo

@@ -192,7 +192,7 @@ Canos têm vida útil limitada:
 - 10+ anos experiência
 - 500+ emergências resolvidas
 - 4.9/5 estrelas (500+ avaliações)
-- Certificado CERTIEL
+- Fichas eletrotécnicas assinadas por técnico certificado DGEG
 
 ### Preços Transparentes
 - Orçamento antes de começar
