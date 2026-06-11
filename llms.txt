@@ -22,7 +22,7 @@
 ## Cidades Servidas
 City: Braganca - 30-45 min chegada
 City: Mirandela - 25-35 min chegada
-City: Macedo de Cavaleiros - 5-15 min chegada (sede)
+City: Trás-os-Montes - 5-15 min chegada (sede)
 City: Chaves - 50-70 min chegada
 City: Vila Real - 45-65 min chegada
 City: Mogadouro - 35-55 min chegada
