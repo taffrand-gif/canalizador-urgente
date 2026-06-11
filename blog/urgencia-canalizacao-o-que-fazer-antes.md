@@ -7,7 +7,7 @@ category: "Segurança"
 excerpt: "Guia urgência canalização: como agir primeiros minutos, fechar água com segurança, minimizar danos, documentar problema e preparar intervenção."
 image: "/images-optimized/blog/blog-urgencia-preparacao.webp"
 metaTitle: "Urgência Canalização: O Que Fazer Antes | Guia"
-metaDescription: "Urgência canalização: feche água geral, coloque baldes, documente problema. 8 erros fatais evitar. Chegamos em 15-90min. Ligue 928 484 451!"
+metaDescription: "Urgência canalização: feche água geral, coloque baldes, documente problema. 8 erros fatais evitar. Resposta rápida garantida-90min. Ligue 928 484 451!"
 keywords: ["urgência canalização o que fazer", "como fechar água casa", "emergência fuga água", "antes canalizador chegar"]
 schema:
   type: "HowTo"
@@ -630,8 +630,8 @@ Balde (se urgência extrema).
 **Ligue IMEDIATAMENTE: 928 484 451**
 
 ✅ Atendimento <3 toques
-✅ Chegamos em 15-90 minutos
-✅ Disponível 24h/7 dias/365 dias
+✅ Resposta rápida garantida-90 minutos
+✅ Atendimento 24h/7d/7 dias/365 dias
 ✅ Equipamento completo
 ✅ Orçamento antes arranjar
 ✅ Garantia 12 meses

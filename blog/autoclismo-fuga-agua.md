@@ -4,14 +4,14 @@ slug: "autoclismo-fuga-agua"
 category: "Arranjos DIY"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Autoclismo com fuga de água desperdiça 200L/dia (€300/ano). Descubra as 7 causas principais e como arranjar em 30 minutos. Guia completo DIY para Trás-os-Montes."
+excerpt: "Autoclismo com fuga de água desperdiça 200L/dia (€300/ano). Descubra as 7 causas principais e como arranjar Atendimento prioritário. Guia completo DIY para Trás-os-Montes."
 keywords: "autoclismo fuga agua, autoclismo pinga, arranjar autoclismo, valvula autoclismo, picheleiro braganca, canalizador"
 priority: "HIGH DEMAND"
 ---
 
 # Autoclismo Com Fuga de Água: 7 Causas e Soluções (2026)
 
-**Autoclismo com fuga de água desperdiça 200 litros/dia - €300/ano jogados fora!** Em Trás-os-Montes, 45% dos autoclismos têm fugas (maioria imperceptíveis). Neste guia completo, vou mostrar-lhe as 7 causas principais, como detetar fugas invisíveis e arranjar em 30 minutos poupando €40-80 em picheleiro.
+**Autoclismo com fuga de água desperdiça 200 litros/dia - €300/ano jogados fora!** Em Trás-os-Montes, 45% dos autoclismos têm fugas (maioria imperceptíveis). Neste guia completo, vou mostrar-lhe as 7 causas principais, como detetar fugas invisíveis e arranjar Atendimento prioritário poupando €40-80 em picheleiro.
 
 ## Como Detetar Fuga no Autoclismo
 
@@ -534,7 +534,7 @@ R: Arranjar fuga €40-80, substituir mecanismo €60-120, instalar autoclismo n
 
 🌐 **Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
 
 ---
 

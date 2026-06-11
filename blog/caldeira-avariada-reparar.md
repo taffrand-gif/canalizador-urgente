@@ -500,7 +500,7 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 **Norte Reparos - Técnico Certificado Caldeiras em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento 24 horas (emergências inverno)
+- ✅ Atendimento 24h/7d (emergências inverno)
 - ✅ Técnico certificado gás chega em 30-60 minutos
 - ✅ Manutenção anual obrigatória €80-150
 - ✅ Arranjos todas as marcas
@@ -511,7 +511,7 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 
 🌐 **Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
 
 ---
 

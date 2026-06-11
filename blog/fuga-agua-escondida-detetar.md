@@ -109,7 +109,7 @@ Para fugas em canalização enterrada:
 - 10+ anos experiência
 - 500+ fugas detetadas
 - 4.9/5 estrelas (500+ avaliações)
-- Certificado CERTIEL
+- Fichas eletrotécnicas assinadas por técnico certificado DGEG
 
 ### Resposta Rápida
 - **30-60 minutos** em Bragança, Mirandela, Macedo
@@ -124,7 +124,7 @@ Para fugas em canalização enterrada:
 ## 📍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -136,7 +136,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Preciso%20detetar%20fuga%20água%20escondida)**
 
 ### Orçamento Grátis
-Resposta em 5 minutos. Sem compromisso.
+Resposta rápida garantida. Sem compromisso.
 
 ---
 

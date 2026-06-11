@@ -419,7 +419,7 @@ keywords: ["contador água disparado", "conta água alta", "fuga água escondida
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -430,7 +430,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Contador%20água%20disparado)**
 
-**Resposta em 5 minutos. Câmara térmica disponível. Chegada 30-60 minutos.**
+**Resposta rápida garantida. Câmara térmica disponível. Chegada 30-60 minutos.**
 
 ---
 

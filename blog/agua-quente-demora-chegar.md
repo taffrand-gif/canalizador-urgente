@@ -76,8 +76,8 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 - Pior se canos passam por zonas frias (cave, exterior)
 
 **Perda de calor:**
-- Cano sem isolamento: perde 80% do calor em 30 minutos
-- Cano isolado: perde 20% do calor em 30 minutos
+- Cano sem isolamento: perde 80% do calor Atendimento prioritário
+- Cano isolado: perde 20% do calor Atendimento prioritário
 
 **Solução:** Isolar canos (€3-8/metro)
 
@@ -425,7 +425,7 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20água%20quente%20demora%20muito%20a%20chegar!)  
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Macedo de Cavaleiros e toda a região de Trás-os-Montes.
+**Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.
 
 ---
 

@@ -47,7 +47,7 @@ Se a água está perto de tomadas ou quadro elétrico:
 
 📞 **+351 928 484 451** (24h/7d)
 
-Chegamos em **30-60 minutos** em Bragança, Mirandela, Macedo de Cavaleiros.
+Chegamos em **30-60 minutos** em Bragança, Mirandela, Trás-os-Montes.
 
 ## 🔍 Causas Comuns de Canos Rebentados
 
@@ -192,7 +192,7 @@ Canos têm vida útil limitada:
 - 10+ anos experiência
 - 500+ emergências resolvidas
 - 4.9/5 estrelas (500+ avaliações)
-- Certificado CERTIEL
+- Fichas eletrotécnicas assinadas por técnico certificado DGEG
 
 ### Preços Transparentes
 - Orçamento antes de começar
@@ -232,7 +232,7 @@ Em noites muito frias (-5°C ou menos):
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Cano%20rebentado%20emergência)**
 
-**Resposta em 5 minutos. Chegada em 30-60 minutos.**
+**Resposta rápida garantida. Chegada em 30-60 minutos.**
 
 ---
 

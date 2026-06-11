@@ -351,7 +351,7 @@ keywords: ["entupimento grave", "desentupir canalização", "canalizador urgente
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -362,7 +362,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Entupimento%20grave%20urgente)**
 
-**Resposta em 5 minutos. Chegada em 30-60 minutos.**
+**Resposta rápida garantida. Chegada em 30-60 minutos.**
 
 ---
 

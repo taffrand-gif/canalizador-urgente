@@ -582,7 +582,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -593,7 +593,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Manutenção%20piscina)**
 
-**Resposta em 5 minutos. Orçamento sem compromisso.**
+**Resposta rápida garantida. Orçamento sem compromisso.**
 
 ---
 

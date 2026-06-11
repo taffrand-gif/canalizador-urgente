@@ -419,7 +419,7 @@ keywords: ["fuga gás", "cheiro gás", "emergência gás", "picheleiro urgente",
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -432,7 +432,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=FUGA%20GÁS%20URGENTE)**
 
-**Fuga gás = Emergência extrema. Resposta em 5 minutos. Chegada 15-30 minutos.**
+**Fuga gás = Emergência extrema. Resposta rápida garantida. Chegada 15-30 minutos.**
 
 ---
 
@@ -458,6 +458,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Fuga gás = Emergência extrema. Não arrisque. Picheleiro urgente 24h. Chegamos em 15-30 minutos.**
+**Fuga gás = Emergência extrema. Não arrisque. Picheleiro urgente 24h. Resposta rápida garantida-30 minutos.**
 
 📞 +351 928 484 451 | 💬 WhatsApp 24h | 🌐 canalizador-norte-reparos.pt

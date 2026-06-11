@@ -406,7 +406,7 @@ Não espere manutenção anual se:
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -417,7 +417,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Manutenção%20aquecimento%20central)**
 
-**Resposta em 5 minutos. Agendamento flexível.**
+**Resposta rápida garantida. Agendamento flexível.**
 
 ---
 

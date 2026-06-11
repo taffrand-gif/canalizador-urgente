@@ -399,7 +399,7 @@ Barulho moderado é normal (bomba, água). Barulho excessivo indica: máquina de
 DIY primeira vez: 2-4 horas. DIY com experiência: 1-2 horas. Profissional: 1,5-3 horas (dependendo se ligações estão prontas).
 
 **8. Preciso de certificado para instalar máquina?**
-Não. Certificado CERTIEL é só para instalações elétricas novas ou alterações significativas. Ligar máquina em tomada existente não precisa.
+Não. Fichas eletrotécnicas assinadas por técnico certificado DGEG é só para instalações elétricas novas ou alterações significativas. Ligar máquina em tomada existente não precisa.
 
 ## 🎯 Conclusão: Instalação Bem Feita = Máquina Durável
 
@@ -447,7 +447,7 @@ Instalar máquina de lavar loiça é **relativamente simples** se ligações est
 ✅ Garantia 1 ano no serviço  
 ✅ Materiais incluídos  
 ✅ Técnico em sua casa em 30-45 minutos  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Instalação bem feita = máquina dura mais!** Contacte-nos já para instalação profissional com garantia.
 

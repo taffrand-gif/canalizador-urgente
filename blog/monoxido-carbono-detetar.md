@@ -422,7 +422,7 @@ keywords: ["monóxido carbono", "CO", "detetor CO", "intoxicação", "Trás-os-M
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -433,7 +433,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=MONÓXIDO%20CARBONO%20URGENTE)**
 
-**CO = Emergência extrema. Resposta em 5 minutos. Chegada 15-30 minutos.**
+**CO = Emergência extrema. Resposta rápida garantida. Chegada 15-30 minutos.**
 
 ---
 

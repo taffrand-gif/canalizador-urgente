@@ -413,7 +413,7 @@ Sim, alguns sistemas usam tubagem de água fria como retorno. Economiza instala�
 ✅ Materiais de qualidade  
 ✅ Garantia 1 ano no serviço  
 ✅ Orçamento grátis sem compromisso  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Pare de desperdiçar água e tempo!** Contacte-nos já para solução definitiva e eficiente.
 

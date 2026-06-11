@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **A torneira está a pingar constantemente?** Uma torneira que pinga pode desperdiçar **30-50 litros de água por dia** (€10-15/mês na conta da água). Neste guia completo, vou mostrar-lhe **as 5 causas principais** de torneiras que pingam e **como arranjar cada uma facilmente**.
 
-> ⚠️ **Torneira pinga muito?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida em 30 minutos, garantia incluída.
+> ⚠️ **Torneira pinga muito?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida Atendimento prioritário, garantia incluída.
 
 ## 🔍 Tipos de Torneiras e Como Funcionam
 
@@ -471,7 +471,7 @@ Torneira que pinga é **problema simples de resolver** na maioria dos casos:
 ✅ Garantia 1 ano no serviço  
 ✅ Preços transparentes  
 ✅ Técnico em sua casa em 30-45 minutos  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não desperdice água e dinheiro!** Uma torneira que pinga pode custar €360-600/ano. Contacte-nos já para arranjo rápida.
 

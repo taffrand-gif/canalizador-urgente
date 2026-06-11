@@ -433,7 +433,7 @@ keywords: ["bomba água avariada", "bomba poço", "sem água", "picheleiro urgen
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -446,7 +446,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Bomba%20água%20avariada%20URGENTE)**
 
-**Sem água = Emergência. Resposta em 5 minutos. Chegada 30-60 minutos.**
+**Sem água = Emergência. Resposta rápida garantida. Chegada 30-60 minutos.**
 
 ---
 
@@ -472,6 +472,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Sem água = Emergência. Picheleiro urgente 24h. Chegamos em 30-60 minutos.**
+**Sem água = Emergência. Picheleiro urgente 24h. Resposta rápida garantida-60 minutos.**
 
 📞 +351 928 484 451 | 💬 WhatsApp 24h | 🌐 canalizador-norte-reparos.pt

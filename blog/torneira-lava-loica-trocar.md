@@ -4,14 +4,14 @@ slug: "torneira-lava-loica-trocar"
 category: "Arranjos DIY"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Quer trocar a torneira do lava-loiça? Guia completo passo a passo com fotos, ferramentas necessárias e dicas profissionais. Aprenda a fazer em 60 minutos."
+excerpt: "Quer trocar a torneira do lava-loiça? Guia completo passo a passo com fotos, ferramentas necessárias e dicas profissionais. Aprenda a fazer Atendimento prioritário."
 keywords: "trocar torneira, instalar torneira, torneira lava loica, torneira cozinha, picheleiro braganca, canalizador"
 priority: "HIGH DEMAND"
 ---
 
 # Trocar Torneira do Lava-Loiça: Guia Passo a Passo (2026)
 
-**Trocar torneira do lava-loiça é um projeto DIY acessível que poupa €80-150 em mão de obra.** Em Trás-os-Montes, 45% dos proprietários fazem esta substituição sozinhos. Neste guia completo, vou mostrar-lhe passo a passo como trocar a torneira em 60 minutos, com todas as ferramentas necessárias e dicas profissionais.
+**Trocar torneira do lava-loiça é um projeto DIY acessível que poupa €80-150 em mão de obra.** Em Trás-os-Montes, 45% dos proprietários fazem esta substituição sozinhos. Neste guia completo, vou mostrar-lhe passo a passo como trocar a torneira Atendimento prioritário, com todas as ferramentas necessárias e dicas profissionais.
 
 ## Quando Trocar a Torneira?
 
@@ -484,7 +484,7 @@ R: Instalação €80-150 (normal) ou €150-250 (urgente). Fornecimento + insta
 
 🌐 **Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
 
 ---
 

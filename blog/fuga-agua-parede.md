@@ -195,7 +195,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **Custo:** €80-150 (inspeção completa com relatório).
 
-**📞 Ligue já: [928 484 451](tel:+351928484451)** — Inspeção termográfica em Bragança, Mirandela, Macedo de Cavaleiros.
+**📞 Ligue já: [928 484 451](tel:+351928484451)** — Inspeção termográfica em Bragança, Mirandela, Trás-os-Montes.
 
 ---
 
@@ -212,7 +212,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 | **Inspeção termográfica** | — | €80-150 | **€80-150** |
 | **Arranjo de reboco/pintura** | €30-80 | €100-250 | **€130-330** |
 
-**Nota:** Preços para Trás-os-Montes (Bragança, Mirandela, Macedo de Cavaleiros). Valores podem variar conforme gravidade e acessibilidade.
+**Nota:** Preços para Trás-os-Montes (Bragança, Mirandela, Trás-os-Montes). Valores podem variar conforme gravidade e acessibilidade.
 
 ---
 
@@ -412,7 +412,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **📞 Picheleiro de Urgência 24h: [928 484 451](tel:+351928484451)**
 
-**Cobertura:** Bragança, Mirandela, Macedo de Cavaleiros, Miranda do Douro, Vinhais, Mogadouro e todo o distrito de Bragança.
+**Cobertura:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro e todo o distrito de Bragança.
 
 **Tempo de resposta:** 30-45 minutos em Bragança e arredores.
 
@@ -433,7 +433,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **💬 WhatsApp:** [Clique para falar connosco](https://wa.me/351928484451?text=Olá%2C%20tenho%20uma%20fuga%20de%20água%20na%20parede%20e%20preciso%20de%20ajuda%20urgente.)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
 
 ---
 

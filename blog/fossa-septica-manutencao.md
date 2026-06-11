@@ -399,7 +399,7 @@ keywords: ["fossa séptica", "manutenção fossa", "esvaziar fossa", "picheleiro
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -412,7 +412,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Esvaziar%20fossa%20séptica)**
 
-**Resposta em 5 minutos. Serviço rápido e profissional.**
+**Resposta rápida garantida. Serviço rápido e profissional.**
 
 ---
 

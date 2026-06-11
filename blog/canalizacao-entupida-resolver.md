@@ -478,7 +478,7 @@ R: NÃO! Mesmo "biodegradáveis" demoram meses a desfazer-se. Causam 15% dos ent
 **Norte Reparos - Picheleiro Certificado em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento 24 horas (urgências)
+- ✅ Atendimento 24h/7d (urgências)
 - ✅ Técnico com equipamento profissional chega em 30-60 minutos
 - ✅ Mola elétrica + Alta pressão + Câmara inspeção
 - ✅ Orçamento grátis sem compromisso
@@ -488,7 +488,7 @@ R: NÃO! Mesmo "biodegradáveis" demoram meses a desfazer-se. Causam 15% dos ent
 
 🌐 **Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
-**Zonas servidas:** Bragança, Mirandela, Macedo de Cavaleiros, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
+**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Vinhais, Mogadouro, Miranda do Douro, Torre de Moncorvo, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Freixo de Espada à Cinta.
 
 ---
 

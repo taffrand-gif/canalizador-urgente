@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **O autoclismo não enche ou demora muito tempo a encher?** Este é um problema comum mas irritante que geralmente tem solução simples. Neste guia completo, vou mostrar-lhe **as 6 causas principais** de autoclismos que não enchem e **como arranjar cada uma**.
 
-> ⚠️ **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida em 30 minutos, garantia incluída.
+> ⚠️ **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida Atendimento prioritário, garantia incluída.
 
 ## 🔍 Como Funciona um Autoclismo?
 
@@ -406,7 +406,7 @@ Na maioria dos casos, autoclismo que não enche tem **solução fácil e barata*
 ✅ Garantia 1 ano no serviço  
 ✅ Preços transparentes  
 ✅ Técnico em sua casa em 30-45 minutos  
-✅ Cobrimos Bragança, Mirandela, Macedo de Cavaleiros e toda a região
+✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não fique sem autoclismo funcional!** Contacte-nos já para arranjo rápida e garantida.
 

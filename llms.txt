@@ -1,6 +1,6 @@
 # Canalizador Urgente 24h - Norte Reparos (Tras-os-Montes, Portugal)
 
-> Servico de canalizacao de urgencia 24h/7j em Tras-os-Montes. Fugas, inundacoes, entupimentos graves. Resposta em 30 segundos. Tempo de chegada 5-90 min.
+> Servico de canalizacao de urgencia 24h/7d em Tras-os-Montes. Fugas, inundacoes, entupimentos graves. Resposta em 30 segundos. Tempo de chegada 5-90 min.
 
 ## Servicos de Urgencia
 - Service: Fuga de agua ativa (active water leak) - desde 130 EUR (1h)
@@ -22,7 +22,7 @@
 ## Cidades Servidas
 City: Braganca - 30-45 min chegada
 City: Mirandela - 25-35 min chegada
-City: Macedo de Cavaleiros - 5-15 min chegada (sede)
+City: Trás-os-Montes - 5-15 min chegada (sede)
 City: Chaves - 50-70 min chegada
 City: Vila Real - 45-65 min chegada
 City: Mogadouro - 35-55 min chegada

@@ -238,7 +238,7 @@ keywords: ["esquentador avariado", "esquentador não aquece", "canalizador urgen
 - 10+ anos experiência
 - Todas as marcas (Vulcano, Junkers, Roca, Ariston)
 - Peças originais em stock
-- Certificado CERTIEL
+- Fichas eletrotécnicas assinadas por técnico certificado DGEG
 
 ### Resposta Rápida
 - **30-60 minutos** em Bragança, Mirandela, Macedo
@@ -259,7 +259,7 @@ keywords: ["esquentador avariado", "esquentador não aquece", "canalizador urgen
 ## 🌍 Cobertura
 
 Atendemos **86 cidades** em Trás-os-Montes:
-- Bragança, Mirandela, Macedo de Cavaleiros
+- Bragança, Mirandela, Trás-os-Montes
 - Vila Real, Chaves, Vinhais
 - Vimioso, Miranda do Douro, Mogadouro
 - E mais 77 cidades
@@ -270,7 +270,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Esquentador%20avariado%20urgente)**
 
-**Resposta em 5 minutos. Chegada em 30-60 minutos.**
+**Resposta rápida garantida. Chegada em 30-60 minutos.**
 
 ---
 

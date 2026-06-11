@@ -640,7 +640,7 @@ Se fizer 3+ reparações/ano, kit paga-se.
 ✅ Reparação profissional se necessário
 ✅ Garantia 12 meses
 ✅ Preços justos
-✅ Disponível 24h urgências
+✅ Atendimento 24h/7d urgências
 
 **WhatsApp:** [Pedir conselho](https://wa.me/351928484451?text=Tenho problema canalização, posso fazer DIY ou preciso profissional?)
 

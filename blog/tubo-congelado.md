@@ -356,7 +356,7 @@ Contacte imediatamente se:
 - ❌ Casa desabitada (não pode vigiar)
 - ❌ Temperatura muito baixa (<-10°C)
 
-**Disponível 24/7 durante vaga de frio**
+**Disponível Atendimento 24h/7d durante vaga de frio**
 
 ---
 
@@ -406,18 +406,18 @@ Tubos congelados são um **problema sério mas evitável** em Trás-os-Montes. *
 
 ### Tubo Congelado ou Rebentado?
 
-**📞 Ligue JÁ (24/7): [928 484 451](tel:+351928484451)**
+**📞 Ligue JÁ (Atendimento 24h/7d): [928 484 451](tel:+351928484451)**
 
 **Serviço urgente em:**
 - Bragança e arredores (30 minutos)
-- Mirandela, Macedo de Cavaleiros, Miranda do Douro
+- Mirandela, Trás-os-Montes, Miranda do Douro
 - Toda a região de Trás-os-Montes
 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20os%20meus%20tubos%20congelaram.%20Preciso%20de%20ajuda%20urgente.)**
 
 **✅ Garantias Norte Reparos:**
 - Picheleiros certificados com 15+ anos de experiência
-- Disponível 24/7 durante vaga de frio
+- Disponível Atendimento 24h/7d durante vaga de frio
 - Equipamento profissional (descongelamento rápido)
 - Arranjo de tubos rebentados
 - Isolamento preventivo
@@ -434,4 +434,4 @@ Tubos congelados são um **problema sério mas evitável** em Trás-os-Montes. *
 
 ---
 
-*Norte Reparos - Picheleiro Certificado em Trás-os-Montes | Urgências 24/7 Inverno | 928 484 451*
+*Norte Reparos - Picheleiro Certificado em Trás-os-Montes | Urgências Atendimento 24h/7d Inverno | 928 484 451*
