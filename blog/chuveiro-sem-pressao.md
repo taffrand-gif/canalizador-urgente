@@ -432,7 +432,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Chuveiro%20sem%20pressão%20diagnóstico)**
 
-**Resposta em 5 minutos. Orçamento sem compromisso.**
+**Resposta rápida garantida. Orçamento sem compromisso.**
 
 ---
 

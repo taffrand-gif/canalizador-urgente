@@ -493,7 +493,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Substituir%20canalização)**
 
-**Resposta em 5 minutos. Orçamento detalhado sem compromisso.**
+**Resposta rápida garantida. Orçamento detalhado sem compromisso.**
 
 ---
 

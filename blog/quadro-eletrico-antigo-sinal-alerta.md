@@ -36,4 +36,4 @@ A substituição do quadro elétrico só pode ser feita por um eletricista certi
 
 **Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendimento 24h, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
-Se precisa de um eletricista em quadro elétrico, ligue já. Resposta em menos de 30 minutos.
+Se precisa de um eletricista em quadro elétrico, ligue já. Resposta Resposta rápida garantida.

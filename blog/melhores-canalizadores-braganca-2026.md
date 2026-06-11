@@ -689,7 +689,7 @@ Não escolher automaticamente mais barato. Avaliar conjunto (qualidade + preço 
 ✅ 15+ anos experiência
 ✅ 100+ reviews positivas
 ✅ Preços transparentes
-✅ Disponível 24h urgências
+✅ Atendimento 24h/7d urgências
 
 **WhatsApp:** [Orçamento gratuito](https://wa.me/351928484451?text=Preciso orçamento canalizador)
 

@@ -454,7 +454,7 @@ Cheiro a esgoto na casa de banho não é apenas desagradável — **afeta qualid
 - Equipamento profissional (câmara de inspeção)
 - Orçamento transparente antes de iniciar
 - Garantia de 1 ano no trabalho
-- Disponível 24/7 para urgências
+- Disponível Atendimento 24h/7d para urgências
 
 **Recupere o conforto da sua casa. Cheiro a esgoto tem solução.**
 

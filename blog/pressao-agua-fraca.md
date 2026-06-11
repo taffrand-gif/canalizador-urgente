@@ -465,7 +465,7 @@ Pressão de água fraca não é apenas inconveniente — **reduz qualidade de vi
 - Soluções definitivas (não temporárias)
 - Orçamento transparente antes de iniciar
 - Garantia de 1 ano no trabalho
-- Disponível 24/7 para urgências
+- Disponível Atendimento 24h/7d para urgências
 
 **Recupere o conforto. Pressão de água adequada faz toda a diferença.**
 

@@ -444,7 +444,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Certificação%20gás%20orçamento)**
 
-**Resposta em 5 minutos. Orçamento sem compromisso.**
+**Resposta rápida garantida. Orçamento sem compromisso.**
 
 ---
 
@@ -473,6 +473,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Precisa certificação gás? Orçamento grátis em 5 minutos.**
+**Precisa certificação gás? Orçamento grátis Atendimento prioritário.**
 
 📞 +351 928 484 451 | 💬 WhatsApp | 🌐 canalizador-norte-reparos.pt

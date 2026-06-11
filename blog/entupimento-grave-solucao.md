@@ -362,7 +362,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Entupimento%20grave%20urgente)**
 
-**Resposta em 5 minutos. Chegada em 30-60 minutos.**
+**Resposta rápida garantida. Chegada em 30-60 minutos.**
 
 ---
 

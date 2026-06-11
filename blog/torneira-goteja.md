@@ -500,7 +500,7 @@ Uma torneira que goteja é um **problema simples com solução fácil**, mas que
 - Peças de qualidade (Grohe, Hansgrohe, Roca)
 - Orçamento transparente antes de iniciar
 - Garantia de 6 meses na arranjo
-- Disponível 24/7 para urgências
+- Disponível Atendimento 24h/7d para urgências
 
 **Cada gota conta. Repare hoje e comece a poupar amanhã.**
 

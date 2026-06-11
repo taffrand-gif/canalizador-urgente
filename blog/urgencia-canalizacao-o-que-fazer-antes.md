@@ -631,7 +631,7 @@ Balde (se urgência extrema).
 
 ✅ Atendimento <3 toques
 ✅ Chegamos em 15-90 minutos
-✅ Disponível 24h/7 dias/365 dias
+✅ Atendimento 24h/7d/7 dias/365 dias
 ✅ Equipamento completo
 ✅ Orçamento antes arranjar
 ✅ Garantia 12 meses

@@ -432,7 +432,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=FUGA%20GÁS%20URGENTE)**
 
-**Fuga gás = Emergência extrema. Resposta em 5 minutos. Chegada 15-30 minutos.**
+**Fuga gás = Emergência extrema. Resposta rápida garantida. Chegada 15-30 minutos.**
 
 ---
 

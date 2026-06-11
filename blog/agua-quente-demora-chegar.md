@@ -76,8 +76,8 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 - Pior se canos passam por zonas frias (cave, exterior)
 
 **Perda de calor:**
-- Cano sem isolamento: perde 80% do calor em 30 minutos
-- Cano isolado: perde 20% do calor em 30 minutos
+- Cano sem isolamento: perde 80% do calor Atendimento prioritário
+- Cano isolado: perde 20% do calor Atendimento prioritário
 
 **Solução:** Isolar canos (€3-8/metro)
 

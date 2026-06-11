@@ -4,7 +4,7 @@ slug: trocar-sifao-lava-loica
 category: Arranjos DIY
 date: 2026-03-04
 author: Norte Reparos
-excerpt: "Sifão do lava-loiça a pingar ou entupido? Aprenda a trocar sozinho em 30 minutos com este guia passo a passo. Descubra os 3 tipos de sifões, ferramentas necessárias, custos (€8-25) e quando chamar picheleiro."
+excerpt: "Sifão do lava-loiça a pingar ou entupido? Aprenda a trocar sozinho Atendimento prioritário com este guia passo a passo. Descubra os 3 tipos de sifões, ferramentas necessárias, custos (€8-25) e quando chamar picheleiro."
 keywords: 
   - trocar sifão lava-loiça
   - sifão entupido
@@ -18,7 +18,7 @@ priority: HIGH DEMAND
 
 # Trocar Sifão do Lava-Loiça: Guia Passo a Passo (Com Fotos)
 
-**Sifão do lava-loiça a pingar? Mau cheiro que não desaparece? Água a escorrer devagar?** Na maioria dos casos, a solução é simples: **trocar o sifão**. E a boa notícia é que **pode fazer sozinho em 30 minutos** sem precisar de ferramentas especiais.
+**Sifão do lava-loiça a pingar? Mau cheiro que não desaparece? Água a escorrer devagar?** Na maioria dos casos, a solução é simples: **trocar o sifão**. E a boa notícia é que **pode fazer sozinho Atendimento prioritário** sem precisar de ferramentas especiais.
 
 Um sifão novo custa apenas **€8-25** e a instalação é tão simples que até quem nunca pegou numa chave inglesa consegue fazer. Neste guia completo, vou mostrar-lhe:
 

@@ -446,7 +446,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Bomba%20água%20avariada%20URGENTE)**
 
-**Sem água = Emergência. Resposta em 5 minutos. Chegada 30-60 minutos.**
+**Sem água = Emergência. Resposta rápida garantida. Chegada 30-60 minutos.**
 
 ---
 

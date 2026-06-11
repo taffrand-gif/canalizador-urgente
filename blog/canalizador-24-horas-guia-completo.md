@@ -1,18 +1,18 @@
 ---
-title: "Canalizador 24 Horas Trás-os-Montes: Guia Completo 2026"
+title: "Canalizador Atendimento 24h/7d Trás-os-Montes: Guia Completo 2026"
 slug: "canalizador-24-horas-guia-completo"
 date: "2026-03-08"
 author: "Norte Reparos"
 category: "Urgências"
-excerpt: "Guia completo canalizador 24 horas: quando chamar, quanto custa, tempo resposta, o que esperar. Serviço urgente Trás-os-Montes."
+excerpt: "Guia completo canalizador Atendimento 24h/7d: quando chamar, quanto custa, tempo resposta, o que esperar. Serviço urgente Trás-os-Montes."
 image: "/images-optimized/blog/blog-urgencia-24h.webp"
-metaTitle: "Canalizador 24 Horas Trás-os-Montes | Guia 2026"
+metaTitle: "Canalizador Atendimento 24h/7d Trás-os-Montes | Guia 2026"
 metaDescription: "Canalizador 24h: 15-90min resposta, 65-135€/h conforme horário. Fugas, entupimentos, avarias urgentes. Disponível 365 dias. Ligue 928 484 451!"
-keywords: ["canalizador 24 horas", "canalizador urgente", "canalizador noite", "emergência canalização"]
+keywords: ["canalizador Atendimento 24h/7d", "canalizador urgente", "canalizador noite", "emergência canalização"]
 schema:
   type: "HowTo"
-  name: "Como Chamar Canalizador 24 Horas em Urgência"
-  description: "Guia passo a passo para chamar canalizador 24 horas em caso de urgência de canalização"
+  name: "Como Chamar Canalizador Atendimento 24h/7d em Urgência"
+  description: "Guia passo a passo para chamar canalizador Atendimento 24h/7d em caso de urgência de canalização"
   totalTime: "PT15M"
   estimatedCost:
     currency: "EUR"
@@ -20,21 +20,21 @@ schema:
 faqSchema:
   - question: "Quanto tempo demora canalizador 24h a chegar?"
     answer: "15-40 minutos em Bragança, 30-70 minutos em Mirandela, até 90 minutos em zonas mais afastadas de Trás-os-Montes."
-  - question: "Quanto custa canalizador 24 horas?"
+  - question: "Quanto custa canalizador Atendimento 24h/7d?"
     answer: "Dias úteis: 65€/h, Sábados: 80€/h, Domingos/feriados: 90€/h, Noite (20h-8h): 135€/h. Mais deslocação 30-60€."
   - question: "Canalizador 24h trabalha feriados?"
     answer: "Sim, 365 dias por ano incluindo Natal, Ano Novo e todos os feriados. Preços iguais a domingos."
 ---
 
-# Canalizador 24 Horas Trás-os-Montes: Guia Completo 2026
+# Canalizador Atendimento 24h/7d Trás-os-Montes: Guia Completo 2026
 
-Precisa de um canalizador urgente a qualquer hora? Este guia completo explica como funciona o serviço 24 horas, quando chamar, quanto custa, tempo de resposta e o que esperar da intervenção.
+Precisa de um canalizador urgente a qualquer hora? Este guia completo explica como funciona o serviço Atendimento 24h/7d, quando chamar, quanto custa, tempo de resposta e o que esperar da intervenção.
 
-## O Que É Serviço 24 Horas?
+## O Que É Serviço Atendimento 24h/7d?
 
-**Canalizador 24 horas** significa disponibilidade total para urgências de canalização:
+**Canalizador Atendimento 24h/7d** significa disponibilidade total para urgências de canalização:
 
-**Horário:** 24 horas por dia, 7 dias por semana, 365 dias por ano (incluindo feriados).
+**Horário:** Atendimento 24h/7d, 7 dias por semana, 365 dias por ano (incluindo feriados).
 
 **Cobertura:** Toda região Trás-os-Montes (Bragança, Mirandela, Macedo Cavaleiros, Chaves, Vila Real, Miranda do Douro).
 
@@ -42,7 +42,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 **Tipos intervenção:** Fugas água, entupimentos, avarias esquentador/caldeira, rotura canalização, fossa séptica.
 
-## Quando Chamar Canalizador 24 Horas?
+## Quando Chamar Canalizador Atendimento 24h/7d?
 
 ### URGÊNCIAS REAIS (Chamar Imediatamente) ✅
 
@@ -123,7 +123,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 **Solução temporária:** Abrir janelas, deitar água, agendar dias úteis.
 
-## Tabela Preços 24 Horas 2026
+## Tabela Preços Atendimento 24h/7d 2026
 
 ### Mão de Obra por Hora
 
@@ -248,7 +248,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - Localização exata
 - Disponibilidade técnico mais próximo
 
-## Como Funciona Chamada 24 Horas
+## Como Funciona Chamada Atendimento 24h/7d
 
 ### PASSO 1: Ligar (2 minutos)
 
@@ -348,7 +348,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - Dinheiro, MB Way ou Multibanco
 - Recibo imediato
 
-## Equipamento Viatura 24 Horas
+## Equipamento Viatura Atendimento 24h/7d
 
 ### Ferramentas Sempre Disponíveis
 ✅ Molas desentupimento (manual + elétrica)
@@ -383,7 +383,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 **Resultado:** 95% problemas resolvidos na 1ª visita (sem precisar voltar buscar material).
 
-## Garantias Serviço 24 Horas
+## Garantias Serviço Atendimento 24h/7d
 
 ### Garantia Trabalho: 12 Meses
 - Cobre mão de obra
@@ -406,12 +406,12 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - Zona afastada: máx 90 min
 - Se atrasar: desconto 10€
 
-## Perguntas Frequentes 24 Horas
+## Perguntas Frequentes Atendimento 24h/7d
 
 ### 1. Quanto tempo demoram a chegar?
 **15-90 minutos** conforme localização. Bragança e arredores: 15-40 min. Zonas afastadas: até 90 min. Tempo exato informado na chamada.
 
-### 2. Trabalham mesmo 24 horas todos os dias?
+### 2. Trabalham mesmo Atendimento 24h/7d todos os dias?
 **Sim, 365 dias/ano.** Incluindo Natal, Ano Novo, feriados. Sempre alguém disponível.
 
 ### 3. Quanto custa urgência à noite?
@@ -432,7 +432,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 ### 8. Preciso estar em casa?
 **Sim, ou alguém adulto.** Precisa aprovar orçamento, mostrar problema, pagar. Se não puder: deixar chaves vizinho (avisar antes).
 
-## Checklist Urgência 24 Horas
+## Checklist Urgência Atendimento 24h/7d
 
 ### ✅ Antes de Ligar
 - [ ] Avaliei se é urgência real
@@ -480,7 +480,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 ✅ Atendimento <3 toques
 ✅ Chegamos em 15-90 minutos
-✅ Disponível 24h/7 dias/365 dias
+✅ Atendimento 24h/7d/7 dias/365 dias
 ✅ Viatura equipada completa
 ✅ Orçamento antes arranjar
 ✅ Garantia 12 meses
@@ -491,5 +491,5 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 ---
 
 *Última atualização: 8 Março 2026*
-*Serviço 24 horas Trás-os-Montes*
+*Serviço Atendimento 24h/7d Trás-os-Montes*
 *Cobertura: Bragança, Mirandela, Macedo, Chaves, Vila Real*

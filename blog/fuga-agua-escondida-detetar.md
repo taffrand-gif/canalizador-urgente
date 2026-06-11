@@ -136,7 +136,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Preciso%20detetar%20fuga%20água%20escondida)**
 
 ### Orçamento Grátis
-Resposta em 5 minutos. Sem compromisso.
+Resposta rápida garantida. Sem compromisso.
 
 ---
 

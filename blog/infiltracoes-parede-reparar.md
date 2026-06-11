@@ -435,7 +435,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Infiltração%20parede%20ajuda)**
 
-**Resposta em 5 minutos. Câmara térmica disponível.**
+**Resposta rápida garantida. Câmara térmica disponível.**
 
 ---
 
