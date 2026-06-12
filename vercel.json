@@ -1446,6 +1446,121 @@
       "source": "/en",
       "destination": "/",
       "statusCode": 410
+    },
+    {
+      "source": "/canalizador-a-gudia",
+      "destination": "/canalizador-a-gudina",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-alfndega-da-fe",
+      "destination": "/canalizador-alfandega-da-fe",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-campo-de-vboras",
+      "destination": "/canalizador-campo-de-viboras",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-carrazeda-de-anciaes",
+      "destination": "/canalizador-carrazeda-de-ansiaes",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-cerezal-de-peahorcada",
+      "destination": "/canalizador-cerezal-de-penahorcada",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-espadaedo",
+      "destination": "/canalizador-espadanedo",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-gensio",
+      "destination": "/canalizador-genisio",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-gradssimo",
+      "destination": "/canalizador-gradissimo",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-la-pea",
+      "destination": "/canalizador-la-pena",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-la-vdola",
+      "destination": "/canalizador-la-vidola",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-pedralba-de-la-pradera",
+      "destination": "/canalizador-pedralba-de-la-praderia",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-perea-de-la-ribera",
+      "destination": "/canalizador-perena-de-la-ribera",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-samir-de-los-caos",
+      "destination": "/canalizador-samir-de-los-canos",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-seixo-de-anasiaes",
+      "destination": "/canalizador-seixo-de-ansiaes",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-urgente-carrazeda-de-anciaes",
+      "destination": "/canalizador-urgente-carrazeda-de-ansiaes",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-vilario-de-conso",
+      "destination": "/canalizador-vilarino-de-conso",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-urgente-mós-de-celas",
+      "destination": "/canalizador-urgente-mós-de-celas",
+      "statusCode": 410
+    },
+    {
+      "source": "/canalizador-urgente-mós",
+      "destination": "/canalizador-urgente-mós",
+      "statusCode": 410
+    },
+    {
+      "source": "/canalizador-urgente-tó",
+      "destination": "/canalizador-urgente-tó",
+      "statusCode": 410
+    },
+    {
+      "source": "/canalizador-",
+      "destination": "/canalizador-",
+      "statusCode": 410
+    },
+    {
+      "source": "/canalizador-gallegos-del-ro",
+      "destination": "/canalizador-gallegos-del-ro",
+      "statusCode": 410
+    },
+    {
+      "source": "/canalizador-urgente-peso-da-r-gua",
+      "destination": "/canalizador-urgente-peso-da-regua",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-urgente-alij",
+      "destination": "/canalizador-urgente-alijo",
+      "statusCode": 301
     }
   ]
 }
