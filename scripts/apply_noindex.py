@@ -16,6 +16,10 @@ FORBIDDEN = [  # hors cœur métier — noindex, conservés (gate compliance sé
     "calculadora-roi-solar.html",
     "painel-solar-vale-pena.html",
     "case-study-certificacao-dgeg.html",
+    # G2 (2026-06-23) — électricité sur site CANAL (cross-craft, viole cœur strict):
+    "guia-eletricidade.html",
+    "glossario-eletricidade.html",
+    "top-10-razoes-contratar-eletricista.html",
 ]
 
 ROBOTS_RE = re.compile(r"<meta\s+name=(['\"])robots\1\s+content=(['\"])(.*?)\2\s*/?>", re.I)
