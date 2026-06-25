@@ -154,7 +154,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **Solução:** **CHAMAR PICHELEIRO URGENTE**
 
-**⚠️ PERIGO:** Problema com gás requer profissional certificado.
+**⚠️ PERIGO:** Problema com gás requer profissional com experiência.
 
 **Custo:** €100-200 (peça + mão de obra)  
 **Tempo:** 2-3 horas
@@ -302,7 +302,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 ### Manutenção Anual Obrigatória ⭐⭐⭐⭐⭐
 
-**Por lei em Portugal:** Esquentadores a gás devem ter manutenção anual por técnico certificado.
+**Por lei em Portugal:** Esquentadores a gás devem ter manutenção anual por técnico com experiência.
 
 **O que inclui:**
 - Limpeza do queimador
@@ -405,7 +405,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **60% dos problemas** são pilhas gastas (€3-6) ou pressão baixa (€0). Vale a pena fazer diagnóstico simples antes de chamar picheleiro.
 
-**Mas NUNCA tente arranjar sozinho** componentes internos - risco de explosão e intoxicação. Esquentadores a gás requerem técnico certificado.
+**Mas NUNCA tente arranjar sozinho** componentes internos - risco de explosão e intoxicação. Esquentadores a gás requerem técnico com experiência.
 
 **Manutenção anual** (€60-100) previne 80% dos problemas e é obrigatória por lei.
 

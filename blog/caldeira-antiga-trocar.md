@@ -373,7 +373,7 @@ keywords: ["caldeira antiga", "trocar caldeira", "caldeira condensação", "bomb
 **Obrigatório**:
 - Certificado instalação gás
 - Teste estanquidade
-- Certificado DGEG
+- Profissional
 - [Ver guia certificação](/blog/certificacao-gas-obrigatoria)
 
 **Total**: 1-2 dias (caldeira), 2-3 dias (bomba calor)
@@ -484,7 +484,7 @@ keywords: ["caldeira antiga", "trocar caldeira", "caldeira condensação", "bomb
 
 - 100+ substituições/ano
 - Todas as marcas
-- Certificação DGEG gás
+- Experiência profissional gás
 - 10+ anos experiência
 
 ### Consultoria Energética
@@ -500,7 +500,7 @@ keywords: ["caldeira antiga", "trocar caldeira", "caldeira condensação", "bomb
 - Picheleiros certificados
 - Materiais qualidade
 - Teste completo
-- Certificado DGEG
+- Profissional
 - Garantia 2 anos
 
 ### Marcas Qualidade

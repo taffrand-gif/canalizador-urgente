@@ -26,9 +26,9 @@ Quadros anteriores aos anos 90 não têm proteção de diferencial, o que signif
 
 Um quadro moderno inclui: disjuntor geral, disjuntores diferenciais por circuito (iluminação, tomadas, equipamentos), barra de terra eMCB ou fusíveis por circuito. Em Portugal, o preço médio para substituição completa ronda os 280€ a 450€ dependendo da dimensão da casa e do tipo de quadro necessário.
 
-## Quando chamar um eletricista certificado
+## Quando chamar um eletricista com experiência
 
-A substituição do quadro elétrico só pode ser feita por um eletricista certificado pela DGEG. Além da substituição física, é necessário emitir uma certificação elétrica oficial que declara a conformidade da instalação com o regulamento em vigor. Guarde este certificado — é necessário para licenciamentos, seguros e vendas de imóveis.
+A substituição do quadro elétrico só pode ser feita por um eletricista Profissional reconhecido. Além da substituição física, é necessário emitir uma certificação elétrica oficial que declara a conformidade da instalação com o regulamento em vigor. Guarde este certificado — é necessário para licenciamentos, seguros e vendas de imóveis.
 
 
 

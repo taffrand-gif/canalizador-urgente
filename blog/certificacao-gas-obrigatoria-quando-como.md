@@ -21,7 +21,7 @@ Certificação de gás é obrigatória por lei em várias situações. Não ter 
 Documento oficial que certifica que instalação de gás cumpre normas de segurança e legislação portuguesa.
 
 **Emitido por:**
-Canalizador certificado (com certificação profissional válida).
+canalizador com experiência (com certificação profissional válida).
 
 **Validade:**
 10 anos (depois precisa renovar).
@@ -231,7 +231,7 @@ Se problemas, negociar preço com vendedor.
 ### PASSO 1: Contacto Canalizador (Dia 0)
 
 **O que fazer:**
-- Ligar canalizador certificado
+- Ligar canalizador com experiência
 - Indicar tipo imóvel (T2, T3, etc.)
 - Tipo gás (botija, canalizado, propano)
 - Motivo (venda, arrendamento, nova)
@@ -371,7 +371,7 @@ Se problemas, negociar preço com vendedor.
 - Aparelhos instalados
 - Data emissão
 - Data validade (10 anos)
-- Assinatura canalizador certificado
+- Assinatura canalizador com experiência
 - Carimbo entidade
 
 **Formato:**
@@ -456,7 +456,7 @@ Responsabiliza canalizador legalmente.
 - Prisão possível
 
 **Quem fiscaliza:**
-- DGEG (Direção Geral Energia e Geologia)
+- (Direção Geral Energia e Geologia)
 - Câmaras Municipais
 - Distribuidoras gás
 - Seguradoras
@@ -545,7 +545,7 @@ Não é "renovação automática" - precisa nova inspeção completa.
 **3-5 dias úteis** se instalação conforme. Se precisar correções: 5-7 dias.
 
 ### 5. Posso certificar eu mesmo?
-**Não.** Só canalizadores certificados podem emitir certificados. DIY é ilegal.
+**Não.** Só canalizadores com experiência podem emitir certificados. DIY é ilegal.
 
 ### 6. E se instalação não conforme?
 **Precisa corrigir.** Canalizador dá orçamento correções (40-500€ conforme problema). Só certifica após corrigir.
@@ -566,7 +566,7 @@ Não é "renovação automática" - precisa nova inspeção completa.
 
 **Ligue agora: 928 484 451**
 
-✅ Canalizador certificado
+✅ canalizador com experiência
 ✅ Certificado em 3-5 dias úteis
 ✅ Preços transparentes (180-320€)
 ✅ Correções incluídas no serviço

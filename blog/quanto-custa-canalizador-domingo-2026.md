@@ -163,7 +163,7 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 ### Mão de Obra Inclui:
 ✅ Diagnóstico profissional
 ✅ Tempo de trabalho efetivo
-✅ Conhecimento técnico certificado
+✅ Conhecimento técnico com experiência
 ✅ Garantia 12 meses no arranjo
 ✅ Limpeza após intervenção
 

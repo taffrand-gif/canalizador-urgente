@@ -89,7 +89,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 ### PASSO 1: Contacto e Agendamento (Dia 0)
 
 **O que fazer:**
-- Ligar para canalizador certificado
+- Ligar para canalizador com experiência
 - Indicar tipo de imóvel (T2, T3, etc.)
 - Tipo de gás (botija, canalizado, propano)
 - Agendar data para inspeção
@@ -185,7 +185,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 - Número único certificado
 - Dados imóvel e proprietário
 - Data emissão e validade (10 anos)
-- Assinatura canalizador certificado
+- Assinatura canalizador com experiência
 
 ### 2. Termo de Responsabilidade
 - Declaração canalizador
@@ -263,7 +263,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 **Depende das correções.** Casos comuns: Fuga pequena 40-80€, Tubagem inadequada 150-300€.
 
 ### 4. Posso certificar eu mesmo?
-**Não.** Apenas canalizadores certificados podem emitir certificados.
+**Não.** Apenas canalizadores com experiência podem emitir certificados.
 
 ### 5. O que acontece se não tiver certificado?
 **Venda:** Bloqueada. **Arrendamento:** Inválido. **Multa:** até 3740€. **Seguro:** Pode não cobrir.
@@ -285,7 +285,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 
 **Ligue agora: 928 484 451**
 
-✅ Canalizador certificado
+✅ canalizador com experiência
 ✅ Certificado em 3-5 dias úteis
 ✅ Preços transparentes (180-320€)
 ✅ Correções incluídas no serviço

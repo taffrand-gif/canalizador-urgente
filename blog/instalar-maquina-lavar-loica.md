@@ -399,7 +399,7 @@ Barulho moderado é normal (bomba, água). Barulho excessivo indica: máquina de
 DIY primeira vez: 2-4 horas. DIY com experiência: 1-2 horas. Profissional: 1,5-3 horas (dependendo se ligações estão prontas).
 
 **8. Preciso de certificado para instalar máquina?**
-Não. Fichas eletrotécnicas assinadas por técnico certificado DGEG é só para instalações elétricas novas ou alterações significativas. Ligar máquina em tomada existente não precisa.
+Não. Fichas eletrotécnicas assinadas por técnico Profissional é só para instalações elétricas novas ou alterações significativas. Ligar máquina em tomada existente não precisa.
 
 ## 🎯 Conclusão: Instalação Bem Feita = Máquina Durável
 

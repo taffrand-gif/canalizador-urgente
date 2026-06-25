@@ -4,13 +4,13 @@ slug: "instalacao-gas-segura"
 category: "seguranca"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Instalação gás segura: normas RGSPPDADAR, certificação DGEG obrigatória, materiais adequados, ventilação. Descubra requisitos, custos €400-1500 e prevenir fugas/explosões."
+excerpt: "Instalação gás segura: normas RGSPPDADAR, Experiência profissional obrigatória, materiais adequados, ventilação. Descubra requisitos, custos €400-1500 e prevenir fugas/explosões."
 keywords: ["instalação gás", "certificação gás", "normas gás", "segurança gás", "Trás-os-Montes"]
 ---
 
 # Instalação Gás Segura: Normas, Certificação e Prevenção
 
-**Vai instalar gás? Renovar instalação? Quer segurança máxima?** Instalação gás **mal feita mata** - explosões, incêndios, intoxicações. Certificação DGEG **obrigatória**, picheleiro certificado, materiais adequados, ventilação correta. Multas até €44,890 se ilegal. Neste guia completo, explicamos normas RGSPPDADAR, requisitos segurança, custos €400-1,500, certificação e como garantir instalação 100% segura.
+**Vai instalar gás? Renovar instalação? Quer segurança máxima?** Instalação gás **mal feita mata** - explosões, incêndios, intoxicações. Experiência profissional **obrigatória**, picheleiro certificado, materiais adequados, ventilação correta. Multas até €44,890 se ilegal. Neste guia completo, explicamos normas RGSPPDADAR, requisitos segurança, custos €400-1,500, certificação e como garantir instalação 100% segura.
 
 ## ⚠️ Por Que Segurança É Crítica
 
@@ -56,7 +56,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 - Requisitos segurança
 - Certificação obrigatória
 
-### Certificação DGEG Obrigatória
+### Experiência profissional Obrigatória
 
 **Quando**:
 - Instalação nova
@@ -65,7 +65,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 - Mudança fornecedor (às vezes)
 
 **Quem**:
-- Só picheleiro certificado DGEG
+- Só picheleiro Profissional
 - Seguro responsabilidade civil
 - Formação específica
 
@@ -363,7 +363,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 ✅ Adicionar ponto gás
 ✅ Mudar localização
 ✅ Substituir tubagem
-✅ **Sempre certificado DGEG**
+✅ **Sempre Profissional**
 
 ### Manutenção
 
@@ -382,7 +382,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 
 ## ✅ Por Que Escolher Norte Reparos
 
-### Certificação DGEG
+### Experiência profissional
 
 - Picheleiros certificados
 - Seguro responsabilidade civil
@@ -394,7 +394,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 - Projeto adequado
 - Materiais qualidade
 - Teste estanquidade
-- Certificado DGEG
+- Profissional
 - Garantia 2 anos
 
 ### Todas as Situações
@@ -441,13 +441,13 @@ Atendemos **86 cidades** em Trás-os-Montes:
 ## ❓ Perguntas Frequentes
 
 ### Certificação gás é obrigatória?
-**Sim**. Instalação nova, alteração, substituir equipamentos. Só picheleiro certificado DGEG. Multas €250-€44,890 se ilegal. Certificado válido, seguro, previne acidentes. Sempre exigir.
+**Sim**. Instalação nova, alteração, substituir equipamentos. Só picheleiro Profissional. Multas €250-€44,890 se ilegal. Certificado válido, seguro, previne acidentes. Sempre exigir.
 
 ### Quanto custa instalar gás?
 **Apartamento**: €700-1,250 (cozinha + esquentador). **Moradia**: €1,180-2,100 (cozinha + esquentador + caldeira). Inclui tubagem, válvulas, mão obra, certificação. Materiais qualidade essencial.
 
 ### Posso instalar sozinho?
-**NÃO**. Ilegal, perigoso, multas até €44,890. Risco explosão, incêndio, intoxicação. Só picheleiro certificado DGEG. Certificação obrigatória. Segurança não tem preço.
+**NÃO**. Ilegal, perigoso, multas até €44,890. Risco explosão, incêndio, intoxicação. Só picheleiro Profissional. Certificação obrigatória. Segurança não tem preço.
 
 ### Que ventilação necessária?
 **Grelha inferior** (entrada ar) + **grelha superior** (saída). Área mínima depende potência aparelhos. Permanente (não bloquear). Crítica segurança - previne CO, explosão. Profissional calcula.
@@ -460,6 +460,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Instalação gás mal feita mata. Certificação DGEG obrigatória. Segurança garantida.**
+**Instalação gás mal feita mata. Experiência profissional obrigatória. Segurança garantida.**
 
 📞 +351 928 484 451 | 💬 WhatsApp | 🌐 canalizador-norte-reparos.pt

@@ -2,7 +2,7 @@
 title: "Certificação Elétrica: Quando é Necessária e Como Funciona"
 date: 2026-06-05
 category: eletricidade
-tags: [certificação-elétrica, dgeg, quadro-elétrico, instalação-elétrica]
+tags: [certificação-elétrica,, quadro-elétrico, instalação-elétrica]
 summary: "Se vai comprar, vender ou alugar um imóvel, provavelmente vai precisar de um certificado elétrico. Descubra tudo o que precisa de saber."
 ---
 
@@ -12,7 +12,7 @@ Se vai comprar, vender ou alugar um imóvel, provavelmente vai precisar de um ce
 
 ## O que é a certificação elétrica
 
-O certificado de projeto ou exploração elétrica é um documento oficial que declara que uma instalação elétrica cumpre o regulamento português (RIEEBT). Só pode ser emitido por um técnico certificado pela DGEG (Direção-Geral de Energia e Geologia). O certificado tem validade variável conforme o tipo de instalação e uso do imóvel.
+O certificado de projeto ou exploração elétrica é um documento oficial que declara que uma instalação elétrica cumpre o regulamento português (RIEEBT). Só pode ser emitido por um técnico Profissional reconhecido (Direção-Geral de Energia e Geologia). O certificado tem validade variável conforme o tipo de instalação e uso do imóvel.
 
 ## Quando precisa de um certificado
 

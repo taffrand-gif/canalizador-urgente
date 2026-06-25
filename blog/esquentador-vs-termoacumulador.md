@@ -235,7 +235,7 @@ keywords: ["esquentador", "termoacumulador", "água quente", "gás vs elétrico"
 - Picheleiro certificado gás
 - Ligação gás
 - Exaustão gases
-- Certificação DGEG
+- Experiência profissional
 - 1 dia
 
 **Manutenção anual** (obrigatória):
@@ -278,7 +278,7 @@ keywords: ["esquentador", "termoacumulador", "água quente", "gás vs elétrico"
 ### Solar Térmico
 
 **Instalação**:
-- Profissional certificado
+- profissional com experiência
 - Painéis telhado
 - Depósito
 - Circuito hidráulico
@@ -380,9 +380,9 @@ keywords: ["esquentador", "termoacumulador", "água quente", "gás vs elétrico"
 ### Instalação Profissional
 
 - Picheleiros certificados gás
-- Eletricistas certificados
+- eletricistas com experiência
 - Materiais qualidade
-- Certificação DGEG
+- Experiência profissional
 - Garantia 2 anos
 
 ### Manutenção

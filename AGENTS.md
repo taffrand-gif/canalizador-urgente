@@ -14,7 +14,7 @@
 | 1 | **OpenClaw gère l'infra (Cloudflare/Vercel/GitHub) via API sous double confirmation obligatoire (4 étapes : plan → GO → exec → preuve)**. Déploiement de CODE reste исключ (push Git uniquement). Confirmation RENFORCÉE sur toute opération destructive/irréversible (Philippe répète le nom de la cible). Tokens Telegram = canal LÉGITIME (verrouillé 13/06/2026 16h46). Vercel en ERROR = STOP + rapport, jamais itération corrective solo sur main. |
 | 2 | **Tokens = scope approprié, écriture activée** (R2 V2). Vercel = `Full Access`. Cloudflare = `API Token` avec scopes DNS/Page Rules/Redirect Rules. GitHub = `repo` + `admin:org` + `delete_repo`. |
 | 3 | **STOP validation Philippe** avant chaque étape modifiante (config, deploy, Git, contenu). |
-| 4 | **Zéro faux contenu** : pas d'avis/prix/délais/marques/claims DGEG inventés. |
+| 4 | **Zéro faux contenu** : pas d'avis/prix/délais/marques/claims inventés. |
 | 5 | **Géo-neutre** : pas de `streetAddress` précise, pas de claims locaux non vérifiables. |
 | 6 | **Pas de réécriture d'historique Git** : pas de `push --force` sur `main`/branche partagée. |
 | 7 | **Pas de merge sans validation explicite de Philippe.** Jamais d'auto-merge. |
@@ -126,7 +126,7 @@ Une absence de règle = autorisé par défaut. La règle 10 dit : **en cas de do
 - **Grille tarifaire EXACTE** (jamais de fourchette inventée ; hors grille = « sob orçamento »)
 - **Géo-neutre** (jamais d'adresse/sede en dur ; widget géoloc dynamique seulement)
 - **Équipement EXACT** : Ridgid K9-102, FLIR, caméra 30m, **ROLeak Aqua 3Plus = détection ACOUSTIQUE**, Fluke T6-1000
-- **DGEG = formule unique** « fichas eletrotécnicas em conformidade com a DGEG » (enregistrement en cours ; pas d'invention de n°)
+- **DGEG = formule unique** « fichas eletrotécnicas em conformidade com a » (enregistrement en cours ; pas d'invention de n°)
 
 **Gabarit de référence** = §13 ci-dessous (« Standard de page différenciant »).
 
@@ -152,7 +152,7 @@ Moule de toutes les pages service/urgence — 2 métiers (canalização + eletri
 1. **H1 court** (le keyword).
 2. **Réponse-réflexe (1ʳᵉ phrase citable)** : répond directement à l'intention ET rassure sur le prix. Modèle urgence : *« Em caso de [problème] em [zona], intervimos com preço claro e orçamento por escrito antes de qualquer trabalho — sem surpresas na fatura. »*
 3. **Bloc Transparence prix** (HAUT de page) : la grille (65/70 €/h, Z1-Z6, +50 % nuit/WE/feriado) + « orçamento por escrito antes de qualquer intervenção ». → **répond à la peur n°1 avant tout**.
-4. **Bloc « Quem somos » (anti-société-écran)** : Norte Reparos, **Filipe Bragança**, artisan local + emplacement photo réelle (jamais de stock) + « fala sempre com a mesma pessoa » + fatura NIF / seguro RC / fichas DGEG.
+4. **Bloc « Quem somos » (anti-société-écran)** : Norte Reparos, **Filipe Bragança**, artisan local + emplacement photo réelle (jamais de stock) + « fala sempre com a mesma pessoa » + fatura NIF / seguro RC / fichas.
 5. **Le service** : Sintomas → Causas (avec angle local Trás-os-Montes : ferro galvanizado, construção antiga, gel hivernal) → Como resolvemos (méthode + équipement réel) → Quando chamar um profissional.
 6. **Prevenção / conseil** (valeur ajoutée que les clients recherchent).
 7. **FAQ longue traîne** (5 questions, 40-60 mots, answer-first) — **inclure des questions de confiance** : « Quanto custa? », « Como sei que a fatura é justa? », « Fazem orçamento antes? ».
@@ -166,7 +166,7 @@ Moule de toutes les pages service/urgence — 2 métiers (canalização + eletri
 - Pas de délai chiffré (R145) → « 24h/7d » OK, **« resposta rápida/prioritária » INTERDIT**.
 - Pas d'adresse postale (géo-neutre) → widget géoloc dynamique uniquement.
 - Équipement exact listé dans R12 §1 (Ridgid K9-102, ROLeak Aqua 3Plus acoustique, FLIR, Fluke T6-1000, caméra 30m).
-- DGEG = formule unique « em conformidade com a DGEG (enregistrement en cours) ».
+- = formule unique « em conformidade com a (enregistrement en cours) ».
 
 ### Validation
 

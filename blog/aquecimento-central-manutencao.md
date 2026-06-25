@@ -371,8 +371,8 @@ Não espere manutenção anual se:
 
 ### Certificação Oficial
 
-- Técnico certificado gás
-- Certificado DGEG
+- técnico com experiência gás
+- Profissional
 - Seguro responsabilidade civil
 - Certificados válidos
 
@@ -430,7 +430,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **Mínimo 1x/ano** (Setembro). **Ideal 2x/ano** (Setembro + Março). Caldeira gasóleo: obrigatório anual.
 
 ### Posso fazer manutenção sozinho?
-**Parcialmente**. Pode purgar radiadores, verificar pressão. Mas limpeza caldeira, análise combustão, ajustes: **só profissional certificado**.
+**Parcialmente**. Pode purgar radiadores, verificar pressão. Mas limpeza caldeira, análise combustão, ajustes: **só profissional com experiência**.
 
 ### Manutenção poupa dinheiro?
 **Sim**. Custo €80-150/ano. Previne avarias €300-1500. Poupa 10-15% energia = €100-200/ano. **ROI positivo**.

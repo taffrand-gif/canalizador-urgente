@@ -238,7 +238,7 @@ keywords: ["esquentador avariado", "esquentador não aquece", "canalizador urgen
 - 10+ anos experiência
 - Todas as marcas (Vulcano, Junkers, Roca, Ariston)
 - Peças originais em stock
-- Fichas eletrotécnicas assinadas por técnico certificado DGEG
+- Fichas eletrotécnicas assinadas por técnico Profissional
 
 ### Resposta Rápida
 - **30-60 minutos** em Bragança, Mirandela, Macedo
@@ -283,7 +283,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **10-15 anos** com manutenção adequada. Sem manutenção: 7-10 anos.
 
 ### Posso arranjar sozinho?
-**NÃO recomendado**. Risco de fuga de gás, explosão, intoxicação CO. Apenas técnico certificado.
+**NÃO recomendado**. Risco de fuga de gás, explosão, intoxicação CO. Apenas técnico com experiência.
 
 ### Com que frequência fazer manutenção?
 **1x/ano mínimo**. Em Trás-os-Montes (água dura): 2x/ano recomendado.
