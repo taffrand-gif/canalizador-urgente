@@ -26,9 +26,9 @@ priority: "HIGH DEMAND"
 - Fácil de usar com uma mão
 
 **Vantagens:**
-✅ Controlo preciso da temperatura  
-✅ Económica (menos desperdício de água)  
-✅ Instalação simples (2 tubos flexíveis)  
+✅ Controlo preciso da temperatura 
+✅ Económica (menos desperdício de água) 
+✅ Instalação simples (2 tubos flexíveis) 
 ✅ Variedade de designs
 
 **Preço:** €35-250
@@ -45,13 +45,13 @@ priority: "HIGH DEMAND"
 - Mais comum em casas antigas
 
 **Vantagens:**
-✅ Estilo tradicional  
-✅ Arranjo mais fácil (trocar só uma válvula)  
+✅ Estilo tradicional 
+✅ Arranjo mais fácil (trocar só uma válvula) 
 ✅ Durabilidade (menos peças móveis)
 
 **Desvantagens:**
-❌ Menos prática (precisa das duas mãos)  
-❌ Maior desperdício de água  
+❌ Menos prática (precisa das duas mãos) 
+❌ Maior desperdício de água 
 ❌ Instalação mais complexa (3 furos no lava-loiça)
 
 **Preço:** €40-180
@@ -65,13 +65,13 @@ priority: "HIGH DEMAND"
 - Alcance de 40-60cm
 
 **Vantagens:**
-✅ Muito versátil  
-✅ Facilita limpeza do lava-loiça  
+✅ Muito versátil 
+✅ Facilita limpeza do lava-loiça 
 ✅ Ideal para cozinhas grandes
 
 **Desvantagens:**
-❌ Mais cara (€80-300)  
-❌ Mangueira pode partir com o tempo  
+❌ Mais cara (€80-300) 
+❌ Mangueira pode partir com o tempo 
 ❌ Precisa de pressão de água adequada (mínimo 1,5 bar)
 
 **Preço:** €80-300
@@ -85,13 +85,13 @@ priority: "HIGH DEMAND"
 - Instalação mais complexa
 
 **Vantagens:**
-✅ Design limpo e moderno  
-✅ Fácil limpeza do balcão  
+✅ Design limpo e moderno 
+✅ Fácil limpeza do balcão 
 ✅ Durável
 
 **Desvantagens:**
-❌ Instalação cara (€150-400 com mão de obra)  
-❌ Precisa de tubagem embutida na parede  
+❌ Instalação cara (€150-400 com mão de obra) 
+❌ Precisa de tubagem embutida na parede 
 ❌ Difícil de substituir
 
 **Preço:** €60-200 (+ instalação €100-250)
@@ -183,10 +183,10 @@ priority: "HIGH DEMAND"
 
 1. Retire a torneira da embalagem
 2. Verifique que tem todas as peças:
-   - Torneira
-   - Anilha de borracha
-   - Porca de fixação
-   - 2 tubos flexíveis (ou já vêm ligados)
+ - Torneira
+ - Anilha de borracha
+ - Porca de fixação
+ - 2 tubos flexíveis (ou já vêm ligados)
 3. Leia as instruções do fabricante
 4. Ligue os tubos flexíveis à torneira (se não vierem ligados)
 5. Aperte à mão primeiro, depois com chave (1/4 de volta)
@@ -205,8 +205,8 @@ priority: "HIGH DEMAND"
 **Passo 5: Ligar os tubos à água**
 
 1. Identifique qual tubo é água quente e fria:
-   - Normalmente: esquerda = quente, direita = fria
-   - Ou marcado na torneira (H = hot/quente, C = cold/fria)
+ - Normalmente: esquerda = quente, direita = fria
+ - Ou marcado na torneira (H = hot/quente, C = cold/fria)
 2. Ligue cada tubo à torneira de corte correspondente
 3. Envolva as roscas com fita de teflon (2-3 voltas)
 4. Aperte à mão primeiro
@@ -236,20 +236,20 @@ priority: "HIGH DEMAND"
 **Passo 8: Verificação completa**
 
 1. **Teste de fugas:**
-   - Verifique todas as ligações por baixo
-   - Passe papel absorvente (deteta pequenas fugas)
-   - Deixe correr água 5 minutos e verifique novamente
+ - Verifique todas as ligações por baixo
+ - Passe papel absorvente (deteta pequenas fugas)
+ - Deixe correr água 5 minutos e verifique novamente
 
 2. **Teste de funcionamento:**
-   - Abra e feche várias vezes
-   - Teste água quente e fria
-   - Verifique que a alavanca se move suavemente
-   - Se tiver duche extraível, teste a mangueira
+ - Abra e feche várias vezes
+ - Teste água quente e fria
+ - Verifique que a alavanca se move suavemente
+ - Se tiver duche extraível, teste a mangueira
 
 3. **Limpeza final:**
-   - Limpe respingos e silicone em excesso
-   - Seque a torneira
-   - Arrume as ferramentas
+ - Limpe respingos e silicone em excesso
+ - Seque a torneira
+ - Arrume as ferramentas
 
 **Pronto!** A sua torneira nova está instalada.
 
@@ -273,13 +273,13 @@ priority: "HIGH DEMAND"
 **Tempo necessário:** 1-2 horas (primeira vez)
 
 **Vantagens:**
-✅ Mais barato  
-✅ Aprende uma habilidade útil  
+✅ Mais barato 
+✅ Aprende uma habilidade útil 
 ✅ Satisfação pessoal
 
 **Desvantagens:**
-❌ Demora mais tempo  
-❌ Risco de erros (fugas)  
+❌ Demora mais tempo 
+❌ Risco de erros (fugas) 
 ❌ Sem garantia profissional
 
 ### Opção Profissional
@@ -295,10 +295,10 @@ priority: "HIGH DEMAND"
 | Urgência 24h | +€30-50 |
 
 **Incluído no serviço profissional:**
-✅ Mão de obra especializada  
-✅ Materiais de qualidade (opcional)  
-✅ Garantia 1-2 anos  
-✅ Limpeza após trabalho  
+✅ Mão de obra especializada 
+✅ Materiais de qualidade (opcional) 
+✅ Garantia 1-2 anos 
+✅ Limpeza após trabalho 
 ✅ Teste completo de funcionamento
 
 **Tempo de instalação:** 30-45 minutos
@@ -309,7 +309,7 @@ priority: "HIGH DEMAND"
 
 ### 1. Fuga na Base da Torneira
 
-**Causa:** Anilha de borracha mal colocada ou danificada.  
+**Causa:** Anilha de borracha mal colocada ou danificada. 
 **Solução:**
 1. Feche a água
 2. Desaperte a porca de fixação
@@ -319,7 +319,7 @@ priority: "HIGH DEMAND"
 
 ### 2. Fuga nas Ligações dos Tubos
 
-**Causa:** Porca mal apertada ou falta de fita de teflon.  
+**Causa:** Porca mal apertada ou falta de fita de teflon. 
 **Solução:**
 1. Aperte mais 1/4 de volta com chave
 2. Se continuar, feche água e desmonte
@@ -328,7 +328,7 @@ priority: "HIGH DEMAND"
 
 ### 3. Pressão de Água Fraca
 
-**Causa:** Filtro/arejador entupido ou tubos dobrados.  
+**Causa:** Filtro/arejador entupido ou tubos dobrados. 
 **Solução:**
 1. Desenrosque o arejador (ponta da torneira)
 2. Limpe com escova velha
@@ -337,7 +337,7 @@ priority: "HIGH DEMAND"
 
 ### 4. Água Quente e Fria Trocadas
 
-**Causa:** Tubos ligados ao contrário.  
+**Causa:** Tubos ligados ao contrário. 
 **Solução:**
 1. Feche a água
 2. Troque os tubos flexíveis de posição
@@ -345,7 +345,7 @@ priority: "HIGH DEMAND"
 
 ### 5. Torneira Fica Solta
 
-**Causa:** Porca de fixação não apertada suficientemente.  
+**Causa:** Porca de fixação não apertada suficientemente. 
 **Solução:**
 1. Aceda por baixo do lava-loiça
 2. Aperte a porca com chave de bacia
@@ -448,14 +448,14 @@ Substituir uma torneira de cozinha é um trabalho **relativamente simples** que 
 
 **Norte Reparos — Picheleiro Certificado em Bragança**
 
-📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
+📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20substituir%20a%20torneira%20da%20cozinha.%20Pode%20ajudar%3F)**
 
-✅ Instalação rápida (30-45 minutos)  
-✅ Garantia 1-2 anos no serviço  
-✅ Fornecemos torneiras de qualidade  
-✅ Orçamento grátis sem compromisso  
-✅ Técnico em sua casa em 30-45 minutos  
+✅ Instalação rápida (30-45 minutos) 
+✅ Garantia 1-2 anos no serviço 
+✅ Fornecemos torneiras de qualidade 
+✅ Orçamento grátis sem compromisso 
+✅ Técnico em sua casa em 30-45 minutos 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Torneira a pingar desperdiça 30-50 litros/dia!** Não deixe o problema piorar. Contacte-nos já.

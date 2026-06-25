@@ -23,7 +23,7 @@ priority: "SEASONAL"
 - ✅ Custos de arranjo se cano rebentar
 - ✅ Quando chamar picheleiro urgente
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp Urgente:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20uma%20torneira%20congelada%20e%20preciso%20de%20ajuda!)
 
 ---
@@ -79,9 +79,9 @@ priority: "SEASONAL"
 
 ### Método 1: Secador de Cabelo (Mais Seguro) ⭐⭐⭐⭐⭐
 
-**Eficácia:** 90% (se cano não rebentou)  
-**Tempo:** 15-30 minutos  
-**Custo:** €0 (usa secador que já tem)  
+**Eficácia:** 90% (se cano não rebentou) 
+**Tempo:** 15-30 minutos 
+**Custo:** €0 (usa secador que já tem) 
 **Segurança:** Muito seguro
 
 **Passo a passo:**
@@ -109,9 +109,9 @@ priority: "SEASONAL"
 
 ### Método 2: Toalhas Quentes (Sem Eletricidade) ⭐⭐⭐⭐
 
-**Eficácia:** 80%  
-**Tempo:** 30-45 minutos  
-**Custo:** €0  
+**Eficácia:** 80% 
+**Tempo:** 30-45 minutos 
+**Custo:** €0 
 **Segurança:** Muito seguro
 
 **Passo a passo:**
@@ -139,9 +139,9 @@ priority: "SEASONAL"
 
 ### Método 3: Aquecedor Portátil (Para Canos Acessíveis) ⭐⭐⭐
 
-**Eficácia:** 85%  
-**Tempo:** 20-40 minutos  
-**Custo:** €0 (se já tem aquecedor)  
+**Eficácia:** 85% 
+**Tempo:** 20-40 minutos 
+**Custo:** €0 (se já tem aquecedor) 
 **Segurança:** Moderada (cuidado com água)
 
 **Passo a passo:**
@@ -192,8 +192,8 @@ priority: "SEASONAL"
 
 ### 1. Isolar Torneiras Exteriores ⭐⭐⭐⭐⭐
 
-**Eficácia:** 95%  
-**Custo:** €5-20  
+**Eficácia:** 95% 
+**Custo:** €5-20 
 **Dificuldade:** Muito fácil
 
 **Materiais:**
@@ -214,8 +214,8 @@ priority: "SEASONAL"
 
 ### 2. Deixar Água a Pingar ⭐⭐⭐⭐
 
-**Eficácia:** 90% (noites muito frias)  
-**Custo:** €2-5/mês (água)  
+**Eficácia:** 90% (noites muito frias) 
+**Custo:** €2-5/mês (água) 
 **Dificuldade:** Muito fácil
 
 **Como fazer:**
@@ -237,8 +237,8 @@ priority: "SEASONAL"
 
 ### 3. Esvaziar e Fechar Torneiras no Inverno ⭐⭐⭐⭐⭐
 
-**Eficácia:** 100%  
-**Custo:** €0  
+**Eficácia:** 100% 
+**Custo:** €0 
 **Dificuldade:** Fácil
 
 **Como fazer:**
@@ -261,8 +261,8 @@ priority: "SEASONAL"
 
 ### 4. Instalar Torneira Anti-Congelamento ⭐⭐⭐⭐⭐
 
-**Eficácia:** 99%  
-**Custo:** €80-150 (instalação profissional)  
+**Eficácia:** 99% 
+**Custo:** €80-150 (instalação profissional) 
 **Dificuldade:** Profissional
 
 **O que é:** Torneira especial com válvula dentro da parede (zona quente), não no exterior.
@@ -284,8 +284,8 @@ priority: "SEASONAL"
 
 ### 5. Caixa de Proteção Aquecida ⭐⭐⭐
 
-**Eficácia:** 85%  
-**Custo:** €30-60 (DIY) ou €100-150 (profissional)  
+**Eficácia:** 85% 
+**Custo:** €30-60 (DIY) ou €100-150 (profissional) 
 **Dificuldade:** Moderada
 
 **O que é:** Caixa isolada ao redor da torneira, às vezes com cabo aquecedor elétrico.
@@ -392,7 +392,7 @@ priority: "SEASONAL"
 
 ## 🎯 Conclusão: Prevenção é 10x Mais Barata
 
-**Arranjar cano rebentado:** €500-2.000  
+**Arranjar cano rebentado:** €500-2.000 
 **Prevenir congelamento:** €5-20 (isolamento)
 
 **Em Trás-os-Montes**, onde invernos são rigorosos (-5°C ou menos), proteger torneiras exteriores **NÃO é opcional** - é essencial.
@@ -404,15 +404,15 @@ priority: "SEASONAL"
 
 ### 📞 Precisa de Ajuda Profissional?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Emergências 24h (canos rebentados)  
-✅ Instalação torneiras anti-congelamento  
-✅ Isolamento profissional de canos  
-✅ Orçamento grátis sem compromisso  
-✅ Garantia de 2 anos  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Emergências 24h (canos rebentados) 
+✅ Instalação torneiras anti-congelamento 
+✅ Isolamento profissional de canos 
+✅ Orçamento grátis sem compromisso 
+✅ Garantia de 2 anos 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20ajuda%20com%20torneira%20congelada!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20ajuda%20com%20torneira%20congelada!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

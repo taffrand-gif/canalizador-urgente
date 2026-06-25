@@ -22,36 +22,36 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Causas Mais Comuns (% de casos)
 
 1. **Cabelos acumulados** → 70% dos casos
-   - Cabelos longos formam "bolas" que bloqueiam
-   - Misturados com sabão criam massa compacta
-   - Acumulação gradual ao longo de meses
+ - Cabelos longos formam "bolas" que bloqueiam
+ - Misturados com sabão criam massa compacta
+ - Acumulação gradual ao longo de meses
 
 2. **Resíduos de sabão e champô** → 60%
-   - Sabão solidifica com água fria
-   - Champô deixa resíduos gordurosos
-   - Combinação com calcário forma crosta dura
+ - Sabão solidifica com água fria
+ - Champô deixa resíduos gordurosos
+ - Combinação com calcário forma crosta dura
 
 3. **Calcário (água dura)** → 50% em Trás-os-Montes
-   - Água muito calcária na região
-   - Depósitos reduzem diâmetro do tubo
-   - Pior em casas com água de poço
+ - Água muito calcária na região
+ - Depósitos reduzem diâmetro do tubo
+ - Pior em casas com água de poço
 
 4. **Objetos pequenos** → 20%
-   - Tampas de champô, brinquedos pequenos
-   - Embalagens de sabonete
-   - Bijuteria que cai acidentalmente
+ - Tampas de champô, brinquedos pequenos
+ - Embalagens de sabonete
+ - Bijuteria que cai acidentalmente
 
 5. **Instalação incorreta** → 15%
-   - Ralo sem sifão adequado
-   - Tubagem com inclinação insuficiente
-   - Diâmetro de tubo muito pequeno (< 40mm)
+ - Ralo sem sifão adequado
+ - Tubagem com inclinação insuficiente
+ - Diâmetro de tubo muito pequeno (< 40mm)
 
 ## 🛠️ 7 Métodos Para Desentupir Ralo de Chuveiro
 
 ### Método 1: Remoção Manual (Grátis)
 
-**Eficácia:** 40% dos casos leves  
-**Tempo:** 5-10 minutos  
+**Eficácia:** 40% dos casos leves 
+**Tempo:** 5-10 minutos 
 **Dificuldade:** Muito fácil
 
 **Como fazer:**
@@ -66,8 +66,8 @@ Antes de desentupir, é importante perceber as causas principais:
 
 ### Método 2: Água Fervente (Grátis)
 
-**Eficácia:** 50% dos casos leves  
-**Tempo:** 10 minutos  
+**Eficácia:** 50% dos casos leves 
+**Tempo:** 10 minutos 
 **Dificuldade:** Muito fácil
 
 **Como fazer:**
@@ -84,8 +84,8 @@ Antes de desentupir, é importante perceber as causas principais:
 
 ### Método 3: Bicarbonato + Vinagre (€2-3)
 
-**Eficácia:** 60% dos casos moderados  
-**Tempo:** 30 minutos  
+**Eficácia:** 60% dos casos moderados 
+**Tempo:** 30 minutos 
 **Dificuldade:** Fácil
 
 **Materiais necessários:**
@@ -108,8 +108,8 @@ Antes de desentupir, é importante perceber as causas principais:
 
 ### Método 4: Ventosa/Desentupidor (€5-15)
 
-**Eficácia:** 70% dos casos moderados  
-**Tempo:** 10-15 minutos  
+**Eficácia:** 70% dos casos moderados 
+**Tempo:** 10-15 minutos 
 **Dificuldade:** Fácil
 
 **Como fazer:**
@@ -127,8 +127,8 @@ Antes de desentupir, é importante perceber as causas principais:
 
 ### Método 5: Desentupidor Químico (€8-15)
 
-**Eficácia:** 75% dos casos moderados a graves  
-**Tempo:** 30-60 minutos  
+**Eficácia:** 75% dos casos moderados a graves 
+**Tempo:** 30-60 minutos 
 **Dificuldade:** Fácil
 
 **Produtos recomendados:**
@@ -154,8 +154,8 @@ Antes de desentupir, é importante perceber as causas principais:
 
 ### Método 6: Mola Desentupidora Manual (€15-30)
 
-**Eficácia:** 85% dos casos graves  
-**Tempo:** 20-30 minutos  
+**Eficácia:** 85% dos casos graves 
+**Tempo:** 20-30 minutos 
 **Dificuldade:** Moderada
 
 **Material necessário:**
@@ -179,8 +179,8 @@ Antes de desentupir, é importante perceber as causas principais:
 
 ### Método 7: Desmontagem do Sifão (Profissional)
 
-**Eficácia:** 95% dos casos  
-**Tempo:** 30-60 minutos  
+**Eficácia:** 95% dos casos 
+**Tempo:** 30-60 minutos 
 **Dificuldade:** Difícil (recomenda-se profissional)
 
 **Quando necessário:**
@@ -230,36 +230,36 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Prevenção Diária
 
 1. **Grelha com filtro de cabelos** (€3-8)
-   - Instale uma grelha com malha fina
-   - Limpe após cada banho
-   - Substitua a cada 6-12 meses
+ - Instale uma grelha com malha fina
+ - Limpe após cada banho
+ - Substitua a cada 6-12 meses
 
 2. **Remova cabelos visíveis**
-   - Após cada banho, retire cabelos da grelha
-   - Use um papel para recolher e deitar no lixo
-   - Nunca deixe acumular
+ - Após cada banho, retire cabelos da grelha
+ - Use um papel para recolher e deitar no lixo
+ - Nunca deixe acumular
 
 3. **Água quente semanal**
-   - 1x por semana, despeje 2 litros de água fervente
-   - Dissolve resíduos de sabão
-   - Previne acumulação de gordura
+ - 1x por semana, despeje 2 litros de água fervente
+ - Dissolve resíduos de sabão
+ - Previne acumulação de gordura
 
 ### Manutenção Mensal
 
 1. **Limpeza profunda da grelha**
-   - Retire a grelha completamente
-   - Lave com escova e detergente
-   - Deixe de molho em vinagre se tiver calcário
+ - Retire a grelha completamente
+ - Lave com escova e detergente
+ - Deixe de molho em vinagre se tiver calcário
 
 2. **Tratamento preventivo**
-   - Use bicarbonato + vinagre 1x por mês
-   - Ou produto enzimático específico (€8-12)
-   - Mantém tubos limpos sem danificar
+ - Use bicarbonato + vinagre 1x por mês
+ - Ou produto enzimático específico (€8-12)
+ - Mantém tubos limpos sem danificar
 
 3. **Verificação visual**
-   - Observe se a água escoa rapidamente
-   - Verifique se há maus cheiros
-   - Aja aos primeiros sinais de lentidão
+ - Observe se a água escoa rapidamente
+ - Verifique se há maus cheiros
+ - Aja aos primeiros sinais de lentidão
 
 ### Cuidados Especiais em Trás-os-Montes
 
@@ -303,8 +303,8 @@ Ralo novo: €15-40. Instalação profissional: €40-80. Total: €55-120. Nece
 
 O ralo do chuveiro entupido é um problema comum mas **facilmente resolvível** na maioria dos casos:
 
-✅ **Casos leves:** Remoção manual + água fervente (grátis)  
-✅ **Casos moderados:** Bicarbonato + vinagre ou ventosa (€2-15)  
+✅ **Casos leves:** Remoção manual + água fervente (grátis) 
+✅ **Casos moderados:** Bicarbonato + vinagre ou ventosa (€2-15) 
 ✅ **Casos graves:** Mola desentupidora ou profissional (€15-150)
 
 **Prevenção é fundamental:** Grelha com filtro de cabelos (€3-8) + limpeza semanal = 90% menos entupimentos.
@@ -313,13 +313,13 @@ O ralo do chuveiro entupido é um problema comum mas **facilmente resolvível** 
 
 **Norte Reparos — Picheleiro Certificado em Bragança**
 
-📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
+📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20desentupir%20o%20ralo%20do%20chuveiro.%20Pode%20ajudar%3F)**
 
-✅ Atendimento 24h/7d (urgências)  
-✅ Orçamento grátis sem compromisso  
-✅ Técnico em sua casa em 30-45 minutos  
-✅ Garantia de 6 meses no serviço  
+✅ Atendimento 24h/7d (urgências) 
+✅ Orçamento grátis sem compromisso 
+✅ Técnico em sua casa em 30-45 minutos 
+✅ Garantia de 6 meses no serviço 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não deixe o problema piorar!** Um entupimento simples hoje pode tornar-se numa arranjo cara amanhã. Contacte-nos já.

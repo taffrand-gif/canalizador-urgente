@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar **como escolher a banheira adequada** (acrílico vs ferro fundido), instalação passo a passo, custos reais, ligações de água e esgoto, e quando chamar um picheleiro certificado. Com mais de 15 anos de experiência em instalações em Trás-os-Montes, já instalámos centenas de banheiras.
 
-**📞 Quer instalar banheira? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Quer instalar banheira? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20quero%20instalar%20uma%20banheira.%20Podem%20ajudar%3F)**
 
 ---
@@ -208,7 +208,7 @@ Neste guia completo, vamos explicar **como escolher a banheira adequada** (acrí
 
 **⚠️ AVISO:** Instalação requer conhecimento de canalizações. Se não se sentir confortável, contrate picheleiro certificado.
 
-**Tempo:** 4-8 horas  
+**Tempo:** 4-8 horas 
 **Dificuldade:** Média a Difícil
 
 ### Materiais Necessários
@@ -409,28 +409,28 @@ Neste guia completo, vamos explicar **como escolher a banheira adequada** (acrí
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Banheira de acrílico ou ferro fundido?**  
+**1. Banheira de acrílico ou ferro fundido?** 
 Acrílico: leve, acessível, fácil instalação (€150-800). Ferro fundido: durável, retém calor, pesada (€600-2.500). Recomendação: acrílico para maioria.
 
-**2. Quanto custa instalar banheira?**  
+**2. Quanto custa instalar banheira?** 
 DIY: €325-1.010 (materiais). Profissional: €600-2.000 (completo com instalação).
 
-**3. Posso instalar banheira sozinho?**  
+**3. Posso instalar banheira sozinho?** 
 Possível se tiver conhecimento de canalizações e ajuda para transporte. Banheira ferro fundido: profissional obrigatório (muito pesada).
 
-**4. Quanto tempo demora instalação?**  
+**4. Quanto tempo demora instalação?** 
 DIY: 4-8 horas. Profissional: 3-6 horas (simples) ou 1-2 dias (complexa com azulejo).
 
-**5. Chão suporta banheira?**  
+**5. Chão suporta banheira?** 
 Acrílico: maioria dos chãos suporta (200-300 kg total). Ferro fundido: verifique estrutura (400-500 kg total).
 
-**6. Banheira passa pela porta?**  
+**6. Banheira passa pela porta?** 
 Meça antes de comprar. Porta standard: 70-80 cm. Banheira: 70-80 cm largura. Pode passar na diagonal.
 
-**7. Preciso de eletricista para banheira?**  
+**7. Preciso de eletricista para banheira?** 
 Não, exceto se banheira com hidromassagem (requer tomada e ligação elétrica).
 
-**8. Quanto dura banheira de acrílico?**  
+**8. Quanto dura banheira de acrílico?** 
 15-25 anos com manutenção adequada. Ferro fundido: 50+ anos.
 
 ---

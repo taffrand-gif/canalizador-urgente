@@ -52,10 +52,10 @@ priority: "HIGH DEMAND"
 
 ### Incluído com a Máquina
 
-✅ Tubo de entrada de água (geralmente 1,5m)  
-✅ Tubo de saída de esgoto (geralmente 1,5-2m)  
-✅ Cabo de alimentação (geralmente 1,5m)  
-✅ Cotovelo para tubo de esgoto  
+✅ Tubo de entrada de água (geralmente 1,5m) 
+✅ Tubo de saída de esgoto (geralmente 1,5-2m) 
+✅ Cabo de alimentação (geralmente 1,5m) 
+✅ Cotovelo para tubo de esgoto 
 ✅ Manual de instruções
 
 ### Pode Precisar Comprar
@@ -90,9 +90,9 @@ priority: "HIGH DEMAND"
 1. Retire a máquina da embalagem
 2. Verifique que não há danos
 3. Remova proteções de transporte:
-   - Parafusos de transporte (se houver)
-   - Espumas protetoras
-   - Fitas adesivas
+ - Parafusos de transporte (se houver)
+ - Espumas protetoras
+ - Fitas adesivas
 4. Guarde manual de instruções
 
 **Passo 2: Posicionar a máquina**
@@ -109,26 +109,26 @@ priority: "HIGH DEMAND"
 1. **Feche a água geral** (ou torneira de corte se tiver)
 
 2. **Instale torneira de corte** (se não tiver):
-   - Desligue tubo flexível do lava-loiça
-   - Instale torneira de corte
-   - Volte a ligar tubo do lava-loiça
-   - Use fita de teflon nas roscas
+ - Desligue tubo flexível do lava-loiça
+ - Instale torneira de corte
+ - Volte a ligar tubo do lava-loiça
+ - Use fita de teflon nas roscas
 
 3. **Ligue tubo da máquina:**
-   - Enrosque tubo na torneira de corte
-   - Aperte à mão primeiro
-   - Depois aperte com chave (1/4 volta)
-   - Não aperte demais (pode partir rosca)
+ - Enrosque tubo na torneira de corte
+ - Aperte à mão primeiro
+ - Depois aperte com chave (1/4 volta)
+ - Não aperte demais (pode partir rosca)
 
 4. **Ligue tubo à máquina:**
-   - Enrosque na entrada da máquina (geralmente atrás, em baixo)
-   - Aperte bem à mão
-   - Verifique que junta de borracha está no lugar
+ - Enrosque na entrada da máquina (geralmente atrás, em baixo)
+ - Aperte bem à mão
+ - Verifique que junta de borracha está no lugar
 
 5. **Teste de fugas:**
-   - Abra a torneira de corte devagar
-   - Verifique todas as ligações
-   - Se pingar, aperte mais um pouco
+ - Abra a torneira de corte devagar
+ - Verifique todas as ligações
+ - Se pingar, aperte mais um pouco
 
 **Dica:** Tubo de entrada tem filtro na ponta. Limpe-o a cada 6 meses.
 
@@ -164,18 +164,18 @@ priority: "HIGH DEMAND"
 **⚠️ ATENÇÃO: Máquina de lavar loiça consome 1.800-2.500W**
 
 1. **Verifique tomada:**
-   - Deve ter terra (3 pinos)
-   - Circuito 16A mínimo
-   - Não use extensão (risco de sobreaquecimento)
+ - Deve ter terra (3 pinos)
+ - Circuito 16A mínimo
+ - Não use extensão (risco de sobreaquecimento)
 
 2. **Ligue a ficha:**
-   - Insira completamente na tomada
-   - Verifique que está firme
+ - Insira completamente na tomada
+ - Verifique que está firme
 
 3. **Teste:**
-   - Ligue a máquina
-   - Verifique que painel acende
-   - Desligue novamente
+ - Ligue a máquina
+ - Verifique que painel acende
+ - Desligue novamente
 
 **Se não tem tomada adequada:** Chame eletricista para instalar (€60-150).
 
@@ -184,19 +184,19 @@ priority: "HIGH DEMAND"
 **Passo 6: Nivelar a máquina**
 
 1. **Use nível de bolha:**
-   - Coloque em cima da máquina
-   - Verifique frente-trás e esquerda-direita
+ - Coloque em cima da máquina
+ - Verifique frente-trás e esquerda-direita
 
 2. **Ajuste os pés:**
-   - Rode os pés ajustáveis
-   - Sentido horário = sobe
-   - Sentido anti-horário = desce
-   - Ajuste até máquina ficar nivelada
+ - Rode os pés ajustáveis
+ - Sentido horário = sobe
+ - Sentido anti-horário = desce
+ - Ajuste até máquina ficar nivelada
 
 3. **Verifique estabilidade:**
-   - Empurre cantos da máquina
-   - Não deve balançar
-   - Se balançar, ajuste pés novamente
+ - Empurre cantos da máquina
+ - Não deve balançar
+ - Se balançar, ajuste pés novamente
 
 **Importante:** Máquina desnivelada = ruído excessivo, vibração, má lavagem.
 
@@ -213,29 +213,29 @@ priority: "HIGH DEMAND"
 **Passo 8: Primeiro ciclo de teste**
 
 1. **Adicione sal regenerante:**
-   - Abra reservatório (geralmente no fundo)
-   - Encha com sal específico para máquinas
-   - Primeiro uso: encha até transbordar (remove ar)
+ - Abra reservatório (geralmente no fundo)
+ - Encha com sal específico para máquinas
+ - Primeiro uso: encha até transbordar (remove ar)
 
 2. **Adicione abrilhantador:**
-   - Abra reservatório (geralmente na porta)
-   - Encha até marca MAX
+ - Abra reservatório (geralmente na porta)
+ - Encha até marca MAX
 
 3. **Programe primeiro ciclo:**
-   - Ciclo intensivo ou limpeza
-   - SEM loiça dentro
-   - SEM detergente (só sal e abrilhantador)
+ - Ciclo intensivo ou limpeza
+ - SEM loiça dentro
+ - SEM detergente (só sal e abrilhantador)
 
 4. **Inicie e observe:**
-   - Verifique que enche água
-   - Verifique que não há fugas
-   - Verifique que drena água
-   - Ouça ruídos anormais
+ - Verifique que enche água
+ - Verifique que não há fugas
+ - Verifique que drena água
+ - Ouça ruídos anormais
 
 5. **Após ciclo completo:**
-   - Verifique que secou
-   - Verifique que não há água no fundo
-   - Verifique todas as ligações novamente
+ - Verifique que secou
+ - Verifique que não há água no fundo
+ - Verifique todas as ligações novamente
 
 **Se tudo OK:** Máquina está pronta a usar!
 
@@ -255,13 +255,13 @@ priority: "HIGH DEMAND"
 **Tempo necessário:** 2-4 horas (primeira vez)
 
 **Vantagens:**
-✅ Mais barato  
-✅ Aprende uma habilidade  
+✅ Mais barato 
+✅ Aprende uma habilidade 
 ✅ Satisfação pessoal
 
 **Desvantagens:**
-❌ Demora mais tempo  
-❌ Risco de fugas (se mal feito)  
+❌ Demora mais tempo 
+❌ Risco de fugas (se mal feito) 
 ❌ Sem garantia profissional
 
 ### Opção Profissional
@@ -278,11 +278,11 @@ priority: "HIGH DEMAND"
 | Desinstalar máquina antiga | +€40-80 |
 
 **Incluído no serviço profissional:**
-✅ Todas as ligações (água, esgoto, eletricidade)  
-✅ Nivelamento  
-✅ Teste completo  
-✅ Materiais necessários  
-✅ Garantia 1 ano  
+✅ Todas as ligações (água, esgoto, eletricidade) 
+✅ Nivelamento 
+✅ Teste completo 
+✅ Materiais necessários 
+✅ Garantia 1 ano 
 ✅ Limpeza após trabalho
 
 **Tempo de instalação:** 1,5-3 horas
@@ -293,44 +293,44 @@ priority: "HIGH DEMAND"
 
 ### Erro 1: Não Fechar a Água
 
-**Erro:** Ligar tubos com água aberta.  
-**Consequência:** Inundação, danos.  
+**Erro:** Ligar tubos com água aberta. 
+**Consequência:** Inundação, danos. 
 **Solução:** SEMPRE feche água antes de trabalhar.
 
 ### Erro 2: Apertar Demais as Roscas
 
-**Erro:** Usar força excessiva ao apertar.  
-**Consequência:** Partir roscas de plástico.  
+**Erro:** Usar força excessiva ao apertar. 
+**Consequência:** Partir roscas de plástico. 
 **Solução:** Aperte à mão + 1/4 volta com chave.
 
 ### Erro 3: Esquecer Fita de Teflon
 
-**Erro:** Não usar fita de teflon nas roscas.  
-**Consequência:** Fugas de água.  
+**Erro:** Não usar fita de teflon nas roscas. 
+**Consequência:** Fugas de água. 
 **Solução:** 2-3 voltas de fita em todas as roscas.
 
 ### Erro 4: Tubo de Esgoto Muito Dentro do Sifão
 
-**Erro:** Inserir tubo > 5cm no sifão.  
-**Consequência:** Água não drena bem, máquina dá erro.  
+**Erro:** Inserir tubo > 5cm no sifão. 
+**Consequência:** Água não drena bem, máquina dá erro. 
 **Solução:** Máximo 4-5cm de inserção.
 
 ### Erro 5: Máquina Desnivelada
 
-**Erro:** Não nivelar a máquina.  
-**Consequência:** Ruído, vibração, má lavagem, fugas.  
+**Erro:** Não nivelar a máquina. 
+**Consequência:** Ruído, vibração, má lavagem, fugas. 
 **Solução:** Use nível de bolha, ajuste pés.
 
 ### Erro 6: Usar Extensão Elétrica
 
-**Erro:** Ligar máquina em extensão.  
-**Consequência:** Sobreaquecimento, risco de incêndio.  
+**Erro:** Ligar máquina em extensão. 
+**Consequência:** Sobreaquecimento, risco de incêndio. 
 **Solução:** Tomada direta, máximo 2m da máquina.
 
 ### Erro 7: Não Fazer Primeiro Ciclo Vazio
 
-**Erro:** Usar imediatamente com loiça.  
-**Consequência:** Resíduos de fábrica na loiça.  
+**Erro:** Usar imediatamente com loiça. 
+**Consequência:** Resíduos de fábrica na loiça. 
 **Solução:** Primeiro ciclo vazio (só sal e abrilhantador).
 
 ## 🛡️ Manutenção Após Instalação
@@ -437,16 +437,16 @@ Instalar máquina de lavar loiça é **relativamente simples** se ligações est
 
 **Norte Reparos — Picheleiro Certificado em Bragança**
 
-📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
+📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20instalar%20uma%20máquina%20de%20lavar%20loiça.%20Pode%20ajudar%3F)**
 
-✅ Instalação completa (água + esgoto + teste)  
-✅ Instalação de torneiras e sifões se necessário  
-✅ Nivelamento profissional  
-✅ Primeiro ciclo de teste  
-✅ Garantia 1 ano no serviço  
-✅ Materiais incluídos  
-✅ Técnico em sua casa em 30-45 minutos  
+✅ Instalação completa (água + esgoto + teste) 
+✅ Instalação de torneiras e sifões se necessário 
+✅ Nivelamento profissional 
+✅ Primeiro ciclo de teste 
+✅ Garantia 1 ano no serviço 
+✅ Materiais incluídos 
+✅ Técnico em sua casa em 30-45 minutos 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Instalação bem feita = máquina dura mais!** Contacte-nos já para instalação profissional com garantia.

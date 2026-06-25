@@ -23,7 +23,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 - ✅ Instalação passo a passo
 - ✅ Custos em Trás-os-Montes
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20instalar%20uma%20válvula%20de%20retenção!)
 
 ---
@@ -406,8 +406,8 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 1. **Abrir água lentamente**
 2. **Verificar fugas** (roscas, uniões)
 3. **Testar funcionamento:**
-   - Abrir torneira: água flui ✅
-   - Fechar torneira: água não volta ✅
+ - Abrir torneira: água flui ✅
+ - Fechar torneira: água não volta ✅
 4. **Apertar ligeiramente** se houver fugas pequenas
 
 **Se fugas persistem:** Desmontar, adicionar mais fita teflon, reinstalar.
@@ -549,15 +549,15 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 
 ### 📞 Precisa de Instalar Válvula de Retenção?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Instalação de válvulas de retenção  
-✅ Sistemas de bombagem de água  
-✅ Manutenção de bombas  
-✅ Orçamento grátis sem compromisso  
-✅ Garantia de 2 anos  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Instalação de válvulas de retenção 
+✅ Sistemas de bombagem de água 
+✅ Manutenção de bombas 
+✅ Orçamento grátis sem compromisso 
+✅ Garantia de 2 anos 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20instalar%20uma%20válvula%20de%20retenção!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20instalar%20uma%20válvula%20de%20retenção!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

@@ -29,7 +29,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 ### Entidades Envolvidas
 
-**DGEG** (Direção-Geral Energia e Geologia):
+**** (Direção-Geral Energia e Geologia):
 - Fiscaliza instalações
 - Regista técnicos com experiência
 - Aplica multas
@@ -54,7 +54,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 ✅ **Venda imóvel** (construído após 1999)
 ✅ **Arrendamento** (construído após 1999)
 ✅ **Reativação** (gás cortado há 6+ meses)
-✅ **Após inspeção DGEG** (se detetadas irregularidades)
+✅ **Após inspeção ** (se detetadas irregularidades)
 
 ### NÃO Obrigatório Para
 
@@ -72,30 +72,30 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 **técnico com experiência verifica**:
 
 1. **Tubagem gás**
-   - Material adequado (cobre, aço)
-   - Diâmetros corretos
-   - Fixações seguras
-   - Sem fugas (teste pressão)
-   - Válvula corte acessível
+ - Material adequado (cobre, aço)
+ - Diâmetros corretos
+ - Fixações seguras
+ - Sem fugas (teste pressão)
+ - Válvula corte acessível
 
 2. **Aparelhos gás**
-   - Instalação correta
-   - Ligação segura
-   - Ventilação adequada
-   - Distâncias segurança
-   - Funcionamento
+ - Instalação correta
+ - Ligação segura
+ - Ventilação adequada
+ - Distâncias segurança
+ - Funcionamento
 
 3. **Ventilação**
-   - Entrada ar (grelha inferior)
-   - Saída gases (chaminé/exaustor)
-   - Dimensões adequadas
-   - Sem obstruções
+ - Entrada ar (grelha inferior)
+ - Saída gases (chaminé/exaustor)
+ - Dimensões adequadas
+ - Sem obstruções
 
 4. **Segurança**
-   - Válvula corte geral
-   - Válvula corte por aparelho
-   - Detetor gás (recomendado)
-   - Extintor (recomendado)
+ - Válvula corte geral
+ - Válvula corte por aparelho
+ - Detetor gás (recomendado)
+ - Extintor (recomendado)
 
 ### Testes Realizados
 
@@ -182,7 +182,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 **Inspeção**: 1-3 horas
 **Emissão certificado**: 2-5 dias úteis
-**Registo DGEG**: Automático
+**Registo **: Automático
 **Total**: 3-7 dias
 
 ### Com Correções Necessárias
@@ -271,7 +271,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 ## ⚠️ Consequências Sem Certificação
 
-### Multas DGEG
+### Multas 
 
 **Proprietário**: €500-€3,740
 **Instalador irregular**: €2,500-€44,890
@@ -320,19 +320,19 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 ### Recomendações
 
 1. **Certificar mesmo se não obrigatório**
-   - Garante segurança
-   - Valoriza imóvel
-   - Facilita venda futura
+ - Garante segurança
+ - Valoriza imóvel
+ - Facilita venda futura
 
 2. **Aproveitar obras**
-   - Certificar durante renovação
-   - Mais barato que depois
-   - Menos transtorno
+ - Certificar durante renovação
+ - Mais barato que depois
+ - Menos transtorno
 
 3. **Manutenção anual**
-   - Mesmo com certificado
-   - Previne problemas
-   - [Manutenção esquentador](/blog/aquecimento-central-manutencao)
+ - Mesmo com certificado
+ - Previne problemas
+ - [Manutenção esquentador](/blog/aquecimento-central-manutencao)
 
 ## 🔧 Gás Canalizado vs Propano
 
@@ -414,7 +414,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 - Correções necessárias
 - Testes obrigatórios
 - Certificação
-- Registo DGEG
+- Registo 
 - Ativação gás
 
 ### Preços Transparentes

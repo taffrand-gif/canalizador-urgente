@@ -25,9 +25,9 @@ priority: "HIGH DEMAND"
 **Como medir:**
 - Manómetro (€15-30) na torneira
 - Teste simples: encher balde 10L
-  - Menos de 20 segundos = pressão boa (>2 bar)
-  - 20-40 segundos = pressão baixa (1-2 bar)
-  - Mais de 40 segundos = pressão muito baixa (<1 bar)
+ - Menos de 20 segundos = pressão boa (>2 bar)
+ - 20-40 segundos = pressão baixa (1-2 bar)
+ - Mais de 40 segundos = pressão muito baixa (<1 bar)
 
 **Sintomas de pressão baixa:**
 - Duche fraco (não consegue lavar cabelo)

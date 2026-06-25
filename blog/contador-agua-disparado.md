@@ -142,22 +142,22 @@ keywords: ["contador água disparado", "conta água alta", "fuga água escondida
 
 **Passo a passo**:
 1. **Fechar todas torneiras**
-   - Cozinha, casa banho, exterior
-   - Máquinas lavar (não usar)
-   - Esquentador/caldeira (não usar)
+ - Cozinha, casa banho, exterior
+ - Máquinas lavar (não usar)
+ - Esquentador/caldeira (não usar)
 
 2. **Anotar leitura contador**
-   - Números pretos (m³)
-   - Ponteiros vermelhos (litros)
-   - Fotografar
+ - Números pretos (m³)
+ - Ponteiros vermelhos (litros)
+ - Fotografar
 
 3. **Esperar 1-2 horas**
-   - Não usar água
-   - Ninguém usa
+ - Não usar água
+ - Ninguém usa
 
 4. **Verificar contador novamente**
-   - Se mudou = **FUGA**
-   - Se igual = OK
+ - Se mudou = **FUGA**
+ - Se igual = OK
 
 **Resultado**:
 - Mudou muito (10+ litros) = Fuga grande

@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar **como escolher a torneira adequada**, instalação passo a passo, ferramentas necessárias, custos reais, e quando chamar um picheleiro certificado. Com mais de 15 anos de experiência em canalizações na região de Bragança, já instalámos milhares de torneiras.
 
-**📞 Quer substituir torneira? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Quer substituir torneira? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20quero%20substituir%20uma%20torneira.%20Podem%20ajudar%3F)**
 
 ---
@@ -497,28 +497,28 @@ Neste guia completo, vamos explicar **como escolher a torneira adequada**, insta
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Quanto tempo demora substituir torneira?**  
+**1. Quanto tempo demora substituir torneira?** 
 DIY: 1-2 horas (primeira vez), 30-60 min (com experiência). Profissional: 30-60 minutos.
 
-**2. Posso substituir torneira sozinho?**  
+**2. Posso substituir torneira sozinho?** 
 Sim, se substituição simples (1 furo, tubos flexíveis, acesso fácil). Siga instruções cuidadosamente.
 
-**3. Quanto custa substituir torneira em Bragança?**  
+**3. Quanto custa substituir torneira em Bragança?** 
 DIY: €70-200 (materiais). Profissional: €100-250 (completo com instalação).
 
-**4. Preciso fechar água de toda a casa?**  
+**4. Preciso fechar água de toda a casa?** 
 Não, se há registos locais (sob lavatório/pia). Caso contrário, sim.
 
-**5. Torneira nova goteja. É normal?**  
+**5. Torneira nova goteja. É normal?** 
 Não. Verifique aperto de ligações. Se persistir, pode ser defeito (troque em garantia).
 
-**6. Posso usar torneira imediatamente?**  
+**6. Posso usar torneira imediatamente?** 
 Sim, mas se aplicou silicone na base, aguarde 24h para secar completamente.
 
-**7. Tubos flexíveis ou rígidos?**  
+**7. Tubos flexíveis ou rígidos?** 
 Flexíveis são mais fáceis de instalar e mais versáteis. Rígidos são mais duráveis mas requerem medidas exatas.
 
-**8. Quanto dura uma torneira?**  
+**8. Quanto dura uma torneira?** 
 Qualidade básica: 5-10 anos. Média: 10-15 anos. Premium: 15-25 anos. Depende de uso e manutenção.
 
 ---

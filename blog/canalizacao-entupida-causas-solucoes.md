@@ -112,17 +112,17 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 1. Inspeção câmara (identificar causa)
 2. Desentupir
 3. Corrigir causa raiz:
-   - Substituir sanita
-   - Refazer canalização
-   - Remover objeto preso
+ - Substituir sanita
+ - Refazer canalização
+ - Remover objeto preso
 **Tempo:** 1-3 horas (conforme solução)
 
 **Custo detalhado:**
 - Inspeção câmara: 80-120€
 - Desentupimento: 60-100€
 - Correção causa:
-  - Nova sanita: 150-400€
-  - Refazer canalização: 200-600€
+ - Nova sanita: 150-400€
+ - Refazer canalização: 200-600€
 - **TOTAL: 290-820€**
 
 **Importante:** Resolver causa raiz evita entupimentos futuros.

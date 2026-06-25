@@ -10,20 +10,20 @@ metaTitle: "Preço Certificação Gás 2026 | Guia Completo"
 metaDescription: "Certificação gás: T1-T2 180€, T3-T4 250€, T4+ 320€. Obrigatória venda/arrendamento. Prazo 2-5 dias. Ligue 928 484 451!"
 keywords: ["preço certificação gás", "quanto custa certificação gás", "certificação gás obrigatória", "certitecna"]
 schema:
-  type: "HowTo"
-  name: "Como Obter Certificação Gás"
-  description: "Processo completo para obter certificação de instalação de gás em Portugal"
-  totalTime: "P3D"
-  estimatedCost:
-    currency: "EUR"
-    value: "180-320"
+ type: "HowTo"
+ name: "Como Obter Certificação Gás"
+ description: "Processo completo para obter certificação de instalação de gás em Portugal"
+ totalTime: "P3D"
+ estimatedCost:
+ currency: "EUR"
+ value: "180-320"
 faqSchema:
-  - question: "Quanto custa certificação gás?"
-    answer: "T1-T2: 180-220€, T3-T4: 250-280€, T4+: 320-350€. Inclui inspeção, termo responsabilidade e emissão certificado. Sem IVA."
-  - question: "Quanto tempo demora certificação gás?"
-    answer: "3-5 dias úteis se instalação conforme. 5-7 dias se precisar correções pequenas. 7-10 dias se correções grandes."
-  - question: "Certificação gás é obrigatória?"
-    answer: "Sim para venda, arrendamento, instalação nova ou alteração. Obrigatório por lei. Multa até 3740€."
+ - question: "Quanto custa certificação gás?"
+ answer: "T1-T2: 180-220€, T3-T4: 250-280€, T4+: 320-350€. Inclui inspeção, termo responsabilidade e emissão certificado. Sem IVA."
+ - question: "Quanto tempo demora certificação gás?"
+ answer: "3-5 dias úteis se instalação conforme. 5-7 dias se precisar correções pequenas. 7-10 dias se correções grandes."
+ - question: "Certificação gás é obrigatória?"
+ answer: "Sim para venda, arrendamento, instalação nova ou alteração. Obrigatório por lei. Multa até 3740€."
 ---
 
 # Preço Certificação Gás 2026 Trás-os-Montes

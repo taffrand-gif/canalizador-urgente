@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar as **5 causas principais** que fazem uma torneira gotejar, como identificar cada uma, e como arranjar (DIY ou profissional). Com mais de 15 anos de experiência em arranjos de canalizações na região de Bragança, já resolvemos milhares de torneiras a pingar.
 
-**📞 Torneira goteja e não consegue arranjar? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Torneira goteja e não consegue arranjar? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20minha%20torneira%20não%20para%20de%20gotejar.%20Podem%20ajudar%3F)**
 
 ---
@@ -235,43 +235,43 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
 **Passo a passo:**
 
 1. **Feche a água:**
-   - Feche registo sob o lavatório/pia
-   - Ou feche registo geral da casa
-   - Abra torneira para aliviar pressão
+ - Feche registo sob o lavatório/pia
+ - Ou feche registo geral da casa
+ - Abra torneira para aliviar pressão
 
 2. **Remova o manípulo:**
-   - Retire tampa decorativa (se existir)
-   - Desaperte parafuso central
-   - Puxe manípulo para cima
+ - Retire tampa decorativa (se existir)
+ - Desaperte parafuso central
+ - Puxe manípulo para cima
 
 3. **Desaperte a porca:**
-   - Use chave inglesa
-   - Gire sentido anti-horário
-   - Proteja cromado com pano
+ - Use chave inglesa
+ - Gire sentido anti-horário
+ - Proteja cromado com pano
 
 4. **Retire o eixo:**
-   - Puxe eixo completo para fora
-   - Observe junta na extremidade
+ - Puxe eixo completo para fora
+ - Observe junta na extremidade
 
 5. **Substitua a junta:**
-   - Remova junta antiga (pode estar colada)
-   - Limpe assento do eixo
-   - Coloque junta nova
-   - Certifique-se que encaixa perfeitamente
+ - Remova junta antiga (pode estar colada)
+ - Limpe assento do eixo
+ - Coloque junta nova
+ - Certifique-se que encaixa perfeitamente
 
 6. **Remonte:**
-   - Insira eixo no corpo
-   - Aperte porca (firme mas sem exagero)
-   - Recoloque manípulo
-   - Aperte parafuso
+ - Insira eixo no corpo
+ - Aperte porca (firme mas sem exagero)
+ - Recoloque manípulo
+ - Aperte parafuso
 
 7. **Teste:**
-   - Abra água lentamente
-   - Verifique se há fugas
-   - Teste abertura/fecho várias vezes
+ - Abra água lentamente
+ - Verifique se há fugas
+ - Teste abertura/fecho várias vezes
 
-**Tempo:** 15-30 minutos  
-**Dificuldade:** Fácil  
+**Tempo:** 15-30 minutos 
+**Dificuldade:** Fácil 
 **Custo:** €0.50-2
 
 ### Arranjo 2: Substituir Cartucho (Torneira Monocomando)
@@ -284,43 +284,43 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
 **Passo a passo:**
 
 1. **Feche a água:**
-   - Feche registos sob o lavatório
-   - Abra torneira para aliviar pressão
+ - Feche registos sob o lavatório
+ - Abra torneira para aliviar pressão
 
 2. **Remova a alavanca:**
-   - Retire tampa decorativa (frontal ou superior)
-   - Desaperte parafuso Allen ou Phillips
-   - Puxe alavanca para cima
+ - Retire tampa decorativa (frontal ou superior)
+ - Desaperte parafuso Allen ou Phillips
+ - Puxe alavanca para cima
 
 3. **Remova a cúpula decorativa:**
-   - Desaperte sentido anti-horário (à mão ou com chave)
+ - Desaperte sentido anti-horário (à mão ou com chave)
 
 4. **Remova a porca de fixação:**
-   - Use chave inglesa
-   - Desaperte sentido anti-horário
+ - Use chave inglesa
+ - Desaperte sentido anti-horário
 
 5. **Retire o cartucho:**
-   - Puxe cartucho para cima (pode estar apertado)
-   - Observe orientação (frente/trás)
+ - Puxe cartucho para cima (pode estar apertado)
+ - Observe orientação (frente/trás)
 
 6. **Instale cartucho novo:**
-   - Limpe interior do corpo
-   - Insira cartucho na mesma orientação
-   - Certifique-se que encaixa completamente
+ - Limpe interior do corpo
+ - Insira cartucho na mesma orientação
+ - Certifique-se que encaixa completamente
 
 7. **Remonte:**
-   - Aperte porca de fixação
-   - Recoloque cúpula decorativa
-   - Recoloque alavanca
-   - Aperte parafuso
+ - Aperte porca de fixação
+ - Recoloque cúpula decorativa
+ - Recoloque alavanca
+ - Aperte parafuso
 
 8. **Teste:**
-   - Abra água lentamente
-   - Teste quente/frio
-   - Verifique se não goteja
+ - Abra água lentamente
+ - Teste quente/frio
+ - Verifique se não goteja
 
-**Tempo:** 30-60 minutos  
-**Dificuldade:** Média  
+**Tempo:** 30-60 minutos 
+**Dificuldade:** Média 
 **Custo:** €15-45
 
 **⚠️ IMPORTANTE:** 
@@ -345,8 +345,8 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
 6. Instale junta nova
 7. Remonte torneira
 
-**Tempo:** 30-45 minutos  
-**Dificuldade:** Média  
+**Tempo:** 30-45 minutos 
+**Dificuldade:** Média 
 **Custo:** €20-40 (ferramenta) + €0.50-2 (junta)
 
 **Alternativa:** Chame picheleiro (€40-80 completo)
@@ -449,28 +449,28 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Quanto desperdiça uma torneira que goteja?**  
+**1. Quanto desperdiça uma torneira que goteja?** 
 1 gota/segundo = 7.300 litros/ano = €22-73 na fatura. Fio fino = 36.500 litros/ano = €110-365.
 
-**2. Posso arranjar torneira sozinho?**  
+**2. Posso arranjar torneira sozinho?** 
 Sim, substituir junta é fácil (15-30 min). Substituir cartucho é médio (30-60 min). Se não se sentir confortável, chame picheleiro.
 
-**3. Quanto custa arranjar torneira em Bragança?**  
+**3. Quanto custa arranjar torneira em Bragança?** 
 DIY: €0.50-45 (materiais). Profissional: €30-100 (completo com mão de obra).
 
-**4. Por que torneira goteja só com água quente?**  
+**4. Por que torneira goteja só com água quente?** 
 Junta de água quente deteriorada (calor acelera desgaste). Substitua junta do lado quente.
 
-**5. Substitui junta mas continua a gotejar. Porquê?**  
+**5. Substitui junta mas continua a gotejar. Porquê?** 
 Assento da válvula danificado (sulco ou corrosão). Precisa polir assento ou substituir torneira.
 
-**6. Todas as torneiras gotejam. O que fazer?**  
+**6. Todas as torneiras gotejam. O que fazer?** 
 Pressão de água excessiva (>4 bar). Instale redutor de pressão (€80-200).
 
-**7. Quanto tempo dura uma junta nova?**  
+**7. Quanto tempo dura uma junta nova?** 
 5-10 anos (depende de qualidade, uso, dureza da água). Em Trás-os-Montes (água dura): 5-7 anos.
 
-**8. Vale a pena arranjar torneira antiga?**  
+**8. Vale a pena arranjar torneira antiga?** 
 Se <15 anos e boa qualidade: sim. Se >15 anos ou baixa qualidade: substitua (torneiras modernas poupam água).
 
 ---

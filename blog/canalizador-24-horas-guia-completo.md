@@ -10,20 +10,20 @@ metaTitle: "Canalizador Atendimento 24h/7d Trás-os-Montes | Guia 2026"
 metaDescription: "Canalizador 24h: 15-90min resposta, 65-135€/h conforme horário. Fugas, entupimentos, avarias urgentes. Disponível 365 dias. Ligue 928 484 451!"
 keywords: ["canalizador Atendimento 24h/7d", "canalizador urgente", "canalizador noite", "emergência canalização"]
 schema:
-  type: "HowTo"
-  name: "Como Chamar Canalizador Atendimento 24h/7d em Urgência"
-  description: "Guia passo a passo para chamar canalizador Atendimento 24h/7d em caso de urgência de canalização"
-  totalTime: "PT15M"
-  estimatedCost:
-    currency: "EUR"
-    value: "65-135"
+ type: "HowTo"
+ name: "Como Chamar Canalizador Atendimento 24h/7d em Urgência"
+ description: "Guia passo a passo para chamar canalizador Atendimento 24h/7d em caso de urgência de canalização"
+ totalTime: "PT15M"
+ estimatedCost:
+ currency: "EUR"
+ value: "65-135"
 faqSchema:
-  - question: "Quanto tempo demora canalizador 24h a chegar?"
-    answer: "15-40 minutos em Bragança, 30-70 minutos em Mirandela, até 90 minutos em zonas mais afastadas de Trás-os-Montes."
-  - question: "Quanto custa canalizador Atendimento 24h/7d?"
-    answer: "Dias úteis: 65€/h, Sábados: 80€/h, Domingos/feriados: 90€/h, Noite (20h-8h): 135€/h. Mais deslocação 30-60€."
-  - question: "Canalizador 24h trabalha feriados?"
-    answer: "Sim, 365 dias por ano incluindo Natal, Ano Novo e todos os feriados. Preços iguais a domingos."
+ - question: "Quanto tempo demora canalizador 24h a chegar?"
+ answer: "15-40 minutos em Bragança, 30-70 minutos em Mirandela, até 90 minutos em zonas mais afastadas de Trás-os-Montes."
+ - question: "Quanto custa canalizador Atendimento 24h/7d?"
+ answer: "Dias úteis: 65€/h, Sábados: 80€/h, Domingos/feriados: 90€/h, Noite (20h-8h): 135€/h. Mais deslocação 30-60€."
+ - question: "Canalizador 24h trabalha feriados?"
+ answer: "Sim, 365 dias por ano incluindo Natal, Ano Novo e todos os feriados. Preços iguais a domingos."
 ---
 
 # Canalizador Atendimento 24h/7d Trás-os-Montes: Guia Completo 2026

@@ -6,13 +6,13 @@ date: 2026-03-04
 author: Norte Reparos
 excerpt: "Sifão do lava-loiça a pingar ou entupido? Aprenda a trocar sozinho Atendimento prioritário com este guia passo a passo. Descubra os 3 tipos de sifões, ferramentas necessárias, custos (€8-25) e quando chamar picheleiro."
 keywords: 
-  - trocar sifão lava-loiça
-  - sifão entupido
-  - arranjar sifão cozinha
-  - picheleiro Trás-os-Montes
-  - fuga sifão
-  - substituir sifão
-  - sifão garrafa
+ - trocar sifão lava-loiça
+ - sifão entupido
+ - arranjar sifão cozinha
+ - picheleiro Trás-os-Montes
+ - fuga sifão
+ - substituir sifão
+ - sifão garrafa
 priority: HIGH DEMAND
 ---
 
@@ -219,24 +219,24 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 **Passo a passo:**
 
 1. **Ligue ao lava-loiça (em cima):**
-   - Coloque a porca grande no tubo do lava-loiça (rosca para cima)
-   - Coloque a junta cónica (lado largo para cima)
-   - Encaixe o sifão no tubo
-   - Suba o sifão e aperte a porca **à mão** (não force)
+ - Coloque a porca grande no tubo do lava-loiça (rosca para cima)
+ - Coloque a junta cónica (lado largo para cima)
+ - Encaixe o sifão no tubo
+ - Suba o sifão e aperte a porca **à mão** (não force)
 
 2. **Ligue ao ralo (atrás):**
-   - Encaixe o tubo do sifão no ralo da parede
-   - Coloque a junta de borracha
-   - Aperte a porca **à mão**
+ - Encaixe o tubo do sifão no ralo da parede
+ - Coloque a junta de borracha
+ - Aperte a porca **à mão**
 
 3. **Ajuste a posição:**
-   - Certifique-se que o sifão está **direito** (não torto)
-   - Ajuste o comprimento (se for extensível)
+ - Certifique-se que o sifão está **direito** (não torto)
+ - Ajuste o comprimento (se for extensível)
 
 4. **Aperte bem (mas não demais):**
-   - Aperte as porcas **à mão com firmeza**
-   - Se necessário, dê 1/4 de volta extra com chave inglesa
-   - **NÃO aperte demais** — pode partir a rosca ou esmagar a junta
+ - Aperte as porcas **à mão com firmeza**
+ - Se necessário, dê 1/4 de volta extra com chave inglesa
+ - **NÃO aperte demais** — pode partir a rosca ou esmagar a junta
 
 **Dica:** Sifões modernos de plástico **não precisam de chave** — apertar à mão é suficiente.
 
@@ -248,8 +248,8 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 1. **Encha o lava-loiça** com água (até meio)
 2. **Retire o tampão** e deixe a água escorrer
 3. **Observe o sifão** enquanto a água desce:
-   - Há pingos? → Aperte mais a porca
-   - Água escorre pela junta? → Pode precisar de mais fita de teflon
+ - Há pingos? → Aperte mais a porca
+ - Água escorre pela junta? → Pode precisar de mais fita de teflon
 4. **Seque o sifão** e espere 5 minutos
 5. **Verifique novamente** se está seco
 
@@ -483,12 +483,12 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 
 **Norte Reparos — Picheleiro Certificado**
 
-✅ Instalação e substituição de sifões  
-✅ Arranjo de fugas  
-✅ Desentupimentos  
-✅ Manutenção preventiva  
-✅ Orçamento grátis sem compromisso  
-✅ Urgências 24h/7 dias  
+✅ Instalação e substituição de sifões 
+✅ Arranjo de fugas 
+✅ Desentupimentos 
+✅ Manutenção preventiva 
+✅ Orçamento grátis sem compromisso 
+✅ Urgências 24h/7 dias 
 
 **📞 Ligue já: [928 484 451](tel:+351928484451)**
 
@@ -502,11 +502,11 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 
 Trocar o sifão do lava-loiça é uma das **arranjos mais simples** que pode fazer em casa:
 
-✅ **Não precisa de ferramentas** (sifões modernos desenroscam à mão)  
-✅ **Demora apenas 30 minutos**  
-✅ **Custa €13-30** (vs €62-135 com picheleiro)  
-✅ **Resolve fugas, entupimentos e maus cheiros**  
-✅ **Qualquer pessoa consegue** (mesmo sem experiência)  
+✅ **Não precisa de ferramentas** (sifões modernos desenroscam à mão) 
+✅ **Demora apenas 30 minutos** 
+✅ **Custa €13-30** (vs €62-135 com picheleiro) 
+✅ **Resolve fugas, entupimentos e maus cheiros** 
+✅ **Qualquer pessoa consegue** (mesmo sem experiência) 
 
 **Ordem de trabalho:**
 1. Parranjar área (5 min)

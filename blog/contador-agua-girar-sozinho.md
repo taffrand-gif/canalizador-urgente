@@ -23,7 +23,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 - ✅ Como prevenir fugas futuras
 - ✅ Quanto desperdiça por dia
 
-**📞 Picheleiro 24h (Deteção de Fugas):** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h (Deteção de Fugas):** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp Urgente:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20contador%20de%20água%20gira%20sozinho%20e%20preciso%20de%20ajuda!)
 
 ---
@@ -50,7 +50,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 
 **4. Interprete resultado**
 
-✅ **Contador NÃO mexeu:** Sem fuga (problema resolvido!)  
+✅ **Contador NÃO mexeu:** Sem fuga (problema resolvido!) 
 ❌ **Contador mexeu:** TEM FUGA - continue leitura
 
 **💡 Dica:** Muitos contadores têm "estrela" ou "roda" que gira mesmo com consumo mínimo - facilita deteção.
@@ -195,9 +195,9 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 2. **Ouça atentamente** em cada divisão
 3. **Procure som** de água a correr
 4. **Verifique:**
-   - Paredes
-   - Pavimento
-   - Teto (se tiver andar acima)
+ - Paredes
+ - Pavimento
+ - Teto (se tiver andar acima)
 
 **Som de água = fuga próxima**
 
@@ -305,8 +305,8 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 - Mangueiras (rachadas?)
 - Contador (gira com tudo fechado?)
 
-**Frequência:** 1x/ano  
-**Tempo:** 30 minutos  
+**Frequência:** 1x/ano 
+**Tempo:** 30 minutos 
 **Custo:** €0
 
 ---
@@ -325,7 +325,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 
 ### 3. Regular Pressão de Água ⭐⭐⭐⭐
 
-**Pressão ideal:** 2,5-3 bar  
+**Pressão ideal:** 2,5-3 bar 
 **Pressão alta (>4 bar):** Causa fugas
 
 **Solução:** Instalar redutor de pressão (€120-220)
@@ -403,16 +403,16 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 
 ### 📞 Precisa de Detetar e Arranjar Fuga?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Deteção profissional de fugas (equipamento especializado)  
-✅ Arranjo de fugas invisíveis  
-✅ Substituição de autoclismos e torneiras  
-✅ Instalação de redutores de pressão  
-✅ Orçamento grátis sem compromisso  
-✅ Emergências 24h/7 dias  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Deteção profissional de fugas (equipamento especializado) 
+✅ Arranjo de fugas invisíveis 
+✅ Substituição de autoclismos e torneiras 
+✅ Instalação de redutores de pressão 
+✅ Orçamento grátis sem compromisso 
+✅ Emergências 24h/7 dias 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20contador%20de%20água%20gira%20sozinho%20e%20preciso%20de%20ajuda!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20contador%20de%20água%20gira%20sozinho%20e%20preciso%20de%20ajuda!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

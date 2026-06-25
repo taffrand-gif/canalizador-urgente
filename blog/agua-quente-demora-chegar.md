@@ -23,7 +23,7 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 - ✅ Quanto pode poupar (água + energia)
 - ✅ Melhor solução para cada caso
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20água%20quente%20demora%20muito%20a%20chegar!)
 
 ---
@@ -148,9 +148,9 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 
 ### Solução 1: Isolar Canos ⭐⭐⭐⭐⭐
 
-**Eficácia:** Reduz tempo 30-40%  
-**Custo:** €50-200 (DIY) ou €150-400 (profissional)  
-**Dificuldade:** Fácil (DIY)  
+**Eficácia:** Reduz tempo 30-40% 
+**Custo:** €50-200 (DIY) ou €150-400 (profissional) 
+**Dificuldade:** Fácil (DIY) 
 **ROI:** 1-2 anos
 
 **Como funciona:** Isolamento mantém água quente nos canos por mais tempo.
@@ -178,9 +178,9 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 
 ### Solução 2: Bomba de Recirculação ⭐⭐⭐⭐⭐
 
-**Eficácia:** Água quente instantânea (0-5 segundos)  
-**Custo:** €300-800 (bomba + instalação)  
-**Dificuldade:** Profissional  
+**Eficácia:** Água quente instantânea (0-5 segundos) 
+**Custo:** €300-800 (bomba + instalação) 
+**Dificuldade:** Profissional 
 **ROI:** 3-5 anos
 
 **Como funciona:** Bomba mantém água quente circulando constantemente ou liga quando deteta uso.
@@ -213,9 +213,9 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 
 ### Solução 3: Termoacumulador Adicional ⭐⭐⭐⭐
 
-**Eficácia:** Água quente instantânea no ponto de uso  
-**Custo:** €200-500 (termoacumulador 30-50L + instalação)  
-**Dificuldade:** Profissional  
+**Eficácia:** Água quente instantânea no ponto de uso 
+**Custo:** €200-500 (termoacumulador 30-50L + instalação) 
+**Dificuldade:** Profissional 
 **ROI:** 2-4 anos
 
 **Como funciona:** Termoacumulador pequeno perto do ponto de uso mantém água quente sempre disponível.
@@ -241,9 +241,9 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 
 ### Solução 4: Substituir Esquentador por Termoacumulador ⭐⭐⭐⭐
 
-**Eficácia:** Água quente sempre disponível  
-**Custo:** €400-1.000 (termoacumulador 80-150L + instalação)  
-**Dificuldade:** Profissional  
+**Eficácia:** Água quente sempre disponível 
+**Custo:** €400-1.000 (termoacumulador 80-150L + instalação) 
+**Dificuldade:** Profissional 
 **ROI:** 3-6 anos
 
 **Como funciona:** Termoacumulador mantém grande volume de água quente 24h.
@@ -268,9 +268,9 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 
 ### Solução 5: Reduzir Distância (Reconfigurar) ⭐⭐⭐
 
-**Eficácia:** Reduz tempo 50-70%  
-**Custo:** €500-1.500 (mover esquentador/termoacumulador)  
-**Dificuldade:** Profissional  
+**Eficácia:** Reduz tempo 50-70% 
+**Custo:** €500-1.500 (mover esquentador/termoacumulador) 
+**Dificuldade:** Profissional 
 **ROI:** 5-10 anos
 
 **Como funciona:** Mover fonte de água quente para mais perto dos pontos de uso.
@@ -332,40 +332,40 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 
 ### Cenário 1: Distância Curta (5-10m)
 
-**Problema:** Água demora 30-60 segundos  
-**Melhor solução:** Isolar canos (€50-200)  
+**Problema:** Água demora 30-60 segundos 
+**Melhor solução:** Isolar canos (€50-200) 
 **Resultado:** Reduz para 15-30 segundos
 
 ---
 
 ### Cenário 2: Distância Média (10-15m)
 
-**Problema:** Água demora 60-90 segundos  
-**Melhor solução:** Isolar canos + termoacumulador adicional (€250-600)  
+**Problema:** Água demora 60-90 segundos 
+**Melhor solução:** Isolar canos + termoacumulador adicional (€250-600) 
 **Resultado:** Água quente instantânea
 
 ---
 
 ### Cenário 3: Distância Grande (15-20m)
 
-**Problema:** Água demora 90-180 segundos  
-**Melhor solução:** Bomba de recirculação (€300-800)  
+**Problema:** Água demora 90-180 segundos 
+**Melhor solução:** Bomba de recirculação (€300-800) 
 **Resultado:** Água quente em 0-10 segundos
 
 ---
 
 ### Cenário 4: Casa Grande, Múltiplas Casas de Banho
 
-**Problema:** Várias torneiras longe da fonte  
-**Melhor solução:** Bomba recirculação + isolar canos (€400-1.000)  
+**Problema:** Várias torneiras longe da fonte 
+**Melhor solução:** Bomba recirculação + isolar canos (€400-1.000) 
 **Resultado:** Água quente instantânea em toda a casa
 
 ---
 
 ### Cenário 5: Orçamento Limitado
 
-**Problema:** Quer melhorar mas orçamento apertado  
-**Melhor solução:** Isolar canos DIY (€50-100)  
+**Problema:** Quer melhorar mas orçamento apertado 
+**Melhor solução:** Isolar canos DIY (€50-100) 
 **Resultado:** Melhoria 30-40%, ROI 1 ano
 
 ---
@@ -406,23 +406,23 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 
 **Água quente que demora** não é apenas incómodo - desperdiça água (€35-100/ano), energia (€50-100/ano) e tempo (122 horas/ano).
 
-**Solução mais simples:** Isolar canos (€50-200, DIY, ROI 1 ano)  
-**Solução mais eficaz:** Bomba recirculação (€300-800, água instantânea)  
+**Solução mais simples:** Isolar canos (€50-200, DIY, ROI 1 ano) 
+**Solução mais eficaz:** Bomba recirculação (€300-800, água instantânea) 
 **Melhor custo-benefício:** Isolar canos + termoacumulador adicional (€250-600)
 
 **Comece por isolar canos** - investimento mínimo, resultado imediato!
 
 ### 📞 Precisa de Ajuda Profissional?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Isolamento de canos  
-✅ Instalação de bombas de recirculação  
-✅ Instalação de termoacumuladores  
-✅ Reconfiguração de instalações  
-✅ Orçamento grátis sem compromisso  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Isolamento de canos 
+✅ Instalação de bombas de recirculação 
+✅ Instalação de termoacumuladores 
+✅ Reconfiguração de instalações 
+✅ Orçamento grátis sem compromisso 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20água%20quente%20demora%20muito%20a%20chegar!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20água%20quente%20demora%20muito%20a%20chegar!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

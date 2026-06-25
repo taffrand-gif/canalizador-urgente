@@ -6,13 +6,13 @@ date: 2026-03-04
 author: Norte Reparos
 excerpt: "Manchas de humidade na parede? Pode ser uma fuga de água escondida. Descubra os 6 sinais de alerta, como detetar fugas invisíveis e quanto custa arranjar antes que cause danos graves na sua casa."
 keywords: 
-  - fuga de água na parede
-  - humidade na parede
-  - detetar fuga escondida
-  - picheleiro Trás-os-Montes
-  - arranjar fuga parede
-  - manchas humidade
-  - cano rebentado parede
+ - fuga de água na parede
+ - humidade na parede
+ - detetar fuga escondida
+ - picheleiro Trás-os-Montes
+ - arranjar fuga parede
+ - manchas humidade
+ - cano rebentado parede
 priority: CRITICAL
 ---
 
@@ -143,8 +143,8 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 2. Anote o número do contador
 3. Não use água durante 2-3 horas
 4. Volte ao contador:
-   - **Número mudou?** → TEM FUGA
-   - **Número igual?** → Sem fuga ativa
+ - **Número mudou?** → TEM FUGA
+ - **Número igual?** → Sem fuga ativa
 
 **Precisão:** 95% — método mais fiável.
 
@@ -422,12 +422,12 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **Norte Reparos — Picheleiro Certificado**
 
-✅ Inspeção termográfica (deteta fugas escondidas)  
-✅ Arranjo de fugas em paredes, tetos, pisos  
-✅ Substituição de canalização antiga  
-✅ Tratamento de humidade e bolor  
-✅ Orçamento grátis sem compromisso  
-✅ Urgências 24h/7 dias  
+✅ Inspeção termográfica (deteta fugas escondidas) 
+✅ Arranjo de fugas em paredes, tetos, pisos 
+✅ Substituição de canalização antiga 
+✅ Tratamento de humidade e bolor 
+✅ Orçamento grátis sem compromisso 
+✅ Urgências 24h/7 dias 
 
 **📞 Ligue já: [928 484 451](tel:+351928484451)**
 

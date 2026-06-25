@@ -77,7 +77,7 @@ Todo ralo deve ter um **sifão** (curva em U no tubo) que:
 - Em casas de férias: despeje óleo alimentar usado no ralo antes de sair (evapora mais devagar)
 - Ou tape o ralo com plástico + fita adesiva
 
-**Custo:** Grátis  
+**Custo:** Grátis 
 **Tempo:** 2 minutos
 
 ### Causa 2: Sifão Sujo ou Entupido (30% dos casos)
@@ -112,42 +112,42 @@ Gordura, cabelos, restos de comida e sabão acumulam no sifão, apodrecem e cria
 1. **Coloque balde debaixo do sifão**
 
 2. **Desaperte o sifão:**
-   - Desenrosque as porcas à mão (ou com alicate se apertadas)
-   - Retire o sifão (vai sair água suja)
+ - Desenrosque as porcas à mão (ou com alicate se apertadas)
+ - Retire o sifão (vai sair água suja)
 
 3. **Limpe o sifão:**
-   - Remova resíduos sólidos
-   - Lave com água quente + detergente
-   - Use escova para remover gordura
-   - Enxague bem
+ - Remova resíduos sólidos
+ - Lave com água quente + detergente
+ - Use escova para remover gordura
+ - Enxague bem
 
 4. **Limpe as roscas:**
-   - Remova resíduos das roscas
-   - Verifique juntas de borracha (substituir se gastas)
+ - Remova resíduos das roscas
+ - Verifique juntas de borracha (substituir se gastas)
 
 5. **Volte a montar:**
-   - Coloque o sifão de volta
-   - Aperte as porcas à mão (firme mas sem forçar)
-   - Abra a água e verifique fugas
+ - Coloque o sifão de volta
+ - Aperte as porcas à mão (firme mas sem forçar)
+ - Abra a água e verifique fugas
 
 **Para ralo de chuveiro/banheira:**
 
 1. **Retire a grelha do ralo**
 
 2. **Remova resíduos visíveis:**
-   - Cabelos, sabão acumulado
-   - Use gancho improvisado (arame dobrado)
+ - Cabelos, sabão acumulado
+ - Use gancho improvisado (arame dobrado)
 
 3. **Despeje solução de limpeza:**
-   - Água fervente (2 litros)
-   - Ou bicarbonato (1 chávena) + vinagre (1 chávena)
-   - Aguarde 30 minutos
-   - Enxague com água quente
+ - Água fervente (2 litros)
+ - Ou bicarbonato (1 chávena) + vinagre (1 chávena)
+ - Aguarde 30 minutos
+ - Enxague com água quente
 
 4. **Volte a colocar a grelha**
 
-**Custo:** Grátis (ou €2-5 se precisar juntas novas)  
-**Tempo:** 20-30 minutos  
+**Custo:** Grátis (ou €2-5 se precisar juntas novas) 
+**Tempo:** 20-30 minutos 
 **Frequência:** A cada 3-6 meses
 
 ### Causa 3: Falta de Ventilação (Coluna de Ventilação) - 15% dos casos
@@ -295,20 +295,20 @@ Se métodos anteriores não resolverem:
 ### Cuidados Diários
 
 **Cozinha:**
-✅ Não despeje gordura no ralo (solidifica e entope)  
-✅ Use filtro no ralo (retém resíduos)  
-✅ Enxague com água quente após lavar louça  
+✅ Não despeje gordura no ralo (solidifica e entope) 
+✅ Use filtro no ralo (retém resíduos) 
+✅ Enxague com água quente após lavar louça 
 ✅ Limpe restos de comida antes de lavar
 
 **Casa de banho:**
-✅ Use grelha com filtro (retém cabelos)  
-✅ Remova cabelos após cada banho  
-✅ Enxague bem sabão e champô  
+✅ Use grelha com filtro (retém cabelos) 
+✅ Remova cabelos após cada banho 
+✅ Enxague bem sabão e champô 
 ✅ Deixe água correr 30 segundos após banho
 
 **Todos os ralos:**
-✅ Use ralos pouco usados semanalmente  
-✅ Despeje água quente semanalmente  
+✅ Use ralos pouco usados semanalmente 
+✅ Despeje água quente semanalmente 
 ✅ Não despeje produtos químicos agressivos
 
 ### Manutenção Regular
@@ -429,15 +429,15 @@ Mau cheiro no ralo tem **causas identificáveis e soluções eficazes**:
 
 **Norte Reparos — Picheleiro Certificado em Bragança**
 
-📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
+📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20mau%20cheiro%20nos%20ralos.%20Pode%20ajudar%3F)**
 
-✅ Diagnóstico preciso Atendimento prioritário  
-✅ Solução definitiva (não provisória)  
-✅ Limpeza profunda de sifões e tubagem  
-✅ Instalação de ventilação se necessário  
-✅ Garantia 1 ano no serviço  
-✅ Técnico em sua casa em 30-45 minutos  
+✅ Diagnóstico preciso Atendimento prioritário 
+✅ Solução definitiva (não provisória) 
+✅ Limpeza profunda de sifões e tubagem 
+✅ Instalação de ventilação se necessário 
+✅ Garantia 1 ano no serviço 
+✅ Técnico em sua casa em 30-45 minutos 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não viva com mau cheiro!** É problema de saúde e conforto. Contacte-nos já para solução definitiva.

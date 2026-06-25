@@ -389,7 +389,7 @@ keywords: ["fuga gás", "cheiro gás", "emergência gás", "picheleiro urgente",
 
 ### Certificação Oficial
 
-- Certificado gás DGEG
+- Certificado gás 
 - Seguro responsabilidade civil
 - 10+ anos experiência
 - Todas as marcas

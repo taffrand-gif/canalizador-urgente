@@ -82,46 +82,46 @@ O cartucho cerâmico interno desgasta-se com o tempo. Discos cerâmicos perdem v
 **Passo a passo:**
 
 1. **Feche a água**
-   - Válvulas debaixo do lava-loiça
-   - Ou água geral da casa
+ - Válvulas debaixo do lava-loiça
+ - Ou água geral da casa
 
 2. **Remova a alavanca:**
-   - Procure parafuso (geralmente escondido sob tampa decorativa)
-   - Levante a tampa com chave de fendas
-   - Desaperte o parafuso (Allen ou Phillips)
-   - Puxe a alavanca para cima
+ - Procure parafuso (geralmente escondido sob tampa decorativa)
+ - Levante a tampa com chave de fendas
+ - Desaperte o parafuso (Allen ou Phillips)
+ - Puxe a alavanca para cima
 
 3. **Remova a cúpula decorativa:**
-   - Desenrosque à mão ou com pano (para não riscar)
+ - Desenrosque à mão ou com pano (para não riscar)
 
 4. **Remova a porca de fixação:**
-   - Use alicate de pressão ou chave de canos
-   - Rode no sentido contrário aos ponteiros do relógio
+ - Use alicate de pressão ou chave de canos
+ - Rode no sentido contrário aos ponteiros do relógio
 
 5. **Retire o cartucho velho:**
-   - Puxe para cima (pode estar apertado)
-   - Use alicate se necessário
+ - Puxe para cima (pode estar apertado)
+ - Use alicate se necessário
 
 6. **Instale o cartucho novo:**
-   - Verifique que juntas estão no lugar
-   - Insira no corpo da torneira
-   - Alinhe as patilhas (geralmente há guias)
-   - Empurre até ao fundo
+ - Verifique que juntas estão no lugar
+ - Insira no corpo da torneira
+ - Alinhe as patilhas (geralmente há guias)
+ - Empurre até ao fundo
 
 7. **Volte a montar:**
-   - Aperte a porca de fixação
-   - Coloque a cúpula decorativa
-   - Coloque a alavanca
-   - Aperte o parafuso
-   - Coloque a tampa decorativa
+ - Aperte a porca de fixação
+ - Coloque a cúpula decorativa
+ - Coloque a alavanca
+ - Aperte o parafuso
+ - Coloque a tampa decorativa
 
 8. **Teste:**
-   - Abra a água
-   - Teste a torneira
-   - Verifique que não pinga
+ - Abra a água
+ - Teste a torneira
+ - Verifique que não pinga
 
-**Custo DIY:** €15-40 (cartucho)  
-**Custo profissional:** €60-120 (cartucho + mão de obra)  
+**Custo DIY:** €15-40 (cartucho) 
+**Custo profissional:** €60-120 (cartucho + mão de obra) 
 **Tempo:** 30-45 minutos (primeira vez)
 
 ### Causa 2: Vedante Gasto (Bicomando) - 30% dos casos
@@ -148,35 +148,35 @@ Vedante de borracha na válvula desgasta-se, endurece ou parte-se com o tempo e 
 1. **Feche a água**
 
 2. **Remova a cabeça da torneira:**
-   - Retire a tampa decorativa (quente/fria)
-   - Desaperte o parafuso
-   - Desenrosque a cabeça (rode no sentido contrário aos ponteiros)
+ - Retire a tampa decorativa (quente/fria)
+ - Desaperte o parafuso
+ - Desenrosque a cabeça (rode no sentido contrário aos ponteiros)
 
 3. **Retire o vedante velho:**
-   - Está no fundo da válvula
-   - Pode estar colado (use chave de fendas para soltar)
+ - Está no fundo da válvula
+ - Pode estar colado (use chave de fendas para soltar)
 
 4. **Limpe a sede da válvula:**
-   - Remova calcário com vinagre
-   - Seque bem
+ - Remova calcário com vinagre
+ - Seque bem
 
 5. **Instale o vedante novo:**
-   - Coloque o vedante no lugar
-   - Certifique-se que encaixa bem
+ - Coloque o vedante no lugar
+ - Certifique-se que encaixa bem
 
 6. **Volte a montar:**
-   - Enrosque a cabeça da torneira
-   - Aperte bem (mas sem forçar demais)
-   - Coloque o parafuso
-   - Coloque a tampa decorativa
+ - Enrosque a cabeça da torneira
+ - Aperte bem (mas sem forçar demais)
+ - Coloque o parafuso
+ - Coloque a tampa decorativa
 
 7. **Teste:**
-   - Abra a água
-   - Teste a torneira
-   - Verifique que não pinga
+ - Abra a água
+ - Teste a torneira
+ - Verifique que não pinga
 
-**Custo DIY:** €1-10 (vedantes)  
-**Custo profissional:** €40-80 (vedantes + mão de obra)  
+**Custo DIY:** €1-10 (vedantes) 
+**Custo profissional:** €40-80 (vedantes + mão de obra) 
 **Tempo:** 20-30 minutos
 
 ### Causa 3: Junta de Base Gasta - 15% dos casos
@@ -202,40 +202,40 @@ Junta de borracha entre a torneira e o lava-loiça desgastou-se ou secou.
 1. **Feche a água**
 
 2. **Desligue os tubos flexíveis:**
-   - Debaixo do lava-loiça
-   - Desaperte com chave inglesa
-   - Tenha balde à mão (vai pingar)
+ - Debaixo do lava-loiça
+ - Desaperte com chave inglesa
+ - Tenha balde à mão (vai pingar)
 
 3. **Remova a porca de fixação:**
-   - Por baixo do lava-loiça
-   - Use chave de bacia ou chave de canos
-   - Pode estar muito apertada
+ - Por baixo do lava-loiça
+ - Use chave de bacia ou chave de canos
+ - Pode estar muito apertada
 
 4. **Levante a torneira:**
-   - Puxe para cima
-   - Retire a junta velha
+ - Puxe para cima
+ - Retire a junta velha
 
 5. **Limpe a superfície:**
-   - Remova resíduos de silicone/junta velha
-   - Seque bem
+ - Remova resíduos de silicone/junta velha
+ - Seque bem
 
 6. **Instale junta nova:**
-   - Coloque junta nova na base da torneira
-   - Ou aplique cordão de silicone sanitário
+ - Coloque junta nova na base da torneira
+ - Ou aplique cordão de silicone sanitário
 
 7. **Volte a montar:**
-   - Insira a torneira no furo
-   - Aperte a porca por baixo
-   - Ligue os tubos flexíveis
-   - Limpe excesso de silicone
+ - Insira a torneira no furo
+ - Aperte a porca por baixo
+ - Ligue os tubos flexíveis
+ - Limpe excesso de silicone
 
 8. **Teste:**
-   - Abra a água
-   - Deixe correr 5 minutos
-   - Verifique que não pinga pela base
+ - Abra a água
+ - Deixe correr 5 minutos
+ - Verifique que não pinga pela base
 
-**Custo DIY:** €2-10  
-**Custo profissional:** €50-100  
+**Custo DIY:** €2-10 
+**Custo profissional:** €50-100 
 **Tempo:** 30-60 minutos
 
 ### Causa 4: Pressão de Água Excessiva - 8% dos casos
@@ -268,9 +268,9 @@ Pressão excessiva força água através de vedações, mesmo fechadas. Comum em
 **Requer picheleiro certificado.**
 
 **Benefícios:**
-✅ Torneiras param de pingar  
-✅ Menos desgaste em aparelhos  
-✅ Menos ruído na tubagem  
+✅ Torneiras param de pingar 
+✅ Menos desgaste em aparelhos 
+✅ Menos ruído na tubagem 
 ✅ Economia de água (10-15%)
 
 ### Causa 5: Calcário no Mecanismo - 7% dos casos
@@ -366,16 +366,16 @@ Se descalcificação não resolver, substitua (ver Causa 1 ou 2).
 ### Prolongar Vida Útil da Torneira
 
 **Boas práticas:**
-✅ Feche suavemente (não force)  
-✅ Limpe calcário regularmente (vinagre)  
-✅ Seque após usar (evita manchas)  
-✅ Não use produtos abrasivos  
+✅ Feche suavemente (não force) 
+✅ Limpe calcário regularmente (vinagre) 
+✅ Seque após usar (evita manchas) 
+✅ Não use produtos abrasivos 
 ✅ Repare pingos imediatamente
 
 **Más práticas:**
-❌ Fechar com força excessiva  
-❌ Deixar calcário acumular  
-❌ Usar palha de aço (risca)  
+❌ Fechar com força excessiva 
+❌ Deixar calcário acumular 
+❌ Usar palha de aço (risca) 
 ❌ Ignorar pingos pequenos
 
 ### Manutenção Preventiva
@@ -462,15 +462,15 @@ Torneira que pinga é **problema simples de resolver** na maioria dos casos:
 
 **Norte Reparos — Picheleiro Certificado em Bragança**
 
-📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
+📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20uma%20torneira%20a%20pingar.%20Pode%20ajudar%3F)**
 
-✅ Arranjo rápida (30 minutos)  
-✅ Peças de substituição em stock  
-✅ Diagnóstico grátis  
-✅ Garantia 1 ano no serviço  
-✅ Preços transparentes  
-✅ Técnico em sua casa em 30-45 minutos  
+✅ Arranjo rápida (30 minutos) 
+✅ Peças de substituição em stock 
+✅ Diagnóstico grátis 
+✅ Garantia 1 ano no serviço 
+✅ Preços transparentes 
+✅ Técnico em sua casa em 30-45 minutos 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não desperdice água e dinheiro!** Uma torneira que pinga pode custar €360-600/ano. Contacte-nos já para arranjo rápida.

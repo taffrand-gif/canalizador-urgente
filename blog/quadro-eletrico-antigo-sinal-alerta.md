@@ -2,7 +2,7 @@
 title: "Quadro Elétrico Antigo: 7 Sinais de Que Precisa Substituir"
 date: 2026-06-05
 category: eletricidade
-tags: [quadro-elétrico, substituição-quadro, eletricista-certificado, segurança-elétrica, dgeg]
+tags: [quadro-elétrico, substituição-quadro, eletricista-certificado, segurança-elétrica, ]
 summary: "Os quadros elétricos antigos são uma das principais causas de incêndios domésticos em Portugal. Descubra os sinais de alerta."
 ---
 

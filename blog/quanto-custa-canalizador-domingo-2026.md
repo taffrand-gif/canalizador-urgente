@@ -10,12 +10,12 @@ metaTitle: "Quanto Custa Canalizador Domingo 2026 | Preços"
 metaDescription: "Canalizador domingo: 90€/h + deslocação. Sábado 80€/h. Dias úteis 65€/h. Preços 2026. Orçamento grátis. Ligue 928 484 451!"
 keywords: ["quanto custa canalizador domingo", "preço canalizador fim de semana", "canalizador domingo urgente", "canalizador sábado preço"]
 faqSchema:
-  - question: "Quanto custa canalizador ao domingo?"
-    answer: "90€/hora em horário normal (8h-20h) e 135€/hora em horário noturno (20h-8h). Mais deslocação 30-60€ conforme distância."
-  - question: "Canalizador domingo é mais caro que dias úteis?"
-    answer: "Sim, cerca de 38% mais caro. Dias úteis: 65€/h, Domingo: 90€/h. Diferença justificada por disponibilidade Atendimento 24h/7d."
-  - question: "Vale a pena chamar canalizador ao domingo?"
-    answer: "Sim para urgências reais: fuga grave, sem água quente, sanita entupida única, canalização rebentada. Não urgente pode esperar segunda-feira e poupar 25%."
+ - question: "Quanto custa canalizador ao domingo?"
+ answer: "90€/hora em horário normal (8h-20h) e 135€/hora em horário noturno (20h-8h). Mais deslocação 30-60€ conforme distância."
+ - question: "Canalizador domingo é mais caro que dias úteis?"
+ answer: "Sim, cerca de 38% mais caro. Dias úteis: 65€/h, Domingo: 90€/h. Diferença justificada por disponibilidade Atendimento 24h/7d."
+ - question: "Vale a pena chamar canalizador ao domingo?"
+ answer: "Sim para urgências reais: fuga grave, sem água quente, sanita entupida única, canalização rebentada. Não urgente pode esperar segunda-feira e poupar 25%."
 ---
 
 # Quanto Custa Chamar Canalizador Domingo 2026

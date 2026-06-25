@@ -440,57 +440,57 @@ Não escolher automaticamente mais barato. Avaliar conjunto (qualidade + preço 
 ### Qualificações e Experiência
 
 1. **"Tem certificação profissional válida?"**
-   - Resposta esperada: Sim + mostrar cartão
+ - Resposta esperada: Sim + mostrar cartão
 
 2. **"Quantos anos experiência neste tipo trabalho?"**
-   - Mínimo aceitável: 3 anos
+ - Mínimo aceitável: 3 anos
 
 3. **"Já fez trabalhos similares? Pode mostrar?"**
-   - Resposta esperada: Sim + portfolio/fotos
+ - Resposta esperada: Sim + portfolio/fotos
 
 ### Orçamento e Custos
 
 4. **"Pode dar orçamento escrito detalhado?"**
-   - Resposta esperada: Sim, em 2-3 dias
+ - Resposta esperada: Sim, em 2-3 dias
 
 5. **"O que está incluído no preço?"**
-   - Verificar: Material, mão obra, deslocação, testes, limpeza
+ - Verificar: Material, mão obra, deslocação, testes, limpeza
 
 6. **"Há custos adicionais possíveis?"**
-   - Resposta esperada: Transparência sobre extras
+ - Resposta esperada: Transparência sobre extras
 
 ### Garantias e Seguros
 
 7. **"Que garantia dão por escrito?"**
-   - Mínimo aceitável: 12 meses mão obra
+ - Mínimo aceitável: 12 meses mão obra
 
 8. **"Tem seguro responsabilidade civil?"**
-   - Resposta esperada: Sim + mostrar apólice
+ - Resposta esperada: Sim + mostrar apólice
 
 9. **"O que acontece se houver problemas depois?"**
-   - Resposta esperada: Processo claro resolução
+ - Resposta esperada: Processo claro resolução
 
 ### Execução
 
 10. **"Quanto tempo demora o trabalho?"**
-    - Verificar: Prazo realista
+ - Verificar: Prazo realista
 
 11. **"Quando pode começar?"**
-    - Desconfiar: "Amanhã" (muito rápido) ou "Daqui 3 meses" (muito ocupado)
+ - Desconfiar: "Amanhã" (muito rápido) ou "Daqui 3 meses" (muito ocupado)
 
 12. **"Como protegem a casa durante trabalho?"**
-    - Resposta esperada: Proteções, limpeza incluída
+ - Resposta esperada: Proteções, limpeza incluída
 
 ### Pagamento
 
 13. **"Quais condições pagamento?"**
-    - Aceitável: 30% sinal, 40% meio, 30% fim
+ - Aceitável: 30% sinal, 40% meio, 30% fim
 
 14. **"Que formas pagamento aceitam?"**
-    - Preferível: Várias opções (dinheiro, MB Way, transferência)
+ - Preferível: Várias opções (dinheiro, MB Way, transferência)
 
 15. **"Passam fatura?"**
-    - Resposta esperada: Sim, sempre
+ - Resposta esperada: Sim, sempre
 
 ## Como Verificar Reputação Online
 
