@@ -107,15 +107,15 @@ Une absence de règle = autorisé par défaut. La règle 10 dit : **en cas de do
 **Chaque page produite ou modifiée DOIT incarner, dans cet ordre** :
 
 1. **Transparence prix** (placée HAUT dans la page)
-   - Grille affichée : **65 €/h** canal, **70 €/h** élec
-   - Déplacement par zone : **Z1 = 15 € / Z2 = 25 € / Z3 = 35 € / Z4 = 45 € / Z5 = 55 € / Z6 = 65 €**
-   - Majoration nuit/WE/feriado : **+50 %**
-   - Phrase obligatoire : **"orçamento por escrito antes de qualquer intervenção, sem surpresas"**
+ - Grille affichée : **65 €/h** canal, **70 €/h** élec
+ - Déplacement par zone : **Z1 = 15 € / Z2 = 25 € / Z3 = 35 € / Z4 = 45 € / Z5 = 55 € / Z6 = 65 €**
+ - Majoration nuit/WE/feriado : **+50 %**
+ - Phrase obligatoire : **"orçamento por escrito antes de qualquer intervenção, sem surpresas"**
 2. **Artisan local identifiable**
-   - Phrase obligatoire : **"fala sempre com a mesma pessoa, não um call center"**
-   - **JAMAIS** l'anonymat (pas de "equipa de profissionais" sans visage, pas de numéro générique)
+ - Phrase obligatoire : **"fala sempre com a mesma pessoa, não um call center"**
+ - **JAMAIS** l'anonymat (pas de "equipa de profissionais" sans visage, pas de numéro générique)
 3. **Honnêteté / diagnostic transparent** : expliquer ce qui est fait et pourquoi, pas juste le prix
-4. **Traçabilité** : facture avec NIF, seguro RC (responsabilité civile), fichas eletrotécnicas conformes DGEG
+4. **Traçabilité** : facture avec NIF, seguro RC (responsabilité civile), fichas eletrotécnicas conformes 
 
 **Règle d'or de la 1ʳᵉ phrase d'une page d'urgence** : elle **rassure sur le PRIX**, pas seulement sur la disponibilité.
 
@@ -126,7 +126,7 @@ Une absence de règle = autorisé par défaut. La règle 10 dit : **en cas de do
 - **Grille tarifaire EXACTE** (jamais de fourchette inventée ; hors grille = « sob orçamento »)
 - **Géo-neutre** (jamais d'adresse/sede en dur ; widget géoloc dynamique seulement)
 - **Équipement EXACT** : Ridgid K9-102, FLIR, caméra 30m, **ROLeak Aqua 3Plus = détection ACOUSTIQUE**, Fluke T6-1000
-- **DGEG = formule unique** « fichas eletrotécnicas em conformidade com a » (enregistrement en cours ; pas d'invention de n°)
+- ** = formule unique** « fichas eletrotécnicas em conformidade com a » (enregistrement en cours ; pas d'invention de n°)
 
 **Gabarit de référence** = §13 ci-dessous (« Standard de page différenciant »).
 
