@@ -300,7 +300,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 **Documentos**:
 - Certificado instalação
 - Termo responsabilidade
-- Registo DGEG
+- Registo 
 - Entrega cliente
 
 **Total**: 2-5 dias

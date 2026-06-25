@@ -10,17 +10,17 @@ metaTitle: "Urgência Canalização: O Que Fazer Antes | Guia"
 metaDescription: "Urgência canalização: feche água geral, coloque baldes, documente problema. 8 erros fatais evitar. Resposta rápida garantida-90min. Ligue 928 484 451!"
 keywords: ["urgência canalização o que fazer", "como fechar água casa", "emergência fuga água", "antes canalizador chegar"]
 schema:
-  type: "HowTo"
-  name: "O Que Fazer em Urgência de Canalização Antes do Canalizador Chegar"
-  description: "Guia passo a passo de segurança para agir corretamente em urgência de canalização"
-  totalTime: "PT5M"
+ type: "HowTo"
+ name: "O Que Fazer em Urgência de Canalização Antes do Canalizador Chegar"
+ description: "Guia passo a passo de segurança para agir corretamente em urgência de canalização"
+ totalTime: "PT5M"
 faqSchema:
-  - question: "O que fazer primeiro em urgência de canalização?"
-    answer: "Fechar água geral imediatamente, colocar baldes para conter água, afastar móveis e eletrónicos, documentar com fotos. Nunca tentar reparar sem conhecimento."
-  - question: "Como fechar água em emergência?"
-    answer: "Localizar torneira geral (normalmente junto ao contador), rodar no sentido horário até fechar completamente. Se não souber localização, chamar canalizador imediatamente."
-  - question: "Posso usar fita cola em fuga urgente?"
-    answer: "Apenas temporariamente para reduzir fluxo. Não é solução definitiva. Fechar água geral e chamar canalizador profissional."
+ - question: "O que fazer primeiro em urgência de canalização?"
+ answer: "Fechar água geral imediatamente, colocar baldes para conter água, afastar móveis e eletrónicos, documentar com fotos. Nunca tentar reparar sem conhecimento."
+ - question: "Como fechar água em emergência?"
+ answer: "Localizar torneira geral (normalmente junto ao contador), rodar no sentido horário até fechar completamente. Se não souber localização, chamar canalizador imediatamente."
+ - question: "Posso usar fita cola em fuga urgente?"
+ answer: "Apenas temporariamente para reduzir fluxo. Não é solução definitiva. Fechar água geral e chamar canalizador profissional."
 ---
 
 # Urgência Canalização: O Que Fazer Antes Canalizador Chegar

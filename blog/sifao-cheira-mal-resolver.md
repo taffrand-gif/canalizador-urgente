@@ -23,7 +23,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas e água dura (
 - ✅ Quando chamar picheleiro
 - ✅ Custos em Trás-os-Montes
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20mau%20cheiro%20no%20sifão%20e%20preciso%20de%20ajuda!)
 
 ---
@@ -38,7 +38,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 2. **Proteção:** Impede mau cheiro de entrar em casa
 3. **Retenção:** Apanha objetos que caem pelo ralo (anéis, brincos)
 
-**Quando funciona bem:** Água no sifão = sem cheiro  
+**Quando funciona bem:** Água no sifão = sem cheiro 
 **Quando falha:** Sem água ou água suja = mau cheiro
 
 ---
@@ -165,7 +165,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 2. **Aguarde 5 minutos**
 3. **Cheire novamente**
 
-**Se cheiro desapareceu:** Era sifão seco (solução: usar regularmente)  
+**Se cheiro desapareceu:** Era sifão seco (solução: usar regularmente) 
 **Se cheiro continua:** Próximo teste
 
 ---
@@ -176,8 +176,8 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 2. **Verifique o sifão:** Está rachado? Há fugas?
 3. **Observe a água:** Escoa rápido ou lento?
 
-**Se há resíduos visíveis:** Limpar sifão  
-**Se sifão rachado/com fugas:** Substituir  
+**Se há resíduos visíveis:** Limpar sifão 
+**Se sifão rachado/com fugas:** Substituir 
 **Se escoa muito rápido:** Sifão mal instalado
 
 ---
@@ -187,8 +187,8 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 1. **Cheire outros ralos** da casa
 2. **Pergunte aos vizinhos** se têm o mesmo problema
 
-**Se apenas 1 ralo cheira:** Problema local (sifão)  
-**Se vários ralos cheiram:** Problema de ventilação ou rede  
+**Se apenas 1 ralo cheira:** Problema local (sifão) 
+**Se vários ralos cheiram:** Problema de ventilação ou rede 
 **Se vizinhos também têm:** Problema na rede pública
 
 ---
@@ -199,7 +199,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 2. **Retire o tampão** e deixe escoar
 3. **Ouça atentamente**
 
-**Se gorgolejar:** Problema de ventilação  
+**Se gorgolejar:** Problema de ventilação 
 **Se escoar silenciosamente:** Ventilação OK
 
 ---
@@ -208,9 +208,9 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### Solução 1: Recarregar Sifão Seco ⭐⭐⭐⭐⭐
 
-**Para:** Sifão seco (casa de banho pouco usada)  
-**Eficácia:** 100% (se essa for a causa)  
-**Custo:** €0  
+**Para:** Sifão seco (casa de banho pouco usada) 
+**Eficácia:** 100% (se essa for a causa) 
+**Custo:** €0 
 **Tempo:** 2 minutos
 
 **Como fazer:**
@@ -226,9 +226,9 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### Solução 2: Limpar Sifão Completamente ⭐⭐⭐⭐⭐
 
-**Para:** Resíduos acumulados  
-**Eficácia:** 95%  
-**Custo:** €0  
+**Para:** Resíduos acumulados 
+**Eficácia:** 95% 
+**Custo:** €0 
 **Tempo:** 20-30 minutos
 
 **Ferramentas:**
@@ -254,9 +254,9 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### Solução 3: Bicarbonato + Vinagre ⭐⭐⭐⭐
 
-**Para:** Biofilme, bactérias, manutenção  
-**Eficácia:** 80%  
-**Custo:** €2-3  
+**Para:** Biofilme, bactérias, manutenção 
+**Eficácia:** 80% 
+**Custo:** €2-3 
 **Tempo:** 45 minutos (maioria é espera)
 
 **Ingredientes:**
@@ -278,9 +278,9 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### Solução 4: Lixívia (Desinfecção) ⭐⭐⭐
 
-**Para:** Bactérias, desinfecção profunda  
-**Eficácia:** 85%  
-**Custo:** €1-2  
+**Para:** Bactérias, desinfecção profunda 
+**Eficácia:** 85% 
+**Custo:** €1-2 
 **Tempo:** 30 minutos
 
 **Como fazer:**
@@ -298,9 +298,9 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### Solução 5: Água Quente Regularmente ⭐⭐⭐
 
-**Para:** Prevenção, gordura  
-**Eficácia:** 70% (prevenção)  
-**Custo:** €0  
+**Para:** Prevenção, gordura 
+**Eficácia:** 70% (prevenção) 
+**Custo:** €0 
 **Tempo:** 2 minutos/semana
 
 **Como fazer:**
@@ -316,9 +316,9 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### Solução 6: Substituir Sifão ⭐⭐⭐⭐⭐
 
-**Para:** Sifão rachado, mal instalado, muito antigo  
-**Eficácia:** 100%  
-**Custo:** €50-90 (profissional)  
+**Para:** Sifão rachado, mal instalado, muito antigo 
+**Eficácia:** 100% 
+**Custo:** €50-90 (profissional) 
 **Tempo:** 30-45 minutos
 
 **Quando necessário:**
@@ -338,9 +338,9 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### Solução 7: Corrigir Ventilação ⭐⭐⭐⭐⭐
 
-**Para:** Problema de ventilação (vários ralos)  
-**Eficácia:** 100%  
-**Custo:** €150-300  
+**Para:** Problema de ventilação (vários ralos) 
+**Eficácia:** 100% 
+**Custo:** €150-300 
 **Tempo:** 2-4 horas
 
 **Solução:** **CHAMAR PICHELEIRO**
@@ -366,7 +366,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 | Lixívia | €1-2 | 85% | 30 min |
 | Água quente regular | €0 | 70%** | 2 min |
 
-*Se causa for sifão seco  
+*Se causa for sifão seco 
 **Prevenção
 
 ### Soluções Profissionais
@@ -448,14 +448,14 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 ### 📞 Precisa de Ajuda Profissional?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Diagnóstico grátis por telefone  
-✅ Orçamento sem compromisso  
-✅ Garantia até 2 anos  
-✅ Serviço 24h para emergências  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Diagnóstico grátis por telefone 
+✅ Orçamento sem compromisso 
+✅ Garantia até 2 anos 
+✅ Serviço 24h para emergências 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20mau%20cheiro%20no%20sifão%20e%20preciso%20de%20ajuda!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20mau%20cheiro%20no%20sifão%20e%20preciso%20de%20ajuda!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

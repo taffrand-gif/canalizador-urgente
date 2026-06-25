@@ -448,15 +448,15 @@ Pressão de água baixa tem **múltiplas causas**, desde simples (filtro entupid
 
 **Norte Reparos — Picheleiro Certificado em Bragança**
 
-📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
+📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20pressão%20de%20água%20baixa%20em%20casa.%20Pode%20ajudar%3F)**
 
-✅ Diagnóstico completo Atendimento prioritário  
-✅ Soluções definitivas (não provisórias)  
-✅ Instalação de bombas pressurizadoras  
-✅ Deteção de fugas com equipamento profissional  
-✅ Garantia 1 ano no serviço  
-✅ Orçamento grátis sem compromisso  
+✅ Diagnóstico completo Atendimento prioritário 
+✅ Soluções definitivas (não provisórias) 
+✅ Instalação de bombas pressurizadoras 
+✅ Deteção de fugas com equipamento profissional 
+✅ Garantia 1 ano no serviço 
+✅ Orçamento grátis sem compromisso 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não viva com pressão baixa!** Afeta conforto, higiene e funcionamento de aparelhos. Contacte-nos já para diagnóstico grátis.

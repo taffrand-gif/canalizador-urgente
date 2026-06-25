@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar as **7 causas principais** de cheiro a esgoto na casa de banho, como identificar cada uma, e as soluções definitivas. Com mais de 15 anos de experiência em canalizações na região de Bragança, já resolvemos milhares de casos de maus cheiros.
 
-**📞 Cheiro a esgoto insuportável? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Cheiro a esgoto insuportável? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20cheiro%20a%20esgoto%20na%20casa%20de%20banho.%20Podem%20ajudar%3F)**
 
 ---
@@ -402,28 +402,28 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Por que cheiro a esgoto aparece e desaparece?**  
+**1. Por que cheiro a esgoto aparece e desaparece?** 
 Sifão seco (90%). Água evapora, cheiro aparece. Usa água, cheiro desaparece temporariamente.
 
-**2. Como eliminar cheiro a esgoto definitivamente?**  
+**2. Como eliminar cheiro a esgoto definitivamente?** 
 Identifique causa (sifão seco 40%, entupido 25%, fuga 15%). Resolva causa raiz, não apenas sintoma.
 
-**3. Quanto custa resolver cheiro a esgoto?**  
+**3. Quanto custa resolver cheiro a esgoto?** 
 DIY: €0-15. Profissional: €40-600 (depende da causa).
 
-**4. Cheiro só numa casa de banho. O que é?**  
+**4. Cheiro só numa casa de banho. O que é?** 
 Problema local: sifão seco/entupido (80%), fuga (15%), biofilme (5%).
 
-**5. Cheiro em todas as casas de banho. O que fazer?**  
+**5. Cheiro em todas as casas de banho. O que fazer?** 
 Problema geral: ventilação (50%), fossa (40%), rede (10%). Chame picheleiro.
 
-**6. Lixívia elimina cheiro?**  
+**6. Lixívia elimina cheiro?** 
 Temporariamente sim (mata bactérias). Mas não resolve causa raiz (sifão seco, fuga, etc.).
 
-**7. Quanto tempo demora resolver?**  
+**7. Quanto tempo demora resolver?** 
 Sifão seco: 2 minutos. Limpar sifão: 30 minutos. Arranjar fuga: 1-4 horas. Instalar ventilação: 1-2 dias.
 
-**8. É perigoso respirar cheiro a esgoto?**  
+**8. É perigoso respirar cheiro a esgoto?** 
 Curto prazo: desconfortável, pode causar náuseas. Longo prazo: pode ser tóxico. Resolva rapidamente.
 
 ---

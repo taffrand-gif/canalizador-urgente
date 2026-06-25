@@ -271,9 +271,9 @@ keywords: ["fossa séptica", "manutenção fossa", "esvaziar fossa", "picheleiro
 - Fossa estanque
 - Sumidouro adequado
 - Distâncias mínimas:
-  - 15m poços/furos
-  - 5m construções
-  - 3m limites terreno
+ - 15m poços/furos
+ - 5m construções
+ - 3m limites terreno
 
 **Licença**:
 - Câmara municipal

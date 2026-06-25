@@ -95,27 +95,27 @@ Calcário, ferrugem e sedimentos acumulam no filtro da válvula de entrada, bloq
 2. **Puxe o autoclismo** para esvaziar
 
 3. **Desmonte a válvula de entrada:**
-   - Desaperte a porca que prende a válvula
-   - Retire a válvula cuidadosamente
-   - Tenha um balde à mão (vai pingar água)
+ - Desaperte a porca que prende a válvula
+ - Retire a válvula cuidadosamente
+ - Tenha um balde à mão (vai pingar água)
 
 4. **Localize o filtro:**
-   - Pequena rede/malha na entrada da válvula
-   - Geralmente na base onde entra o tubo
+ - Pequena rede/malha na entrada da válvula
+ - Geralmente na base onde entra o tubo
 
 5. **Limpe o filtro:**
-   - Retire o filtro (pode estar encaixado)
-   - Lave com água corrente
-   - Se tiver calcário, deixe de molho em vinagre 30 minutos
-   - Escove com escova de dentes velha
-   - Enxague bem
+ - Retire o filtro (pode estar encaixado)
+ - Lave com água corrente
+ - Se tiver calcário, deixe de molho em vinagre 30 minutos
+ - Escove com escova de dentes velha
+ - Enxague bem
 
 6. **Volte a montar:**
-   - Coloque o filtro de volta
-   - Reinstale a válvula
-   - Aperte a porca (firme mas sem forçar)
-   - Abra a válvula de corte
-   - Teste o enchimento
+ - Coloque o filtro de volta
+ - Reinstale a válvula
+ - Aperte a porca (firme mas sem forçar)
+ - Abra a válvula de corte
+ - Teste o enchimento
 
 **Frequência:** Limpar a cada 6-12 meses em Trás-os-Montes (água calcária).
 
@@ -172,25 +172,25 @@ Válvula de entrada (mecanismo interno) está gasta, calcificada ou partida. Vid
 2. **Esvazie o autoclismo**
 
 3. **Desmonte a válvula velha:**
-   - Desaperte a porca por baixo do autoclismo
-   - Retire o tubo de alimentação
-   - Levante a válvula para fora
+ - Desaperte a porca por baixo do autoclismo
+ - Retire o tubo de alimentação
+ - Levante a válvula para fora
 
 4. **Instale a válvula nova:**
-   - Coloque a junta de borracha na base
-   - Insira a válvula no furo
-   - Aperte a porca por baixo (firme mas sem forçar)
-   - Ligue o tubo de alimentação
+ - Coloque a junta de borracha na base
+ - Insira a válvula no furo
+ - Aperte a porca por baixo (firme mas sem forçar)
+ - Ligue o tubo de alimentação
 
 5. **Ajuste a altura:**
-   - Válvulas modernas têm ajuste telescópico
-   - Ajuste para que o nível de água fique 2-3cm abaixo do transbordamento
+ - Válvulas modernas têm ajuste telescópico
+ - Ajuste para que o nível de água fique 2-3cm abaixo do transbordamento
 
 6. **Teste:**
-   - Abra a válvula de corte
-   - Deixe encher
-   - Verifique que fecha corretamente
-   - Puxe o autoclismo e verifique enchimento
+ - Abra a válvula de corte
+ - Deixe encher
+ - Verifique que fecha corretamente
+ - Puxe o autoclismo e verifique enchimento
 
 **Custo:**
 - Válvula universal: €15-25
@@ -397,15 +397,15 @@ Na maioria dos casos, autoclismo que não enche tem **solução fácil e barata*
 
 **Norte Reparos — Picheleiro Certificado em Bragança**
 
-📞 **Ligue agora: [928 484 451](tel:+351928484451)**  
+📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20meu%20autoclismo%20não%20enche.%20Pode%20ajudar%3F)**
 
-✅ Arranjo rápida (30-45 minutos)  
-✅ Peças de substituição em stock  
-✅ Diagnóstico grátis  
-✅ Garantia 1 ano no serviço  
-✅ Preços transparentes  
-✅ Técnico em sua casa em 30-45 minutos  
+✅ Arranjo rápida (30-45 minutos) 
+✅ Peças de substituição em stock 
+✅ Diagnóstico grátis 
+✅ Garantia 1 ano no serviço 
+✅ Preços transparentes 
+✅ Técnico em sua casa em 30-45 minutos 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não fique sem autoclismo funcional!** Contacte-nos já para arranjo rápida e garantida.

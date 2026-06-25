@@ -23,7 +23,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 - ✅ Manutenção preventiva (evitar problemas)
 - ✅ Quando substituir vs arranjar
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp Urgente:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20meu%20esquentador%20não%20aquece%20e%20preciso%20de%20ajuda!)
 
 ---
@@ -46,8 +46,8 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 3. Substitua pilhas (respeite polaridade +/-)
 4. Teste
 
-**Custo:** €3-6 (pilhas)  
-**Tempo:** 5 minutos  
+**Custo:** €3-6 (pilhas) 
+**Tempo:** 5 minutos 
 **Dificuldade:** Muito fácil
 
 **💡 Dica:** Troque pilhas a cada 6-12 meses PREVENTIVAMENTE, mesmo que ainda funcionem. Pilhas fracas causam ignição deficiente.
@@ -102,8 +102,8 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **⚠️ PERIGO:** Não tente limpar queimador sozinho. Risco de fuga de gás e explosão.
 
-**Custo:** €60-100 (limpeza + manutenção)  
-**Tempo:** 1-2 horas  
+**Custo:** €60-100 (limpeza + manutenção) 
+**Tempo:** 1-2 horas 
 **Frequência:** 1x/ano (manutenção preventiva)
 
 ---
@@ -120,7 +120,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **Solução:** **CHAMAR PICHELEIRO** - substituir termóstato
 
-**Custo:** €80-150 (peça + mão de obra)  
+**Custo:** €80-150 (peça + mão de obra) 
 **Tempo:** 1-2 horas
 
 ---
@@ -136,7 +136,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **Solução:** **CHAMAR PICHELEIRO** - substituir membrana
 
-**Custo:** €60-120 (peça + mão de obra)  
+**Custo:** €60-120 (peça + mão de obra) 
 **Tempo:** 1-2 horas
 
 **💡 Nota:** Problema comum em zonas de água dura (Trás-os-Montes).
@@ -156,7 +156,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **⚠️ PERIGO:** Problema com gás requer profissional com experiência.
 
-**Custo:** €100-200 (peça + mão de obra)  
+**Custo:** €100-200 (peça + mão de obra) 
 **Tempo:** 2-3 horas
 
 ---
@@ -173,8 +173,8 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **Solução:** **CHAMAR PICHELEIRO** - descalcificação profissional
 
-**Custo:** €80-150 (descalcificação)  
-**Tempo:** 2-3 horas  
+**Custo:** €80-150 (descalcificação) 
+**Tempo:** 2-3 horas 
 **Prevenção:** Descalcificação a cada 2-3 anos
 
 ---
@@ -191,7 +191,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 **Solução:** **SUBSTITUIR esquentador**
 
-**Custo:** €300-800 (esquentador novo + instalação)  
+**Custo:** €300-800 (esquentador novo + instalação) 
 **Benefício:** Eficiência energética +30%, segurança, garantia 2-5 anos
 
 ---
@@ -202,8 +202,8 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 1. **Abra torneira de água quente** totalmente
 2. **Ouça o esquentador:**
-   - Ouve "clique-clique-clique"? → Pilhas OK, próximo passo
-   - Não ouve nada? → **TROCAR PILHAS**
+ - Ouve "clique-clique-clique"? → Pilhas OK, próximo passo
+ - Não ouve nada? → **TROCAR PILHAS**
 
 **Se trocar pilhas resolver:** PROBLEMA RESOLVIDO! (30% dos casos)
 
@@ -213,8 +213,8 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 1. **Abra torneira de água quente** TOTALMENTE
 2. **Observe o caudal:**
-   - Caudal forte (jato grosso)? → Pressão OK, próximo passo
-   - Caudal fraco (fio fino)? → **PROBLEMA DE PRESSÃO**
+ - Caudal forte (jato grosso)? → Pressão OK, próximo passo
+ - Caudal fraco (fio fino)? → **PROBLEMA DE PRESSÃO**
 
 **Soluções pressão baixa:**
 - Limpe filtro da torneira
@@ -229,8 +229,8 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 1. **Olhe pela janela de inspeção** (se tiver)
 2. **Cor da chama:**
-   - Azul? → Queimador OK
-   - Amarela/laranja? → **QUEIMADOR SUJO** (chamar picheleiro)
+ - Azul? → Queimador OK
+ - Amarela/laranja? → **QUEIMADOR SUJO** (chamar picheleiro)
 
 **Se não acende:** Próximo passo
 
@@ -239,12 +239,12 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 ### Passo 4: Verifique Gás (1 minuto)
 
 1. **Verifique botija de gás** (se for a gás de botija):
-   - Botija vazia? → Substituir
-   - Válvula aberta? → Abrir totalmente
+ - Botija vazia? → Substituir
+ - Válvula aberta? → Abrir totalmente
 
 2. **Teste outro aparelho a gás** (fogão):
-   - Funciona? → Gás OK, problema no esquentador
-   - Não funciona? → Problema no fornecimento de gás
+ - Funciona? → Gás OK, problema no esquentador
+ - Não funciona? → Problema no fornecimento de gás
 
 ---
 
@@ -312,7 +312,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 - Verificação de ventilação
 - Emissão de certificado
 
-**Custo:** €60-100/ano  
+**Custo:** €60-100/ano 
 **Benefício:** Previne 80% dos problemas + segurança
 
 ---
@@ -337,7 +337,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 - Mantém eficiência energética
 - Prolonga vida útil do esquentador
 
-**Custo:** €80-150  
+**Custo:** €80-150 
 **Frequência:** 2-3 anos (ou anualmente se água muito dura)
 
 ---
@@ -346,11 +346,11 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 ### Arranjar Se:
 
-✅ Esquentador com menos de 10 anos  
-✅ Problema simples (pilhas, membrana, termóstato)  
-✅ Custo arranjo < 40% do preço de novo  
-✅ Peças disponíveis  
-✅ Teve manutenção regular  
+✅ Esquentador com menos de 10 anos 
+✅ Problema simples (pilhas, membrana, termóstato) 
+✅ Custo arranjo < 40% do preço de novo 
+✅ Peças disponíveis 
+✅ Teve manutenção regular 
 
 **Exemplo:** Esquentador 5 anos, membrana danificada (€80) vs novo (€500) → REPARAR
 
@@ -358,12 +358,12 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 ### Substituir Se:
 
-❌ Esquentador com 15+ anos  
-❌ Múltiplos problemas simultâneos  
-❌ Arranjos frequentes (3+ vezes/ano)  
-❌ Custo arranjo > 50% do preço de novo  
-❌ Peças descontinuadas  
-❌ Consumo excessivo de gás  
+❌ Esquentador com 15+ anos 
+❌ Múltiplos problemas simultâneos 
+❌ Arranjos frequentes (3+ vezes/ano) 
+❌ Custo arranjo > 50% do preço de novo 
+❌ Peças descontinuadas 
+❌ Consumo excessivo de gás 
 
 **Exemplo:** Esquentador 18 anos, precisa válvula (€150) + termóstato (€120) = €270 vs novo (€450) → SUBSTITUIR
 
@@ -411,16 +411,16 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 
 ### 📞 Precisa de Ajuda Profissional?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Arranjo de esquentadores (todas as marcas)  
-✅ Manutenção anual obrigatória  
-✅ Descalcificação profissional  
-✅ Instalação de esquentadores novos  
-✅ Emergências 24h/7 dias  
-✅ Certificação e garantia  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Arranjo de esquentadores (todas as marcas) 
+✅ Manutenção anual obrigatória 
+✅ Descalcificação profissional 
+✅ Instalação de esquentadores novos 
+✅ Emergências 24h/7 dias 
+✅ Certificação e garantia 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20meu%20esquentador%20não%20aquece%20e%20preciso%20de%20ajuda!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20meu%20esquentador%20não%20aquece%20e%20preciso%20de%20ajuda!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

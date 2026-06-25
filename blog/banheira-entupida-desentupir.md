@@ -23,7 +23,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 - ✅ Como prevenir entupimentos futuros
 - ✅ Manutenção semanal (5 minutos)
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp Urgente:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20a%20banheira%20entupida%20e%20preciso%20de%20ajuda!)
 
 ---
@@ -68,9 +68,9 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### Método 1: Ventosa (Desentupidor Manual) ⭐⭐⭐⭐
 
-**Taxa de Sucesso:** 75% (entupimentos leves a moderados)  
-**Custo:** €5-15 (ventosa)  
-**Tempo:** 5-10 minutos  
+**Taxa de Sucesso:** 75% (entupimentos leves a moderados) 
+**Custo:** €5-15 (ventosa) 
+**Tempo:** 5-10 minutos 
 **Dificuldade:** Fácil
 
 **Passo a passo:**
@@ -91,9 +91,9 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### Método 2: Desmontar e Limpar Sifão ⭐⭐⭐⭐⭐
 
-**Taxa de Sucesso:** 95% (quase todos os entupimentos)  
-**Custo:** €0 (ferramentas que já tem)  
-**Tempo:** 20-30 minutos  
+**Taxa de Sucesso:** 95% (quase todos os entupimentos) 
+**Custo:** €0 (ferramentas que já tem) 
+**Tempo:** 20-30 minutos 
 **Dificuldade:** Moderada
 
 **Ferramentas necessárias:**
@@ -122,9 +122,9 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### Método 3: Bicarbonato de Sódio + Vinagre ⭐⭐⭐
 
-**Taxa de Sucesso:** 60% (entupimentos leves, manutenção)  
-**Custo:** €2-3 (ingredientes)  
-**Tempo:** 30-60 minutos (maioria é espera)  
+**Taxa de Sucesso:** 60% (entupimentos leves, manutenção) 
+**Custo:** €2-3 (ingredientes) 
+**Tempo:** 30-60 minutos (maioria é espera) 
 **Dificuldade:** Muito fácil
 
 **Ingredientes:**
@@ -151,9 +151,9 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### Método 4: Arame Desentupidor (Mola Canalizador) ⭐⭐⭐⭐
 
-**Taxa de Sucesso:** 80% (entupimentos profundos)  
-**Custo:** €10-25 (mola 3-5 metros)  
-**Tempo:** 15-20 minutos  
+**Taxa de Sucesso:** 80% (entupimentos profundos) 
+**Custo:** €10-25 (mola 3-5 metros) 
+**Tempo:** 15-20 minutos 
 **Dificuldade:** Moderada
 
 **Passo a passo:**
@@ -175,9 +175,9 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### Método 5: Desentupidor Químico ⭐⭐⭐
 
-**Taxa de Sucesso:** 70% (depende do tipo de entupimento)  
-**Custo:** €5-12 (produto)  
-**Tempo:** 30-60 minutos  
+**Taxa de Sucesso:** 70% (depende do tipo de entupimento) 
+**Custo:** €5-12 (produto) 
+**Tempo:** 30-60 minutos 
 **Dificuldade:** Fácil
 
 **Produtos recomendados:**
@@ -335,15 +335,15 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### 📞 Precisa de Ajuda Profissional?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Desentupimentos 24h/7 dias  
-✅ Orçamento grátis sem compromisso  
-✅ Garantia até 90 dias  
-✅ Técnico em menos de 2h (urgências)  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Desentupimentos 24h/7 dias 
+✅ Orçamento grátis sem compromisso 
+✅ Garantia até 90 dias 
+✅ Técnico em menos de 2h (urgências) 
 ✅ Equipamento profissional (máquina alta pressão)
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20a%20banheira%20entupida%20e%20preciso%20de%20ajuda!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20a%20banheira%20entupida%20e%20preciso%20de%20ajuda!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

@@ -108,10 +108,10 @@ keywords: ["sifão entupido", "limpar sifão", "mau cheiro lavatório", "água n
 
 1. **Esvazie água** do sifão no balde
 2. **Observe conteúdo**:
-   - Cabelo emaranhado
-   - Gordura solidificada
-   - Objetos perdidos (anéis, brincos!)
-   - Restos comida
+ - Cabelo emaranhado
+ - Gordura solidificada
+ - Objetos perdidos (anéis, brincos!)
+ - Restos comida
 
 3. **Guarde objetos valiosos** encontrados
 
@@ -151,8 +151,8 @@ keywords: ["sifão entupido", "limpar sifão", "mau cheiro lavatório", "água n
 ### Passo 6: Remontar Sifão (1 minuto)
 
 1. **Verifique vedantes** (anéis borracha)
-   - Se gastos/rachados: substituir (€2-5)
-   - Se OK: reutilizar
+ - Se gastos/rachados: substituir (€2-5)
+ - Se OK: reutilizar
 
 2. **Posicione base** no corpo sifão
 3. **Aperte à mão** no sentido horário

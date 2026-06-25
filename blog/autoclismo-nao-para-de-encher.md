@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar as **6 causas principais** que fazem um autoclismo encher constantemente, como identificar cada uma, e como arranjar (DIY ou profissional). Com mais de 15 anos de experiência em arranjos de canalizações na região de Bragança, já resolvemos milhares de autoclismos problemáticos.
 
-**📞 Autoclismo não para de encher? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Autoclismo não para de encher? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20meu%20autoclismo%20não%20para%20de%20encher.%20Podem%20ajudar%3F)**
 
 ---
@@ -421,28 +421,28 @@ Com base na nossa experiência de 1.200+ arranjos em Trás-os-Montes:
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Quanto desperdiça um autoclismo que não para?**  
+**1. Quanto desperdiça um autoclismo que não para?** 
 50-400 litros/dia = €54-730/ano. Fuga silenciosa no flapper: 150-300 litros/dia = €165-550/ano.
 
-**2. Posso arranjar autoclismo sozinho?**  
+**2. Posso arranjar autoclismo sozinho?** 
 Sim. Ajustar boia ou substituir flapper é fácil (15-30 min). Substituir válvula é médio (45 min).
 
-**3. Quanto custa arranjar autoclismo em Bragança?**  
+**3. Quanto custa arranjar autoclismo em Bragança?** 
 DIY: €0-60 (materiais). Profissional: €40-140 (completo com mão de obra).
 
-**4. Como sei se há fuga no flapper?**  
+**4. Como sei se há fuga no flapper?** 
 Teste do corante: coloque corante no autoclismo, aguarde 30 min. Se água na sanita ficar colorida → há fuga.
 
-**5. Por que autoclismo enche sozinho a cada 10 minutos?**  
+**5. Por que autoclismo enche sozinho a cada 10 minutos?** 
 Fuga no flapper (80% dos casos). Água escapa lentamente, autoclismo enche para compensar.
 
-**6. Válvula faz barulho (assobio). É grave?**  
+**6. Válvula faz barulho (assobio). É grave?** 
 Não urgente mas deve arranjar. Indica válvula gasta ou pressão excessiva. Pode falhar completamente.
 
-**7. Quanto tempo dura um flapper?**  
+**7. Quanto tempo dura um flapper?** 
 5-7 anos (água normal), 3-5 anos (água dura). Substitua preventivamente.
 
-**8. Vale a pena substituir mecanismo completo?**  
+**8. Vale a pena substituir mecanismo completo?** 
 Sim, se autoclismo tem 15+ anos. Kit completo (€40-80) garante funcionamento por mais 15 anos.
 
 ---

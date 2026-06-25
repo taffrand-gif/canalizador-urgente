@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar as **7 causas principais** que impedem a drenagem, como identificar cada uma, e as soluções (DIY ou profissional). Com mais de 15 anos de experiência em canalizações na região de Bragança, já resolvemos milhares de problemas de drenagem.
 
-**📞 Máquina não drena? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Máquina não drena? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20minha%20máquina%20de%20lavar%20não%20drena%20água.%20Podem%20ajudar%3F)**
 
 ---
@@ -93,40 +93,40 @@ Com base na nossa experiência de 800+ intervenções em Trás-os-Montes:
 **Como limpar filtro (passo a passo):**
 
 1. **Parranjo:**
-   - Desligue máquina da tomada
-   - Coloque toalhas no chão (água vai sair)
-   - Prepare balde ou tabuleiro raso
+ - Desligue máquina da tomada
+ - Coloque toalhas no chão (água vai sair)
+ - Prepare balde ou tabuleiro raso
 
 2. **Aceder ao filtro:**
-   - Localize tampa (parte inferior frontal)
-   - Abra tampa (pode precisar chave de fendas)
+ - Localize tampa (parte inferior frontal)
+ - Abra tampa (pode precisar chave de fendas)
 
 3. **Drenar água residual:**
-   - Puxe mangueira de emergência (se existir)
-   - Deixe água escorrer para balde
-   - Ou prepare-se para água ao abrir filtro
+ - Puxe mangueira de emergência (se existir)
+ - Deixe água escorrer para balde
+ - Ou prepare-se para água ao abrir filtro
 
 4. **Remover filtro:**
-   - Rode filtro sentido anti-horário
-   - Puxe para fora
-   - Água residual vai sair (normal)
+ - Rode filtro sentido anti-horário
+ - Puxe para fora
+ - Água residual vai sair (normal)
 
 5. **Limpar:**
-   - Remova objetos visíveis
-   - Lave filtro com água corrente
-   - Escove com escova velha
-   - Limpe cavidade do filtro (dentro da máquina)
+ - Remova objetos visíveis
+ - Lave filtro com água corrente
+ - Escove com escova velha
+ - Limpe cavidade do filtro (dentro da máquina)
 
 6. **Reinstalar:**
-   - Verifique vedante (borracha) do filtro
-   - Insira filtro
-   - Rode sentido horário até apertar
-   - Feche tampa
+ - Verifique vedante (borracha) do filtro
+ - Insira filtro
+ - Rode sentido horário até apertar
+ - Feche tampa
 
 7. **Testar:**
-   - Ligue máquina
-   - Programa curto (enxaguamento)
-   - Verifique se drena
+ - Ligue máquina
+ - Programa curto (enxaguamento)
+ - Verifique se drena
 
 **Prevenção:** Limpe filtro a cada 1-3 meses (depende do uso)
 
@@ -422,28 +422,28 @@ Se não identificou o problema:
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Máquina não drena. O que fazer primeiro?**  
+**1. Máquina não drena. O que fazer primeiro?** 
 Limpe o filtro (45% dos casos). Localização: parte inferior frontal, atrás de tampa.
 
-**2. Posso drenar água manualmente?**  
+**2. Posso drenar água manualmente?** 
 Sim. Use mangueira de emergência (se existir) ou abra filtro (água vai sair).
 
-**3. Quanto custa arranjar máquina que não drena?**  
+**3. Quanto custa arranjar máquina que não drena?** 
 DIY: €0-25. Profissional: €40-370 (depende da causa).
 
-**4. Bomba faz ruído mas não drena. O que é?**  
+**4. Bomba faz ruído mas não drena. O que é?** 
 Filtro entupido (60%), mangueira obstruída (25%), ou esgoto entupido (15%).
 
-**5. Bomba não faz ruído. Está queimada?**  
+**5. Bomba não faz ruído. Está queimada?** 
 Provavelmente. Teste: limpe filtro, inicie drenagem. Se silêncio total → bomba defeituosa.
 
-**6. Vale a pena arranjar ou comprar nova?**  
+**6. Vale a pena arranjar ou comprar nova?** 
 Arranjar se: máquina <7 anos, arranjo <50% do preço de nova. Substituir se: >10 anos ou arranjo cara.
 
-**7. Quanto tempo demora arranjar?**  
+**7. Quanto tempo demora arranjar?** 
 Limpar filtro: 15 min. Substituir bomba: 1-2 horas. Desentupir esgoto: 1-3 horas.
 
-**8. Como evitar que filtro entupa?**  
+**8. Como evitar que filtro entupa?** 
 Esvazie bolsos, use sacos de rede para peças pequenas, limpe filtro mensalmente.
 
 ---

@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar as **8 causas principais** de pressão de água fraca, como identificar cada uma, e as soluções definitivas (DIY e profissionais). Com mais de 15 anos de experiência em canalizações na região de Bragança, já resolvemos milhares de casos de baixa pressão.
 
-**📞 Pressão de água fraca? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Pressão de água fraca? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20pressão%20de%20água%20na%20minha%20casa%20está%20muito%20fraca.%20Podem%20ajudar%3F)**
 
 ---
@@ -414,28 +414,28 @@ Se não identificou o problema:
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Qual a pressão normal de água em casa?**  
+**1. Qual a pressão normal de água em casa?** 
 2.5-3.5 bar. Mínimo aceitável: 1.5 bar. Máximo recomendado: 4 bar.
 
-**2. Como aumentar pressão de água?**  
+**2. Como aumentar pressão de água?** 
 Depende da causa. Limpar arejador (€0), abrir válvulas (€0), ou instalar bomba (€300-800).
 
-**3. Quanto custa instalar bomba pressurizadora?**  
+**3. Quanto custa instalar bomba pressurizadora?** 
 €300-800 (material + instalação). Aumenta pressão em 1-2 bar.
 
-**4. Pressão fraca só no chuveiro. O que fazer?**  
+**4. Pressão fraca só no chuveiro. O que fazer?** 
 Limpe arejador do chuveiro ou substitua chuveiro (pode estar entupido internamente).
 
-**5. Calcário reduz pressão de água?**  
+**5. Calcário reduz pressão de água?** 
 Sim. Em 15-20 anos, pode reduzir diâmetro do tubo em 30-50%, diminuindo pressão significativamente.
 
-**6. Vale a pena instalar descalcificador?**  
+**6. Vale a pena instalar descalcificador?** 
 Sim, em Trás-os-Montes (água muito dura). Custo: €400-1.200. Poupa em arranjos e eletrodomésticos.
 
-**7. Pressão fraca após obra na rua. É normal?**  
+**7. Pressão fraca após obra na rua. É normal?** 
 Temporariamente sim (sedimentos na rede). Limpe arejadores e filtro. Se persistir >1 semana, contacte empresa de águas.
 
-**8. Quanto tempo demora arranjar pressão fraca?**  
+**8. Quanto tempo demora arranjar pressão fraca?** 
 Arejador: 10 min. Válvula: 5 min. Fuga: 2-6 horas. Substituir tubos: 1-3 dias.
 
 ---

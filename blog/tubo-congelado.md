@@ -15,7 +15,7 @@ priority: "SEASONAL"
 
 Neste guia completo, vamos explicar **como descongelar tubos com segurança**, prevenir congelamento, identificar tubos rebentados, e quando chamar um picheleiro de urgência. Com mais de 15 anos de experiência em canalizações na região de Bragança, já resolvemos centenas de casos de tubos congelados.
 
-**📞 Tubo congelado ou rebentado? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Tubo congelado ou rebentado? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20os%20meus%20tubos%20congelaram.%20Preciso%20de%20ajuda%20urgente.)**
 
 ---
@@ -110,7 +110,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos acessíveis, interiores
 
-**Tempo:** 30-60 minutos  
+**Tempo:** 30-60 minutos 
 **Eficácia:** 90%
 
 **Como fazer:**
@@ -131,7 +131,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos acessíveis, sem eletricidade
 
-**Tempo:** 45-90 minutos  
+**Tempo:** 45-90 minutos 
 **Eficácia:** 80%
 
 **Como fazer:**
@@ -148,7 +148,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Divisão pequena (casa de banho, despensa)
 
-**Tempo:** 1-3 horas  
+**Tempo:** 1-3 horas 
 **Eficácia:** 85%
 
 **Como fazer:**
@@ -165,8 +165,8 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos exteriores, prevenção
 
-**Tempo:** 30-60 minutos  
-**Eficácia:** 95%  
+**Tempo:** 30-60 minutos 
+**Eficácia:** 95% 
 **Custo:** €30-80 (fita 3-10 metros)
 
 **Como usar:**
@@ -181,7 +181,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Casa inteira, prevenção
 
-**Tempo:** 2-6 horas  
+**Tempo:** 2-6 horas 
 **Eficácia:** 70%
 
 **Como fazer:**
@@ -340,7 +340,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 | Arranjar danos (parede, teto) | €100-1.000+ |
 | **TOTAL:** | **€330-1.700+** |
 
-**Prevenção (€60-200) vs Arranjo (€330-1.700+)**  
+**Prevenção (€60-200) vs Arranjo (€330-1.700+)** 
 **Investir em prevenção poupa muito dinheiro!**
 
 ---
@@ -362,28 +362,28 @@ Contacte imediatamente se:
 
 ## Perguntas Frequentes (FAQ)
 
-**1. A que temperatura tubos congelam?**  
+**1. A que temperatura tubos congelam?** 
 0°C ou inferior. Em Trás-os-Montes, risco quando temperatura noturna <-3°C.
 
-**2. Quanto tempo demora tubo congelar?**  
+**2. Quanto tempo demora tubo congelar?** 
 6-12 horas (temperatura -5°C). Mais rápido se vento forte ou tubo fino.
 
-**3. Como descongelar tubo rápido?**  
+**3. Como descongelar tubo rápido?** 
 Secador de cabelo (30-60 min) ou fita aquecedora elétrica (30 min). NUNCA maçarico ou água fervente.
 
-**4. Tubo congelado pode rebentar?**  
+**4. Tubo congelado pode rebentar?** 
 Sim. Água expande 9% ao congelar. Pressão pode rachar ou rebentar tubo.
 
-**5. Como prevenir tubos congelados?**  
+**5. Como prevenir tubos congelados?** 
 Isole tubos expostos (€2-5/m), deixe torneiras pingar, mantenha aquecimento mínimo 15°C.
 
-**6. Quanto custa arranjar tubo rebentado?**  
+**6. Quanto custa arranjar tubo rebentado?** 
 €330-1.700+ (depende de localização e danos). Prevenção custa €60-200.
 
-**7. Posso usar maçarico para descongelar?**  
+**7. Posso usar maçarico para descongelar?** 
 **NÃO!** Risco de incêndio e tubo rebenta. Use secador ou toalhas quentes.
 
-**8. Deixar torneira pingar funciona?**  
+**8. Deixar torneira pingar funciona?** 
 Sim. Água em movimento não congela. Fio fino suficiente (não desperdício significativo).
 
 ---

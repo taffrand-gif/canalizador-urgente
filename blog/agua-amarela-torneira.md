@@ -23,7 +23,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos) e
 - ✅ Custos de arranjo em Trás-os-Montes
 - ✅ Como prevenir no futuro
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20água%20amarela%20na%20torneira%20e%20preciso%20de%20ajuda!)
 
 ---
@@ -487,15 +487,15 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos) e
 
 ### 📞 Precisa de Resolver Água Amarela?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Diagnóstico de qualidade de água  
-✅ Substituição de canos enferrujados  
-✅ Limpeza/substituição de termoacumuladores  
-✅ Instalação de sistemas de filtração  
-✅ Orçamento grátis sem compromisso  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Diagnóstico de qualidade de água 
+✅ Substituição de canos enferrujados 
+✅ Limpeza/substituição de termoacumuladores 
+✅ Instalação de sistemas de filtração 
+✅ Orçamento grátis sem compromisso 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20água%20amarela%20na%20torneira%20e%20preciso%20de%20ajuda!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20água%20amarela%20na%20torneira%20e%20preciso%20de%20ajuda!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

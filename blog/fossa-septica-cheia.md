@@ -15,7 +15,7 @@ priority: "HIGH DEMAND"
 
 Neste guia completo, vamos explicar **os 7 sinais de fossa cheia**, com que frequência limpar (2-4 anos), custos reais, como funciona a limpeza, e manutenção preventiva. Com mais de 15 anos de experiência em canalizações na região de Bragança, já resolvemos centenas de problemas com fossas sépticas.
 
-**📞 Fossa séptica cheia? Ligue já: [928 484 451](tel:+351928484451)**  
+**📞 Fossa séptica cheia? Ligue já: [928 484 451](tel:+351928484451)** 
 **💬 WhatsApp urgente: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20minha%20fossa%20séptica%20está%20cheia.%20Preciso%20de%20limpeza%20urgente.)**
 
 ---
@@ -409,28 +409,28 @@ Neste guia completo, vamos explicar **os 7 sinais de fossa cheia**, com que freq
 
 ## Perguntas Frequentes (FAQ)
 
-**1. Com que frequência limpar fossa séptica?**  
+**1. Com que frequência limpar fossa séptica?** 
 2-4 anos (depende de número de pessoas e tamanho da fossa). Família de 4 pessoas: 2-3 anos.
 
-**2. Quanto custa limpar fossa séptica?**  
+**2. Quanto custa limpar fossa séptica?** 
 €80-250 (depende de tamanho e localização). Média: €120-150.
 
-**3. Como sei se fossa está cheia?**  
+**3. Como sei se fossa está cheia?** 
 Mau cheiro (80%), esgotos lentos (70%), água à superfície (60%), não limpa há 3+ anos (100%).
 
-**4. Posso limpar fossa sozinho?**  
+**4. Posso limpar fossa sozinho?** 
 Não recomendado. Gases tóxicos (metano, sulfeto de hidrogénio) podem matar. Requer equipamento profissional.
 
-**5. O que não deitar na fossa?**  
+**5. O que não deitar na fossa?** 
 Óleo, toalhitas húmidas, pensos, medicamentos, produtos químicos, lixo. Só papel higiénico e esgoto normal.
 
-**6. Fossa cheia pode causar doenças?**  
+**6. Fossa cheia pode causar doenças?** 
 Sim. Contaminação do solo e água. Bactérias patogénicas. Risco de saúde pública.
 
-**7. Quanto tempo demora limpar fossa?**  
+**7. Quanto tempo demora limpar fossa?** 
 30-60 minutos (processo completo).
 
-**8. Preciso esvaziar fossa completamente?**  
+**8. Preciso esvaziar fossa completamente?** 
 Não. Deixe 20-30% de líquido (reativa bactérias). Esvaziar completamente prejudica funcionamento.
 
 ---

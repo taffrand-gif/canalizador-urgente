@@ -23,7 +23,7 @@ Em Trás-os-Montes, onde muitas casas (especialmente em zonas rurais) não têm 
 - ✅ Manutenção preventiva (evitar problemas)
 - ✅ O que NUNCA deitar na fossa
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20esvaziar%20a%20fossa%20séptica!)
 
 ---
@@ -134,22 +134,22 @@ Em Trás-os-Montes, onde muitas casas (especialmente em zonas rurais) não têm 
 **Depende de:**
 
 1. **Tamanho da fossa:**
-   - Pequena (3-5m³): 2-3 anos
-   - Média (6-8m³): 3-4 anos
-   - Grande (9-12m³): 4-5 anos
+ - Pequena (3-5m³): 2-3 anos
+ - Média (6-8m³): 3-4 anos
+ - Grande (9-12m³): 4-5 anos
 
 2. **Número de pessoas:**
-   - 1-2 pessoas: 4 anos
-   - 3-4 pessoas: 3 anos
-   - 5+ pessoas: 2 anos
+ - 1-2 pessoas: 4 anos
+ - 3-4 pessoas: 3 anos
+ - 5+ pessoas: 2 anos
 
 3. **Uso de água:**
-   - Uso normal: 3-4 anos
-   - Uso intensivo: 2-3 anos
+ - Uso normal: 3-4 anos
+ - Uso intensivo: 2-3 anos
 
 4. **Tipo de resíduos:**
-   - Apenas águas domésticas: 3-4 anos
-   - Inclui gorduras/químicos: 2-3 anos
+ - Apenas águas domésticas: 3-4 anos
+ - Inclui gorduras/químicos: 2-3 anos
 
 ### Cálculo Simples
 
@@ -310,9 +310,9 @@ Em Trás-os-Montes, onde muitas casas (especialmente em zonas rurais) não têm 
 2. **Enrole toalha** na ponta da vara
 3. **Mergulhe vara** até tocar no fundo
 4. **Retire e observe:**
-   - Zona escura = lamas
-   - Zona clara = água
-   - Zona com gordura = escumas
+ - Zona escura = lamas
+ - Zona clara = água
+ - Zona com gordura = escumas
 
 **Interpretação:**
 - Lamas < 30% da profundidade: OK
@@ -369,15 +369,15 @@ Em Trás-os-Montes, onde muitas casas (especialmente em zonas rurais) não têm 
 
 ### 📞 Precisa de Esvaziar Fossa ou Manutenção?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Parcerias com empresas certificadas de esvaziamento  
-✅ Inspeção e manutenção de fossas  
-✅ Arranjo de sistemas sépticos  
-✅ Instalação de fossas novas  
-✅ Orçamento grátis sem compromisso  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Parcerias com empresas certificadas de esvaziamento 
+✅ Inspeção e manutenção de fossas 
+✅ Arranjo de sistemas sépticos 
+✅ Instalação de fossas novas 
+✅ Orçamento grátis sem compromisso 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20esvaziar%20a%20fossa%20séptica!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20esvaziar%20a%20fossa%20séptica!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

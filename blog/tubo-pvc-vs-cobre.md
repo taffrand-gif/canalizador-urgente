@@ -23,7 +23,7 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 - ✅ Melhor escolha para cada situação
 - ✅ Legislação e normas
 
-**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451)  
+**📞 Picheleiro 24h:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20ajuda%20para%20escolher%20tubos!)
 
 ---
@@ -48,9 +48,9 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Características
 
-**Material:** Plástico rígido  
-**Cor:** Cinza (água fria), creme (esgoto)  
-**Ligações:** Cola especial PVC  
+**Material:** Plástico rígido 
+**Cor:** Cinza (água fria), creme (esgoto) 
+**Ligações:** Cola especial PVC 
 **Temperatura máxima:** 60°C
 
 ---
@@ -120,15 +120,15 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Melhor Para
 
-✅ Água fria (torneiras, autoclismos)  
-✅ Esgoto e águas residuais  
-✅ Drenagem pluvial  
-✅ Orçamento limitado  
-✅ Instalação DIY  
+✅ Água fria (torneiras, autoclismos) 
+✅ Esgoto e águas residuais 
+✅ Drenagem pluvial 
+✅ Orçamento limitado 
+✅ Instalação DIY 
 
-❌ Água quente  
-❌ Aquecimento central  
-❌ Exterior exposto ao sol  
+❌ Água quente 
+❌ Aquecimento central 
+❌ Exterior exposto ao sol 
 
 ---
 
@@ -136,9 +136,9 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Características
 
-**Material:** Metal (cobre 99,9%)  
-**Cor:** Laranja/avermelhado  
-**Ligações:** Soldadura ou compressão  
+**Material:** Metal (cobre 99,9%) 
+**Cor:** Laranja/avermelhado 
+**Ligações:** Soldadura ou compressão 
 **Temperatura máxima:** 200°C
 
 ---
@@ -215,16 +215,16 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Melhor Para
 
-✅ Água quente sanitária  
-✅ Aquecimento central  
-✅ Instalações à vista (estética)  
-✅ Zonas com água mole (pH neutro)  
-✅ Máxima durabilidade  
+✅ Água quente sanitária 
+✅ Aquecimento central 
+✅ Instalações à vista (estética) 
+✅ Zonas com água mole (pH neutro) 
+✅ Máxima durabilidade 
 
-❌ Água fria (caro desnecessário)  
-❌ Zonas com água dura (calcário)  
-❌ Exterior em zonas frias (gelo)  
-❌ Orçamento limitado  
+❌ Água fria (caro desnecessário) 
+❌ Zonas com água dura (calcário) 
+❌ Exterior em zonas frias (gelo) 
+❌ Orçamento limitado 
 
 ---
 
@@ -232,9 +232,9 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Características
 
-**Material:** Plástico flexível  
-**Cor:** Vermelho (quente), azul (frio), branco (neutro)  
-**Ligações:** Compressão ou crimpagem  
+**Material:** Plástico flexível 
+**Cor:** Vermelho (quente), azul (frio), branco (neutro) 
+**Ligações:** Compressão ou crimpagem 
 **Temperatura máxima:** 95°C
 
 ---
@@ -296,14 +296,14 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Melhor Para
 
-✅ Água quente e fria  
-✅ Aquecimento piso radiante  
-✅ Renovações (passa por espaços)  
-✅ Zonas frias (resistente gelo)  
-✅ Instalação rápida  
+✅ Água quente e fria 
+✅ Aquecimento piso radiante 
+✅ Renovações (passa por espaços) 
+✅ Zonas frias (resistente gelo) 
+✅ Instalação rápida 
 
-❌ Exterior exposto  
-❌ Instalações à vista (estética)  
+❌ Exterior exposto 
+❌ Instalações à vista (estética) 
 
 ---
 
@@ -311,9 +311,9 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Características
 
-**Material:** Plástico rígido  
-**Cor:** Verde, branco ou cinza  
-**Ligações:** Termofusão (calor)  
+**Material:** Plástico rígido 
+**Cor:** Verde, branco ou cinza 
+**Ligações:** Termofusão (calor) 
 **Temperatura máxima:** 95°C
 
 ---
@@ -368,14 +368,14 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Melhor Para
 
-✅ Água quente e fria  
-✅ Aquecimento central  
-✅ Instalações novas  
-✅ Máxima fiabilidade (zero fugas)  
+✅ Água quente e fria 
+✅ Aquecimento central 
+✅ Instalações novas 
+✅ Máxima fiabilidade (zero fugas) 
 
-❌ Renovações (rígido)  
-❌ DIY (equipamento caro)  
-❌ Exterior exposto  
+❌ Renovações (rígido) 
+❌ DIY (equipamento caro) 
+❌ Exterior exposto 
 
 ---
 
@@ -420,48 +420,48 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### Orçamento Limitado
 
-**Solução:** PVC (água fria) + PEX (água quente)  
-**Custo:** €450-900 (T3)  
+**Solução:** PVC (água fria) + PEX (água quente) 
+**Custo:** €450-900 (T3) 
 **Vantagens:** Barato, durável, fácil instalar
 
 ---
 
 ### Máxima Durabilidade
 
-**Solução:** Cobre (água quente) + PVC (água fria)  
-**Custo:** €750-1.375 (T3)  
+**Solução:** Cobre (água quente) + PVC (água fria) 
+**Custo:** €750-1.375 (T3) 
 **Vantagens:** Comprovado, 50-100 anos
 
 ---
 
 ### Melhor Custo-Benefício
 
-**Solução:** PPR (água quente + fria)  
-**Custo:** €700-1.300 (T3)  
+**Solução:** PPR (água quente + fria) 
+**Custo:** €700-1.300 (T3) 
 **Vantagens:** Ligações perfeitas, durável, sem calcário
 
 ---
 
 ### Renovação Rápida
 
-**Solução:** PEX (água quente + fria)  
-**Custo:** €550-1.050 (T3)  
+**Solução:** PEX (água quente + fria) 
+**Custo:** €550-1.050 (T3) 
 **Vantagens:** Flexível, rápido, passa por espaços
 
 ---
 
 ### Zona Muito Fria (Gelo)
 
-**Solução:** PEX (tudo)  
-**Custo:** €550-1.050 (T3)  
+**Solução:** PEX (tudo) 
+**Custo:** €550-1.050 (T3) 
 **Vantagens:** Resistente a gelo, não rebenta
 
 ---
 
 ### Água Muito Dura (Calcário)
 
-**Solução:** PVC (frio) + PEX (quente)  
-**Custo:** €450-900 (T3)  
+**Solução:** PVC (frio) + PEX (quente) 
+**Custo:** €450-900 (T3) 
 **Vantagens:** Não acumula calcário, mantém caudal
 
 ---
@@ -512,15 +512,15 @@ Em Trás-os-Montes, onde água é dura (calcário) e invernos rigorosos (-5°C),
 
 ### 📞 Precisa de Renovar Canalização?
 
-**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes  
-✅ Especialistas em todos os materiais (PVC, cobre, PEX, PPR)  
-✅ Consultoria gratuita (melhor solução para seu caso)  
-✅ Orçamento detalhado sem compromisso  
-✅ Garantia de 2 anos  
-✅ Trabalhos rápidos e limpos  
+**Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
+✅ Especialistas em todos os materiais (PVC, cobre, PEX, PPR) 
+✅ Consultoria gratuita (melhor solução para seu caso) 
+✅ Orçamento detalhado sem compromisso 
+✅ Garantia de 2 anos 
+✅ Trabalhos rápidos e limpos 
 
-**📞 Ligue Agora:** [928 484 451](tel:+351928484451)  
-**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20ajuda%20para%20escolher%20tubos!)  
+**📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
+**💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20ajuda%20para%20escolher%20tubos!) 
 **🌐 Website:** [canalizador-norte-reparos.pt](https://canalizador-norte-reparos.pt)
 
 **Servimos:** Bragança, Vila Real, Chaves, Mirandela, Trás-os-Montes e toda a região de Trás-os-Montes.

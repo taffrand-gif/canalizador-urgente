@@ -22,16 +22,16 @@ priority: "CRITICAL"
 **Prioridade máxima!**
 
 1. **Localize a válvula de corte:**
-   - Válvula geral da casa (junto ao contador)
-   - Ou válvula individual (debaixo de lava-loiça, autoclismo)
+ - Válvula geral da casa (junto ao contador)
+ - Ou válvula individual (debaixo de lava-loiça, autoclismo)
 
 2. **Feche completamente:**
-   - Rode no sentido dos ponteiros do relógio
-   - Até não rodar mais
+ - Rode no sentido dos ponteiros do relógio
+ - Até não rodar mais
 
 3. **Verifique que parou:**
-   - Água deve parar de sair
-   - Se continuar = feche válvula do contador (na rua)
+ - Água deve parar de sair
+ - Se continuar = feche válvula do contador (na rua)
 
 **Se não sabe onde está a válvula:**
 - Procure junto ao contador (geralmente no exterior)
@@ -76,19 +76,19 @@ priority: "CRITICAL"
 **Para seguro:**
 
 1. **Tire fotos/vídeos:**
-   - Fuga de água
-   - Danos em móveis, paredes, chão
-   - Cano rebentado (quando acessível)
+ - Fuga de água
+ - Danos em móveis, paredes, chão
+ - Cano rebentado (quando acessível)
 
 2. **Anote:**
-   - Hora que descobriu
-   - Ações tomadas
-   - Contacto do picheleiro
+ - Hora que descobriu
+ - Ações tomadas
+ - Contacto do picheleiro
 
 3. **Contacte seguro:**
-   - Verifique apólice (cobertura de danos por água)
-   - Reporte sinistro
-   - Guarde faturas de arranjo
+ - Verifique apólice (cobertura de danos por água)
+ - Reporte sinistro
+ - Guarde faturas de arranjo
 
 ## 🔍 Causas Principais de Canos Rebentados
 
@@ -233,7 +233,7 @@ priority: "CRITICAL"
 3. Soldar/roscar ligações
 4. Testar pressão
 
-**Custo:** €80-250 (dependendo do acesso e material)  
+**Custo:** €80-250 (dependendo do acesso e material) 
 **Tempo:** 1-3 horas
 
 **Opção B: Substituir Cano Completo**
@@ -243,7 +243,7 @@ priority: "CRITICAL"
 - Múltiplas fugas
 - Corrosão generalizada
 
-**Custo:** €150-800 (dependendo do comprimento e acesso)  
+**Custo:** €150-800 (dependendo do comprimento e acesso) 
 **Tempo:** 3-8 horas
 
 **Opção C: Substituir Tubagem da Casa**
@@ -253,7 +253,7 @@ priority: "CRITICAL"
 - Canos de ferro galvanizado
 - Múltiplos problemas
 
-**Custo:** €1.200-4.000 (casa T3)  
+**Custo:** €1.200-4.000 (casa T3) 
 **Tempo:** 2-5 dias
 
 ## 💰 Custos de Arranjo
@@ -427,15 +427,15 @@ Cano rebentado é **emergência que requer ação imediata**:
 
 **Norte Reparos — Picheleiro Urgente 24h**
 
-📞 **Ligue AGORA: [928 484 451](tel:+351928484451)**  
+📞 **Ligue AGORA: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=URGÊNCIA%3A%20Cano%20rebentado!%20Preciso%20de%20ajuda%20imediata!)**
 
-✅ **Disponível Atendimento 24h/7d, 7 dias por semana**  
-✅ **Resposta rápida garantida-45 minutos**  
-✅ **Arranjo imediata**  
-✅ **Equipamento profissional**  
-✅ **Minimizamos danos**  
-✅ **Garantia no serviço**  
+✅ **Disponível Atendimento 24h/7d, 7 dias por semana** 
+✅ **Resposta rápida garantida-45 minutos** 
+✅ **Arranjo imediata** 
+✅ **Equipamento profissional** 
+✅ **Minimizamos danos** 
+✅ **Garantia no serviço** 
 ✅ **Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região**
 
 **Cada minuto conta!** Quanto mais rápido arranjar, menos danos. Contacte-nos JÁ para intervenção urgente.
