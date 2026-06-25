@@ -24,12 +24,12 @@ Em Macedo fazemos: diagnóstico e reparação de avarias, substituição de quad
 
 ## Preços Macedo — Zona 1
 
-Por ser a nossa sede, os preços em Macedo são os mais baixos: deslocação 20€ (ou incluída no centro), hora a 80€/h. Para um diagnóstico típico + reparação de 1-2 horas, o investimento ronda os 100€-180€. Ligue 932 321 892 agora.
+Por ser a nossa sede, os preços em Macedo são os mais baixos: deslocação 20€ (ou incluída no centro), hora a 80€/h. Para um diagnóstico típico + reparação de 1-2 horas, o investimento ronda os 100€-180€. Ligue 928 484 451 agora.
 
 
 
 ---
 
-**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendimento 24h, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
+**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendimento 24h, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 928 484 451**
 
 Servimos Macedo de Cavaleiros e todas as freguesias envolventes. Ligue já — Resposta rápida garantida.
