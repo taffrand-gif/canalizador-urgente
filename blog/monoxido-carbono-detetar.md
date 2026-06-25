@@ -385,7 +385,7 @@ keywords: ["monóxido carbono", "CO", "detetor CO", "intoxicação", "Trás-os-M
 
 ### Especialização Segurança Gás
 
-- Certificação DGEG
+- Experiência profissional
 - Teste CO profissional
 - Manutenção certificada
 - 10+ anos experiência

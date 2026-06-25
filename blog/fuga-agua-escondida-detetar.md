@@ -109,7 +109,7 @@ Para fugas em canalização enterrada:
 - 10+ anos experiência
 - 500+ fugas detetadas
 - 4.9/5 estrelas (500+ avaliações)
-- Fichas eletrotécnicas assinadas por técnico certificado DGEG
+- Fichas eletrotécnicas assinadas por técnico Profissional
 
 ### Resposta Rápida
 - **30-60 minutos** em Bragança, Mirandela, Macedo

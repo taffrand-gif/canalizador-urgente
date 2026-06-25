@@ -16,7 +16,7 @@ Um curto-circuito ocorre quando a corrente elétrica encontra um caminho de resi
 
 ## O que fazer em caso de curto-circuito
 
-1) Não toque em fios ou cabos expostos. 2) Desligue o disjuntor geral se conseguir sem risco. 3) Se sentir cheiro a queimado ou vir faíscas, chame os bombeiros. 4) Não rearmar o disjuntor até identificar a causa. 5) Contacte um eletricista certificado para diagnóstico completo. 6) Se houver danos visíveis (cabos derretidos, tomadas enegrecidas), não ligue nada até à reparação.
+1) Não toque em fios ou cabos expostos. 2) Desligue o disjuntor geral se conseguir sem risco. 3) Se sentir cheiro a queimado ou vir faíscas, chame os bombeiros. 4) Não rearmar o disjuntor até identificar a causa. 5) Contacte um eletricista com experiência para diagnóstico completo. 6) Se houver danos visíveis (cabos derretidos, tomadas enegrecidas), não ligue nada até à reparação.
 
 ## Como prevenir curtos-circuitos
 

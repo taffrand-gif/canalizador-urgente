@@ -324,7 +324,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 **Custo profissional:** 80-200€ (reparação)
 **Custo DIY:** Risco vida (sem preço)
 
-**Legal:** Obrigatório profissional certificado
+**Legal:** Obrigatório profissional com experiência
 
 **Veredito:** ❌ NUNCA DIY - ILEGAL E PERIGOSO
 
@@ -353,7 +353,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 
 **Porquê profissional:**
 - Obrigatório por lei
-- Só profissionais certificados
+- Só profissionais com experiência
 - Testes especializados
 - Responsabilidade legal
 
@@ -623,7 +623,7 @@ Se fizer 3+ reparações/ano, kit paga-se.
 **Sim, geralmente.** Esquentador, caldeira, máquinas: mexer anula garantia. Verificar manual antes.
 
 ### 5. Posso fazer DIY e depois certificar?
-**Não.** Certificação precisa profissional certificado fazer trabalho. DIY não certificável.
+**Não.** Certificação precisa profissional com experiência fazer trabalho. DIY não certificável.
 
 ### 6. Vale a pena aprender canalização básica?
 **Sim.** Reparações simples (vedantes, sifões, ralos) poupa 200-500€/ano. Mas respeitar limites (não fazer trabalhos complexos).

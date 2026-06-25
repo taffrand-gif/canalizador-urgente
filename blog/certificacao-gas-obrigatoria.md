@@ -5,7 +5,7 @@ category: "certificacoes"
 date: "2026-03-03"
 author: "Norte Reparos"
 excerpt: "Certificação gás é obrigatória para instalações novas, alterações e venda/arrendamento. Descubra quando precisa, custos €150-400 e como obter."
-keywords: ["certificação gás", "certificado gás", "instalação gás", "canalizador certificado", "Trás-os-Montes"]
+keywords: ["certificação gás", "certificado gás", "instalação gás", "canalizador com experiência", "Trás-os-Montes"]
 ---
 
 # Certificação Gás Obrigatória: Guia Completo 2026
@@ -31,10 +31,10 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 **DGEG** (Direção-Geral Energia e Geologia):
 - Fiscaliza instalações
-- Regista técnicos certificados
+- Regista técnicos com experiência
 - Aplica multas
 
-**Técnico certificado**:
+**técnico com experiência**:
 - Instala e certifica
 - Emite certificado
 - Responsável técnico
@@ -69,7 +69,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 ### Inspeção Técnica
 
-**Técnico certificado verifica**:
+**técnico com experiência verifica**:
 
 1. **Tubagem gás**
    - Material adequado (cobre, aço)
@@ -200,10 +200,10 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 ## 🔍 Processo Certificação Passo a Passo
 
-### Passo 1: Contacte Técnico Certificado (1 dia)
+### Passo 1: Contacte técnico com experiência (1 dia)
 
 **Técnico deve ter**:
-- Certificação DGEG (gás)
+- Experiência profissional (gás)
 - Seguro responsabilidade civil
 - Experiência comprovada
 
@@ -241,9 +241,9 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 - Resultados testes
 - Recomendações
 
-### Passo 6: Registo DGEG (Automático)
+### Passo 6: Registo (Automático)
 
-**Técnico regista** certificado na plataforma DGEG.
+**Técnico regista** certificado na plataforma.
 
 ### Passo 7: Ativação Gás (1-3 dias)
 
@@ -368,7 +368,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 - Mais caro que canalizado
 - Botija 13kg: €25-30
 
-## 📞 Quando Chamar Técnico Certificado
+## 📞 Quando Chamar técnico com experiência
 
 ### Certificação Normal (5-15 dias)
 
@@ -380,7 +380,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 ### Certificação Urgente (24-48h)
 
 ✅ Distribuidor cortou gás
-✅ Inspeção DGEG detetou problemas
+✅ Inspeção detetou problemas
 ✅ Escritura marcada (precisa certificado)
 ✅ Inquilino entra em breve
 
@@ -394,10 +394,10 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 ## ✅ Por Que Escolher Norte Reparos
 
-### Certificação Oficial DGEG
+### experiência comprovada
 
-- Técnicos certificados gás
-- Registo DGEG válido
+- técnicos com experiência gás
+- Registo válido
 - Seguro responsabilidade civil
 - Certificados reconhecidos
 
@@ -466,7 +466,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **Tecnicamente sim** se construída antes 1999 sem obras. Mas dificulta venda, reduz valor, comprador pode exigir.
 
 ### Diferença entre certificação gás e elétrica?
-**Gás** = instalação gás (esquentador, fogão, caldeira). **Elétrica** = instalação elétrica. São certificados separados.
+**Gás** = instalação gás (esquentador, fogão, caldeira). **Elétrica** = instalação elétrica. têm experiência separados.
 
 ### Preciso certificação para botija gás?
 **Instalação fixa** (tubagem permanente): sim. **Botija móvel** (liga direto aparelho): não.

@@ -16,7 +16,7 @@ Uma tomada aquece quando os contactos estão frouxos, quando há oxidação nos 
 
 ## O que fazer imediatamente
 
-1) Desligue todos os aparelhos dessa tomada. 2) Não use essa tomada até um electrician avaliar. 3) Se a tomada estiver a fumar ou a cheirar a plástico queimado, desligue o disjuntor desse circuito no quadro. 4) Não tente substituir a tomada sozinho — envolve trabalhar com fios vivos se não se sabe exatamente o que se está a fazer. 5) Chame um eletricista certificado para fazer a substituição e verificar o circuito.
+1) Desligue todos os aparelhos dessa tomada. 2) Não use essa tomada até um electrician avaliar. 3) Se a tomada estiver a fumar ou a cheirar a plástico queimado, desligue o disjuntor desse circuito no quadro. 4) Não tente substituir a tomada sozinho — envolve trabalhar com fios vivos se não se sabe exatamente o que se está a fazer. 5) Chame um eletricista com experiência para fazer a substituição e verificar o circuito.
 
 ## Prevenir o aquecimento de tomadas
 

@@ -12,7 +12,7 @@ keywords: ["certificado energético", "certificação energética", "vender casa
 
 **Vai vender ou arrendar casa? Precisa certificado energético!** Desde 2013, certificação energética é **obrigatória** para venda, arrendamento e construção nova. Sem certificado = **multa €250-8,000** + impossível escritura/contrato. Neste guia completo, explicamos quando é obrigatório, como obter, custos €150-400, validade 10 anos e como melhorar classe energética.
 
-## 🏠 O Que É Certificado Energético
+## 🏠 O Que tem experiência Energético
 
 ### Definição
 

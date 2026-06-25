@@ -31,7 +31,7 @@ priority: "CRITICAL"
 4. **Saia de casa**
 5. **Ligue 112 ou picheleiro urgente: 928 484 451**
 
-**Manutenção obrigatória:** Caldeira a gás precisa revisão anual por técnico certificado (lei portuguesa)
+**Manutenção obrigatória:** Caldeira a gás precisa revisão anual por técnico com experiência (lei portuguesa)
 
 ## O Que É uma Caldeira?
 
@@ -373,7 +373,7 @@ Caldeira aquece água que circula pelos radiadores (aquecimento central) e/ou fo
 
 ## Manutenção Preventiva (Evite 80% das Avarias)
 
-### Manutenção Anual (Técnico Certificado):
+### Manutenção Anual (técnico com experiência):
 
 **Obrigatória por lei portuguesa!**
 
@@ -406,7 +406,7 @@ Caldeira aquece água que circula pelos radiadores (aquecimento central) e/ou fo
 
 **Tempo:** 5 minutos
 
-## Quando Chamar Técnico Certificado?
+## Quando Chamar técnico com experiência?
 
 ### Situações que EXIGEM profissional:
 
@@ -480,7 +480,7 @@ Caldeira aquece água que circula pelos radiadores (aquecimento central) e/ou fo
 R: 12-15 anos com manutenção anual. Sem manutenção: 8-10 anos. Após 15 anos, considere substituir por eficiência e segurança.
 
 **P: Posso arranjar caldeira eu mesmo?**
-R: NÃO! Trabalho em gás requer certificação (lei). Risco de explosão, intoxicação CO, incêndio. Apenas técnico certificado.
+R: NÃO! Trabalho em gás requer certificação (lei). Risco de explosão, intoxicação CO, incêndio. Apenas técnico com experiência.
 
 **P: Quanto custa manutenção anual?**
 R: €80-150. Obrigatória por lei. Previne 80% avarias, economiza 15% gás, prolonga vida útil. Investimento essencial.
@@ -497,11 +497,11 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 
 ### 🚨 Caldeira Avariada? Ligue JÁ!
 
-**Norte Reparos - Técnico Certificado Caldeiras em Trás-os-Montes**
+**Norte Reparos - técnico com experiência Caldeiras em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
 - ✅ Atendimento 24h/7d (emergências inverno)
-- ✅ Técnico certificado gás chega em 30-60 minutos
+- ✅ técnico com experiência gás chega em 30-60 minutos
 - ✅ Manutenção anual obrigatória €80-150
 - ✅ Arranjos todas as marcas
 - ✅ Garantia 12 meses
@@ -515,4 +515,4 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 
 ---
 
-**Não passe frio! Técnico certificado resolve caldeira em 1-2 horas!**
+**Não passe frio! técnico com experiência resolve caldeira em 1-2 horas!**

@@ -319,7 +319,7 @@ keywords: ["fuga gás", "cheiro gás", "emergência gás", "picheleiro urgente",
 
 ### Instalação Correta
 
-**Profissional certificado**:
+**profissional com experiência**:
 - Instalação gás
 - Certificado obrigatório
 - Tubagem adequada

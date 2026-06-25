@@ -286,7 +286,7 @@ priority: "SEASONAL"
 - Ver artigo "Caldeira Avariada"
 - Múltiplas causas possíveis
 
-**Solução:** Técnico certificado
+**Solução:** técnico com experiência
 - Diagnóstico €60-120
 - Arranjo €80-300
 
@@ -411,7 +411,7 @@ priority: "SEASONAL"
 - **Custo:** €150-300
 
 **4. Caldeira avariada:**
-- Técnico certificado gás
+- técnico com experiência gás
 - **Custo:** €80-300
 
 **5. Sistema desequilibrado:**
