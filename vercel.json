@@ -1,1566 +1,1566 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/$1.html"
-    }
-  ],
-  "headers": [
-    {
-      "source": "/paa/(.*)",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/(.*)plumber(.*)",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        }
-      ]
-    },
-    {
-      "source": "/(.*)plombier(.*)",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-viana-do-bolo",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-viana-do-bolo",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-vitigudino",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-vitigudino",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-puebla-de-sanabria",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-puebla-de-sanabria",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-sanchón-de-la-ribera",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-justel",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-la-peña",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-san-vicente-de-la-cabeza",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-galende",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-asturianos",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-lumbrales",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-lubián",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-muelas-de-los-caballeros",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-trabazos",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villadepera",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-la-vídola",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-sobradillo",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-cualedro",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-videmala",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-riofrío-de-aliste",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-sardon-de-los-frailes",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-viñas",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-masueco",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-almeida-de-sayago",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-manzanal-del-barco",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-verín",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-vilvestre",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-almaraz-de-duero",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-fermoselle",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-san-vitero",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-barruecopardo",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-laza",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-luelmo",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-trefacio",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-pereña-de-la-ribera",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-aldeadavila-de-la-ribera",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-muga-de-sayago",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-santa-eufemia-del-barco",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-alcañices",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-palacios-de-sanabria",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-manzanal-de-arriba",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villar-del-buey",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-mahíde",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-mombuey",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villar-de-samaniego",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-rionegro-del-puente",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-aldeadávila-de-la-ribera",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-gallegos-del-río",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-salce",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-losacio",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-pino-del-oro",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-robleda",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-roelos-de-sayago",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-sardón-de-los-frailes",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-monleras",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villasbuenas",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villarmuerto",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-olmillos-de-castro",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-losacino",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-peque",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villaseco-de-los-reyes",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-argañín",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-sanchon-de-la-ribera",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-hinojosa-de-duero",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-manzanal-de-los-infantes",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-figueruela-de-arriba",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-fresno-de-sayago",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-trasmiras",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-puertas",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-samir-de-los-caños",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-moral-de-sayago",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-trabanca",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-oímbra",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-rosinos-de-la-requejada",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-carbellino",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-torregamones",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-saucelle",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-palacios-del-pan",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villaseco-del-pan",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-fonfría",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-carbajales-de-alba",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-rabanales",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-muelas-del-pan",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-puerto-seguro",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villalcampo",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-el-milano",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villarino-de-los-aires",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-pedralba-de-la-pradería",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villardiegua-de-la-ribera",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-vegalatrave",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-san-justo",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-hermisende",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-rábano-de-aliste",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-saldeana",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-rabano-de-aliste",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-gamones",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-malpartida",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-la-fregeneda",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-bermillo-de-sayago",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-ahigal-de-villarino",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-lubian",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-cobreros",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-urgente-cerezal-de-peñahorcada",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-ferreras-de-arriba",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    },
-    {
-      "source": "/canalizador-villardeciervos",
-      "headers": [
-        {
-          "key": "X-Robots-Tag",
-          "value": "noindex, nofollow"
-        },
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=0, must-revalidate"
-        }
-      ]
-    }
-  ],
-  "redirects": [
-    {
-      "source": "/es",
-      "destination": "/",
-      "statusCode": 410
-    },
-    {
-      "source": "/fr",
-      "destination": "/",
-      "statusCode": 410
-    },
-    {
-      "source": "/en",
-      "destination": "/",
-      "statusCode": 410
-    },
-    {
-      "source": "/canalizador-a-gudia",
-      "destination": "/canalizador-a-gudina",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-alfndega-da-fe",
-      "destination": "/canalizador-alfandega-da-fe",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-campo-de-vboras",
-      "destination": "/canalizador-campo-de-viboras",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-carrazeda-de-anciaes",
-      "destination": "/canalizador-carrazeda-de-ansiaes",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-cerezal-de-peahorcada",
-      "destination": "/canalizador-cerezal-de-penahorcada",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-espadaedo",
-      "destination": "/canalizador-espadanedo",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-gensio",
-      "destination": "/canalizador-genisio",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-gradssimo",
-      "destination": "/canalizador-gradissimo",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-la-pea",
-      "destination": "/canalizador-la-pena",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-la-vdola",
-      "destination": "/canalizador-la-vidola",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-pedralba-de-la-pradera",
-      "destination": "/canalizador-pedralba-de-la-praderia",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-perea-de-la-ribera",
-      "destination": "/canalizador-perena-de-la-ribera",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-samir-de-los-caos",
-      "destination": "/canalizador-samir-de-los-canos",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-seixo-de-anasiaes",
-      "destination": "/canalizador-seixo-de-ansiaes",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-urgente-carrazeda-de-anciaes",
-      "destination": "/canalizador-urgente-carrazeda-de-ansiaes",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-vilario-de-conso",
-      "destination": "/canalizador-vilarino-de-conso",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-urgente-mós-de-celas",
-      "destination": "/canalizador-urgente-mós-de-celas",
-      "statusCode": 410
-    },
-    {
-      "source": "/canalizador-urgente-mós",
-      "destination": "/canalizador-urgente-mós",
-      "statusCode": 410
-    },
-    {
-      "source": "/canalizador-urgente-tó",
-      "destination": "/canalizador-urgente-tó",
-      "statusCode": 410
-    },
-    {
-      "source": "/canalizador-",
-      "destination": "/canalizador-",
-      "statusCode": 410
-    },
-    {
-      "source": "/canalizador-gallegos-del-ro",
-      "destination": "/canalizador-gallegos-del-ro",
-      "statusCode": 410
-    },
-    {
-      "source": "/canalizador-urgente-peso-da-r-gua",
-      "destination": "/canalizador-urgente-peso-da-regua",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-urgente-alij",
-      "destination": "/canalizador-urgente-alijo",
-      "statusCode": 301
-    }
-  ]
+ "cleanUrls": true,
+ "trailingSlash": false,
+ "rewrites": [
+ {
+ "source": "/(.*)",
+ "destination": "/$1.html"
+ }
+ ],
+ "headers": [
+ {
+ "source": "/paa/(.*)",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/(.*)plumber(.*)",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ }
+ ]
+ },
+ {
+ "source": "/(.*)plombier(.*)",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-viana-do-bolo",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-viana-do-bolo",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-vitigudino",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-vitigudino",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-puebla-de-sanabria",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-puebla-de-sanabria",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-sanchón-de-la-ribera",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-justel",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-la-peña",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-san-vicente-de-la-cabeza",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-galende",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-asturianos",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-lumbrales",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-lubián",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-muelas-de-los-caballeros",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-trabazos",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villadepera",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-la-vídola",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-sobradillo",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-cualedro",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-videmala",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-riofrío-de-aliste",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-sardon-de-los-frailes",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-viñas",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-masueco",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-almeida-de-sayago",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-manzanal-del-barco",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-verín",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-vilvestre",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-almaraz-de-duero",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-fermoselle",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-san-vitero",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-barruecopardo",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-laza",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-luelmo",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-trefacio",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-pereña-de-la-ribera",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-aldeadavila-de-la-ribera",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-muga-de-sayago",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-santa-eufemia-del-barco",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-alcañices",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-palacios-de-sanabria",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-manzanal-de-arriba",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villar-del-buey",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-mahíde",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-mombuey",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villar-de-samaniego",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-rionegro-del-puente",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-aldeadávila-de-la-ribera",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-gallegos-del-río",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-salce",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-losacio",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-pino-del-oro",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-robleda",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-roelos-de-sayago",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-sardón-de-los-frailes",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-monleras",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villasbuenas",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villarmuerto",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-olmillos-de-castro",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-losacino",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-peque",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villaseco-de-los-reyes",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-argañín",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-sanchon-de-la-ribera",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-hinojosa-de-duero",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-manzanal-de-los-infantes",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-figueruela-de-arriba",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-fresno-de-sayago",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-trasmiras",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-puertas",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-samir-de-los-caños",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-moral-de-sayago",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-trabanca",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-oímbra",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-rosinos-de-la-requejada",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-carbellino",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-torregamones",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-saucelle",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-palacios-del-pan",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villaseco-del-pan",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-fonfría",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-carbajales-de-alba",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-rabanales",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-muelas-del-pan",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-puerto-seguro",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villalcampo",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-el-milano",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villarino-de-los-aires",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-pedralba-de-la-pradería",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villardiegua-de-la-ribera",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-vegalatrave",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-san-justo",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-hermisende",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-rábano-de-aliste",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-saldeana",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-rabano-de-aliste",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-gamones",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-malpartida",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-la-fregeneda",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-bermillo-de-sayago",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-ahigal-de-villarino",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-lubian",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-cobreros",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-urgente-cerezal-de-peñahorcada",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-ferreras-de-arriba",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ },
+ {
+ "source": "/canalizador-villardeciervos",
+ "headers": [
+ {
+ "key": "X-Robots-Tag",
+ "value": "noindex, nofollow"
+ },
+ {
+ "key": "Cache-Control",
+ "value": "public, max-age=0, must-revalidate"
+ }
+ ]
+ }
+ ],
+ "redirects": [
+ {
+ "source": "/es",
+ "destination": "/",
+ "statusCode": 410
+ },
+ {
+ "source": "/fr",
+ "destination": "/",
+ "statusCode": 410
+ },
+ {
+ "source": "/en",
+ "destination": "/",
+ "statusCode": 410
+ },
+ {
+ "source": "/canalizador-a-gudia",
+ "destination": "/canalizador-a-gudina",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-alfndega-da-fe",
+ "destination": "/canalizador-alfandega-da-fe",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-campo-de-vboras",
+ "destination": "/canalizador-campo-de-viboras",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-carrazeda-de-anciaes",
+ "destination": "/canalizador-carrazeda-de-ansiaes",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-cerezal-de-peahorcada",
+ "destination": "/canalizador-cerezal-de-penahorcada",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-espadaedo",
+ "destination": "/canalizador-espadanedo",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-gensio",
+ "destination": "/canalizador-genisio",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-gradssimo",
+ "destination": "/canalizador-gradissimo",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-la-pea",
+ "destination": "/canalizador-la-pena",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-la-vdola",
+ "destination": "/canalizador-la-vidola",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-pedralba-de-la-pradera",
+ "destination": "/canalizador-pedralba-de-la-praderia",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-perea-de-la-ribera",
+ "destination": "/canalizador-perena-de-la-ribera",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-samir-de-los-caos",
+ "destination": "/canalizador-samir-de-los-canos",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-seixo-de-anasiaes",
+ "destination": "/canalizador-seixo-de-ansiaes",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-urgente-carrazeda-de-anciaes",
+ "destination": "/canalizador-urgente-carrazeda-de-ansiaes",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-vilario-de-conso",
+ "destination": "/canalizador-vilarino-de-conso",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-urgente-mós-de-celas",
+ "destination": "/canalizador-urgente-mós-de-celas",
+ "statusCode": 410
+ },
+ {
+ "source": "/canalizador-urgente-mós",
+ "destination": "/canalizador-urgente-mós",
+ "statusCode": 410
+ },
+ {
+ "source": "/canalizador-urgente-tó",
+ "destination": "/canalizador-urgente-tó",
+ "statusCode": 410
+ },
+ {
+ "source": "/canalizador-",
+ "destination": "/canalizador-",
+ "statusCode": 410
+ },
+ {
+ "source": "/canalizador-gallegos-del-ro",
+ "destination": "/canalizador-gallegos-del-ro",
+ "statusCode": 410
+ },
+ {
+ "source": "/canalizador-urgente-peso-da-r-gua",
+ "destination": "/canalizador-urgente-peso-da-regua",
+ "statusCode": 301
+ },
+ {
+ "source": "/canalizador-urgente-alij",
+ "destination": "/canalizador-urgente-alijo",
+ "statusCode": 301
+ }
+ ]
 }

@@ -15,18 +15,18 @@ Pas de `package.json`, pas de bundler. ~1900 pages `.html` autonomes + assets. V
 
 ```
 canalizador-urgente/
-├── canalizador-<slug>.html   ~1900 pages-villes À PLAT à la racine (1 fichier = 1 ville)
-├── calculadora-de-preco.html  index.html  contactos…   pages outils/hub
-├── blog/            articles .html (~27+ à la racine de blog/)
-├── concelhos/       14 pages hub par concelho
-├── distritos/       6 pages hub par district
-├── public/          assets (images, icons)
-├── scripts/         génération + maintenance
-│   └── archive/     scripts ponctuels passés (lot1-*, logs)
-├── vercel.json      cleanUrls, redirects, rewrite → .html (§5)
-├── sitemap.xml  robots.txt  llms.txt  ai.txt
-├── AGENTS.md        ⚠️ règles verrouillées (prioritaires)
-└── .gitignore       .vercel, __pycache__, .DS_Store, *.log
+├── canalizador-<slug>.html ~1900 pages-villes À PLAT à la racine (1 fichier = 1 ville)
+├── calculadora-de-preco.html index.html contactos… pages outils/hub
+├── blog/ articles .html (~27+ à la racine de blog/)
+├── concelhos/ 14 pages hub par concelho
+├── distritos/ 6 pages hub par district
+├── public/ assets (images, icons)
+├── scripts/ génération + maintenance
+│ └── archive/ scripts ponctuels passés (lot1-*, logs)
+├── vercel.json cleanUrls, redirects, rewrite → .html (§5)
+├── sitemap.xml robots.txt llms.txt ai.txt
+├── AGENTS.md ⚠️ règles verrouillées (prioritaires)
+└── .gitignore .vercel, __pycache__, .DS_Store, *.log
 ```
 
 **3A — pages-villes à plat, on NE réorganise PAS.** Hiérarchiser en sous-dossiers casserait ~1900 URLs + redirects + sitemap (risque SEO). Le routing est géré par `cleanUrls` (§5), pas par l'arborescence.
