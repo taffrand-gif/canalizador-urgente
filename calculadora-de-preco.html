@@ -59,7 +59,7 @@ footer{text-align:center;color:#fff;margin-top:1rem;font-size:.85rem;opacity:.9}
 const SERVICES = {
  canal: {
  icon: '💧',
- base_price: 110, // min service price
+ base_price: 110,
  hour_price: {1: 80, 2: 80, 3: 80, 4: 80, 5: 80},
  items: [
  {value: '', label: 'Escolha o serviço...'},
@@ -101,7 +101,6 @@ function setService(svc) {
  currentService = svc;
  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
  event.target.classList.add('active');
- // Update service options
  const select = document.getElementById('service');
  select.innerHTML = '';
  SERVICES[svc].items.forEach(item => {
@@ -111,7 +110,6 @@ function setService(svc) {
  opt.dataset.base = item.base || '';
  select.appendChild(opt);
  });
- // Update phone display
  document.getElementById('phone-canal').classList.toggle('hidden', svc !== 'canal');
  document.getElementById('phone-elec').classList.toggle('hidden', svc !== 'elec');
  document.getElementById('wa-canal').classList.toggle('hidden', svc !== 'canal');
@@ -126,10 +124,8 @@ function calculate() {
  const zone = parseInt(document.getElementById('zone').value);
  const urgency = document.getElementById('urgency').value;
  const hours = parseInt(document.getElementById('hours').value);
- // Travel
  const travelPrices = {1: 20, 2: 25, 3: 30, 4: 40};
  const travel = travelPrices[zone] || 25;
- // Hour price with urgency multiplier
  const hourBase = 80;
  let hourMultiplier = 1;
  if (urgency === 'noite') hourMultiplier = 1.5;
@@ -137,7 +133,6 @@ function calculate() {
  else if (urgency === 'domingo') hourMultiplier = 1.2;
  const hourPrice = hourBase * hourMultiplier * hours;
  const total = serviceBase + travel + hourPrice;
- // Show result
  const result = document.getElementById('result');
  result.classList.add('show');
  document.getElementById('price').textContent = `€${Math.round(total)}`;
@@ -147,7 +142,6 @@ function calculate() {
  ${hours}h × €${Math.round(hourBase * hourMultiplier)}/h: €${Math.round(hourPrice)}
  `;
 }
-// Init
 setService('canal');
 </script><style>
 .sticky-cta{position:fixed;bottom:0;left:0;right:0;background:linear-gradient(135deg,c0392b,922b21);color:#fff;padding:10px 12px;display:none;justify-content:space-between;align-items:center;z-index:9999;box-shadow:0 -4px 12px rgba(0,0,0,.2);font-family:sans-serif}.sticky-cta a{flex:1;margin:0 3px;padding:8px;text-align:center;background:#fff;color:c0392b;border-radius:30px;text-decoration:none;font-weight:900;font-size:13px}.sticky-cta a.wa{background:#25D366;color:#fff}@media(max-width:768px){.sticky-cta{{display:flex}}}}
@@ -174,4 +168,3 @@ setService('canal');
 </section>
 <script src="/sticky-mobile.js" defer></script>
 </body></html>
-
