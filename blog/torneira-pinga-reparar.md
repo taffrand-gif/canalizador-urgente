@@ -420,7 +420,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Torneira%20pinga)**
 
-**Resposta rápida garantida. Arranjo rápida e garantida.**
+**Resposta mediante confirmação por telefone garantida. Arranjo rápida e garantida.**
 
 ---
 

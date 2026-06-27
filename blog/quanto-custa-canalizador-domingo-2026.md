@@ -217,7 +217,7 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 
 ✅ Atendimento imediato Atendimento 24h/7d
 ✅ Orçamento gratuito por telefone
-✅ Resposta rápida garantida-90 minutos
+✅ Resposta mediante confirmação por telefone garantida-90 minutos
 ✅ Preços transparentes sem surpresas
 ✅ Garantia 12 meses
 
