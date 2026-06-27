@@ -593,7 +593,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 ✅ Preços transparentes sem surpresas
 ✅ Resposta mediante confirmação por telefone garantida-90 minutos
 ✅ Garantia 12 meses
-✅ Atendimento 24h/7d urgências
+✅ Atendimento mediante confirmação por telefone/7d urgências
 
 **WhatsApp:** [Orçamento fuga água](https://wa.me/351928484451?text=Preciso orçamento arranjar fuga água)
 

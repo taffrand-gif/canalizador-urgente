@@ -423,14 +423,14 @@ Cano rebentado é **emergência que requer ação imediata**:
 - Danos se não arranjar rápido: €1.000-10.000+
 - **Prevenir é 10× mais barato!**
 
-### 🚨 Cano Rebentado? Urgência Atendimento 24h/7d em Trás-os-Montes
+### 🚨 Cano Rebentado? Urgência Atendimento mediante confirmação por telefone/7d em Trás-os-Montes
 
 **Norte Reparos — Picheleiro Urgente 24h**
 
 📞 **Ligue AGORA: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=URGÊNCIA%3A%20Cano%20rebentado!%20Preciso%20de%20ajuda%20imediata!)**
 
-✅ **Disponível Atendimento 24h/7d, 7 dias por semana** 
+✅ **Disponível Atendimento mediante confirmação por telefone/7d, 7 dias por semana** 
 ✅ **Resposta mediante confirmação por telefone garantida-45 minutos** 
 ✅ **Arranjo imediata** 
 ✅ **Equipamento profissional** 

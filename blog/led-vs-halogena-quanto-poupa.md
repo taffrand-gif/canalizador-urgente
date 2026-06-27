@@ -26,6 +26,6 @@ Numa casa com 30 pontos de iluminação, trocando todas as halogéneas por LED, 
 
 ---
 
-**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendimento 24h, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
+**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendimento mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
 Se precisa de um eletricista em iluminação led, ligue já. Resposta mediante confirmação por telefone garantida.

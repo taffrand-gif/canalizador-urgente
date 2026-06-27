@@ -16,7 +16,7 @@ Macedo de Cavaleiros é onde estamos sediados. Isto significa que, para qualquer
 
 ## Toda a zona servida a partir de Macedo
 
-A partir da nossa base no norte de Portugal, cobramos todo o concelho: Bornes, Castelãos, Grijó, Podence, Vale de Prados, Vilar do Monte, Sesulfe, Amendoeira, e mais 130+ aldeias no raio de 30 km. Em muitas destas aldeias, somos o ÚNICO serviço profissional Atendimento 24h/7d.
+A partir da nossa base no norte de Portugal, cobramos todo o concelho: Bornes, Castelãos, Grijó, Podence, Vale de Prados, Vilar do Monte, Sesulfe, Amendoeira, e mais 130+ aldeias no raio de 30 km. Em muitas destas aldeias, somos o ÚNICO serviço profissional Atendimento mediante confirmação por telefone/7d.
 
 ## Preços mais baixos para Macedo
 
@@ -30,6 +30,6 @@ Em Macedo fazemos tudo: desentupimentos, buscas de fuga com câmara térmica, in
 
 ---
 
-**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendimento 24h, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 928 484 451**
+**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendimento mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 928 484 451**
 
 Servimos Macedo de Cavaleiros e todas as freguesias envolventes. Ligue já — Resposta mediante confirmação por telefone garantida.

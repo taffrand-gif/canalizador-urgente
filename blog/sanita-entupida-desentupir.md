@@ -279,7 +279,7 @@ R: A cada 2-3 anos em uso normal. Anualmente se família numerosa (5+ pessoas).
 **Norte Reparos - Picheleiro Certificado em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento 24h/7d (urgências)
+- ✅ Atendimento mediante confirmação por telefone/7d (urgências)
 - ✅ Técnico chega em 30-60 minutos
 - ✅ Orçamento grátis sem compromisso
 - ✅ Garantia 12 meses em todos os serviços

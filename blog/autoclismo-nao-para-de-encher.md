@@ -478,7 +478,7 @@ Um autoclismo que não para de encher é um **problema simples com solução fá
 - Peças de qualidade (Geberit, Roca, Wirquin)
 - Orçamento transparente antes de iniciar
 - Garantia de 1 ano na arranjo
-- Disponível Atendimento 24h/7d para urgências
+- Disponível Atendimento mediante confirmação por telefone/7d para urgências
 
 **Cada litro conta. Repare hoje e comece a poupar amanhã.**
 
