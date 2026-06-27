@@ -1,5 +1,5 @@
 ---
-title: "Torneira Pinga: Arranjar Atendimento prioritário e Poupar €200/Ano"
+title: "Torneira Pinga: Arranjar Atendimento mediante confirmação por telefone e Poupar €200/Ano"
 slug: "torneira-pinga-arranjar"
 category: "arranjacao"
 date: "2026-03-04"
@@ -8,7 +8,7 @@ excerpt: "Torneira pinga: desperdiça 20,000L/ano (€40-80), arranja 10 minutos
 keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro", "Trás-os-Montes"]
 ---
 
-# Torneira Pinga: Arranjar Atendimento prioritário e Poupar €200/Ano
+# Torneira Pinga: Arranjar Atendimento mediante confirmação por telefone e Poupar €200/Ano
 
 **Torneira pinga? Barulho irritante? Conta água alta?** Torneira que pinga **desperdiça 20,000L/ano (€40-80 água + €30-50 saneamento), arranja 10 minutos €5-15**. Causa: junta gasta (90%), cartucho avariado, calcário. Arranjo DIY fácil ou picheleiro €50-80. Em Trás-os-Montes, com água calcária, juntas gastam mais rápido. Neste guia prático, explicamos causas, arranjo passo-a-passo, custos e quando chamar profissional.
 

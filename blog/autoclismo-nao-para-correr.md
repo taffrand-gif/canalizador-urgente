@@ -346,7 +346,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 
 ### Arranjo Rápida
 
-- Diagnóstico Atendimento prioritário
+- Diagnóstico Atendimento mediante confirmação por telefone
 - Arranjo em 15-30 minutos
 - Peças em stock (válvulas, mecanismos)
 

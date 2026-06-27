@@ -13,7 +13,7 @@ priority: "CRITICAL"
 
 **Cano rebentou e está a inundar a casa?** Esta é uma emergência que requer ação imediata para minimizar danos. Neste guia completo, vou mostrar-lhe **o que fazer nos primeiros minutos**, como arranjar e **como prevenir** que volte a acontecer.
 
-> 🚨 **EMERGÊNCIA: Cano rebentado?** Picheleiro urgente 24h em Bragança: **[928 484 451](tel:+351928484451)** — Intervenção Atendimento prioritário, disponível sempre.
+> 🚨 **EMERGÊNCIA: Cano rebentado?** Picheleiro urgente 24h em Bragança: **[928 484 451](tel:+351928484451)** — Intervenção Atendimento mediante confirmação por telefone, disponível sempre.
 
 ## 🚨 EMERGÊNCIA: 5 Passos Imediatos
 

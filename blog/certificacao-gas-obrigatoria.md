@@ -473,6 +473,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Precisa certificação gás? Orçamento grátis Atendimento prioritário.**
+**Precisa certificação gás? Orçamento grátis Atendimento mediante confirmação por telefone.**
 
 📞 +351 928 484 451 | 💬 WhatsApp | 🌐 canalizador-norte-reparos.pt
