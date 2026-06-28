@@ -173,3 +173,30 @@ Moule de toutes les pages service/urgence — 2 métiers (canalização + eletri
 - **AUCUN batch** sur les pages sans avoir validé 1 prototype sur 1 page test.
 - Pas de copier-coller automatique.
 - Chaque page refaite est auditable : diff des balises HEAD + diff du 1ʳᵉ paragraphe + diff du bloc Transparence prix.
+
+---
+
+## 14. Plan SEO/GEO — Coordination multi-IA (ajoutée 28/06/2026 par Philippe)
+
+**Pourquoi** : 4 sites Norte Reparos, plusieurs IA/agents/harnais peuvent travailler dessus en parallèle. Il faut une **mémoire vivante partagée** pour que chacun sache où on en est.
+
+➡️ **Plan complet** : `./SEO_PLAN.md` (vision, état actuel, TODO par phase, historique)
+
+**OBLIGATOIRE pour toute IA / agent / harnais travaillant sur ce repo** :
+1. **Lire `AGENTS.md` EN ENTIER** (§10 + §11 + §12 = robots + zéro invention + Transparence Radicale)
+2. **Lire `SEO_PLAN.md` EN ENTIER** (vision + tâches en cours, A1 = PRIORITÉ 1)
+3. **Consigner toute action** dans la section `🔄 HISTORIQUE` du `SEO_PLAN.md`
+4. **Suivre l'ordre strict** : A1 (homepage) → A2 (8 pages /zonas/) → B1/B2 (différenciation) → C (backlinks)
+5. **JAMAIS merger dans `main`** sans STOP validation Philippe (branche = `prototype-home`)
+
+**Tâches verrouillées dans SEO_PLAN.md** :
+- **A1** : refonte homepage complète selon Doctrine §12 (10 sections)
+- **A2** : 8 pages /zonas/ prioritaires (Bragança, Mirandela, Vila Real, Chaves + 4 autres)
+- **B1** : différenciation d'intention vs `canalizador-norte-reparos.pt`
+- **B2** : corriger doublon homepage (`./index.html` vs `./public/index.html`)
+- **C1-C4** : backlinks externes (continu)
+
+**Hiérarchie des fichiers de coordination** :
+1. `AGENTS.md` (ce fichier, règles verrouillées)
+2. `CLAUDE.md` (config Claude Code, pointeur)
+3. `SEO_PLAN.md` (mémoire vivante, à maintenir à jour)
