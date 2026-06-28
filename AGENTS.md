@@ -122,7 +122,7 @@ Une absence de règle = autorisé par défaut. La règle 10 dit : **en cas de do
 **Cette doctrine se COMBINE avec (ne remplace pas)** :
 
 - **R11 ZÉRO INVENTION** : aucun chantier/avis/témoignage inventé
-- **R145 (jamais de délai chiffré)** : « 24h/7 dias » OK, **« resposta rápida » / « resposta prioritária » BANNIS**
+- **R145 (jamais de délai chiffré)** : « 24h/7 dias » OK, **« resposta mediante confirmação por telefone » / « resposta prioritária » BANNIS**
 - **Grille tarifaire EXACTE** (jamais de fourchette inventée ; hors grille = « sob orçamento »)
 - **Géo-neutre** (jamais d'adresse/sede en dur ; widget géoloc dynamique seulement)
 - **Équipement EXACT** : Ridgid K9-102, FLIR, caméra 30m, **ROLeak Aqua 3Plus = détection ACOUSTIQUE**, Fluke T6-1000
@@ -163,7 +163,7 @@ Moule de toutes les pages service/urgence — 2 métiers (canalização + eletri
 ### Règles opérationnelles héritées de R12
 
 - Pas d'avis inventés (R11) → section témoignages = « Estamos a recolher as primeiras avaliações » tant que pas de vrais avis.
-- Pas de délai chiffré (R145) → « 24h/7d » OK, **« resposta rápida/prioritária » INTERDIT**.
+- Pas de délai chiffré (R145) → « 24h/7d » OK, **« resposta mediante confirmação por telefone/prioritária » INTERDIT**.
 - Pas d'adresse postale (géo-neutre) → widget géoloc dynamique uniquement.
 - Équipement exact listé dans R12 §1 (Ridgid K9-102, ROLeak Aqua 3Plus acoustique, FLIR, Fluke T6-1000, caméra 30m).
 - = formule unique « em conformidade com a (enregistrement en cours) ».

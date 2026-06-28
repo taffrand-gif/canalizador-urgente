@@ -346,7 +346,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 
 ### Arranjo Rápida
 
-- Diagnóstico Atendimento prioritário
+- Diagnóstico Atendimento mediante confirmação por telefone
 - Arranjo em 15-30 minutos
 - Peças em stock (válvulas, mecanismos)
 
@@ -383,7 +383,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Autoclismo%20não%20para%20correr)**
 
-**Resposta rápida garantida. Sem compromisso.**
+**Resposta mediante confirmação por telefone garantida. Sem compromisso.**
 
 ---
 

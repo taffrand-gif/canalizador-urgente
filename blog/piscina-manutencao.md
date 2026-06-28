@@ -593,7 +593,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Manutenção%20piscina)**
 
-**Resposta rápida garantida. Orçamento sem compromisso.**
+**Resposta mediante confirmação por telefone garantida. Orçamento sem compromisso.**
 
 ---
 

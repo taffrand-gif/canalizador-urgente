@@ -412,7 +412,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Esvaziar%20fossa%20séptica)**
 
-**Resposta rápida garantida. Serviço rápido e profissional.**
+**Resposta mediante confirmação por telefone garantida. Serviço rápido e profissional.**
 
 ---
 
