@@ -1,0 +1,34 @@
+=== TEMOIN R8 PRE-R12 2026-06-27 ===
+Date: Sat Jun 27 22:55 BST 2026
+Branche: pr-31 HEAD=710760458
+
+Total occurrences R12 par pattern :
+- Resposta rápida 24h           :     0
+- Atendimento rápido 24h        :     0
+- Resposta rápida em 24h        :     0
+- Atendimento rápido em 24h     :     0
+- Resposta rápida               :  4080
+- Atendimento rápido            :     0
+- Resposta imediata              :  1529
+- Atendimento imediato           :     2
+- Resposta prioritária          :    12
+- Atendimento prioritário       :  1967
+- Atendimento 24h               :  3733
+- Resposta 24h                  :    26
+- resposta rápida (lowercase)   :     4
+- 24 horas por dia              :    34
+- disponíveis 24h               :     1
+- garantia de resposta          :     0
+
+Patterns cibles (SOMME théorique max) : 11388 occurrences
+Mais TOTAL R8 mesuré (dédupliqué) : 6520 (chevauchements)
+
+Patterns cherchés :
+- Resposta rápida
+- Atendimento rápido
+- Resposta imediata
+- Atendimento imediato
+- Resposta prioritária
+- Atendimento prioritário
+- 24h (en contexte contact/téléphone)
+- 24 horas por dia

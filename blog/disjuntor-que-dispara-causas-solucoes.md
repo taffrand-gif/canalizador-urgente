@@ -30,6 +30,6 @@ Se o disjuntor diferencial (aquele botão rotativo ou interruptor) dispara, pode
 
 ---
 
-**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendimento 24h, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
+**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendimento mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
-Se precisa de um eletricista em disjuntor, ligue já. Resposta rápida garantida.
+Se precisa de um eletricista em disjuntor, ligue já. Resposta mediante confirmação por telefone garantida.

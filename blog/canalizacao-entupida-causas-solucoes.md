@@ -709,8 +709,8 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 
 **Ligue agora: 928 484 451**
 
-✅ Atendimento imediato 24h
-✅ Resposta rápida garantida-90 minutos
+✅ Atendimento mediante confirmação por telefone 24h
+✅ Resposta mediante confirmação por telefone garantida-90 minutos
 ✅ Equipamento completo (mola elétrica, câmara)
 ✅ Orçamento antes começar
 ✅ Garantia 12 meses

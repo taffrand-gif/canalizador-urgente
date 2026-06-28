@@ -417,7 +417,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Manutenção%20aquecimento%20central)**
 
-**Resposta rápida garantida. Agendamento flexível.**
+**Resposta mediante confirmação por telefone garantida. Agendamento flexível.**
 
 ---
 
