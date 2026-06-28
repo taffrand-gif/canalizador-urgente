@@ -161,8 +161,12 @@ grep -c "fala sempre com a mesma pessoa" index.html
 | 2026-06-29 | Hermes | R11 fourchettes service | Patch 33 fourchettes SERVICE (80-200€, 50-150€, 150-500€, etc.) → "sob orçamento" | R11 (zéro invention) — fourchettes déplacement (15-65€) CONSERVÉES (grille officielle Z1-Z6) | Témoin AVANT=505, APRÈS=0 | ✅ Fait |
 | 2026-06-29 | Hermes | R11 formulaires annexes | Patch "mais de X anos de atividade", "mais de uma década", "X anos de experiência no setor/em canalização" | R11 (zéro invention) — 213 occurrences virées sur 203 fichiers | Témoin AVANT=213, APRÈS=0 | ✅ Fait |
 | 2026-06-29 | Hermes | R11 testemunhos | Réécriture testemunhos.html + public/avaliacoes-clientes.html | R11 (zéro invention) — 16 fake testemunhos (Maria Silva, João Santos, Rui Almeida, João M., etc.) virés | 2 pages honnêtes (compromisso + CTA) | ✅ Fait |
+| 2026-06-29 | Hermes (multi-agent) | A1 homepage Doctrine §12 | Refonte from scratch index.html : hero + bandeau grille 65€/h + Z1-Z6 + +50% + artisan local (Filipe, Norte Reparos, "mesma pessoa") + 5 outils réels (Ridgid K9-102, Fluke T6-1000, ROLeak Aqua 3Plus, FLIR E96, caméra 30m) + 9 villes Z1-Z6 + FAQ transparente (5 questions) + CTA NAP 928 484 451 + Schema.org Plumber géo-neutre | Doctrine §12 Transparence Radicale — branche `prototype-home` existante identifiée comme **crochetterie marketing** (faux scarcity/urgency/social-proof) → JETÉE. R7 respecté : PR #45 ouvert + STOP merge + GO explicite Philippe | Témoin AVANT=264 lignes / APRÈS=422 lignes (+417/-260). 14/14 éléments §12, **0 interdit**. Commit `380c1667c`, merge squash `133166359` | ✅ Fait |
 
 ---
+
+**Dernière MAJ** : 2026-06-29 — A1 refonte homepage Doctrine §12 mergée sur main (commit `133166359`). Vercel déploie automatiquement canalizador-urgente.pt avec grille 65€/h + artisan identifiable + 0 crochetterie marketing.
+**Prochaine action** : A2 — pages services `-urgente` (fuga / entupimento / cano rebentado) avec même grille tarifaire Doctrine §12.
 
 ## 🤖 RÈGLES DE COORDINATION MULTI-IA
 
