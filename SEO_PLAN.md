@@ -157,6 +157,10 @@ grep -c "fala sempre com a mesma pessoa" index.html
 | 2026-06-28 | claude-minimax-m3 | audit | NAP uniformisé | Cohérence cross-fichiers | "Norte Reparos \| Trás-os-Montes" sur 4 sites | ✅ Fait |
 | 2026-06-28 | claude-minimax-m3 | refonte | ⚠️ PRIORITÉ 1 = A1 refonte homepage | Doctrine §12 NON exécutée | Tâche verrouillée, branche `prototype-home` désignée | 🛑 STOP - attente Philippe |
 | 2026-06-28 | claude-minimax-m3 | restore | Réécriture complète (recovery) | Patch replace_all a détruit la structure | Fichier restauré à partir de la version saine de canalizador | ✅ Fait |
+| 2026-06-29 | Hermes | R11 anos/fundada | Patch "12+ anos", "+10 anos", "15 anos", "Fundada em 2014" → "experiência em serviço técnico" / "Serviço estabelecido em Trás-os-Montes" | R11 (zéro invention) — 3604 occurrences virées sur 1809 fichiers | Témoin AVANT=3617, APRÈS=0 | ✅ Fait |
+| 2026-06-29 | Hermes | R11 fourchettes service | Patch 33 fourchettes SERVICE (80-200€, 50-150€, 150-500€, etc.) → "sob orçamento" | R11 (zéro invention) — fourchettes déplacement (15-65€) CONSERVÉES (grille officielle Z1-Z6) | Témoin AVANT=505, APRÈS=0 | ✅ Fait |
+| 2026-06-29 | Hermes | R11 formulaires annexes | Patch "mais de X anos de atividade", "mais de uma década", "X anos de experiência no setor/em canalização" | R11 (zéro invention) — 213 occurrences virées sur 203 fichiers | Témoin AVANT=213, APRÈS=0 | ✅ Fait |
+| 2026-06-29 | Hermes | R11 testemunhos | Réécriture testemunhos.html + public/avaliacoes-clientes.html | R11 (zéro invention) — 16 fake testemunhos (Maria Silva, João Santos, Rui Almeida, João M., etc.) virés | 2 pages honnêtes (compromisso + CTA) | ✅ Fait |
 
 ---
 
