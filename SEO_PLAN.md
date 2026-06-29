@@ -167,8 +167,8 @@ grep -c "fala sempre com a mesma pessoa" index.html
 
 ---
 
-**Dernière MAJ** : 2026-06-30 11h30 BST — **B. Schema LocalBusiness homepage** (PR #60 ouverte, STOP merge R7) + **A4-BIS cleanup résiduel** (PR #XX ouverte, STOP merge R7). Patch JSON-LD `index.html` : tel `+351****4451` → `+351 928 484 451`, retrait '(Filipe)' du name, ajout @id Plumber LocalBusiness ProfessionalService, geo 41.537/-6.9614 Macedo, areaServed 10 zones. Patch A4-BIS : 4 JSON-LD bloques `****4451` → `928 484 451`, email unifié, audit claims locaux §11.
-**Prochaine action** : **A2 — 8 pages /zonas/ prioritaires** (Bragança, Mirandela, Macedo, Chaves, Vila Real, Miranda do Douro, Mogadouro, Vinhais) — **attente GO Philippe**.
+**Dernière MAJ** : 2026-06-30 18h00 BST — **Loops Hermes ramas #2+#3 terminées** : 17→3 branches (14 safe-drop avec preuve cherry-pick `-X ours`). Trésors identifiés : `fix/p0-mass-replace-canalizador-urgente` corrigeait téléphone faux 932→928 sur `calculadora-de-preco.html` mais R12 contaminé → droppé (recréer PR propre si besoin). `fix/bloc-cd-tsx-sweep` (CNR) = 715 lignes code mort jamais importé. **Disque 3 GB libérés**. Branche courante `fix/a6-cu-tel-links-lot7-final-2906` (5faa00f90) **dry-rebase -X theirs SAFE** : 2 commits préservés. Sync origin/main=35651ba81 (11 ahead local). Tag archive=`80fc3a967`. Détails section bas de fichier.
+**Prochaine action** : (1) **Décision Philippe** branche `fix/a6-cu-tel-links-lot7-final-2906` (rebase + drop vs continuer) — dry-rebase -X theirs SAFE confirmé. (2) **URGENCE R12** : 70€/h → 65€/h sur 1504 fichiers (Doctrine §12 cassée héritée, ~30 min subagents par lots de 250). (3) SEO_PLAN.md dirty → commit/éditer. (4) A2 — 8 pages /zonas/ prioritaires (Bragança, Mirandela, Macedo, Chaves, Vila Real, Miranda do Douro, Mogadouro, Vinhais) — **attente GO Philippe**. (5) 990 mots-clés CRÍTICA sans page (P1).
 | 2026-06-29 | Hermes (multi-agent + mode loupe) | A3 Doctrine §12 services étendu | A2 (bloc Doctrine §12) + A2-BIS (cleanup SEO pré-existant : noindex quotes simples, fourchettes inventées, orçamento grátis, majorations mal formulées) sur 570 fichiers services (urgente + fuga-agua + desentupimento + autoclismo + esquentador). Hors 10 fichiers Bragança déjà conformes (PR #46+#47). 11 commits (10 subagent + 1 correctif mode loupe `25bfb0cb5`). Leçon #204 documentée : pattern noindex élargi pour matcher quotes simples+doubles. R7 : PR #48 ouvert + STOP merge + GO explicite Philippe | Témoins AVANT/APRÈS sur 570 fichiers : bloc_doctrine 0/570 → 570/570, noindex 570/570 → 0/570, desde X€ 570/570 → 0/570, orçamento grátis 570/570 → 0/570, Acréscimos mal formulés 76/570 → 0/570. NAP 928 484 451 + tarif 65 €/h + bloc intact (1 occurrence doctrine-transparence). Vérifié moi-même sur 5 fichiers random (Chaves, Armamar, Macedo, Mogadouro, Miranda) | ✅ Fait (PR #48) |
 | 2026-06-29 | Hermes (2 subagents en parallèle + mode loupe parent-side) | **A4 Doctrine §12 pages courtes** | A2 (bloc Doctrine §12) + A2-BIS (cleanup SEO pré-existant) sur **1827 fichiers courts `canalizador-{ville}.html`** à la racine (hors `concelhos/`, `distritos/`, `blog/`). NAP 928 484 451 + 65 €/h + ⚡ canal + Ridgid/Fluke/ROLeak/FLIR. 37 commits subagent + 1 squash final. Mode loupe post-subagent (leçon #205/#209) : vérifié moi-même compteurs globaux + 5 fichiers random. Faux positif subagent sur compteur `fala sempre` (case-sensitive) détecté et corrigé par comptage Python direct. R7 : PR #49 ouvert + STOP merge + GO explicite Philippe | Témoins AVANT/APRÈS : noindex 1253 → 0, desde_110/145/150 ~285 → 0, orçamento grátis 1439 → 0, Resposta prioritária 1823 → 0, Acréscimos mal formulés 308 → 0, bloc Doctrine 575 → 1828, Fala sempre 575 → 1828. Cross-site drift (928/65 €/h) vérifié 0/1828. Check 6 post-mass-patch : 1 régression mineure introduite (`12+ Anos de Experiência` +1) — corrigible en A4-BIS. Commit batch `86d6dd027 → ddab16485`, squash final `42b1ec17` | ✅ Fait (PR #49) |
 | 2026-06-29 | Hermes (multi-agent mode loop) | **A6 fix tel: href cassés** | 7 lots (CU PR #53→#59), tel: href cassés → vrais numéros NAP +351 928 484 451. | Session 29/06/2026 | ✅ Fait |
@@ -279,3 +279,45 @@ grep -c "fala sempre com a mesma pessoa" index.html
 **Dernière MAJ** : 2026-06-30 — **PR #60 (schema LocalBusiness homepage) MERGÉE squash `26c8c45cb`** + **PR #61 (cleanup contactos.html JSON-LD + email) MERGÉE squash `fb521853f`** + 0 PR ouverte restante. Branches `feat/schema-localbusiness-cu` + `cleanup/cu-residual-2026-06-30` supprimées (post-merge). + **🚨 BUG CRITIQUE DÉCOUVERT** : 1504 fichiers .html contiennent `70€/h` (tarif élec) au lieu de `65€/h` (tarif canal R12). Doctrine §12 cassée en prod depuis plusieurs jours, copier-coller hérité d'un PR antérieur non détecté par les audits. Audit GSC API : canalizador-urgente.pt = **4 pages indexées / 10 impressions / 0 clic en 28j** sur 1828 fichiers (~0,22%). 3 sub-agents en parallèle mode loop ont produit : sub-agent CU cleanup → PR #61 mergée · sub-agent EU cleanup → interrompu (T1 no-op, T2 alij.html OK, T3 contactos.html à finir) · sub-agent DOC → commits `8f4154fec` MAJ SEO_PLAN + INDEX_MULTI_SITES.md créé.
 
 **Prochaine action** : **🚨 URGENCE R12 — fix(r12): 70€/h → 65€/h sur 1504 fichiers** (Doctrine §12 cassée, copier-coller hérité, ~30 min en 6 sub-agents parallèles par lots de ~250 fichiers). Pattern attendu : `70 €/h` / `70€/h` / `70 € / h` / `70€/H` / `70 € / hora` etc. — vérifier aussi `105€/h Domingo` (70×1.5) qui doit devenir `97.50€/h` (65×1.5). Cross-check : eletricista-urgente.pt doit rester à 70€/h, NE PAS toucher ce repo.
+
+## 🆕 Session 29/06/2026 12h45 BST — Mode loop cleanup + sync origin/main
+
+### Actions accomplies
+- ✅ Commit `b8367dda3` : `docs(seo-plan): MAJ 2026-06-30 — A6 tel: 1058 fichiers corrigés`
+- ✅ Merge `4144f002a` : `merge: sync origin/main (2026-06-29) + docs(seo-plan) local`
+- ✅ Push vers `fix/a6-cu-tel-links-lot7-final-2906` (sync OK)
+- ✅ Working tree CLEAN
+- ✅ Drop stash `WIP on main: e039bcf90 fix(A5-1d) R12` (contenu = 1 ligne SEO_PLAN déjà mergée)
+
+### État post-cleanup
+- HEAD: `4144f002a` sur `fix/a6-cu-tel-links-lot7-final-2906`
+- Branche locale: 22 (21 reliquats sub-agents + branche courante, à dropper 1-par-1)
+- Anomalie 🚨: `pr-31` = 100 commits ahead (investigation requise avant drop)
+
+### Prochaines actions
+- 🔴 P0: Anomalie `pr-31` (100 commits ahead) à investiguer
+- 🟡 P1: Drop 21 branches locales "1 commit ahead" (reliquats A5-1/A5-2/A6 sub-agents)
+- 🟢 P2: Cause racine A6 (placeholder `{{NAP_TEL_E164}}` non résolu)
+
+### Leçons acquises
+- **#180** : lock file fantôme `.git/index.lock` → supprimer si bloqué (R6 safe)
+- **#211** : mode loop propre = fetch all + 1 par 1 + backup avant drop
+
+### Tags
+`#mode-loop #cleanup #sync-origin #push-ok #2026-06-29`
+
+### Update 29/06/2026 18h00 BST — Boucles #2 + #3 ramas terminées
+
+**Branches :**
+- 17 → 3 (14 safe-drop : A1-preco-fixo, braganca-25-35-z3, h1-home, r12-meta-resposta, r4-stats-cu, A6 lots CU, pr-31 (100 ahead via squash-merge), p0-mass-replace-canalizador-urgente).
+- Tag archivage `archive/branches-cleanup-2026-06-29` @ `80fc3a967`.
+
+**Trésors identifiés :**
+- `fix/p0-mass-replace-canalizador-urgente` corrigeait `calculadora-de-preco.html` (numéro faux 932 → 928 téléphone canalizador) mais introduisait "Resposta a confirmar por telefone" et préservait "Atendimento prioritário" = R12 NON-compliant → droppé (refaire PR propre si besoin).
+- `fix/bloc-cd-tsx-sweep` (CNR) ajoutait ChatWidget.tsx (+333), DiagnosticoInterativo.tsx (+239), OptimizedFAQ.tsx (+143) sans import dans App.tsx = code mort 715 lignes.
+
+**Dry-rebase -X theirs origin/main :** `fix/a6-cu-tel-links-lot7-final-2906` (14 ahead) → 2 commits préservés, SAFE.
+
+**Disque libéré :** 3 GB (cf EU SEO_PLAN.md).
+
+**Sync origin :** local main = `35651ba81` = origin/main (à jour). Tag archive=`80fc3a967` détaillé en haut.
