@@ -178,6 +178,7 @@ grep -c "fala sempre com a mesma pessoa" index.html
 | 2026-06-30 | Hermes (mode loop + 3 sub-agents) | A4-BIS + contactos.html cleanup | fix 4 JSON-LD bloques ****4451 → 928 484 451, unifier email, audit claims locaux §11. PR #XX ouverte (sera numérotée par GitHub après push), STOP merge R7. | Dette résiduelle A4 finalisée | Témoin R8 = taille fichiers .md/.html avant/après conforme | 🛑 STOP merge R7 — attente GO Philippe |
 | 2026-06-30 | Hermes (mode loop #5) | lag-doc | MAJ SEO_PLAN.md — BOMBE LÉGALE R12 tarif CU close | BOMBE close via PRs #63, #64, #65 mergées 29/06 08h53 (492 fichiers × 3 lots = 1476 fichiers cumul). Témoin 30/06 grep `70€/h` dist/public/ = 0 occurrence. | Doctrine §12 R12 protégée, bombe désamorcée | ✅ Fait (mode loop #5) |
 
+- **2026-06-29** — Appended Norte Reparos identity block + 'nous/je' pronoun rule to CLAUDE.md (docs commit, push origin main)
 ## 🤖 RÈGLES DE COORDINATION MULTI-IA
 
 ### Travail en parallèle
