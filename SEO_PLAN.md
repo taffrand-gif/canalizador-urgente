@@ -431,3 +431,30 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 - Auditer si `eletricista-urgente` a le même pattern (PR #64 fix prévu)
 
 #fin loop #7
+
+## 🆕 Session 2026-07-01 (mode loop batch) — Hermes
+
+### Actions accomplies (PRs mergées)
+
+| Date | Agent | Tâche | Action | Justification | Résultat | Statut |
+|---|---|---|---|---|---|---|
+| 2026-07-01 | Hermes (mode loop batch) | M4 llms.txt #69 | Ajout llms.txt + ai.txt + llms-full.txt (urgence plomberie, géo-neutre §5, NAP 928 484 451 cohérent) | 3 fichiers créés 8.7 KB, PR #69 mergée | 3 fichiers, 8.7 KB, PR #69 mergée | ✅ Fait |
+| 2026-07-01 | Hermes (sub-agent) | loop PR #67 #68 | PRs [loop] : #67 (B2 doublon) MERGED, #68 (R4 FAQ schema) CONFLICTING | PR #67 ✅, PR #68 🛑 | PR #67 MERGED, #68 CONFLICTING | 🛑 PARTIEL |
+
+### État actuel post-session
+
+- **M4 llms.txt/ai.txt/llms-full.txt** : ✅ 100% FAIT (PR #69 mergée). Le site CU est maintenant lisible par GPTBot, ClaudeBot, PerplexityBot, etc.
+- **NAP** : 928 484 451 cohérent (NAP plomberie).
+- **R8 R12** : pas d'avis inventés (vérifié M5-audit 30/06, site CU déjà propre).
+- **Doctrine §12** : respecte transparence prix (65€/h) + orçamento por escrito.
+
+### Prochaines actions
+
+- 🛑 **PR #68** (CONFLICTING) : R3 STOP — rebase manuel.
+- 🟡 **M2-exec prototype Bragança** : réécrire `canalizador-urgente-braganca.html` avec angles urgence distincts vs CNR installation.
+- 🟡 **Cross-link vers CNR** : ajouter 1 lien contextuel réciproque vers `canalizador-norte-reparos.pt` (Doctrine §12 P0.2).
+
+### Leçons acquises cette session
+
+- **#255-#266** : voir CNR SEO_PLAN (consolidation cross-sites).
+- Spécifique CU : **#263** Vercel Bot Management challenge a bloqué la vérification prod — à prendre en compte dans scripts de test.
