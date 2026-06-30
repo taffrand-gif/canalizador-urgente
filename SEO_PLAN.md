@@ -442,6 +442,7 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 |---|---|---|---|---|---|---|
 | 2026-07-01 | Hermes (mode loop batch) | M4 llms.txt #69 | Ajout llms.txt + ai.txt + llms-full.txt (urgence plomberie, géo-neutre §5, NAP 928 484 451 cohérent) | 3 fichiers créés 8.7 KB, PR #69 mergée | 3 fichiers, 8.7 KB, PR #69 mergée | ✅ Fait |
 | 2026-07-01 | Hermes (sub-agent) | loop PR #67 #68 | PRs [loop] : #67 (B2 doublon) MERGED, #68 (R4 FAQ schema) CONFLICTING | PR #67 ✅, PR #68 🛑 | PR #67 MERGED, #68 CONFLICTING | 🛑 PARTIEL |
+| 2026-06-30 | claude-sonnet-4-6 (loop auto) | R4 FAQ schema calculadora (#68) | calculadora-de-preco.html : "Desde 130 EUR" → grille réelle "65 €/h + deslocação (Z1:15€ a Z6:65€). Mínimo 1h. +50% fora de horas úteis". Telephone schema "+351-" → "+351 " (NAP uniforme). | R4 (prix = grille AGENTS.md §12, pas de valeur inventée), NAP cohérence | 1 fichier, +1/-1 ligne. Grep avant: 3 violations, après: 0. | ⏳ En cours — PR #68 à merger post-rebase CU |
 
 ### État actuel post-session
 
@@ -452,7 +453,7 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 
 ### Prochaines actions
 
-- 🛑 **PR #68** (CONFLICTING) : R3 STOP — rebase manuel.
+- 🟡 **PR #68** : R3 levé par GO global Philippe, rebase + merge autorisés.
 - 🟡 **M2-exec prototype Bragança** : réécrire `canalizador-urgente-braganca.html` avec angles urgence distincts vs CNR installation.
 - 🟡 **Cross-link vers CNR** : ajouter 1 lien contextuel réciproque vers `canalizador-norte-reparos.pt` (Doctrine §12 P0.2).
 
@@ -460,3 +461,5 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 
 - **#255-#266** : voir CNR SEO_PLAN (consolidation cross-sites).
 - Spécifique CU : **#263** Vercel Bot Management challenge a bloqué la vérification prod — à prendre en compte dans scripts de test.
+
+#fin loop #6
