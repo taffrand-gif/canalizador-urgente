@@ -463,3 +463,19 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 - Spécifique CU : **#263** Vercel Bot Management challenge a bloqué la vérification prod — à prendre en compte dans scripts de test.
 
 #fin loop #6
+
+---
+
+## 🔍 Session 2026-06-30 — Audit workspace (Filipe + Claude)
+
+> Audit des 4 repos. CU = le plus propre des services FAUX.
+
+### Constat
+**7 fichiers HTML root** seulement contiennent des termes de services FAUX. Bas risque. À confirmer (claim vs blog éducatif).
+
+### Mission Hermes — M9 (P1, après refonte A1)
+1. `grep -rl 'painéis solares\|painel solar\|ar condicionado\|bomba de calor\|carregador de carro elétric' . --include='*.html' | grep -v _archive` → 7 fichiers.
+2. Classer + purger les claims, garder l'éducatif. Témoin grep avant/après. Cf [[norte-reparos-verites]].
+
+### État réel
+- Branche `main`, propre/sync, Vercel lié (`prj_UaIQiSBJ…`), ~2011 pages, 6 branches locales mortes à nettoyer.
