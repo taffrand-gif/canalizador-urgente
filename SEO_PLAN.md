@@ -479,3 +479,55 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 
 ### État réel
 - Branche `main`, propre/sync, Vercel lié (`prj_UaIQiSBJ…`), ~2011 pages, 6 branches locales mortes à nettoyer.
+
+#fin loop #6
+
+---
+
+## 🆕 Session 2026-06-30 (loop final CU) — Hermes (sub-agent)
+
+> GO global Philippe reçu. Push 2 commits ahead + rebase/merge #68 + merge #70.
+
+### Actions accomplies (PRs mergées + push)
+
+| Date | Agent | Tâche | Action | Justification | Résultat | Statut |
+|---|---|---|---|---|---|---|
+| 2026-06-30 | Hermes (sub-agent) | Push 2 commits ahead origin/main | `git push origin main` (9b6e249a1 → 5ffa8f89f) | GO global Philippe (commits cleanup dirty WC précos.html + .gitignore + SEO_PLAN traçabilité déjà validés session précédente) | origin/main = 5ffa8f89fa15c05724bffffc954fce951fcac5cd, synchro OK | ✅ Fait |
+| 2026-06-30 | Hermes (sub-agent) | Rebase PR #68 (loop FAQ schema r4) | `git rebase origin/main` sur `loop/2026-06-30-canalizador-urgente-faq-schema-r4` + `git push --force-with-lease origin HEAD` (R6 safe force sur branche loop uniquement) | Conflit SEO_PLAN.md résolu manuellement : conservation des 2 entrées HISTORIQUE (CU M1 batch + R4 FAQ calculadora de #68), commit `fix(rebase): merge SEO_PLAN.md HISTORIQUE entries CU` (SHA 8f5e0ba3e) | Branche loop synchro origin/main (base = 5ffa8f89f), rebase propre | ✅ Fait |
+| 2026-06-30 | Hermes (sub-agent) | Merge PR #68 (squash) | `gh pr merge 68 --repo taffrand-gif/canalizador-urgente --squash --delete-branch` | R3 levé GO global, PR propre après rebase, R6 safe force respectée | Merge commit `042a5afc415104721a2676b50f37fb48f7a41ac3`, branch loop supprimée | ✅ Fait |
+| 2026-06-30 | Hermes (sub-agent) | Rebase + merge PR #70 (docs audit workspace) | `git rebase origin/main` sur `docs/seo-plan-audit-2026-06-30` + `git push --force-with-lease` + `gh pr merge 70 --squash --delete-branch` | Conflit SEO_PLAN.md (concat section audit 2026-06-30), commit `fix(rebase): merge SEO_PLAN.md section audit 2026-06-30 (#70)` (SHA 2761c0032) | Merge commit `23843205a28fe7f2d1e1fea9334b0b8a7481383b`, branch docs supprimée | ✅ Fait |
+| 2026-06-30 | Hermes (sub-agent) | Sync local main + vérif prod | `git checkout main && git pull` → fast-forward 5ffa8f89f → 23843205a + HTTP check `curl https://canalizador-urgente.pt/` | R8 témoins : http_code=200 ✅, contenu 65 €/h conforme R12 ✅ | main local synchro origin/main, 200 OK | ✅ Fait |
+
+### État actuel post-session
+
+- **main** : `23843205a` (squash merge #70) ← `042a5afc4` (squash merge #68) ← `5ffa8f89f` (push 2 commits ahead)
+- **origin/main** : synchro, même SHA que local main
+- **PRs mergées cette session** : #68 (FAQ schema calculadora), #70 (audit workspace)
+- **Branches supprimées** : `loop/2026-06-30-canalizador-urgente-faq-schema-r4`, `docs/seo-plan-audit-2026-06-30`
+
+### Déploiements Vercel
+
+- **3 derniers** : tous `state: success`
+  - Deployment `5254044307` (Preview, SHA b3527e44, 2026-06-30 12:39 UTC)
+  - Deployment `5252962663` (Preview, SHA 7dfb4f688 = avant #70, 2026-06-30 11:09 UTC)
+  - Deployment `5252379324` (Production, SHA f2000345e = PR #67, 2026-06-30 10:18 UTC)
+- ⚠️ **Prod non encore redéployée post-merge #68 et #70** (dernier prod = SHA f2000345e = PR #67). Vercel déclenchera le redéploiement prod automatiquement. Vérifier que calculadora-de-preco.html reflète bien la grille réelle 65 €/h + Z1-Z6 + 50% après redéploiement.
+
+### HTTP check prod
+
+- `curl -L https://canalizador-urgente.pt/` → `200 OK`, 20169 bytes, 0.435s
+- Témoin R12 : meta description contient "65 €/h + deslocação Z1–Z6. Orçamento por escrito antes de qualquer intervenção, sem surpresas." ✅
+- ⚠️ calculadora-de-preco.html en prod contient encore FAQ schema "Desde 130 EUR" et telephone "+351-928 484 451" (avant #68 fix). Sera corrigé au prochain déploiement Vercel post-merge.
+
+### Leçons acquises cette session
+
+- **#267** (rebase SEO_PLAN.md) : Le fichier SEO_PLAN.md étant modifié par plusieurs agents en parallèle (loop auto + sub-agents + main batch), les rebases successives génèrent quasi-systématiquement des conflits sur les sections "session ... — HISTORIQUE" et "fin loop #N". Pattern de résolution = concaténation des sections (insertion de l'entrée ajoutée dans le tableau existant), préservation des deux entrées HISTORIQUE.
+- **#268** (R11 precos.html) : fix déjà commité dans 9b6e249a1 avant push (cleanup dirty WC). Validé par push de cette session.
+- **#269** (HTTP prod pré-déploiement) : Vercel Bot Management peut bloquer la vérif `curl` (#263 déjà connu). Le check `curl -L` a fonctionné ici (HTTP 200 sans challenge). Probable différence : endpoint racine `/` plus permissif que `/calculadora-de-preco.html` ou autres pages profondes.
+
+### Prochaines actions (décisions Philippe)
+
+- 🟡 Vérifier déploiement Vercel post-merge #68+#70 déclenche bien un nouveau SHA prod. Si pas automatique, vérifier config Vercel (webhook GitHub auto-deploy main).
+- 🟡 M9 audit services FAUX (mission Hermes P1, après refonte A1) — voir section "Audit workspace 2026-06-30" ci-dessus.
+- 🟡 M2-exec prototype Bragança (réécrire canalizador-urgente-braganca.html avec angles urgence distincts vs CNR installation).
+- 🟡 Cross-link vers CNR (Doctrine §12 P0.2).
