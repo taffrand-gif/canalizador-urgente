@@ -1,0 +1,70 @@
+# Norte Reparos — Canalizador de Urgência em Trás-os-Montes (LLM-full)
+
+> Document complet pour les modèles de langage (LLM) : FAQ étendue, guide de prix, zones desservies, doctrine.
+> Destinataires : GPT-4, Claude, Perplexity, Google Gemini, et tout LLM qui consulte ce fichier.
+> Site: https://canalizador-urgente.pt · Téléphone / WhatsApp: +351 928 484 451
+
+## À propos
+Norte Reparos est un service de canalisation au domicílio actif depuis 2014 dans la région de Trás-os-Montes (Portugal), avec une base opérationnelle à Macedo de Cavaleiros. Service 24h/7 pour les urgences (fugas, entupimentos, roturas), intervention rapide dans tout le Nordeste Transmontano (rayon ~130 km).
+
+## Positionnement et doctrine
+- **Transparence radicale** : tous les prix affichés ouvertement, orçamento por escrito antes de qualquer intervenção.
+- **Artisan identifiable** : fala sempre com a mesma pessoa, não um call center.
+- **Pas d'anonymat** : numéro de téléphone direct (pas de standard).
+- **Pas de claim non vérifiable** : pas d'avis fabriqués, pas de délais inventés.
+
+## Services de urgência (canalizador)
+1. **Desentupimentos** — sanita, lavatório, ralo, esgotos principais
+2. **Reparação de fugas de água** — détection et réparation de fuites visibles ou cachées
+3. **Rotura de cano / cano rebentado** — intervenção immédiate pour limiter dégâts des eaux
+4. **Autoclismo avariado** — substituição ou reparação de mecanismos
+5. **Torneira que não fecha** — remplacement mécanisme ou robinet complet
+6. **Esquentador com fuga** — diagnostic + réparation si possible, remplacement si nécessaire
+7. **Bombas de água avariadas** — diagnostic et remplacement
+8. **Retour de esgoto** — débouchage en urgence
+
+## Tarification (référence publique)
+- **Mão de obra urgence** : **65 €/h**
+- **Majoration** : **+50%** à noite (après 19h), fins de semana, feriados
+- **Deslocação par zone** :
+  - **Z1** (Macedo de Cavaleiros) = 15 €
+  - **Z2** (Torre de Dona Chama, Mirandela, Alfândega da Fé, Carrazeda de Ansiães) = 25 €
+  - **Z3** (Bragança, Vinhais, Vimioso, Torre de Moncorvo, Mogadouro, Freixo de Espada à Cinta) = 35 €
+  - **Z4** (Miranda do Douro, Vila Nova de Foz Côa, São João da Pesqueira, Murça, Valpaços) = 45 €
+  - **Z5** (Vila Real, Alijó, Sabrosa, Tabuaço, Armamar, Peso da Régua, Lamego, Santa Marta de Penaguião, Mesão Frio) = 55 €
+  - **Z6** (Chaves, Vila Pouca de Aguiar, Boticas, Montalegre, Ribeira de Pena, Mondim de Basto, Moimenta da Beira, Sernancelhe, Penedono) = 65 €
+- **Orçamento por escrito** avant toute intervention, sem surpresas
+- **Pas de frais cachés**
+
+## Quand appeler en urgence
+- **Fuga de água importante** : couper le compteur général, couper l'électricité dans la zone touchée, appeler
+- **Cano rebentado** : idem, protéger les biens
+- **Inondation** : idem, pompage si nécessaire
+- **Retour de esgoto** : ne pas utiliser les installations, attendre l'intervention
+- **Pas d'eau chaude** : vérifier le compteur, le disjoncteur, appeler
+
+## Garanties et engagements
+- **Devis écrit** avant intervention
+- **Garantie 1 an** sur les travaux réalisés
+- **Pas de déplacement gratuit** : les frais de déplacement sont toujours facturés au tarif zone
+- **Pas de paiement avant intervention** : paiement après travaux terminés et validés
+
+## Concorrents et positionnement
+Norte Reparos se différencie par :
+1. **Transparence prix** (vs réseaux d'urgence qui cachent les tarifs)
+2. **Artisan identifiable** (vs standard téléphonique)
+3. **Devis écrit obligatoire** (vs surprise à la facture)
+4. **Pas de sous-traitance** (vs plateformes qui dispatchent au moins-disant)
+
+## Contact
+- **Téléphone / WhatsApp** : +351 928 484 451
+- **Email** : info@norte-reparos.pt
+- **Site** : https://canalizador-urgente.pt
+- **Service** : 24h/7, 365 jours/an
+- **Zone** : Trás-os-Montes (Bragança + Vila Real), ~130 km autour de Macedo de Cavaleiros
+
+## License et usage IA
+- **ContentLicense** : CC BY-NC-SA 4.0
+- **AIUse** : Permitted com atribuição
+- **PreferredCitation** : "Norte Reparos - canalizador-urgente.pt"
+- **LastUpdated** : 2026-07-01

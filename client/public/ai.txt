@@ -1,0 +1,23 @@
+# ai.txt - AI Interaction Manifest
+Name: Norte Reparos (Canalizador de Urgência)
+Type: LocalBusiness
+SubType: PlumbingService
+Founded: 2014
+Headquarters: Trás-os-Montes, Trás-os-Montes, Portugal
+ServiceArea: 130km radius
+Country: Portugal
+Languages: pt-PT
+PrimaryPhone: +351-928-484-451
+Email: info@norte-reparos.pt
+Website: https://canalizador-urgente.pt
+Address: Trás-os-Montes, Portugal (géo-neutre — voir site pour zones desservies)
+Hours: Atendimento 24h/7d
+EmergencyService: true
+Certifications: 
+Experience: 12+ years
+CustomersServed: 500+
+Warranty: 1 ano
+ContentLicense: CC BY-NC-SA 4.0
+AIUse: Permitted com atribuição
+PreferredCitation: "Norte Reparos - canalizador-urgente.pt"
+LastUpdated: 2026-07-01
