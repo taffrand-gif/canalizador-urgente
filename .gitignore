@@ -16,3 +16,11 @@ scripts/__pycache__/
 
 # IndexNow key (déjà servie par Vercel, jamais à commiter)
 public/e1ede796962ebc575aaaa6dc.txt
+
+# Dossiers de travail préparatoire pré-réécriture (brief + témoins PRE/POST)
+# Ne JAMAIS commit ces dossiers — ils contiennent des backups temporaires
+# + témoins R8 (à conserver physiquement sur disque mais hors git).
+# Patterns :  _archive/<site>-pre-prototype-<page>-<date>/  (sub-agent brief)
+/_archive/*-pre-prototype-*/
+/_archive/*-pre-r[0-9]*-*/
+/_archive/*-prototype-*-pre-*/
