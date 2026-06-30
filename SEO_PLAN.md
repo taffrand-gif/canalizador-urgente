@@ -101,7 +101,7 @@ Voir TODO DÉTAILLÉE ci-dessous
 
 ### 🟥 A1 — Homepage complète selon Doctrine §12 (S1) ← **CRITIQUE**
 
-**Statut** : ⏳ À FAIRE
+**Statut** : ✅ FAIT (Hermes multi-agent, 29/06/2026 — commit 380c1667c, merge 133166359)
 **Priorité** : CRITIQUE
 **Effort** : ~4h
 **Risque** : MOYEN
@@ -135,8 +135,9 @@ grep -c "fala sempre com a mesma pessoa" index.html
 **Effort** : ~8h | **Risque** : BAS
 
 ### 🟧 B2 — Corriger doublon homepage (S3)
-**Problème** : `./index.html` ET `./public/index.html`
-**Solution** : choisir 1 seule, rediriger l'autre
+**Statut** : ✅ FAIT (PR loop/2026-06-29-canalizador-urgente-b2-doublon-homepage, 29/06/2026)
+**Problème** : `./index.html` ET `./public/index.html` — doublon avec canonical cassé + R12 violations
+**Solution** : `public/index.html` remplacé par copie conforme de `index.html` (A1 Doctrine §12)
 
 ---
 
@@ -184,6 +185,7 @@ grep -c "fala sempre com a mesma pessoa" index.html
 | 2026-06-29 | Hermes (2 subagents en parallèle + mode loupe parent-side) | **A4 Doctrine §12 pages courtes** | A2 (bloc Doctrine §12) + A2-BIS (cleanup SEO pré-existant) sur **1827 fichiers courts `canalizador-{ville}.html`** à la racine (hors `concelhos/`, `distritos/`, `blog/`). NAP 928 484 451 + 65 €/h + ⚡ canal + Ridgid/Fluke/ROLeak/FLIR. 37 commits subagent + 1 squash final. Mode loupe post-subagent (leçon #205/#209) : vérifié moi-même compteurs globaux + 5 fichiers random. Faux positif subagent sur compteur `fala sempre` (case-sensitive) détecté et corrigé par comptage Python direct. R7 : PR #49 ouvert + STOP merge + GO explicite Philippe | Témoins AVANT/APRÈS : noindex 1253 → 0, desde_110/145/150 ~285 → 0, orçamento grátis 1439 → 0, Resposta prioritária 1823 → 0, Acréscimos mal formulés 308 → 0, bloc Doctrine 575 → 1828, Fala sempre 575 → 1828. Cross-site drift (928/65 €/h) vérifié 0/1828. Check 6 post-mass-patch : 1 régression mineure introduite (`12+ Anos de Experiência` +1) — corrigible en A4-BIS. Commit batch `86d6dd027 → ddab16485`, squash final `42b1ec17` | ✅ Fait (PR #49) |
 | 2026-06-29 | Hermes (multi-agent mode loop) | **A6 fix tel: href cassés** | 7 lots (CU PR #53→#59), tel: href cassés → vrais numéros NAP +351 928 484 451. | Session 29/06/2026 | ✅ Fait |
 | 2026-06-29 | Hermes (multi-agent mode loop) | **fix schema LocalBusiness** | PR #60 — JSON-LD LocalBusiness homepage corrigé (tel +351 928 484 451, retrait Filipe) + enrichissement. PR #61 — contactos.html + email unifié geral@canalizador-urgente.pt | Session 29/06/2026 | ✅ Fait (squash 26c8c45cb + fb521853f) |
+| 2026-06-29 | cowork-loop | **B2 fix doublon public/index.html + sync SEO_PLAN statuts** | 1 fichier, 1 commit : `public/index.html` remplacé par copie de `index.html` (A1 Doctrine §12 conforme). AVANT: canonical pointait vers `/public/index.html` (mauvais) + R12 violations ("atendimento 24h", "🔥 hoje em Bragança"). APRÈS: canonical `https://canalizador-urgente.pt/`, 65 €/h, 0 scarcity. SEO_PLAN.md: A1 marqué ✅ FAIT (statut stale corrigé). Branche: loop/2026-06-29-canalizador-urgente-b2-doublon-homepage | R12, R11, R8 (témoins: canonical OK, scarcity 0, 65€ = 4) | ⏳ PR ouverte — attente merge Philippe |
 | 2026-06-29 | Hermes (3 agents mode loop) | **P0 fix tarif 70€/h → 65€/h** | PRs #63+#64+#65 — 1476 fichiers production corrigés (Doctrine §12 — 70€/h était erreur, tarif CU = 65€/h). 3 agents parallèles, 2581 remplacements. | Session 29/06/2026 session 2 | ✅ Fait (squash b327defd4+7cb373529+f778f5990) |
 | 2026-06-30 | Hermes (mode loop + 3 sub-agents) | B. Schema LocalBusiness homepage | fix JSON-LD index.html : tel +351****4451 → +351 928 484 451, retrait '(Filipe)' du name, ajout @id Plumber LocalBusiness ProfessionalService, geo 41.537/-6.9614 Macedo, areaServed 10 zones. PR #60 ouverte, STOP merge R7. | Doctrine §12 cohérence schema.org + NAP unifié cross-site | Témoin index.html Doctrine §12 intact, schema Plumber→LocalBusiness conforme Google Rich Results | 🛑 STOP merge R7 — attente GO Philippe |
 | 2026-06-30 | Hermes (mode loop + 3 sub-agents) | A4-BIS + contactos.html cleanup | fix 4 JSON-LD bloques ****4451 → 928 484 451, unifier email, audit claims locaux §11. PR #XX ouverte (sera numérotée par GitHub après push), STOP merge R7. | Dette résiduelle A4 finalisée | Témoin R8 = taille fichiers .md/.html avant/après conforme | 🛑 STOP merge R7 — attente GO Philippe |
