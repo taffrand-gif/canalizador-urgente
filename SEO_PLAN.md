@@ -388,4 +388,35 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 - Merger branche Vague 2 SEO CNR (1 commit avec 3 commits intégrés)
 - Décision critique : merger ou non le patch App.tsx (`~/Documents/ObsidianVault/NORTE-OS/routes_patch_proposed_2026-06-27.txt`) qui rendrait visibles les 30 pages SEO via nav. Sans ce patch, les pages sont accessibles par URL mais invisibles depuis le menu/nav.
 
-#fin loop #6
+## 🆕 Session 01/07/2026 18h00 BST — PR #67 [loop] B2 doublon index.html validée (Vercel rate-limited)
+
+### Actions accomplies
+
+- ✅ **PR #67 validée** : `[loop] canalizador-urgente — B2 fix doublon public/index.html` (https://github.com/taffrand-gif/canalizador-urgente/pull/67)
+  - **Statut GitHub** : OPEN, mergeable MERGEABLE, pas draft, CI rate-limited Vercel
+  - **Fichiers** : `public/index.html` (remplacé par copie de `index.html`), `SEO_PLAN.md` (B2 statut ✅ + A1 statut stale corrigé + ligne HISTORIQUE)
+  - **Diff** : 2 fichiers, +441/-226
+  - **Verdict R-multi** : R12 (retrait "atendimento 24h" + scarcity "🔥 hoje em Bragança"), canonical OK (`https://canalizador-urgente.pt/`)
+  - **Témoins R8** : canonical AVANT = `/public/index.html` (FAUX) → APRÈS = `/` ✅, scarcity = 0 ✅, 65 €/h = 4 ✅, noindex = 0 ✅
+  - **SEO_PLAN.md fix bonus** : A1 statut stale "⏳ À FAIRE" → "✅ FAIT (Hermes multi-agent, 29/06/2026 — commit 380c1667c, merge 133166359)"
+
+- 🟡 **Bloqueur** : Vercel rate-limit (Free plan). Retry dans 24h après 29/06 20h56 UTC.
+
+### État final post-session
+
+- **main** : 5827997d2 (sessions #5+#6 stables)
+- **4/4 SEO_PLAN.md** présents, branches main synchros origin/main
+- **PRs ouvertes** : #67 CU (cette PR), 2 autres sur CNR/EU (#90, #64) — toutes rate-limited
+- **PR #77 ENR mergée** (loop #7 ENR) — référence pour le pattern fix CI pnpm
+
+### Leçons acquises session 01/07
+
+- **#251** (cross-référence) : Vercel Free plan rate-limit 4 PRs/jour. Espacer ou échelonner.
+- **#253** : `public/index.html` stale est un pattern récurrent (EU + CU touchés). `cleanUrls: true` sur Vercel sert `/public/index.html` à `/public/index.html` URL, ce qui crée un duplicate content si canonical pointe vers `/public/`. Fix = copier root `index.html` vers `public/index.html` (1 commit, 0 risque).
+
+### Prochaines actions (décisions Philippe)
+
+- Re-tenter merge #67 CU après 24h (rate-limit Vercel reset)
+- Auditer si `eletricista-urgente` a le même pattern (PR #64 fix prévu)
+
+#fin loop #7
