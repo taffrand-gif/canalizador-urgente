@@ -3,32 +3,35 @@
 > Écrit par le loop Cowork après chaque run. NE PAS ÉDITER MANUELLEMENT.
 
 ## Dernier run
-- Date : 2026-06-29
-- Tâche exécutée : B2 — Correction doublon public/index.html (R12 violations + canonical cassé)
-- Branche créée : `loop/2026-06-29-canalizador-urgente-b2-doublon-homepage`
-- PR ouverte : https://github.com/taffrand-gif/canalizador-urgente/pull/67
-- Résultat : ✅ 1 commit, 1 fichier modifié. SEO_PLAN.md: A1 statut stale corrigé (⏳→✅). PR ouverte, attente merge Philippe.
+- Date : 2026-06-30
+- Tâche exécutée : R4 — FAQ schema calculadora-de-preco.html (prix + tel NAP)
+- Branche créée : `loop/2026-06-30-canalizador-urgente-faq-schema-r4`
+- PR ouverte : https://github.com/taffrand-gif/canalizador-urgente/pull/68
+- Résultat : ✅ 2 commits, 1 fichier modifié. PR ouverte, attente merge Philippe.
 
 ## Tâche suivante recommandée
-- Tâche : A2 — 8 pages /zonas/ prioritaires (Bragança, Vila Real, Mirandela, Chaves, etc.)
-- Priorité : HAUTE (CRITIQUE selon SEO_PLAN)
-- Note : A2 était "attente GO Philippe" dans la note Hermes — vérifier si GO a été donné avant de commencer
+- Tâche : A2 — 8 pages /zonas/ prioritaires (Bragança, Vila Real, Mirandela, Chaves, Miranda do Douro, Mogadouro, Vinhais, Lamego)
+- Priorité : HAUTE (CRITIQUE)
+- Statut : 🛑 STOP — attente GO explicite Philippe (ne pas créer sans validation)
+- Alternative si GO pas encore reçu : vérifier schema.org des pages services (A2-BIS pattern sur eletricista-urgente avait découvert des violations similaires)
 
 ## Apprentissages (self-improving)
-- A1 était ✅ FAIT depuis 29/06 (commit 380c1667c) mais le statut SEO_PLAN.md était resté "⏳ À FAIRE" → toujours vérifier HISTORIQUE vs TODO (le TODO peut être stale)
-- `public/index.html` dans un repo statique Vercel est servi à `/public/` avec cleanUrls → duplicate content risk si canonical mauvais
-- 70€/h → 65€/h fix : déjà fait en prod (0 occurrences hors _archive/) — ne pas refaire
-- grep -c "65€" retourne 0 si le site écrit "65 €" (avec espace) → toujours grep "65 €" ET "65€/h" sur ce site
+- calculadora-de-preco.html FAQ JSON-LD avait "Desde 130 EUR" non conforme à grille 65€/h — pattern à checker systématiquement sur eletricista-urgente aussi
+- Format telephone schema: "+351-" (tiret) → "+351 " (espace) — NAP uniforme cross-site
+- A2 /zonas/ est STOP attente Philippe — ne pas démarrer sans GO écrit dans HISTORIQUE SEO_PLAN
 
 ## Edge cases détectés
 - Ce site utilise "65 €" (avec espace) pas "65€" → adapter les greps R8 en conséquence
 - _archive/ contient de vieux fichiers avec violations — NE PAS patcher _archive/
+- calculadora-de-preco.html : zones décalées vs AGENTS.md (Z1=€20 dans calculateur vs 15€ dans AGENTS) → valeur dans l'UI est peut-être différente intentionnellement (urgence vs normal) — NE PAS toucher la logique JS sans GO Philippe
 
 ## Blocages connus
-- A2 (/zonas/ pages) était "attente GO Philippe" selon note Hermes 30/06
+- A2 (/zonas/ pages) = 🛑 STOP attente GO Philippe
+- Zones tarif calculateur vs AGENTS.md : ambiguïté → laisser en place, noter pour Philippe
 
 ## Instructions améliorées pour prochain run
-1. Vérifier si Philippe a donné GO pour A2 /zonas/ (chercher dans SEO_PLAN.md HISTORIQUE ou messages récents)
-2. Pour A2 : créer 8 fichiers HTML statiques `canalizador-urgente-{ville}.html` dans la racine du repo avec contenu Doctrine §12 (grille 65 €/h + Z1-Z6 + équipement + FAQ urgence + NAP 928 484 451)
-3. grep R8 sur ce site : utiliser "65 €" (avec espace) pas "65€/h"
-4. Si lock file git : utiliser `mcp__desktop-commander__start_process` avec `rm -f ~/work/Sites/{repo}/.git/*.lock && git ...`
+1. Si GO A2 reçu : créer 8 fichiers HTML statiques `canalizador-urgente-{ville}-zona.html` avec contenu Doctrine §12 grille 65 €/h + Z1-Z6 + FAQ urgence + NAP 928 484 451
+2. Checker calculadora-de-preco.html de eletricista-urgente pour pattern similaire (130 EUR / 30-50% / +351-)
+3. grep R8 : "65 €" (espace) pas "65€/h"
+4. Si lock file git : desktop-commander rm host-side
+5. SITE COMPLET pour tâches autonomes — prochaine tâche = A2 sur GO Philippe
