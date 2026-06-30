@@ -16,7 +16,7 @@ Marché PT saturé d'arnaqueurs anonymes (« burla », « roubo », « 300€ po
 ## Value Equation (Hormozi) — quel levier pousser
 `Valeur = (Dream Outcome × Perceived Likelihood) / (Time Delay × Effort)`
 - **Dream Outcome** : água a funcionar, dégât stoppé, maison sûre.
-- **Perceived Likelihood ↑ ← LE LEVIER QUI GAGNE** : orçamento por escrito antes, Filipe Bragança identifiable, fatura NIF + seguro RC. C'est là que les concurrents perdent.
+- **Perceived Likelihood ↑ ← LE LEVIER QUI GAGNE** : orçamento por escrito antes, responsable identifiable (Filipe Bragança) présenté en « a nossa equipa », fatura NIF + seguro RC. C'est là que les concurrents perdent.
 - **Time Delay ↓** : UNIQUEMENT « 24h/7 dias » (dispo). **R145 : jamais de délai chiffré.**
 - **Effort ↓** : une seule chamada, « nós tratamos de tudo ».
 
@@ -37,4 +37,4 @@ Tél **928 484 451** + WhatsApp. **Sans** promesse de délai chiffrée (R145).
 Urgence (réparation ponctuelle) → confiance gagnée → travaux planifiés sur `canalizador-norte-reparos.pt` → (futur) contrat manutenção. Sur chaque intervention, semer la marque (carte, suivi honnête).
 
 ## Garde-fous (rappel — détail dans AGENTS.md)
-R11 zéro invention · R12 transparence prix HAUT de page + phrases obligatoires · R145 zéro délai chiffré · géo-neutre · services interdits (clima/PAC/solaire/VE) · **STOP : aucun batch sans prototype validé + GO Philippe ; jamais merger `main`**.
+R11 zéro invention · R12 transparence prix HAUT de page + phrases obligatoires · R145 zéro délai chiffré · géo-neutre · **pronom client « nós / a nossa equipa / os nossos técnicos » ; JAMAIS « je / sozinho / entreprise individuelle / contacto pessoal » (bloc identité verrouillé 30/06)** · services interdits (clima/PAC/solaire/VE) · **STOP : aucun batch sans prototype validé + GO Philippe ; jamais merger `main`**.
