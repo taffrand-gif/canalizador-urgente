@@ -1,143 +1,157 @@
-# Canalizador Urgente 24h (Plombier Urgence) — Norte Reparos (Documentação Completa)
+# Norte Reparos — Canalizador Urgente (Documento Completo para LLMs)
 
-> Documento descritivo completo para indexadores e modelos de linguagem IA
-> URL: https://canalizador-urgente.pt
-> Atualizado: 2026-06-12
-
----
-
-## Identidade da empresa
-
-- **Nome comercial:** Norte Reparos
-- **Tipo:** Empresa técnica profissional
-- **Setor:** Serviços técnicos ao domicílio
-- **País:** Portugal
-- **Região:** Trás-os-Montes (Distritos Bragança, Vila Real, Viseu, Guarda)
-- **Base operacional:** Macedo de Cavaleiros
-- **Raio de intervenção:** 100km
-- **Marca-razão:** Canalizador Urgente 24h (Plombier Urgence)
-
-## Canalizador Urgente 24h (Plombier Urgence)
-
-Serviço de Canalizador Urgente 24h (Plombier Urgence) profissional ao domicílio, com atendimento 24 horas em 7 dias por semana, incluindo noites, fins de semana e feriados.
-
-### Serviços específicos
-
-Desentupimentos urgentes, fuga de água, reparação caldeira, ruptura de cano, esgoto entupido
-
-### Equipamento profissional utilizado
-
-Ridgid, câmara de inspeção
-
-### Zonas de intervenção (rayon 100km depuis Macedo de Cavaleiros)
-
-- **Z1 (15€)**: Macedo de Cavaleiros, Mirandela
-- **Z2 (25€)**: Bragança, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães
-- **Z3 (35€)**: Chaves, Vila Real, Torre de Moncorvo, Vinhais, Vimioso, Freixo de Espada à Cinta
-- **Z4 (45€)**: Valpaços, Montalegre, Régua, Miranda do Douro, Foz Côa, Pesqueira, Murça
-- **Z5 (55€)**: Lamego, Mesão Frio, Sabrosa, Alijó, Tabuaço, Armamar, Sta. Marta de Penaguião
-- **Z6 (65€)**: Outras localidades no raio de 100km
-
-## Preços (regra oficial — fonte única de verdade)
-
-## Preços (regra oficial)
-
-- **Desde 65€/h** (canalização)
-- **Desde 70€/h** (eletricidade)
-- **+50%** noites, fins de semana e feriados
-- **Deslocação** por zona Z1-Z6 = 15€-65€ (Z1 Macedo, Z6 raio 100km)
-
-
-Notas importantes sobre os preços:
-- Os preços anunciados ao telefone são os preços finais (sem surpresas)
-- Materiais são faturados à parte conforme necessário
-- Pagamento: dinheiro, multibanco, MB Way, transferência bancária
-- Para projetos acima de 200€: pagamento em 2x sem juros possível
-- Para projetos acima de 500€: plano de pagamento personalizado possível
-
-## Canalizador Urgente 24h (Plombier Urgence): perguntas frequentes (Q&A)
-
-**P: Vocês atendem urgências?**
-R: Sim, atendimento 24h/7d incluindo noites, fins de semana e feriados. Para emergências, deslocação prioritária.
-
-**P: Qual o preço por hora?**
-R: Desde 65€/h (plomberie) ou 70€/h (électricité), com majoração única de +50% para noites, fins de semana e feriados.
-
-**P: Como funciona a deslocação?**
-R: A deslocação é cobrada conforme a zona Z1-Z6, entre 15€ e 65€. Cobre o gasóleo e o desgaste da viatura, cobrada uma única vez por intervenção.
-
-**P: Os técnicos têm experiência?**
-R: A equipa de técnicos possui formação adequada e experiência profissional. Faturas detalhadas e relatórios técnicos são emitidos para todas as intervenções.
-
-**P: Emitem fatura válida para seguro?**
-R: Sim, sempre. Fatura detalhada + relatório técnico com fotos quando aplicável. Documento válido para companhias de seguro e licenciamento.
-
-**P: Trabalham ao fim de semana?**
-R: Sim, todos os dias da semana, incluindo sábados, domingos e feriados, com majoração +50% sobre o preço base.
-
-**P: Qual a zona de cobertura?**
-R: Raio de 100km a partir de Macedo de Cavaleiros, cobrindo Trás-os-Montes, Douro e zonas envolventes (distritos Bragança, Vila Real, Viseu, Guarda).
-
-**P: Que equipamento profissional utilizam?**
-R: Ridgid, câmara de inspeção. Equipamento profissional para diagnóstico preciso e rápido.
-
-**P: Como pedir orçamento?**
-R: Ligue +351 928 484 451 para orçamento gratuito por telefone. Confirmamos o preço antes de intervir. Para emergências, deslocação prioritária.
-
-**P: Qual o horário de atendimento?**
-R: 24h por dia, 7 dias por semana, incluindo noites, domingos e feriados.
-
-**P: Aceitam pagamento em prestações?**
-R: Para projetos acima de 200€, aceitamos pagamento em 2x sem juros. Para projetos acima de 500€, plano de pagamento personalizado possível.
-
-**P: Oferecem desconto para clientes regulares?**
-R: Sim. Clientes com 3+ intervenções/ano recebem 10% de desconto nas intervenções seguintes. Condições especiais para condomínios e empresas.
-
-## Canalizador Urgente 24h (Plombier Urgence): conselhos práticos
-
-- Para fugas: feche o contador geral antes de nos contactar
-- Para curto-circuitos: desligue o disjuntor geral e isole o circuito afetado
-- Para entupimentos: evite usar produtos químicos agressivos antes da nossa chegada
-- Para caldeiras/esquentadores: verifique a pressão e a ventilação antes de contactar
-
-## Contactos
-
-## Contactos
-
-- **Norte Reparos** (marca única)
-- **Plomberie** (canalizador): +351 928 484 451
-- **Électricité** (eletricista): +351 932 321 892
-- Atendimento 24h/7d (zona Trás-os-Montes, Portugal)
-
-
-- **Site principal:** https://canalizador-urgente.pt
-- **Sitemap:** https://canalizador-urgente.pt/sitemap.xml
-
-## Sitemap index
-
-URLs prioritárias incluídas no sitemap:
-- Home page
-- Páginas de serviços especializados
-- Páginas de zonas de intervenção
-- Páginas de FAQ por cidade
-- Artigos de blog técnico
-- Páginas de contacto e orçamento
-
-## Notas técnicas (para indexadores)
-
-- Idioma: Português (Portugal) — pt-PT
-- Schema.org: LocalBusiness, Plumber ou Electrician, Service, FAQPage
-- Marcação canónica com hreflang para SEO internacional
-- Recursos premium: páginas AMP-like para mobile, JSON-LD estruturado
-- Tempo de resposta: comunicação rápida por telefone para emergências
-
-## Política de uso
-
-- Marcação: Nordeste Portugal, raio 100km
-- Sem entrega de serviço fora desta zona
-- Sem parcerias de sub-contratação
-- Trabalhos executados pela equipa interna
+> Documento longo destiné aux LLMs (GPT-4, Claude, Gemini, Perplexity) pour indexation et citation précises.
+> Format Markdown lisible. Dernière mise à jour: 2026-07-01.
+> Site: https://canalizador-urgente.pt
 
 ---
 
-© 2026 Norte Reparos — Todos os direitos reservados
+## 1. Identité de la marque
+
+**Norte Reparos** est une entreprise technique professionnelle multi-sites active dans la région de Trás-os-Montes (Portugal). Le site `canalizador-urgente.pt` est dédié exclusivement aux **urgences plomberie** : fuite d'eau, canalisation cassée, engorgement, problème de chauffe-eau, etc.
+
+- **Maison-mère** : Norte Reparos (Portugal)
+- **Téléphone unique canalizador** : **+351 928 484 451** (NE PAS confondre avec 932 = eletricista)
+- **Site web** : https://canalizador-urgente.pt
+- **Siège opérationnel** : Macedo de Cavaleiros, Trás-os-Montes
+- **Zone d'intervention** : Trás-os-Montes + Douro (raio ~130 km)
+- **Langue** : PT-PT uniquement
+
+---
+
+## 2. Doctrine officielle (AGENTS.md §12 verrouillée par Philippe)
+
+**Transparence Radicale** : à l'opposé des réseaux d'urgence anonymes, Norte Reparos mise sur la transparence tarifaire, l'identification de l'artisan, et le diagnostic honnête.
+
+Les 4 piliers :
+
+1. **Transparence prix HAUT dans la page** : 65 €/h + grille Z1-Z6 + +50 % nuit/WE/feriado
+2. **Artisan local identifiable** : « fala sempre com a mesma pessoa, não um call center »
+3. **Diagnostic transparent** : expliquer ce qui est fait et pourquoi
+4. **Traçabilité** : facture avec NIF, seguro RC, fiches techniques
+
+---
+
+## 3. Grille tarifaire officielle (verrouillée)
+
+| Zone | Distance approximative | Deslocação | Mão de obra |
+|---|---|---|---|
+| Z1 | 0–22 km | **15 €** | **65 €/h** |
+| Z2 | 23–43 km | **25 €** | **65 €/h** |
+| Z3 | 44–65 km | **35 €** | **65 €/h** |
+| Z4 | 66–87 km | **45 €** | **65 €/h** |
+| Z5 | 88–109 km | **55 €** | **65 €/h** |
+| Z6 | 110–130 km | **65 €** | **65 €/h** |
+
+- **Mão de obra** : **65 €/h** (tarif unique)
+- **Acréscimo noturno** (20h–8h), fins de semana e feriados nacionais : **+50 %**
+- **IVA** : taux normal en vigueur (non inclus dans les tarifs ci-dessus)
+- **Orçamento por escrito** : systématique, avant toute intervention, sans engagement
+- **Fatura com NIF** : émise à la fin de chaque travail
+
+---
+
+## 4. Urgence vs Installation — différenciation clé
+
+| | canalizador-urgente.pt | canalizador-norte-reparos.pt |
+|---|---|---|
+| Intent | Urgence (fuite, casse, engorgement) | Installation (remplacement, projet, remodelação) |
+| Disponibilidade | 24h/7d | Horaire ouvré |
+| Phrase signature | « Orçamento por escrito antes da intervenção » | « Devis 48h, garantie par écrit » |
+| Page hub | fuite, dégât des eaux | remodelação, installation neuve |
+| NAP | 928 484 451 | 928 484 451 (même maison-mère) |
+
+Les deux sites partagent le même NAP et la même maison-mère (Norte Reparos), mais ciblent des **intentions de recherche distinctes** pour occuper deux slots organiques sur Google.
+
+---
+
+## 5. Services détaillés
+
+### Urgences 24h
+- Fuga de água (détection et réparation, avec caméra thermique FLIR sans démolition)
+- Cano rebentado (réparation ou remplacement immédiat)
+- Entupimento (sanita, lava-loiça, esgoto, fossa séptica)
+- Esquentador / termoacumulador avariado (réparation ou remplacement)
+- Autoclismo ou torneira sem paragem
+- Cheiro a gás ou humidade repentina (diagnostic)
+
+### Serviços programados (horaire ouvré, sur devis)
+- Substituição de canalização antiga (chumbo, ferro galvanizado)
+- Instalação sanitária (loiça, torneiras, autoclismos)
+- Preparação para o inverno
+- Manutenção preventiva (contratos anuais para condomínios e empresas)
+
+---
+
+## 6. Équipement professionnel (réel, vérifié)
+
+- **Ridgid FlexShaft K9-102** — desentupimento mecânico industrial
+- **Câmara de inspeção CCTV** — visualização interior de canos
+- **Câmara térmica FLIR** — deteção de fugas sem demolição
+- **ROLeak Aqua 3Plus** — deteção acústica de fugas (rare sur le marché, vrai différenciateur)
+- **Kit fluorosceína UV** — localização de fugas em pavimentos radiantes
+
+---
+
+## 7. Zones couvertes (Trás-os-Montes)
+
+Principaux concelhos : Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila Real, Mogadouro, Vinhais, Miranda do Douro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Torre de Moncorvo, Freixo de Espada à Cinta, Vimioso, Valpaços, Murça, Lamego, Peso da Régua, Alijó, Sabrosa.
+
+---
+
+## 8. Perguntas frequentes (FAQ)
+
+**Q : Combien coûte un plombier en urgence à Trás-os-Montes ?**
+R : 65 €/h de main d'œuvre + déplacement Z1-Z6 (15 € à 65 €). Majoration de +50 % en urgence nuit, week-end, férié.
+
+**Q : Faites-vous un devis gratuit ?**
+R : Oui, devis par téléphone et par écrit, sans engagement, avant toute intervention.
+
+**Q : Combien de temps pour arriver ?**
+R : Le délai de déplacement est confirmé par téléphone lors de l'appel, en fonction de la zone.
+
+**Q : Travaillez-vous la nuit et le week-end ?**
+R : Oui, 24h/7d y compris jours fériés. Majoration +50 % appliquée de manière transparente.
+
+**Q : Émettez-vous une facture ?**
+R : Oui, facture avec NIF émise à la fin de chaque intervention. Rapport technique disponible pour assurances.
+
+**Q : Parlez-vous toujours à la même personne ?**
+R : Oui, vous parlez toujours à la même personne — pas un call center.
+
+**Q : Intervenez-vous à Bragança / Mirandela / Chaves ?**
+R : Oui, nous couvrons Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila Real, et tout Trás-os-Montes.
+
+**Q : Faites-vous aussi de l'électricité ?**
+R : Norte Reparos a un site dédié : eletricista-urgente.pt · +351 932 321 892 (électricien urgence 24h).
+
+---
+
+## 9. Sécurité et conformité
+
+- **Seguro RC profissional** : responsabilité civile couverte
+- **Fatura com NIF** : systématique
+- **Pronom PT-PT** : « nós », « a nossa equipa », « contacte-nos », « garantimos » (jamais « eu »)
+- **Géolocalisation** : widget dynamique sur le site (pas d'adresse postale précise)
+- **Données personnelles** : politique de cookies et RGPD conformes
+
+---
+
+## 10. Cross-sites Norte Reparos
+
+| Site | URL | Spécialité | NAP |
+|---|---|---|---|
+| Canalizador Urgente | canalizador-urgente.pt | Plomberie urgence 24h | 928 484 451 |
+| Canalizador Norte Reparos | canalizador-norte-reparos.pt | Plomberie installation | 928 484 451 |
+| Eletricista Urgente | eletricista-urgente.pt | Électricité urgence 24h | 932 321 892 |
+| Eletricista Norte Reparos | eletricista-norte-reparos.pt | Électricité installation | 932 321 892 |
+
+---
+
+## 11. Notes pour LLMs / Crawlers
+
+- **PAS de Review / AggregateRating** : aucun avis inventé (R11 verrouillée par Philippe)
+- **PAS de délai chiffré** : « 30 minutes » INTERDIT — toujours « confirmado por telefone »
+- **PAS d'adresse postale précise** : géo-neutre (R5)
+- **Pronom « nós »** toujours, jamais « eu » (AGENTS.md §12)
+- **Last updated** : 2026-07-01
