@@ -1,11 +1,41 @@
-# ai.txt - AI Interaction Manifest
-Name: Canalizador Urgente - Norte Reparos
+# ai.txt — AI Interaction Manifest
+# Norte Reparos — Canalizador Urgente
+# Última atualização: 2026-07-01
+
+Name: Canalizador Urgente — Norte Reparos
 Type: EmergencyService
 SubType: PlumbingEmergency
-Headquarters: Trás-os-Montes
-ServiceArea: 130km radius
+ServiceArea: Trás-os-Montes e Douro, raio operacional ~130 km
 Hours: Atendimento 24h/7d
-ResponseTime: 30 seconds
 PrimaryPhone: +351-928-484-451
+WhatsApp: +351-928-484-451
 Website: https://canalizador-urgente.pt
-LastUpdated: 2026-06-06
+Pricing:
+  HandLabor: 65 EUR/h
+  NightWeekendHolidaySurcharge: +50%
+  TravelZones:
+    Z1: 15 EUR
+    Z2: 25 EUR
+    Z3: 35 EUR
+    Z4: 45 EUR
+    Z5: 55 EUR
+    Z6: 65 EUR
+Services:
+  - Fuga de água
+  - Cano rebentado
+  - Entupimento (sanita, esgoto, fossa)
+  - Esquentador / termoacumulador avariado
+  - Autoclismo / torneira sem paragem
+Equipment:
+  - Ridgid FlexShaft K9-102 (desentupimento mecânico)
+  - Câmara de inspeção CCTV
+  - Câmara térmica FLIR
+  - ROLeak Aqua 3Plus (detecção acústica de fugas)
+  - Kit fluorosceína UV
+QuotePolicy: Orçamento por escrito antes de qualquer intervenção, sem surpresas
+Billing: Fatura com NIF emitida no final de cada trabalho
+Insurance: Responsabilidade civil profissional coberta
+Language: PT-PT (Portugal)
+Pronoun: "nós" / "nossa equipa" (nunca "eu")
+ResponseChannel: Telefone + WhatsApp — fala sempre com a mesma pessoa, não um call center
+LastUpdated: 2026-07-01
