@@ -1875,4 +1875,9 @@
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+  <url>
+    <loc>https://canalizador-urgente.pt/preco-canalizador-urgente-braganca-2026.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+  </url>
 </urlset>
