@@ -1566,6 +1566,36 @@
  "source": "/programa-fidelidade",
  "destination": "/",
  "statusCode": 301
+ },
+ {
+ "source": "/comparacao-braganca-mirandela-chaves",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/comparacao-braganca-mirandela-chaves.html",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/case-study-fuga-braganca",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/case-study-fuga-braganca.html",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/case-study-certificacao-dgeg",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/case-study-certificacao-dgeg.html",
+ "destination": "/",
+ "statusCode": 301
  }
  ]
-}
+ }
