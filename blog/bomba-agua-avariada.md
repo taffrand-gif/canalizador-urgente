@@ -403,7 +403,7 @@ keywords: ["bomba água avariada", "bomba poço", "sem água", "picheleiro urgen
 
 ### Resposta Ultra-Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - **Sem água = prioridade máxima**
 - Camioneta equipada
@@ -446,7 +446,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Bomba%20água%20avariada%20URGENTE)**
 
-**Sem água = Emergência. Resposta mediante confirmação por telefone garantida. Chegada 30-60 minutos.**
+**Sem água = Emergência. Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Chegada conforme zona.**
 
 ---
 
@@ -472,6 +472,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Sem água = Emergência. Picheleiro urgente 24h. Resposta mediante confirmação por telefone garantida-60 minutos.**
+**Sem água = Emergência. Picheleiro urgente 24h. Atendemos 24h/7 dias, mediante confirmação por telefone garantida-60 minutos.**
 
 📞 +351 928 484 451 | 💬 WhatsApp 24h | 🌐 canalizador-norte-reparos.pt

@@ -108,7 +108,7 @@ keywords: ["esquentador avariado", "esquentador não aquece", "canalizador urgen
 **Sintomas**:
 - Desliga durante o banho
 - Desliga e não religa
-- Funciona 2-3 minutos e para
+- Funciona conforme zona e para
 
 **Causas**:
 - Sensor de temperatura avariado
@@ -241,7 +241,7 @@ keywords: ["esquentador avariado", "esquentador não aquece", "canalizador urgen
 - Fichas eletrotécnicas assinadas por técnico Profissional
 
 ### Resposta Rápida
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Emergências são prioridade
 
@@ -270,7 +270,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Esquentador%20avariado%20urgente)**
 
-**Resposta mediante confirmação por telefone garantida. Chegada em 30-60 minutos.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Chegada conforme zona.**
 
 ---
 

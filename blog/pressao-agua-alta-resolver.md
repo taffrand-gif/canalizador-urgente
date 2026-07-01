@@ -251,7 +251,7 @@ Pressão muito alta (>4 bar) não é apenas incómoda - **danifica torneiras, ca
 5. Ajustar pressão (2,5-3 bar)
 6. Testar (abrir torneiras, verificar pressão)
 
-**Tempo:** 1-2 horas 
+**Tempo:** conforme zona 
 **Custo:** €60-120 (redutor) + €60-100 (instalação) = €120-220 total
 
 ---

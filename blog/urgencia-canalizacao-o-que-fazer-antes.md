@@ -7,7 +7,7 @@ category: "Segurança"
 excerpt: "Guia urgência canalização: como agir primeiros minutos, fechar água com segurança, minimizar danos, documentar problema e preparar intervenção."
 image: "/images-optimized/blog/blog-urgencia-preparacao.webp"
 metaTitle: "Urgência Canalização: O Que Fazer Antes | Guia"
-metaDescription: "Urgência canalização: feche água geral, coloque baldes, documente problema. 8 erros fatais evitar. Resposta mediante confirmação por telefone garantida-90min. Ligue 928 484 451!"
+metaDescription: "Urgência canalização: feche água geral, coloque baldes, documente problema. 8 erros fatais evitar. Atendemos 24h/7 dias, mediante confirmação por telefone garantida-90min. Ligue 928 484 451!"
 keywords: ["urgência canalização o que fazer", "como fechar água casa", "emergência fuga água", "antes canalizador chegar"]
 schema:
  type: "HowTo"
@@ -82,7 +82,7 @@ Urgência de canalização requer ação imediata mas CALMA. Este guia explica o
 - Instruções específicas
 - SMS confirmação
 
-### PASSO 4: MINIMIZAR DANOS (5-10 minutos)
+### PASSO 4: MINIMIZAR DANOS (conforme zona)
 
 **Se fuga água:**
 - Colocar baldes/alguidares
@@ -211,7 +211,7 @@ Problema localizado (ex: só casa banho).
 - Águas do Norte: 808 202 570
 - Verificar distribuidora local
 
-**Prazo:** 30-120 minutos (conforme disponibilidade).
+**Prazo:** conforme zona (conforme disponibilidade).
 
 ## 8 Erros FATAIS a Evitar
 
@@ -602,7 +602,7 @@ Balde (se urgência extrema).
 ## Perguntas Frequentes
 
 ### 1. Quanto tempo canalizador demora chegar?
-**15-90 minutos** conforme localização. Bragança: 15-40 min. Zonas afastadas: até 90 min. Tempo exato informado na chamada.
+**conforme zona** conforme localização. Bragança: 15-40 min. Zonas afastadas: até 90 min. Tempo exato informado na chamada.
 
 ### 2. Posso sair casa enquanto espero?
 **Não recomendado.** Canalizador precisa acesso e aprovação orçamento. Se sair: deixar chaves vizinho e avisar.
@@ -630,8 +630,8 @@ Balde (se urgência extrema).
 **Ligue IMEDIATAMENTE: 928 484 451**
 
 ✅ Atendimento <3 toques
-✅ Resposta mediante confirmação por telefone garantida-90 minutos
-✅ Atendimento mediante confirmação por telefone/7d/7 dias/365 dias
+✅ Atendemos 24h/7 dias, mediante confirmação por telefone garantida-90 minutos
+✅ Atendemos 24h/7d/7 dias/365 dias
 ✅ Equipamento completo
 ✅ Orçamento antes arranjar
 ✅ Garantia 12 meses

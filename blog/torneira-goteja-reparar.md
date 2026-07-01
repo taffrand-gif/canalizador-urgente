@@ -1,17 +1,17 @@
 ---
-title: "Torneira Goteja: Como Arranjar Atendimento mediante confirmação por telefone (2026)"
+title: "Torneira Goteja: Como Arranjar Atendimento 24h/7d (2026)"
 slug: "torneira-goteja-arranjar"
 category: "Arranjos DIY"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Torneira que goteja desperdiça 20.000L/ano (€100-200). Aprenda a arranjar Atendimento mediante confirmação por telefone trocando anilha ou cartucho. Guia completo DIY para Trás-os-Montes."
+excerpt: "Torneira que goteja desperdiça 20.000L/ano (€100-200). Aprenda a arranjar Atendemos 24h/7 dias, mediante confirmação por telefone trocando anilha ou cartucho. Guia completo DIY para Trás-os-Montes."
 keywords: "torneira goteja, torneira pinga, arranjar torneira, trocar anilha, cartucho torneira, picheleiro braganca"
 priority: "HIGH DEMAND"
 ---
 
-# Torneira Goteja: Como Arranjar Atendimento mediante confirmação por telefone (2026)
+# Torneira Goteja: Como Arranjar Atendimento 24h/7d (2026)
 
-**Torneira que goteja desperdiça 20.000 litros/ano - €100-200 pelo cano abaixo!** Em Trás-os-Montes, 55% das casas têm pelo menos 1 torneira a pingar. Neste guia completo, vou mostrar-lhe como arranjar Atendimento mediante confirmação por telefone trocando anilha (€2) ou cartucho (€15-40), poupando €40-80 em picheleiro.
+**Torneira que goteja desperdiça 20.000 litros/ano - €100-200 pelo cano abaixo!** Em Trás-os-Montes, 55% das casas têm pelo menos 1 torneira a pingar. Neste guia completo, vou mostrar-lhe como arranjar Atendemos 24h/7 dias, mediante confirmação por telefone trocando anilha (€2) ou cartucho (€15-40), poupando €40-80 em picheleiro.
 
 ## Quanto Desperdiça Uma Torneira Que Goteja?
 
@@ -236,7 +236,7 @@ Anel de borracha que veda base da torneira.
 - Feche torneira
 - Não deve pingar!
 
-**Tempo total:** 15-20 minutos
+**Tempo total:** conforme zona
 **Custo:** €2-5
 **Dificuldade:** Fácil
 
@@ -296,7 +296,7 @@ Anel de borracha que veda base da torneira.
 - Teste quente/frio
 - Verifique se não goteja
 
-**Tempo:** 20-30 minutos
+**Tempo:** conforme zona
 **Custo:** €15-40
 **Dificuldade:** Média
 
@@ -479,7 +479,7 @@ R: Trocar anilha €40-80, trocar cartucho €60-120, substituir torneira €100
 
 ## Conclusão: Repare Hoje, Poupe €100-200/Ano
 
-**Torneira que goteja desperdiça €100-200/ano.** Arranjo DIY custa €2-40 e demora 20-30 minutos. Anilha (€2) ou cartucho (€15-40) resolvem 90% dos casos. Não deixe dinheiro escorrer pelo ralo - repare hoje!
+**Torneira que goteja desperdiça €100-200/ano.** Arranjo DIY custa €2-40 e demora conforme zona. Anilha (€2) ou cartucho (€15-40) resolvem 90% dos casos. Não deixe dinheiro escorrer pelo ralo - repare hoje!
 
 ### 🚨 Torneira Goteja? Precisa Ajuda?
 

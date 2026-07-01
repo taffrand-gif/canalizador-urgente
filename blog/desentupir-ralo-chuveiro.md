@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **Água parada no chuveiro que não escoa?** O ralo entupido é um dos problemas mais comuns em casas de banho em Trás-os-Montes. Neste guia completo, vou mostrar-lhe **7 métodos profissionais** para desentupir o ralo do chuveiro, desde soluções caseiras até técnicas profissionais.
 
-> ⚠️ **Urgência?** Se a água está a transbordar ou o entupimento é grave, ligue já: **[928 484 451](tel:+351928484451)** — Picheleiro em Bragança Atendimento mediante confirmação por telefone.
+> ⚠️ **Urgência?** Se a água está a transbordar ou o entupimento é grave, ligue já: **[928 484 451](tel:+351928484451)** — Picheleiro em Bragança Atendemos 24h/7 dias, mediante confirmação por telefone.
 
 ## 🔍 Por Que o Ralo do Chuveiro Entope?
 
@@ -51,7 +51,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 1: Remoção Manual (Grátis)
 
 **Eficácia:** 40% dos casos leves 
-**Tempo:** 5-10 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Muito fácil
 
 **Como fazer:**
@@ -98,7 +98,7 @@ Antes de desentupir, é importante perceber as causas principais:
 2. Despeje o bicarbonato diretamente no ralo
 3. Despeje o vinagre por cima (vai fazer espuma)
 4. Tape o ralo com um pano húmido
-5. Aguarde 20-30 minutos
+5. Aguarde conforme zona
 6. Despeje 2 litros de água fervente
 7. Teste com água corrente
 
@@ -109,7 +109,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 4: Ventosa/Desentupidor (€5-15)
 
 **Eficácia:** 70% dos casos moderados 
-**Tempo:** 10-15 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Fácil
 
 **Como fazer:**
@@ -128,7 +128,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 5: Desentupidor Químico (€8-15)
 
 **Eficácia:** 75% dos casos moderados a graves 
-**Tempo:** 30-60 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Fácil
 
 **Produtos recomendados:**
@@ -155,7 +155,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 6: Mola Desentupidora Manual (€15-30)
 
 **Eficácia:** 85% dos casos graves 
-**Tempo:** 20-30 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Moderada
 
 **Material necessário:**
@@ -180,7 +180,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 7: Desmontagem do Sifão (Profissional)
 
 **Eficácia:** 95% dos casos 
-**Tempo:** 30-60 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Difícil (recomenda-se profissional)
 
 **Quando necessário:**
@@ -316,9 +316,9 @@ O ralo do chuveiro entupido é um problema comum mas **facilmente resolvível** 
 📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20desentupir%20o%20ralo%20do%20chuveiro.%20Pode%20ajudar%3F)**
 
-✅ Atendimento mediante confirmação por telefone/7d (urgências) 
+✅ Atendemos 24h/7d (urgências) 
 ✅ Orçamento grátis sem compromisso 
-✅ Técnico em sua casa em 30-45 minutos 
+✅ Técnico em sua casa em conforme zona 
 ✅ Garantia de 6 meses no serviço 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
