@@ -26,7 +26,7 @@ priority: "SEASONAL"
 **2. Radiador completamente frio:**
 - **Causa:** Válvula fechada ou avariada
 - **Solução:** Abrir válvula ou substituir
-- **Tempo:** 10-30 minutos
+- **Tempo:** conforme zona
 - **Custo:** €0-40
 
 **3. Todos os radiadores frios:**
@@ -38,7 +38,7 @@ priority: "SEASONAL"
 **4. Radiadores longe da caldeira frios:**
 - **Causa:** Bomba fraca ou circuito desequilibrado
 - **Solução:** Equilibrar sistema
-- **Tempo:** 1-2 horas
+- **Tempo:** conforme zona
 - **Custo:** €0-150
 
 **5. Radiador quente mas divisão fria:**
@@ -108,7 +108,7 @@ priority: "SEASONAL"
 **A) Válvula manual fechada:**
 1. Rode válvula sentido anti-horário (abrir)
 2. Totalmente aberta
-3. Aguarde 10-15 minutos
+3. Aguarde conforme zona
 4. Radiador deve aquecer
 
 **B) Válvula termostática bloqueada:**
@@ -123,7 +123,7 @@ priority: "SEASONAL"
 - Substituir válvula €20-40
 - Instalação €60-120 (picheleiro)
 
-**Tempo:** 10-30 minutos
+**Tempo:** conforme zona
 **Custo:** €0-40
 
 ### 3. Pressão Baixa no Sistema (8% dos casos)
@@ -210,7 +210,7 @@ priority: "SEASONAL"
 
 **Limpeza química (profissional):**
 1. Adicionar produto limpeza
-2. Circular 24-48 horas
+2. Circular conforme zona
 3. Drenar sistema
 4. Enxaguar
 5. Encher com inibidor
@@ -238,7 +238,7 @@ priority: "SEASONAL"
 4. Ajuste progressivamente
 5. Objetivo: Todos aquecem uniformemente
 
-**Tempo:** 1-2 horas
+**Tempo:** conforme zona
 **Dificuldade:** Média
 
 **Ou chame técnico:** €80-150
@@ -264,7 +264,7 @@ priority: "SEASONAL"
 6. Repita até água sair limpa
 7. Reinstale
 
-**Tempo:** 2-3 horas
+**Tempo:** conforme zona
 **Dificuldade:** Alta
 
 **B) Substituir radiador:**
@@ -332,7 +332,7 @@ priority: "SEASONAL"
 3. Se <1 bar, encha sistema
 4. Teste radiadores (todos quentes)
 
-**Tempo total:** 30-60 minutos (casa completa)
+**Tempo total:** conforme zona (casa completa)
 
 **Erros a evitar:**
 - ❌ Não abrir muito (jorra água)

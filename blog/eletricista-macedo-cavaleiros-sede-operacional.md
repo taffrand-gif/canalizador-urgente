@@ -12,11 +12,11 @@ A nossa base. Resposta em minutos, não em horas. Para qualquer problema elétri
 
 ## Sede operacional — resposta imediata
 
-Macedo de Cavaleiros é onde temos a base. Isto significa que para qualquer emergência elétrica em Macedo — curto-circuito, disjuntor que dispara, tomada em chamas — estamos a 5-15 minutos do local. Não há 'tempo de espera para chegar' porque já estamos cá.
+Macedo de Cavaleiros é onde temos a base. Isto significa que para qualquer emergência elétrica em Macedo — curto-circuito, disjuntor que dispara, tomada em chamas — estamos a conforme zona do local. Não há 'tempo de espera para chegar' porque já estamos cá.
 
 ## Zona servida a partir de Macedo
 
-Toda a região em redor de Macedo está coberta com tempos de resposta curtos. Macedo, Bornes, Podence, Vilar do Monte, Sesulfe, Castelãos, Amendoeira, Carrapatas, e todas as aldeias num raio de 30 km. Para emergências, podemos estar no local em 15-25 minutos.
+Toda a região em redor de Macedo está coberta com tempos de resposta curtos. Macedo, Bornes, Podence, Vilar do Monte, Sesulfe, Castelãos, Amendoeira, Carrapatas, e todas as aldeias num raio de 30 km. Para emergências, podemos estar no local em conforme zona.
 
 ## Serviços elétricos especializados
 
@@ -24,12 +24,12 @@ Em Macedo fazemos: diagnóstico e reparação de avarias, substituição de quad
 
 ## Preços Macedo — Zona 1
 
-Por ser a nossa sede, os preços em Macedo são os mais baixos: deslocação 20€ (ou incluída no centro), hora a 80€/h. Para um diagnóstico típico + reparação de 1-2 horas, o investimento ronda os 100€-180€. Ligue 932 321 892 agora.
+Por ser a nossa sede, os preços em Macedo são os mais baixos: deslocação 20€ (ou incluída no centro), hora a 80€/h. Para um diagnóstico típico + reparação de conforme zona, o investimento ronda os 100€-180€. Ligue 932 321 892 agora.
 
 
 
 ---
 
-**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendimento mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
+**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendemos 24h/7 dias, mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
-Servimos Macedo de Cavaleiros e todas as freguesias envolventes. Ligue já — Resposta mediante confirmação por telefone garantida.
+Servimos Macedo de Cavaleiros e todas as freguesias envolventes. Ligue já — Atendemos 24h/7 dias, mediante confirmação por telefone garantida.

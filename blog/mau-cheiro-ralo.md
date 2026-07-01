@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **Mau cheiro a esgoto vindo do ralo da cozinha ou casa de banho?** Este é um problema comum mas muito desagradável que geralmente tem solução simples. Neste guia completo, vou mostrar-lhe **as 5 causas principais** de mau cheiro nos ralos e **soluções eficazes** para eliminar.
 
-> ⚠️ **Cheiro persistente ou muito forte?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Diagnóstico e solução definitiva Atendimento mediante confirmação por telefone.
+> ⚠️ **Cheiro persistente ou muito forte?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Diagnóstico e solução definitiva Atendemos 24h/7 dias, mediante confirmação por telefone.
 
 ## 🔍 Por Que os Ralos Cheiram Mal?
 
@@ -147,7 +147,7 @@ Gordura, cabelos, restos de comida e sabão acumulam no sifão, apodrecem e cria
 4. **Volte a colocar a grelha**
 
 **Custo:** Grátis (ou €2-5 se precisar juntas novas) 
-**Tempo:** 20-30 minutos 
+**Tempo:** conforme zona 
 **Frequência:** A cada 3-6 meses
 
 ### Causa 3: Falta de Ventilação (Coluna de Ventilação) - 15% dos casos
@@ -432,12 +432,12 @@ Mau cheiro no ralo tem **causas identificáveis e soluções eficazes**:
 📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20mau%20cheiro%20nos%20ralos.%20Pode%20ajudar%3F)**
 
-✅ Diagnóstico preciso Atendimento mediante confirmação por telefone 
+✅ Diagnóstico preciso Atendemos 24h/7 dias, mediante confirmação por telefone 
 ✅ Solução definitiva (não provisória) 
 ✅ Limpeza profunda de sifões e tubagem 
 ✅ Instalação de ventilação se necessário 
 ✅ Garantia 1 ano no serviço 
-✅ Técnico em sua casa em 30-45 minutos 
+✅ Técnico em sua casa em conforme zona 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não viva com mau cheiro!** É problema de saúde e conforto. Contacte-nos já para solução definitiva.

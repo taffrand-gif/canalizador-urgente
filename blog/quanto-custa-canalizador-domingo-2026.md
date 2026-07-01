@@ -13,7 +13,7 @@ faqSchema:
  - question: "Quanto custa canalizador ao domingo?"
  answer: "90€/hora em horário normal (8h-20h) e 135€/hora em horário noturno (20h-8h). Mais deslocação 30-60€ conforme distância."
  - question: "Canalizador domingo é mais caro que dias úteis?"
- answer: "Sim, cerca de 38% mais caro. Dias úteis: 65€/h, Domingo: 90€/h. Diferença justificada por disponibilidade Atendimento mediante confirmação por telefone/7d."
+ answer: "Sim, cerca de 38% mais caro. Dias úteis: 65€/h, Domingo: 90€/h. Diferença justificada por disponibilidade Atendemos 24h/7d."
  - question: "Vale a pena chamar canalizador ao domingo?"
  answer: "Sim para urgências reais: fuga grave, sem água quente, sanita entupida única, canalização rebentada. Não urgente pode esperar segunda-feira e poupar 25%."
 ---
@@ -26,7 +26,7 @@ Precisa de um canalizador ao domingo e quer saber quanto vai custar? Este guia c
 
 Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 
-**Disponibilidade fora do horário normal:** Técnicos disponíveis Atendimento mediante confirmação por telefone/7d têm custos operacionais mais elevados (turnos, equipas de prevenção).
+**Disponibilidade fora do horário normal:** Técnicos disponíveis Atendemos 24h/7d têm custos operacionais mais elevados (turnos, equipas de prevenção).
 
 **Interrupção do descanso semanal:** Trabalhar ao domingo significa abdicar do tempo com família, o que justifica uma compensação justa.
 
@@ -190,7 +190,7 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 **Sim.** Aceitamos dinheiro, MB Way, Multibanco e transferência bancária.
 
 ### 4. Quanto tempo demoram a chegar ao domingo?
-**15-90 minutos** conforme localização. Bragança e arredores: 15-40 min. Zonas mais afastadas: até 90 min.
+**conforme zona** conforme localização. Bragança e arredores: 15-40 min. Zonas mais afastadas: até 90 min.
 
 ### 5. Trabalham feriados?
 **Sim, 365 dias/ano.** Feriados têm o mesmo preço que domingos (90€/h horário normal, 135€/h noturno).
@@ -206,7 +206,7 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 
 ## Artigos Relacionados
 
-- [Canalizador Atendimento mediante confirmação por telefone/7d: Guia Completo](https://canalizador-urgente.pt/blog/canalizador-24-horas-guia-completo)
+- [Canalizador Atendemos 24h/7d: Guia Completo](https://canalizador-urgente.pt/blog/canalizador-24-horas-guia-completo)
 - [Certificação Gás: Preços 2026](https://canalizador-urgente.pt/blog/preco-certificacao-gas-2026)
 - [Urgência Canalização: O Que Fazer](https://canalizador-urgente.pt/blog/urgencia-canalizacao-o-que-fazer-antes)
 - [Melhores Canalizadores Bragança](https://canalizador-urgente.pt/blog/melhores-canalizadores-braganca-2026)
@@ -215,9 +215,9 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 
 **Ligue agora: 928 484 451**
 
-✅ Atendimento mediante confirmação por telefone Atendimento mediante confirmação por telefone/7d
+✅ Atendemos 24h/7 dias, mediante confirmação por telefone Atendemos 24h/7d
 ✅ Orçamento gratuito por telefone
-✅ Resposta mediante confirmação por telefone garantida-90 minutos
+✅ Atendemos 24h/7 dias, mediante confirmação por telefone garantida-90 minutos
 ✅ Preços transparentes sem surpresas
 ✅ Garantia 12 meses
 

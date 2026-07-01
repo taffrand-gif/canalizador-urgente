@@ -124,7 +124,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 - Sem ligações improvisadas
 - Detetor gás (recomendado)
 
-**Duração:** 1-2 horas (T3), 2-3 horas (T5+)
+**Duração:** conforme zona (T3), conforme zona (T5+)
 
 ### PASSO 3: Testes Estanquidade (Dia 1)
 
@@ -145,7 +145,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 - Verifica fugas mínimas
 - Precisão alta
 
-**Duração:** 30-60 minutos
+**Duração:** conforme zona
 
 ### PASSO 4: Relatório e Correções (Dia 1-2)
 
@@ -225,7 +225,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 | Etapa | Prazo |
 |-------|-------|
 | Agendamento | 1-2 dias |
-| Inspeção + Testes | 2-3 horas |
+| Inspeção + Testes | conforme zona |
 | Emissão certificado | 2-3 dias |
 | **TOTAL** | **3-5 dias úteis** |
 
@@ -235,7 +235,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 |-------|-------|
 | Inspeção inicial | 1 dia |
 | Orçamento correções | 1 dia |
-| Correções | 1-2 horas |
+| Correções | conforme zona |
 | Nova inspeção | 1 hora |
 | Emissão certificado | 2-3 dias |
 | **TOTAL** | **5-7 dias úteis** |
@@ -278,7 +278,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 
 - [Certificação Gás Obrigatória: Guia Completo](https://canalizador-urgente.pt/blog/certificacao-gas-obrigatoria-quando-como)
 - [Melhores Canalizadores Bragança](https://canalizador-urgente.pt/blog/melhores-canalizadores-braganca-2026)
-- [Canalizador Atendimento mediante confirmação por telefone/7d: Como Funciona](https://canalizador-urgente.pt/blog/canalizador-24-horas-guia-completo)
+- [Canalizador Atendemos 24h/7d: Como Funciona](https://canalizador-urgente.pt/blog/canalizador-24-horas-guia-completo)
 - [Quanto Custa Mudar Canalização Antiga](https://canalizador-urgente.pt/blog/quanto-custa-mudar-canalizacao-antiga-2026)
 
 ## Precisa de Certificação Gás?
