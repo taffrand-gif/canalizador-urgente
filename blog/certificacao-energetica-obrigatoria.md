@@ -321,12 +321,6 @@ keywords: ["certificado energético", "certificação energética", "vender casa
 - Poupança: 20-30% gás
 - Se substituir antiga
 
-**5. Painéis solares térmicos** (€2,000-4,000):
-- Melhoria: 0.5-1 classe
-- ROI: 6-10 anos
-- Poupança: 60-80% água quente
-- Incentivos disponíveis
-
 **6. Bomba calor** (€3,000-8,000):
 - Melhoria: 1-2 classes
 - ROI: 8-15 anos
@@ -359,7 +353,7 @@ keywords: ["certificado energético", "certificação energética", "vender casa
 **Classe E → D**: + Janelas vidro duplo (€3,000-6,000)
 **Classe D → C**: + Caldeira eficiente (€1,500-3,000)
 **Classe C → B**: + Isolamento paredes (€5,000-10,000)
-**Classe B → A**: + Painéis solares + bomba calor (€8,000-15,000)
+**Classe B → A**: + Isolamento + janelas eficientes (€5,000-12,000)
 
 ## 🏠 Certificação em Trás-os-Montes
 

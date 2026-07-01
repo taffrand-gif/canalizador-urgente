@@ -10,7 +10,7 @@ keywords: ["esquentador", "termoacumulador", "água quente", "gás vs elétrico"
 
 # Esquentador vs Termoacumulador: Qual Escolher e Poupar 40%
 
-**Água quente cara? Quer trocar sistema? Qual escolher?** Esquentador gás **poupa 40-60% vs termoacumulador elétrico**, instantâneo, sem desperdício. Termoacumulador conveniente mas consome 1,500-2,500 kWh/ano (€300-500). Neste guia completo, comparamos esquentador gás, termoacumulador elétrico, bomba calor, solar térmico - custos, vantagens, desvantagens e qual ideal para cada situação.
+**Água quente cara? Quer trocar sistema? Qual escolher?** Esquentador gás **poupa 40-60% vs termoacumulador elétrico**, instantâneo, sem desperdício. Termoacumulador conveniente mas consome 1,500-2,500 kWh/ano (€300-500). Neste guia completo, comparamos esquentador gás, termoacumulador elétrico, custos, vantagens, desvantagens e qual ideal para cada situação.
 
 ## 🔥 Tipos de Sistemas Água Quente
 
@@ -100,7 +100,7 @@ keywords: ["esquentador", "termoacumulador", "água quente", "gás vs elétrico"
 ### Solar Térmico
 
 **Como funciona**:
-- Painéis solares aquecem água
+- Esquentador a gás: aquece instantânea (recomendado)
 - Armazena depósito
 - Apoio elétrico/gás (dias nublados)
 - Grátis (sol)
