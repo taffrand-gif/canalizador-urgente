@@ -103,7 +103,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **⚠️ PERIGO:** Não tente limpar queimador sozinho. Risco de fuga de gás e explosão.
 
 **Custo:** €60-100 (limpeza + manutenção) 
-**Tempo:** 1-2 horas 
+**Tempo:** conforme zona 
 **Frequência:** 1x/ano (manutenção preventiva)
 
 ---
@@ -121,7 +121,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **Solução:** **CHAMAR PICHELEIRO** - substituir termóstato
 
 **Custo:** €80-150 (peça + mão de obra) 
-**Tempo:** 1-2 horas
+**Tempo:** conforme zona
 
 ---
 
@@ -137,7 +137,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **Solução:** **CHAMAR PICHELEIRO** - substituir membrana
 
 **Custo:** €60-120 (peça + mão de obra) 
-**Tempo:** 1-2 horas
+**Tempo:** conforme zona
 
 **💡 Nota:** Problema comum em zonas de água dura (Trás-os-Montes).
 
@@ -157,7 +157,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **⚠️ PERIGO:** Problema com gás requer profissional com experiência.
 
 **Custo:** €100-200 (peça + mão de obra) 
-**Tempo:** 2-3 horas
+**Tempo:** conforme zona
 
 ---
 
@@ -174,7 +174,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **Solução:** **CHAMAR PICHELEIRO** - descalcificação profissional
 
 **Custo:** €80-150 (descalcificação) 
-**Tempo:** 2-3 horas 
+**Tempo:** conforme zona 
 **Prevenção:** Descalcificação a cada 2-3 anos
 
 ---

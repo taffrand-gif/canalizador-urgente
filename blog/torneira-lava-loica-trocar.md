@@ -4,14 +4,14 @@ slug: "torneira-lava-loica-trocar"
 category: "Arranjos DIY"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Quer trocar a torneira do lava-loiça? Guia completo passo a passo com fotos, ferramentas necessárias e dicas profissionais. Aprenda a fazer Atendimento mediante confirmação por telefone."
+excerpt: "Quer trocar a torneira do lava-loiça? Guia completo passo a passo com fotos, ferramentas necessárias e dicas profissionais. Aprenda a fazer Atendemos 24h/7 dias, mediante confirmação por telefone."
 keywords: "trocar torneira, instalar torneira, torneira lava loica, torneira cozinha, picheleiro braganca, canalizador"
 priority: "HIGH DEMAND"
 ---
 
 # Trocar Torneira do Lava-Loiça: Guia Passo a Passo (2026)
 
-**Trocar torneira do lava-loiça é um projeto DIY acessível que poupa €80-150 em mão de obra.** Em Trás-os-Montes, 45% dos proprietários fazem esta substituição sozinhos. Neste guia completo, vou mostrar-lhe passo a passo como trocar a torneira Atendimento mediante confirmação por telefone, com todas as ferramentas necessárias e dicas profissionais.
+**Trocar torneira do lava-loiça é um projeto DIY acessível que poupa €80-150 em mão de obra.** Em Trás-os-Montes, 45% dos proprietários fazem esta substituição sozinhos. Neste guia completo, vou mostrar-lhe passo a passo como trocar a torneira Atendemos 24h/7 dias, mediante confirmação por telefone, com todas as ferramentas necessárias e dicas profissionais.
 
 ## Quando Trocar a Torneira?
 
@@ -258,7 +258,7 @@ priority: "HIGH DEMAND"
 **Passo 14: Limpe silicone excedente**
 - Remova silicone que espremeu
 - Use pano húmido
-- Deixe secar 2-4 horas antes de usar
+- Deixe secar conforme zona antes de usar
 
 ### FASE 4: Teste e Ajustes (5 minutos)
 
@@ -451,7 +451,7 @@ priority: "HIGH DEMAND"
 ## Perguntas Frequentes (FAQ)
 
 **P: Quanto tempo demora a trocar torneira?**
-R: DIY: 60-90 minutos (primeira vez). Profissional: 30-45 minutos. Aguarde 4 horas antes de usar (silicone secar).
+R: DIY: conforme zona (primeira vez). Profissional: conforme zona. Aguarde 4 horas antes de usar (silicone secar).
 
 **P: Preciso fechar água geral?**
 R: Não, se tiver torneiras de seccionamento por baixo do lava-loiça. Caso contrário, sim. Recomendo instalar seccionamento (€40-80).
@@ -467,7 +467,7 @@ R: Instalação €80-150 (normal) ou €150-250 (urgente). Fornecimento + insta
 
 ## Conclusão: Projeto DIY Acessível
 
-**Trocar torneira do lava-loiça é projeto DIY que poupa €80-150.** Com ferramentas básicas e 60-90 minutos, consegue fazer. Invista €100-150 em torneira de qualidade média - dura 10-15 anos. Se não se sentir confiante, picheleiro profissional garante trabalho bem feito.
+**Trocar torneira do lava-loiça é projeto DIY que poupa €80-150.** Com ferramentas básicas e conforme zona, consegue fazer. Invista €100-150 em torneira de qualidade média - dura 10-15 anos. Se não se sentir confiante, picheleiro profissional garante trabalho bem feito.
 
 ### 🚨 Precisa Ajuda Profissional?
 

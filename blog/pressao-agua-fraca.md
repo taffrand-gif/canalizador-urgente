@@ -89,7 +89,7 @@ Com base na nossa experiência de 900+ intervenções em Trás-os-Montes:
 **Como limpar:**
 1. Desaperte arejador (use pano se muito apertado)
 2. Desmonte peças (grelha, borrachas, corpo)
-3. Mergulhe em vinagre branco (2-4 horas)
+3. Mergulhe em vinagre branco (conforme zona)
 4. Escove com escova de dentes velha
 5. Enxague bem
 6. Remonte e recoloque
@@ -436,7 +436,7 @@ Sim, em Trás-os-Montes (água muito dura). Custo: €400-1.200. Poupa em arranj
 Temporariamente sim (sedimentos na rede). Limpe arejadores e filtro. Se persistir >1 semana, contacte empresa de águas.
 
 **8. Quanto tempo demora arranjar pressão fraca?** 
-Arejador: 10 min. Válvula: 5 min. Fuga: 2-6 horas. Substituir tubos: 1-3 dias.
+Arejador: 10 min. Válvula: 5 min. Fuga: conforme zona. Substituir tubos: 1-3 dias.
 
 ---
 
@@ -465,7 +465,7 @@ Pressão de água fraca não é apenas inconveniente — **reduz qualidade de vi
 - Soluções definitivas (não temporárias)
 - Orçamento transparente antes de iniciar
 - Garantia de 1 ano no trabalho
-- Disponível Atendimento mediante confirmação por telefone/7d para urgências
+- Disponível Atendemos 24h/7d para urgências
 
 **Recupere o conforto. Pressão de água adequada faz toda a diferença.**
 

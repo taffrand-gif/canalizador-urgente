@@ -441,7 +441,7 @@ Provavelmente. Teste: limpe filtro, inicie drenagem. Se silêncio total → bomb
 Arranjar se: máquina <7 anos, arranjo <50% do preço de nova. Substituir se: >10 anos ou arranjo cara.
 
 **7. Quanto tempo demora arranjar?** 
-Limpar filtro: 15 min. Substituir bomba: 1-2 horas. Desentupir esgoto: 1-3 horas.
+Limpar filtro: 15 min. Substituir bomba: conforme zona. Desentupir esgoto: conforme zona.
 
 **8. Como evitar que filtro entupa?** 
 Esvazie bolsos, use sacos de rede para peças pequenas, limpe filtro mensalmente.
@@ -476,7 +476,7 @@ Uma máquina de lavar que não drena é **frustrante mas geralmente tem soluçã
 **✅ Garantias Norte Reparos:**
 - Picheleiros certificados com 15+ anos de experiência
 - Diagnóstico preciso (identifica causa exata)
-- Arranjo rápida (1-2 horas)
+- Arranjo rápida (conforme zona)
 - Peças de qualidade (originais ou equivalentes)
 - Garantia de 6 meses no trabalho
 - Orçamento transparente antes de iniciar

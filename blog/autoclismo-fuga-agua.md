@@ -4,14 +4,14 @@ slug: "autoclismo-fuga-agua"
 category: "Arranjos DIY"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Autoclismo com fuga de água desperdiça 200L/dia (€300/ano). Descubra as 7 causas principais e como arranjar Atendimento mediante confirmação por telefone. Guia completo DIY para Trás-os-Montes."
+excerpt: "Autoclismo com fuga de água desperdiça 200L/dia (€300/ano). Descubra as 7 causas principais e como arranjar Atendemos 24h/7 dias, mediante confirmação por telefone. Guia completo DIY para Trás-os-Montes."
 keywords: "autoclismo fuga agua, autoclismo pinga, arranjar autoclismo, valvula autoclismo, picheleiro braganca, canalizador"
 priority: "HIGH DEMAND"
 ---
 
 # Autoclismo Com Fuga de Água: 7 Causas e Soluções (2026)
 
-**Autoclismo com fuga de água desperdiça 200 litros/dia - €300/ano jogados fora!** Em Trás-os-Montes, 45% dos autoclismos têm fugas (maioria imperceptíveis). Neste guia completo, vou mostrar-lhe as 7 causas principais, como detetar fugas invisíveis e arranjar Atendimento mediante confirmação por telefone poupando €40-80 em picheleiro.
+**Autoclismo com fuga de água desperdiça 200 litros/dia - €300/ano jogados fora!** Em Trás-os-Montes, 45% dos autoclismos têm fugas (maioria imperceptíveis). Neste guia completo, vou mostrar-lhe as 7 causas principais, como detetar fugas invisíveis e arranjar Atendemos 24h/7 dias, mediante confirmação por telefone poupando €40-80 em picheleiro.
 
 ## Como Detetar Fuga no Autoclismo
 
@@ -57,7 +57,7 @@ Borracha/silicone na base do autoclismo que veda saída de água. Com tempo, det
 
 **Como identificar:**
 - Água corre constantemente (fio fino)
-- Autoclismo enche sozinho a cada 10-30 minutos
+- Autoclismo enche sozinho a cada conforme zona
 - Som de água a correr
 - Teste do corante positivo
 
@@ -84,7 +84,7 @@ Borracha/silicone na base do autoclismo que veda saída de água. Com tempo, det
 6. Recoloque e aperte
 7. Abra água e teste
 
-**Tempo:** 20-30 minutos
+**Tempo:** conforme zona
 **Custo:** €5-15
 **Dificuldade:** Fácil
 
@@ -124,7 +124,7 @@ Boia controla nível de água no autoclismo. Se desregulada ou avariada, água s
 - Mecanismo emperrado
 - **Custo:** €8-20
 
-**Tempo:** 5-15 minutos
+**Tempo:** conforme zona
 **Custo:** €0 (ajuste) ou €8-20 (substituir)
 
 ### 3. Válvula de Entrada Com Problema (12% dos casos)
@@ -158,7 +158,7 @@ Válvula que controla entrada de água no autoclismo. Se não fecha bem, água e
 - Válvula completa €15-30
 - Instalação 20 minutos
 
-**Tempo:** 20-40 minutos
+**Tempo:** conforme zona
 **Custo:** €0 (limpeza) ou €15-30 (nova)
 
 ### 4. Tubo de Overflow Rachado (5% dos casos)
@@ -206,7 +206,7 @@ Borracha de vedação entre autoclismo e sanita gasta ou parafusos soltos.
 4. Substitua borracha (€3-8)
 5. Recoloque e aperte
 
-**Tempo:** 30-45 minutos
+**Tempo:** conforme zona
 **Custo:** €0 (apertar) ou €3-8 (vedante)
 
 ### 6. Botão de Descarga Com Problema (3% dos casos)
@@ -231,7 +231,7 @@ Botão ou alavanca de descarga não retorna completamente, deixando válvula abe
 - Substituir mola €2-5
 - Substituir botão completo €10-25
 
-**Tempo:** 15-30 minutos
+**Tempo:** conforme zona
 **Custo:** €2-25
 
 ### 7. Autoclismo Rachado (1% dos casos)
@@ -252,7 +252,7 @@ Botão ou alavanca de descarga não retorna completamente, deixando válvula abe
 - Rachadura pequena: Silicone (temporário)
 - Rachadura grande: Substituir autoclismo €80-200
 
-**Tempo:** 2-4 horas (substituir)
+**Tempo:** conforme zona (substituir)
 **Custo:** €80-200
 
 ## Arranjo Passo a Passo (Válvula de Descarga)
@@ -309,7 +309,7 @@ Botão ou alavanca de descarga não retorna completamente, deixando válvula abe
 - Verifique se não há fuga
 - Puxe descarga e observe
 
-**Tempo total:** 20-30 minutos
+**Tempo total:** conforme zona
 **Dificuldade:** Fácil (qualquer pessoa consegue)
 
 ## Manutenção Preventiva do Autoclismo

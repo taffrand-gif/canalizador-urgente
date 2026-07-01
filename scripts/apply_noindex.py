@@ -15,7 +15,6 @@ REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FORBIDDEN = [  # hors cœur métier — noindex, conservés (gate compliance séparé)
     "calculadora-roi-solar.html",
     "painel-solar-vale-pena.html",
-    "case-study-certificacao-dgeg.html",
     # G2 (2026-06-23) — électricité sur site CANAL (cross-craft, viole cœur strict):
     "guia-eletricidade.html",
     "glossario-eletricidade.html",
