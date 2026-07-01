@@ -1561,6 +1561,16 @@
  "source": "/canalizador-urgente-alij",
  "destination": "/canalizador-urgente-alijo",
  "statusCode": 301
+ },
+ {
+ "source": "/comparacao-braganca-mirandela-chaves",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/comparacao-braganca-mirandela-chaves.html",
+ "destination": "/",
+ "statusCode": 301
  }
  ]
 }
