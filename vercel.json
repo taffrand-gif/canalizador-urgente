@@ -1563,6 +1563,11 @@
  "statusCode": 301
  },
  {
+ "source": "/programa-fidelidade",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
  "source": "/comparacao-braganca-mirandela-chaves",
  "destination": "/",
  "statusCode": 301
