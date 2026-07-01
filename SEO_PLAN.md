@@ -584,3 +584,38 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 - 🟡 **Cluster « fabrication marcas »** : review résiduelle sur autres pages EU/CU.
 - 🟢 **Push SEO_PLAN** : commit local-only, NE PAS PUSH tant que Philippe n'a pas donné GO final.
 #fin session 03/07 massive close
+
+## 🆕 Session 04/07 00h BST — P3 purge "mediante confirmação" + P2 cleanup + merge
+
+| DATE | AGENT | TÂCHE | ACTION | JUSTIFICATION | RÉSULTAT | STATUT |
+|------|-------|-------|--------|---------------|----------|--------|
+| 2026-07-04 | hermes-mini | P3 | Audit grep `mediante confirmação` sur 4 repos | Cross-check INDEX_MULTI_SITES.md (périmé) vs GitHub API publique | CU=184 (184 en HEAD), EU=1748 (1568 HEAD + 180 body) | ✅ Fait |
+| 2026-07-04 | hermes-mini | P3 | Décision PURGE TOTALE HEAD (vs tolérance body) | AGENTS.md §12 R145-interdit explicite, 100% des occurrences en HEAD/JSON-LD (leçon #318 safe-zones clarifiée) | Décision actée, doctrine encode | ✅ Fait |
+| 2026-07-04 | hermes-mini | P3 | Sub-agent dispatch `fix/p3-r145-mediante-confirmacao-head` (CU + EU) | Leçon #294 (worktree ×2), R8 (témoins md5), R7 (PR draft ×2) | PR #100 CU créée (21 fichiers +28/-28) | ✅ Fait |
+| 2026-07-04 | hermes-mini | P3 | Sub-agent EU dispatch | Idem | PR #100 EU créée (1094 fichiers +2684/-2684) | ✅ Fait |
+| 2026-07-04 | hermes-mini | P3 | Brief surévalué corrigé par sub-agent | Mon brief : 184 CU + 1748 EU → réel : 21 CU + 1094 EU. Reste = body pédagogique préservé (leçon #321 safe-zones = HEAD OUI + body NON) | Leçon codée #322 | ✅ Fait |
+| 2026-07-04 | hermes-mini | P2 | §9.3 bulk loop : drop 17 branches stale CU | Toutes tree-identical après rebase → safe-drop | 17 branches droppées | ✅ Fait |
+| 2026-07-04 | hermes-mini | P2 | Pull main CU (était behind 1) | Récupération merge #96 docs + autres en retard | CU main aligné sur origin | ✅ Fait |
+| 2026-07-04 | hermes-mini | go-merge | R7-bis delegation activée par "GO merge tout" | Leçon #188 | PR #100 CU mergée SHA `a252cc7311` | ✅ Fait |
+| 2026-07-04 | hermes-mini | post-merge | Empty commit nudge push | Leçon #145 Vercel rate-limit | Push OK SHA `521d43dbe`, webhook DOWN | 🟡 Vercel à reset minuit UTC |
+| 2026-07-04 | hermes-mini | post-merge | Drop branche `fix/p3-r145-mediante-confirmacao-head` CU | Branche mergée, plus besoin | Supprimée | ✅ Fait |
+
+### Leçons codées cette session (#319, #321, #322)
+
+- **#321** : safe-zones blog = HEAD OUI + body pédagogique NON. Doctrine #311 mal interprétée en 2 versants : (A) trop restrictif "ne pas toucher", (B) trop permissif "tout patcher". Sub-agent P3 a bien tranché versant A corrigé.
+- **#322** : toujours spot-check 5 fichiers avant de quantifier dans brief sub-agent. Mon brief `184+1748` = surévaluation, vrai = `21+1094`.
+
+### État post-session 04/07 (CU)
+
+- **PR mergée cette session** : #100 (21 fichiers HEAD patchés, body préservé).
+- **Prod encore non déployé** : `Resposta imediata mediante confirmação` toujours présent (cache Vercel ancien). Reset quota minuit UTC.
+- **Branches locales** : 1 (main) après drop P3.
+- **0 stash** | 1 worktree (main).
+- **Doctrine §12 R145** : tous les <head>/JSON-LD/méta/og:/twitter: désormais conformes.
+
+### Prochaines actions (P0/P1 batch 4)
+
+- 🟡 **Vérification prod post-Vercel-deploy** : `curl -s eletricista-urgente.pt | grep "Resposta imediata mediante"` doit retourner 0.
+- 🛑 **Composants dark-patterns Cialdini** (CNR mais à cross-check CU) : `BandwagonEffect.tsx` + `LikingTechnician.tsx`.
+- 🟡 **Autres R145 résiduels** flaggés par sub-agent P3 (hors scope) : `Resposta prioritária`, `equipa de piquete`, `orçamento grátis`, `desde X€`, `Experiência profissional`, délais chiffrés — batch 2 à programmer.
+- 🟢 **Push SEO_PLAN** : ce commit est local-only.
