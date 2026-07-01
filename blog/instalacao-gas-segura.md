@@ -434,7 +434,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Instalação%20gás%20certificada)**
 
-**Resposta mediante confirmação por telefone garantida. Orçamento + certificação garantida.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Orçamento + certificação garantida.**
 
 ---
 

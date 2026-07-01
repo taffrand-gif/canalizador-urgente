@@ -232,7 +232,7 @@ Em noites muito frias (-5°C ou menos):
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Cano%20rebentado%20emergência)**
 
-**Resposta mediante confirmação por telefone garantida. Chegada em 30-60 minutos.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Chegada em 30-60 minutos.**
 
 ---
 
