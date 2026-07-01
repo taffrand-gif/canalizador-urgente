@@ -75,7 +75,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos) e
 
 **Passo a passo:**
 1. Abra torneira completamente
-2. Deixe correr 5-10 minutos
+2. Deixe correr conforme zona
 3. Observe se água clarifica
 
 **Interpretação:**
@@ -296,7 +296,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos) e
 
 **Como:**
 1. Abra torneiras completamente
-2. Deixe correr 10-30 minutos
+2. Deixe correr conforme zona
 3. Até água clarificar
 
 **Custo:** €0 (apenas água desperdiçada)
@@ -450,7 +450,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos) e
 
 ### 2. Água amarela só de manhã. Porquê?
 
-**Resposta:** Água parada durante noite oxida canos. Ferrugem acumula e sai de manhã. **Solução:** Deixe correr 2-3 minutos antes de usar. Indica canos enferrujados (substituir).
+**Resposta:** Água parada durante noite oxida canos. Ferrugem acumula e sai de manhã. **Solução:** Deixe correr conforme zona antes de usar. Indica canos enferrujados (substituir).
 
 ### 3. Apenas água quente amarela. O que é?
 

@@ -1,5 +1,5 @@
 ---
-title: "Torneira Pinga: Arranjar Atendimento mediante confirmação por telefone e Poupar €200/Ano"
+title: "Torneira Pinga: Arranjar Atendemos 24h/7 dias, mediante confirmação por telefone e Poupar €200/Ano"
 slug: "torneira-pinga-arranjar"
 category: "arranjacao"
 date: "2026-03-04"
@@ -8,7 +8,7 @@ excerpt: "Torneira pinga: desperdiça 20,000L/ano (€40-80), arranja 10 minutos
 keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro", "Trás-os-Montes"]
 ---
 
-# Torneira Pinga: Arranjar Atendimento mediante confirmação por telefone e Poupar €200/Ano
+# Torneira Pinga: Arranjar Atendemos 24h/7 dias, mediante confirmação por telefone e Poupar €200/Ano
 
 **Torneira pinga? Barulho irritante? Conta água alta?** Torneira que pinga **desperdiça 20,000L/ano (€40-80 água + €30-50 saneamento), arranja 10 minutos €5-15**. Causa: junta gasta (90%), cartucho avariado, calcário. Arranjo DIY fácil ou picheleiro €50-80. Em Trás-os-Montes, com água calcária, juntas gastam mais rápido. Neste guia prático, explicamos causas, arranjo passo-a-passo, custos e quando chamar profissional.
 
@@ -216,7 +216,7 @@ keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro"
 **Junta**: €2-5
 **Cartucho**: €15-40
 **Ferramentas** (se não tem): €10-20
-**Tempo**: 10-30 minutos
+**Tempo**: conforme zona
 
 **Total**: €5-60
 
@@ -375,7 +375,7 @@ keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro"
 
 - Diagnóstico imediato
 - Peças stock (juntas, cartuchos)
-- Arranjo 15-30 minutos
+- Arranjo conforme zona
 - Garantia 6 meses
 
 ### Todas Marcas
@@ -401,7 +401,7 @@ keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro"
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Urgências prioritárias
 - Stock peças
@@ -420,7 +420,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Torneira%20pinga)**
 
-**Resposta mediante confirmação por telefone garantida. Arranjo rápida e garantida.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Arranjo rápida e garantida.**
 
 ---
 
@@ -430,7 +430,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **1 gota/segundo**: 1,570L/ano (€5-10). **10 gotas/segundo**: 15,700L/ano (€50-100). **Fio água**: 30,000-50,000L/ano (€100-200). Arranjo €5-15 DIY ou €45-90 picheleiro. ROI imediato.
 
 ### Como arranjar torneira pinga?
-**Tradicional**: Fechar água, desmontar, substituir junta (€2-5), montar. **Monocomando**: Substituir cartucho (€15-40). DIY 10-30 minutos. Ferramentas: chave inglesa, chave fendas. Fácil.
+**Tradicional**: Fechar água, desmontar, substituir junta (€2-5), montar. **Monocomando**: Substituir cartucho (€15-40). DIY conforme zona. Ferramentas: chave inglesa, chave fendas. Fácil.
 
 ### Quanto custa arranjar?
 **DIY**: €5-60 (junta €2-5, cartucho €15-40). **Picheleiro**: €45-130 (arranjo €45-90, cartucho €70-130). Torneira nova: €70-250. Poupança DIY: €40-120.

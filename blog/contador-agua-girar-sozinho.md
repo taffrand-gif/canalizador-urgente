@@ -225,7 +225,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 
 ---
 
-### Método 4: Deteção Profissional (1-2 horas)
+### Método 4: Deteção Profissional (conforme zona)
 
 **Quando chamar profissional:**
 - Não consegue localizar fuga

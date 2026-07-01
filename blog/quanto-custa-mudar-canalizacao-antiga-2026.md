@@ -335,7 +335,7 @@ Mudar canalização antiga custa entre 2.500€ (T1) e 8.500€+ (T4+) em 2026. 
 - Desligar esquentador
 - Proteger aparelhos (se reutilizar)
 
-**Duração:** 3-4 horas
+**Duração:** conforme zona
 
 ### FASE 3: Demolição (Dia 1 Tarde)
 
@@ -351,7 +351,7 @@ Mudar canalização antiga custa entre 2.500€ (T1) e 8.500€+ (T4+) em 2026. 
 - Limpar área
 - Preparar para nova
 
-**Duração:** 4-7 horas
+**Duração:** conforme zona
 
 **Entulho:** 200-500 kg (conforme tamanho)
 
