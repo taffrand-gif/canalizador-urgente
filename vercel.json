@@ -1563,6 +1563,26 @@
  "statusCode": 301
  },
  {
+ "source": "/marcas-grohe-roca-junkers",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/marcas-grohe-roca-junkers.html",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/parceiros",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/parceiros.html",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
  "source": "/programa-fidelidade",
  "destination": "/",
  "statusCode": 301
