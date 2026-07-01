@@ -489,7 +489,7 @@ Neste guia completo, vamos explicar **como escolher a torneira adequada**, insta
 
 **Vantagens:**
 - Garantia (1-2 anos)
-- Rapidez (30-60 minutos)
+- Rapidez (conforme zona)
 - Sem risco de danos
 - Resolve problemas imprevistos
 
@@ -498,7 +498,7 @@ Neste guia completo, vamos explicar **como escolher a torneira adequada**, insta
 ## Perguntas Frequentes (FAQ)
 
 **1. Quanto tempo demora substituir torneira?** 
-DIY: 1-2 horas (primeira vez), 30-60 min (com experiência). Profissional: 30-60 minutos.
+DIY: conforme zona (primeira vez), 30-60 min (com experiência). Profissional: conforme zona.
 
 **2. Posso substituir torneira sozinho?** 
 Sim, se substituição simples (1 furo, tubos flexíveis, acesso fácil). Siga instruções cuidadosamente.
@@ -556,7 +556,7 @@ Substituir uma torneira é uma tarefa **acessível para DIY** se tiver ferrament
 
 **✅ Garantias Norte Reparos:**
 - Picheleiros certificados com 15+ anos de experiência
-- Instalação rápida (30-60 minutos)
+- Instalação rápida (conforme zona)
 - Teste completo de fugas
 - Limpeza após trabalho
 - Garantia de 1 ano no trabalho

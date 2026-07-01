@@ -492,7 +492,7 @@ keywords: ["isolamento térmico", "poupar energia", "isolamento casa", "eficiên
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - Orçamento 24-48h
 - Obras agendadas
 - Demonstração materiais
@@ -511,7 +511,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Isolamento%20térmico)**
 
-**Resposta mediante confirmação por telefone garantida. Orçamento detalhado sem compromisso.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Orçamento detalhado sem compromisso.**
 
 ---
 

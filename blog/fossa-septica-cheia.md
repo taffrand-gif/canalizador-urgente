@@ -428,7 +428,7 @@ Não recomendado. Gases tóxicos (metano, sulfeto de hidrogénio) podem matar. R
 Sim. Contaminação do solo e água. Bactérias patogénicas. Risco de saúde pública.
 
 **7. Quanto tempo demora limpar fossa?** 
-30-60 minutos (processo completo).
+conforme zona (processo completo).
 
 **8. Preciso esvaziar fossa completamente?** 
 Não. Deixe 20-30% de líquido (reativa bactérias). Esvaziar completamente prejudica funcionamento.

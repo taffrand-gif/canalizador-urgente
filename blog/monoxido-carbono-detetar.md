@@ -414,7 +414,7 @@ keywords: ["monóxido carbono", "CO", "detetor CO", "intoxicação", "Trás-os-M
 
 ### Resposta Urgente
 
-- **15-30 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - **CO = prioridade máxima**
 - Equipamento disponível
@@ -433,7 +433,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=MONÓXIDO%20CARBONO%20URGENTE)**
 
-**CO = Emergência extrema. Resposta mediante confirmação por telefone garantida. Chegada 15-30 minutos.**
+**CO = Emergência extrema. Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Chegada conforme zona.**
 
 ---
 

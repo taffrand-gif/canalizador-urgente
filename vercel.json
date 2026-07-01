@@ -1563,6 +1563,31 @@
  "statusCode": 301
  },
  {
+ "source": "/marcas-grohe-roca-junkers",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/marcas-grohe-roca-junkers.html",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/parceiros",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/parceiros.html",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/programa-fidelidade",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
  "source": "/comparacao-braganca-mirandela-chaves",
  "destination": "/",
  "statusCode": 301
@@ -1571,6 +1596,26 @@
  "source": "/comparacao-braganca-mirandela-chaves.html",
  "destination": "/",
  "statusCode": 301
+ },
+ {
+ "source": "/case-study-fuga-braganca",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/case-study-fuga-braganca.html",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/case-study-certificacao-dgeg",
+ "destination": "/",
+ "statusCode": 301
+ },
+ {
+ "source": "/case-study-certificacao-dgeg.html",
+ "destination": "/",
+ "statusCode": 301
  }
  ]
-}
+ }

@@ -549,7 +549,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Poço%20perfurar%20custos)**
 
-**Resposta mediante confirmação por telefone garantida. Análise viabilidade + orçamento sem compromisso.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Análise viabilidade + orçamento sem compromisso.**
 
 ---
 
