@@ -490,7 +490,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Certificado%20energético)**
 
-**Resposta mediante confirmação por telefone garantida. Orçamento sem compromisso.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Orçamento sem compromisso.**
 
 ---
 

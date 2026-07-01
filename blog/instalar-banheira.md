@@ -208,7 +208,7 @@ Neste guia completo, vamos explicar **como escolher a banheira adequada** (acrí
 
 **⚠️ AVISO:** Instalação requer conhecimento de canalizações. Se não se sentir confortável, contrate picheleiro certificado.
 
-**Tempo:** 4-8 horas 
+**Tempo:** conforme zona 
 **Dificuldade:** Média a Difícil
 
 ### Materiais Necessários
@@ -419,7 +419,7 @@ DIY: €325-1.010 (materiais). Profissional: €600-2.000 (completo com instala�
 Possível se tiver conhecimento de canalizações e ajuda para transporte. Banheira ferro fundido: profissional obrigatório (muito pesada).
 
 **4. Quanto tempo demora instalação?** 
-DIY: 4-8 horas. Profissional: 3-6 horas (simples) ou 1-2 dias (complexa com azulejo).
+DIY: conforme zona. Profissional: conforme zona (simples) ou 1-2 dias (complexa com azulejo).
 
 **5. Chão suporta banheira?** 
 Acrílico: maioria dos chãos suporta (200-300 kg total). Ferro fundido: verifique estrutura (400-500 kg total).

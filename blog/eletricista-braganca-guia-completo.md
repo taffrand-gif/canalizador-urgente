@@ -12,7 +12,7 @@ Tudo o que precisa saber sobre contratar um eletricista em Bragança. Preços, c
 
 ## Cobertura e tempo de resposta em Bragança
 
-Bragança é a nossa Zona 3 (deslocação 30€, hora a 85€). Tempo médio de chegada: 34 minutos. Cobrimos todas as freguesias: Sé, Santa Maria, São Vicente, Meixedo, Mós, Coelhoso, e arredores. Para emergências, podemos estar no local em 30-45 minutos.
+Bragança é a nossa Zona 3 (deslocação 30€, hora a 85€). Tempo médio de chegada: 34 minutos. Cobrimos todas as freguesias: Sé, Santa Maria, São Vicente, Meixedo, Mós, Coelhoso, e arredores. Para emergências, podemos estar no local em conforme zona.
 
 ## Problemas elétricos mais frequentes em Bragança
 
@@ -30,6 +30,6 @@ Se vai vender, comprar ou alugar um imóvel em Bragança, vai precisar de um cer
 
 ---
 
-**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendimento mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
+**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendemos 24h/7 dias, mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
-Servimos Bragança e todas as freguesias envolventes. Ligue já — Resposta mediante confirmação por telefone garantida.
+Servimos Bragança e todas as freguesias envolventes. Ligue já — Atendemos 24h/7 dias, mediante confirmação por telefone garantida.

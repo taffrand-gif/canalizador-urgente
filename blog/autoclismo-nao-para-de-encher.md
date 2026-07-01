@@ -190,14 +190,14 @@ Com base na nossa experiência de 1.200+ arranjos em Trás-os-Montes:
 - Flapper desalinhado
 
 **Sintomas:**
-- Autoclismo enche sozinho a cada 10-30 minutos
+- Autoclismo enche sozinho a cada conforme zona
 - Não ouve água a correr mas nível baixa
 - Vê movimento de água na sanita (sem usar)
 - Fuga silenciosa (difícil de detetar)
 
 **Como identificar (Teste do Corante):**
 1. Coloque corante alimentar ou pastilha colorida no autoclismo
-2. Aguarde 15-30 minutos SEM descarregar
+2. Aguarde conforme zona SEM descarregar
 3. Observe água na sanita
 4. Se ficar colorida → há fuga no flapper
 
@@ -284,7 +284,7 @@ Com base na nossa experiência de 1.200+ arranjos em Trás-os-Montes:
 - Autoclismo demora muito a encher
 
 **Sintomas:**
-- Autoclismo enche muito lentamente (5-10 minutos)
+- Autoclismo enche muito lentamente (conforme zona)
 - Fio de água muito fino
 - Problema após obra ou arranjo
 
@@ -474,11 +474,11 @@ Um autoclismo que não para de encher é um **problema simples com solução fá
 
 **✅ Garantias Norte Reparos:**
 - Picheleiros certificados com 15+ anos de experiência
-- Arranjo rápida (30-60 minutos)
+- Arranjo rápida (conforme zona)
 - Peças de qualidade (Geberit, Roca, Wirquin)
 - Orçamento transparente antes de iniciar
 - Garantia de 1 ano na arranjo
-- Disponível Atendimento mediante confirmação por telefone/7d para urgências
+- Disponível Atendemos 24h/7d para urgências
 
 **Cada litro conta. Repare hoje e comece a poupar amanhã.**
 
