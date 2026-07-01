@@ -18,7 +18,7 @@ priority: CRITICAL
 
 # Desentupir Sanita: 7 Métodos Que Funcionam (Do Mais Simples ao Profissional)
 
-**Sanita entupida é uma das emergências domésticas mais stressantes** — especialmente se só tem uma casa de banho em casa. A boa notícia? **Em 70% dos casos, consegue desentupir sozinho em 10-30 minutos** usando métodos simples e baratos.
+**Sanita entupida é uma das emergências domésticas mais stressantes** — especialmente se só tem uma casa de banho em casa. A boa notícia? **Em 70% dos casos, consegue desentupir sozinho em conforme zona** usando métodos simples e baratos.
 
 Mas atenção: **usar o método errado pode piorar o entupimento** ou até danificar a sanita. Por isso, neste guia vou mostrar-lhe **7 métodos eficazes** (do mais simples ao profissional), quando usar cada um, e quando é melhor chamar um picheleiro.
 
@@ -122,7 +122,7 @@ Antes de desentupir, é importante perceber **o que causou o entupimento** para 
 **Passo a passo:**
 1. Retire água em excesso da sanita (deixe só 1/3)
 2. Adicione 1/2 chávena de detergente da loiça
-3. Deixe atuar 10-15 minutos (detergente lubrifica)
+3. Deixe atuar conforme zona (detergente lubrifica)
 4. Aqueça 5-10 litros de água (quente mas NÃO fervente — pode rachar a sanita)
 5. Despeje a água de uma altura de 1 metro (cria pressão)
 6. Espere 10 minutos
@@ -285,7 +285,7 @@ Antes de desentupir, é importante perceber **o que causou o entupimento** para 
 
 **📞 Picheleiro de Urgência 24h: [928 484 451](tel:+351928484451)**
 
-**Tempo de resposta:** 30-45 minutos em Bragança e arredores.
+**Tempo de resposta:** conforme zona em Bragança e arredores.
 
 ---
 
@@ -400,7 +400,7 @@ Antes de desentupir, é importante perceber **o que causou o entupimento** para 
 
 **Recomendação:**
 - Ventosa: pode repetir imediatamente
-- Água quente: espere 10-15 minutos
+- Água quente: espere conforme zona
 - Produtos químicos: siga instruções (30min-8h)
 - Bicarbonato + vinagre: espere 30 minutos
 
@@ -437,13 +437,13 @@ Antes de desentupir, é importante perceber **o que causou o entupimento** para 
 
 **Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
 
-**Tempo de resposta:** 30-45 minutos em Bragança e arredores.
+**Tempo de resposta:** conforme zona em Bragança e arredores.
 
 ---
 
 ## 🎯 Conclusão: Desentupir Sanita é Mais Fácil do Que Pensa
 
-Na maioria dos casos (70%), consegue **desentupir a sanita sozinho em 10-30 minutos** usando uma ventosa simples de €5-15.
+Na maioria dos casos (70%), consegue **desentupir a sanita sozinho em conforme zona** usando uma ventosa simples de €5-15.
 
 **Ordem de tentativas:**
 1. **Ventosa** (10 min, €5-15) → 70% sucesso

@@ -201,13 +201,13 @@ keywords: ["chuveiro pouca pressão", "aumentar pressão chuveiro", "chuveiro en
 1. Encher saco plástico vinagre
 2. Colocar chuveiro dentro saco
 3. Prender com elástico
-4. Deixar 2-4 horas (ou noite)
+4. Deixar conforme zona (ou noite)
 5. Remover saco
 6. Escovar furos (escova dentes velha)
 7. Enxaguar água quente
 8. Testar
 
-**Custo**: €0 + 2-4 horas espera
+**Custo**: €0 + conforme zona espera
 
 **Alternativa**: Desmontar chuveiro, mergulhar vinagre
 
@@ -442,7 +442,7 @@ keywords: ["chuveiro pouca pressão", "aumentar pressão chuveiro", "chuveiro en
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Stock peças
 - Garantia serviço
@@ -461,7 +461,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Chuveiro%20pouca%20pressão)**
 
-**Resposta mediante confirmação por telefone garantida. Diagnóstico + solução eficaz.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Diagnóstico + solução eficaz.**
 
 ---
 

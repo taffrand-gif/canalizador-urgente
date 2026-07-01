@@ -415,7 +415,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 
 ### Resposta Urgente
 
-- **15-30 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Fuga gás = prioridade máxima
 - Equipamento disponível
@@ -434,7 +434,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Instalação%20gás%20certificada)**
 
-**Resposta mediante confirmação por telefone garantida. Orçamento + certificação garantida.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Orçamento + certificação garantida.**
 
 ---
 

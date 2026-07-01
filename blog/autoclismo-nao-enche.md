@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **O autoclismo não enche ou demora muito tempo a encher?** Este é um problema comum mas irritante que geralmente tem solução simples. Neste guia completo, vou mostrar-lhe **as 6 causas principais** de autoclismos que não enchem e **como arranjar cada uma**.
 
-> ⚠️ **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida Atendimento mediante confirmação por telefone, garantia incluída.
+> ⚠️ **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida Atendemos 24h/7 dias, mediante confirmação por telefone, garantia incluída.
 
 ## 🔍 Como Funciona um Autoclismo?
 
@@ -78,7 +78,7 @@ Alguém fechou a válvula de corte (debaixo ou atrás do autoclismo) e não abri
 ### Causa 2: Filtro da Válvula Entupido (25% dos casos)
 
 **Como identificar:**
-- Autoclismo enche muito devagar (5-10 minutos)
+- Autoclismo enche muito devagar (conforme zona)
 - Água sai em fio fino
 - Problema gradual (piorou com o tempo)
 - Água calcária na região
@@ -196,7 +196,7 @@ Válvula de entrada (mecanismo interno) está gasta, calcificada ou partida. Vid
 - Válvula universal: €15-25
 - Válvula de marca (Geberit, Roca): €25-40
 
-**Tempo:** 30-45 minutos (primeira vez)
+**Tempo:** conforme zona (primeira vez)
 
 ### Causa 5: Pressão de Água Baixa (8% dos casos)
 
@@ -400,12 +400,12 @@ Na maioria dos casos, autoclismo que não enche tem **solução fácil e barata*
 📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20o%20meu%20autoclismo%20não%20enche.%20Pode%20ajudar%3F)**
 
-✅ Arranjo rápida (30-45 minutos) 
+✅ Arranjo rápida (conforme zona) 
 ✅ Peças de substituição em stock 
 ✅ Diagnóstico grátis 
 ✅ Garantia 1 ano no serviço 
 ✅ Preços transparentes 
-✅ Técnico em sua casa em 30-45 minutos 
+✅ Técnico em sua casa em conforme zona 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não fique sem autoclismo funcional!** Contacte-nos já para arranjo rápida e garantida.

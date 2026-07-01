@@ -159,7 +159,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 
 ## 📅 Rotina Manutenção
 
-### Diária (5-10 minutos)
+### Diária (conforme zona)
 
 **Verificar**:
 - Nível água (skimmers 2/3 cheios)
@@ -183,7 +183,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 - Superfície (rede)
 - Linha água (escova)
 
-### Semanal (1-2 horas)
+### Semanal (conforme zona)
 
 **Limpeza profunda**:
 - Aspirar fundo (manual ou robot)
@@ -200,7 +200,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 **Filtro**:
 - Retrolavagem (backwash)
 - Enxaguar (rinse)
-- 5-10 minutos
+- conforme zona
 
 ### Quinzenal
 
@@ -574,7 +574,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - Urgências prioritárias
 - Stock produtos
 - Peças disponíveis
@@ -593,7 +593,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Manutenção%20piscina)**
 
-**Resposta mediante confirmação por telefone garantida. Orçamento sem compromisso.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Orçamento sem compromisso.**
 
 ---
 

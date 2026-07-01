@@ -251,7 +251,7 @@ Se problemas, negociar preço com vendedor.
 
 ### PASSO 2: Inspeção Visual (Dia 1)
 
-**Duração:** 1-3 horas (conforme tamanho)
+**Duração:** conforme zona (conforme tamanho)
 
 **O que é verificado:**
 
@@ -286,7 +286,7 @@ Se problemas, negociar preço com vendedor.
 
 ### PASSO 3: Testes Estanquidade (Dia 1)
 
-**Duração:** 30-60 minutos
+**Duração:** conforme zona
 
 **Testes obrigatórios:**
 
