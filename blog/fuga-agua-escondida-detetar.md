@@ -43,7 +43,7 @@ Se o contador continua a rodar, **há fuga garantida**.
 ### Câmara Térmica FLIR (Melhor Método)
 A **Norte Reparos** usa câmara térmica FLIR de €5000+ que:
 - Vê diferenças de temperatura através das paredes
-- Identifica localização exata da fuga em 15-30 minutos
+- Identifica localização exata da fuga em conforme zona
 - **Não precisa partir paredes, chão ou azulejos**
 - Precisão 95%+
 
@@ -112,7 +112,7 @@ Para fugas em canalização enterrada:
 - Fichas eletrotécnicas assinadas por técnico Profissional
 
 ### Resposta Rápida
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Orçamento grátis
 
@@ -136,7 +136,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Preciso%20detetar%20fuga%20água%20escondida)**
 
 ### Orçamento Grátis
-Resposta mediante confirmação por telefone garantida. Sem compromisso.
+Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Sem compromisso.
 
 ---
 
@@ -146,7 +146,7 @@ Resposta mediante confirmação por telefone garantida. Sem compromisso.
 **€80-120** com câmara térmica FLIR. Muito mais barato que partir paredes (€500-2000).
 
 ### Quanto tempo demora?
-**15-30 minutos** para detetar com câmara térmica. Arranjo depende da gravidade (1-4 horas).
+**conforme zona** para detetar com câmara térmica. Arranjo depende da gravidade (conforme zona).
 
 ### Precisa partir paredes?
 **Não** com câmara térmica FLIR. Identificamos localização exata sem obras.

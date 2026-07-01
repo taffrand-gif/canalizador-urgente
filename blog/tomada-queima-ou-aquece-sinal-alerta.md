@@ -26,6 +26,6 @@ Nunca sobrecarregue uma tomada com adaptadores múltiplos para equipamentos de a
 
 ---
 
-**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendimento mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
+**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendemos 24h/7 dias, mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
-Se precisa de um eletricista em tomada queima, ligue já. Resposta mediante confirmação por telefone garantida.
+Se precisa de um eletricista em tomada queima, ligue já. Atendemos 24h/7 dias, mediante confirmação por telefone garantida.

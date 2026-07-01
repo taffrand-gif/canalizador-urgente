@@ -126,7 +126,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 - Água dura na região
 
 **Solução**:
-- **Descalcificação vinagre**: €0-3 (2-4 horas)
+- **Descalcificação vinagre**: €0-3 (conforme zona)
 - **Produtos anti-calcário**: €5-10
 - **Substituir peças**: €15-40
 
@@ -191,13 +191,13 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 7. Reinstale mecanismo
 8. Teste
 
-### Arranjo 4: Descalcificação (2-4 horas)
+### Arranjo 4: Descalcificação (conforme zona)
 
 **Método vinagre**:
 1. Feche água
 2. Esvazie autoclismo
 3. Despeje 1-2 litros vinagre branco
-4. Deixe atuar 2-4 horas
+4. Deixe atuar conforme zona
 5. Escove peças com escova velha
 6. Enxague bem
 7. Abra água e teste
@@ -205,7 +205,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 **Método produtos químicos**:
 - Produtos anti-calcário específicos (€5-10)
 - Seguir instruções embalagem
-- Mais rápido (30-60 minutos)
+- Mais rápido (conforme zona)
 
 ## 💰 Custos Arranjo
 
@@ -330,7 +330,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 ✅ Tem ferramentas básicas
 ✅ Confortável com trabalhos manuais
 ✅ Problema simples (boia, borracha)
-✅ Tempo disponível (1-2 horas)
+✅ Tempo disponível (conforme zona)
 
 ### Chame Profissional Se:
 
@@ -346,8 +346,8 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 
 ### Arranjo Rápida
 
-- Diagnóstico Atendimento mediante confirmação por telefone
-- Arranjo em 15-30 minutos
+- Diagnóstico Atendemos 24h/7 dias, mediante confirmação por telefone
+- Arranjo em conforme zona
 - Peças em stock (válvulas, mecanismos)
 
 ### Preços Transparentes
@@ -383,7 +383,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Autoclismo%20não%20para%20correr)**
 
-**Resposta mediante confirmação por telefone garantida. Sem compromisso.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Sem compromisso.**
 
 ---
 
@@ -399,7 +399,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **DIY**: €5-40. **Profissional**: €60-150. Muito mais barato que desperdiçar €150-300/ano.
 
 ### Quanto tempo dura arranjo?
-**DIY**: 20-45 minutos. **Profissional**: 15-30 minutos no local.
+**DIY**: conforme zona. **Profissional**: conforme zona no local.
 
 ### Vale a pena substituir autoclismo antigo?
 Se tem **15+ anos** e gasta 10-15L/descarga, **sim**. Dupla descarga (3L/6L) poupa €180/ano. Retorno: 1-2 anos.

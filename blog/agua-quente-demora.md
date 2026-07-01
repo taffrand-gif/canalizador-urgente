@@ -79,7 +79,7 @@ Quanto maior a distância, mais água fria nos tubos precisa escoar antes de che
 
 **3. Recirculação com botão (€600-1.200)**
 - Pressiona botão quando precisa
-- Bomba circula água 5-10 minutos
+- Bomba circula água conforme zona
 - Mais económico (€3-5/mês)
 
 **Instalação:**
@@ -243,7 +243,7 @@ Válvula termostática (mistura água quente e fria) está avariada ou calcifica
 
 **Limpeza (se calcário):**
 1. Desmonte válvula
-2. Deixe de molho em vinagre 2-4 horas
+2. Deixe de molho em vinagre conforme zona
 3. Limpe com escova
 4. Volte a montar
 
@@ -395,7 +395,7 @@ Sim, alguns sistemas usam tubagem de água fria como retorno. Economiza instala�
 **Benefícios:**
 - Economiza água (13.000+ litros/ano)
 - Economiza energia (10-20%)
-- Economiza tempo (2-5 minutos/dia)
+- Economiza tempo (conforme zona/dia)
 - Mais conforto
 
 **Retorno do investimento:** 2-8 anos (dependendo da solução)

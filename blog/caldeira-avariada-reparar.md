@@ -368,7 +368,7 @@ Caldeira aquece água que circula pelos radiadores (aquecimento central) e/ou fo
 8. Verifique pressão da caldeira (deve estar 1-1,5 bar)
 9. Encha se necessário
 
-**Tempo:** 15-30 minutos
+**Tempo:** conforme zona
 **Frequência:** 1-2x por ano
 
 ## Manutenção Preventiva (Evite 80% das Avarias)
@@ -500,8 +500,8 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 **Norte Reparos - técnico com experiência Caldeiras em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento mediante confirmação por telefone/7d (emergências inverno)
-- ✅ técnico com experiência gás chega em 30-60 minutos
+- ✅ Atendemos 24h/7d (emergências inverno)
+- ✅ técnico com experiência gás chega conforme zona
 - ✅ Manutenção anual obrigatória €80-150
 - ✅ Arranjos todas as marcas
 - ✅ Garantia 12 meses
@@ -515,4 +515,4 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 
 ---
 
-**Não passe frio! técnico com experiência resolve caldeira em 1-2 horas!**
+**Não passe frio! técnico com experiência resolve caldeira em conforme zona!**

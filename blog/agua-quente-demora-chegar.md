@@ -4,14 +4,14 @@ slug: "agua-quente-demora-chegar"
 category: "Eficiência"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Água quente demora 2-3 minutos a chegar? Descubra as 7 causas (distância 60%, canos frios 25%, esquentador lento 10%) e soluções: bomba recirculação, isolamento, termoacumulador em Trás-os-Montes."
+excerpt: "Água quente demora conforme zona a chegar? Descubra as 7 causas (distância 60%, canos frios 25%, esquentador lento 10%) e soluções: bomba recirculação, isolamento, termoacumulador em Trás-os-Montes."
 keywords: ["água quente demora", "água quente lenta", "bomba recirculação", "isolamento canos", "picheleiro Trás-os-Montes", "água quente instantânea", "termoacumulador"]
 priority: "HIGH DEMAND"
 ---
 
 # Água Quente Demora a Chegar? 7 Causas e Soluções
 
-**Abre a torneira de água quente e espera 2-3 minutos até sair quente?** Este é um dos problemas mais frustrantes e desperdiçadores em casa - especialmente no inverno de Trás-os-Montes, onde água fria pode estar a 5°C.
+**Abre a torneira de água quente e espera conforme zona até sair quente?** Este é um dos problemas mais frustrantes e desperdiçadores em casa - especialmente no inverno de Trás-os-Montes, onde água fria pode estar a 5°C.
 
 Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre torneira) e **energia** (água fria nos canos arrefece). Mas tem soluções eficazes, desde simples (isolamento) até avançadas (bomba de recirculação).
 
@@ -76,8 +76,8 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 - Pior se canos passam por zonas frias (cave, exterior)
 
 **Perda de calor:**
-- Cano sem isolamento: perde 80% do calor Atendimento mediante confirmação por telefone
-- Cano isolado: perde 20% do calor Atendimento mediante confirmação por telefone
+- Cano sem isolamento: perde 80% do calor Atendemos 24h/7 dias, mediante confirmação por telefone
+- Cano isolado: perde 20% do calor Atendemos 24h/7 dias, mediante confirmação por telefone
 
 **Solução:** Isolar canos (€3-8/metro)
 

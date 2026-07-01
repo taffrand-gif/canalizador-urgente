@@ -48,7 +48,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Vedante novo (2-5€)
 - Pano
 
-**Tempo:** 15-30 minutos
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Fechar torneira corte
@@ -80,7 +80,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Pano
 - Luvas (opcional)
 
-**Tempo:** 15-25 minutos
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Colocar balde sob sifão
@@ -110,7 +110,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Gancho cabelos (5€) ou arame
 - Luvas
 
-**Tempo:** 10-20 minutos
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Remover grelha ralo
@@ -138,7 +138,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Flexível novo (10-20€)
 - Fita teflon
 
-**Tempo:** 20-30 minutos
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Fechar água
@@ -163,7 +163,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 **Ferramentas necessárias:**
 - Nenhuma (mãos)
 
-**Tempo:** 5-15 minutos
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Abrir autoclismo
@@ -192,7 +192,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Fita teflon
 - Silicone (se bancada)
 
-**Tempo:** 1-2 horas
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Fechar água
@@ -228,7 +228,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Mecanismo novo (40-80€)
 - Esponja (secar)
 
-**Tempo:** 1-2 horas
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Fechar água
@@ -263,7 +263,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Luvas
 - Balde
 
-**Tempo:** 15-30 minutos
+**Tempo:** conforme zona
 
 **Passo a passo:**
 1. Colocar ventosa sobre saída
@@ -640,7 +640,7 @@ Se fizer 3+ reparações/ano, kit paga-se.
 ✅ Reparação profissional se necessário
 ✅ Garantia 12 meses
 ✅ Preços justos
-✅ Atendimento mediante confirmação por telefone/7d urgências
+✅ Atendemos 24h/7d urgências
 
 **WhatsApp:** [Pedir conselho](https://wa.me/351928484451?text=Tenho problema canalização, posso fazer DIY ou preciso profissional?)
 

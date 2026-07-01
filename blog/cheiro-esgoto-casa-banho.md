@@ -263,7 +263,7 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 3. Se persistir → outra causa
 
 **Solução:**
-- **Limpeza profunda:** €0 (DIY, 1-2 horas)
+- **Limpeza profunda:** €0 (DIY, conforme zona)
 - **Produtos antibacterianos:** €5-15
 - **Limpeza profissional:** €60-120
 - **Dificuldade:** Fácil
@@ -421,7 +421,7 @@ Problema geral: ventilação (50%), fossa (40%), rede (10%). Chame picheleiro.
 Temporariamente sim (mata bactérias). Mas não resolve causa raiz (sifão seco, fuga, etc.).
 
 **7. Quanto tempo demora resolver?** 
-Sifão seco: 2 minutos. Limpar sifão: 30 minutos. Arranjar fuga: 1-4 horas. Instalar ventilação: 1-2 dias.
+Sifão seco: 2 minutos. Limpar sifão: 30 minutos. Arranjar fuga: conforme zona. Instalar ventilação: 1-2 dias.
 
 **8. É perigoso respirar cheiro a esgoto?** 
 Curto prazo: desconfortável, pode causar náuseas. Longo prazo: pode ser tóxico. Resolva rapidamente.
@@ -454,7 +454,7 @@ Cheiro a esgoto na casa de banho não é apenas desagradável — **afeta qualid
 - Equipamento profissional (câmara de inspeção)
 - Orçamento transparente antes de iniciar
 - Garantia de 1 ano no trabalho
-- Disponível Atendimento mediante confirmação por telefone/7d para urgências
+- Disponível Atendemos 24h/7d para urgências
 
 **Recupere o conforto da sua casa. Cheiro a esgoto tem solução.**
 

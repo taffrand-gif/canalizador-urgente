@@ -110,7 +110,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos acessíveis, interiores
 
-**Tempo:** 30-60 minutos 
+**Tempo:** conforme zona 
 **Eficácia:** 90%
 
 **Como fazer:**
@@ -131,7 +131,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos acessíveis, sem eletricidade
 
-**Tempo:** 45-90 minutos 
+**Tempo:** conforme zona 
 **Eficácia:** 80%
 
 **Como fazer:**
@@ -148,7 +148,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Divisão pequena (casa de banho, despensa)
 
-**Tempo:** 1-3 horas 
+**Tempo:** conforme zona 
 **Eficácia:** 85%
 
 **Como fazer:**
@@ -156,7 +156,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 2. Coloque aquecedor na divisão
 3. Feche porta (concentra calor)
 4. Ligue aquecedor (temperatura média)
-5. Aguarde 1-3 horas
+5. Aguarde conforme zona
 6. Verifique periodicamente
 
 **⚠️ SEGURANÇA:** Não deixe aquecedor sem vigilância
@@ -165,14 +165,14 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos exteriores, prevenção
 
-**Tempo:** 30-60 minutos 
+**Tempo:** conforme zona 
 **Eficácia:** 95% 
 **Custo:** €30-80 (fita 3-10 metros)
 
 **Como usar:**
 1. Enrole fita ao longo do tubo
 2. Ligue à tomada
-3. Aguarde 30-60 minutos
+3. Aguarde conforme zona
 4. Desligue quando descongelado
 
 **Vantagem:** Pode deixar ligada (prevenção)
@@ -181,7 +181,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Casa inteira, prevenção
 
-**Tempo:** 2-6 horas 
+**Tempo:** conforme zona 
 **Eficácia:** 70%
 
 **Como fazer:**
@@ -207,12 +207,12 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 **1. Aquecer Divisão**
 - Aumente temperatura ambiente (22-24°C)
 - Abra torneira (fio de água)
-- Aguarde 3-6 horas
+- Aguarde conforme zona
 
 **2. Aquecedor Direcionado**
 - Aponte aquecedor para parede
 - Concentre calor na zona do tubo
-- Aguarde 2-4 horas
+- Aguarde conforme zona
 
 **3. Chame Picheleiro**
 - Equipamento profissional (aquecedor de tubos)
@@ -356,7 +356,7 @@ Contacte imediatamente se:
 - ❌ Casa desabitada (não pode vigiar)
 - ❌ Temperatura muito baixa (<-10°C)
 
-**Disponível Atendimento mediante confirmação por telefone/7d durante vaga de frio**
+**Disponível Atendemos 24h/7d durante vaga de frio**
 
 ---
 
@@ -366,7 +366,7 @@ Contacte imediatamente se:
 0°C ou inferior. Em Trás-os-Montes, risco quando temperatura noturna <-3°C.
 
 **2. Quanto tempo demora tubo congelar?** 
-6-12 horas (temperatura -5°C). Mais rápido se vento forte ou tubo fino.
+conforme zona (temperatura -5°C). Mais rápido se vento forte ou tubo fino.
 
 **3. Como descongelar tubo rápido?** 
 Secador de cabelo (30-60 min) ou fita aquecedora elétrica (30 min). NUNCA maçarico ou água fervente.
@@ -406,7 +406,7 @@ Tubos congelados são um **problema sério mas evitável** em Trás-os-Montes. *
 
 ### Tubo Congelado ou Rebentado?
 
-**📞 Ligue JÁ (Atendimento mediante confirmação por telefone/7d): [928 484 451](tel:+351928484451)**
+**📞 Ligue JÁ (Atendemos 24h/7d): [928 484 451](tel:+351928484451)**
 
 **Serviço urgente em:**
 - Bragança e arredores (30 minutos)
@@ -417,7 +417,7 @@ Tubos congelados são um **problema sério mas evitável** em Trás-os-Montes. *
 
 **✅ Garantias Norte Reparos:**
 - Picheleiros certificados com 15+ anos de experiência
-- Disponível Atendimento mediante confirmação por telefone/7d durante vaga de frio
+- Disponível Atendemos 24h/7d durante vaga de frio
 - Equipamento profissional (descongelamento rápido)
 - Arranjo de tubos rebentados
 - Isolamento preventivo
@@ -434,4 +434,4 @@ Tubos congelados são um **problema sério mas evitável** em Trás-os-Montes. *
 
 ---
 
-*Norte Reparos - Picheleiro Certificado em Trás-os-Montes | Urgências Atendimento mediante confirmação por telefone/7d Inverno | 928 484 451*
+*Norte Reparos - Picheleiro Certificado em Trás-os-Montes | Urgências Atendemos 24h/7d Inverno | 928 484 451*
