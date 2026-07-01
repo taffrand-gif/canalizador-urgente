@@ -13,7 +13,7 @@ priority: "CRITICAL"
 
 **Cano rebentou e está a inundar a casa?** Esta é uma emergência que requer ação imediata para minimizar danos. Neste guia completo, vou mostrar-lhe **o que fazer nos primeiros minutos**, como arranjar e **como prevenir** que volte a acontecer.
 
-> 🚨 **EMERGÊNCIA: Cano rebentado?** Picheleiro urgente 24h em Bragança: **[928 484 451](tel:+351928484451)** — Intervenção Atendimento mediante confirmação por telefone, disponível sempre.
+> 🚨 **EMERGÊNCIA: Cano rebentado?** Picheleiro urgente 24h em Bragança: **[928 484 451](tel:+351928484451)** — Intervenção Atendemos 24h/7 dias, mediante confirmação por telefone, disponível sempre.
 
 ## 🚨 EMERGÊNCIA: 5 Passos Imediatos
 
@@ -48,7 +48,7 @@ priority: "CRITICAL"
 
 **Se água longe de eletricidade:** Pode deixar ligada.
 
-### Passo 3: CONTENHA A ÁGUA (2-5 minutos)
+### Passo 3: CONTENHA A ÁGUA (conforme zona)
 
 **Minimize danos:**
 
@@ -69,9 +69,9 @@ priority: "CRITICAL"
 - Gravidade (goteja, jorra, inunda)
 - Se conseguiu fechar a água
 
-**Tempo de chegada:** 30-45 minutos
+**Tempo de chegada:** conforme zona
 
-### Passo 5: DOCUMENTE OS DANOS (5-10 minutos)
+### Passo 5: DOCUMENTE OS DANOS (conforme zona)
 
 **Para seguro:**
 
@@ -234,7 +234,7 @@ priority: "CRITICAL"
 4. Testar pressão
 
 **Custo:** €80-250 (dependendo do acesso e material) 
-**Tempo:** 1-3 horas
+**Tempo:** conforme zona
 
 **Opção B: Substituir Cano Completo**
 
@@ -244,7 +244,7 @@ priority: "CRITICAL"
 - Corrosão generalizada
 
 **Custo:** €150-800 (dependendo do comprimento e acesso) 
-**Tempo:** 3-8 horas
+**Tempo:** conforme zona
 
 **Opção C: Substituir Tubagem da Casa**
 
@@ -382,7 +382,7 @@ Depende da apólice. Geralmente cobre danos consequentes (móveis, paredes) mas 
 Arranjo temporária: sim (fita, abraçadeira). Arranjo definitiva: recomendo profissional (soldadura, pressão, garantia). Arranjo mal feita pode causar nova fuga.
 
 **4. Quanto tempo demora a arranjar?**
-Arranjo simples (secção acessível): 1-3 horas. Cano em parede: 3-8 horas. Substituir tubagem completa: 2-5 dias.
+Arranjo simples (secção acessível): conforme zona. Cano em parede: conforme zona. Substituir tubagem completa: 2-5 dias.
 
 **5. Como sei se cano vai rebentar?**
 Sinais: manchas humidade, ferrugem, pequenas fugas, pressão irregular, ruídos, canos oxidados. Se notar, chame picheleiro preventivamente (mais barato que emergência).
@@ -403,9 +403,9 @@ Cano rebentado é **emergência que requer ação imediata**:
 **5 Passos de Emergência:**
 1. Feche a água (30 segundos)
 2. Desligue eletricidade se necessário (1 minuto)
-3. Contenha água (2-5 minutos)
+3. Contenha água (conforme zona)
 4. Ligue picheleiro urgente (2 minutos)
-5. Documente danos (5-10 minutos)
+5. Documente danos (conforme zona)
 
 **Causas principais:**
 - Congelamento (50% no inverno)
@@ -423,15 +423,15 @@ Cano rebentado é **emergência que requer ação imediata**:
 - Danos se não arranjar rápido: €1.000-10.000+
 - **Prevenir é 10× mais barato!**
 
-### 🚨 Cano Rebentado? Urgência Atendimento mediante confirmação por telefone/7d em Trás-os-Montes
+### 🚨 Cano Rebentado? Urgência Atendemos 24h/7d em Trás-os-Montes
 
 **Norte Reparos — Picheleiro Urgente 24h**
 
 📞 **Ligue AGORA: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=URGÊNCIA%3A%20Cano%20rebentado!%20Preciso%20de%20ajuda%20imediata!)**
 
-✅ **Disponível Atendimento mediante confirmação por telefone/7d, 7 dias por semana** 
-✅ **Resposta mediante confirmação por telefone garantida-45 minutos** 
+✅ **Disponível Atendemos 24h/7d, 7 dias por semana** 
+✅ **Atendemos 24h/7 dias, mediante confirmação por telefone garantida-45 minutos** 
 ✅ **Arranjo imediata** 
 ✅ **Equipamento profissional** 
 ✅ **Minimizamos danos** 

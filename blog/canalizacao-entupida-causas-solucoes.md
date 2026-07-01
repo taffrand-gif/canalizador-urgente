@@ -52,7 +52,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 2. Ventosa profissional (pressão)
 3. Teste descarga
 4. Verificação completa
-**Tempo:** 15-30 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -83,7 +83,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Desobstrução
 4. Limpeza
 5. Teste múltiplas descargas
-**Tempo:** 30-60 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -115,7 +115,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
  - Substituir sanita
  - Refazer canalização
  - Remover objeto preso
-**Tempo:** 1-3 horas (conforme solução)
+**Tempo:** conforme zona (conforme solução)
 
 **Custo detalhado:**
 - Inspeção câmara: 80-120€
@@ -149,7 +149,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Limpar obstrução
 4. Limpar tubagem
 5. Montar e testar
-**Tempo:** 20-40 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -180,7 +180,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Desmontar sifão se necessário
 4. Limpar completamente
 5. Aplicar químico preventivo
-**Tempo:** 15-30 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -216,7 +216,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 4. Aguardar 15-30 min
 5. Enxaguar água quente
 6. Testar
-**Tempo:** 20-35 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -249,7 +249,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Limpar obstrução
 4. Verificar tubagem
 5. Montar e testar
-**Tempo:** 30-60 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -281,7 +281,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 4. Desobstrução completa
 5. Limpeza caixa
 6. Teste água corrente
-**Tempo:** 1-2 horas
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -315,7 +315,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 4. Limpeza alta pressão
 5. Verificação câmara (confirma desobstruído)
 6. Teste completo
-**Tempo:** 2-4 horas
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação urgente: 25-55€
@@ -351,7 +351,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Verificar filtros
 4. Limpar drenagem
 5. Teste funcionamento
-**Tempo:** 2-3 horas
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação camião: 50-80€
@@ -691,7 +691,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 **Sim, com cuidado.** Luvas obrigatórias, não misturar produtos, ventilar. Eficaz gordura/cabelos. Se não resultar: chamar profissional.
 
 ### 3. Quanto tempo demora desentupir?
-**15-60 minutos** maioria casos. Sanita leve: 15-30 min. Esgoto grave: 2-4 horas.
+**conforme zona** maioria casos. Sanita leve: 15-30 min. Esgoto grave: conforme zona.
 
 ### 4. Toalhitas "descartáveis" pode deitar sanita?
 **NÃO.** Mesmo "descartáveis" não desintegram como papel. Causa principal entupimentos. Sempre lixo.
@@ -709,8 +709,8 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 
 **Ligue agora: 928 484 451**
 
-✅ Atendimento mediante confirmação por telefone 24h
-✅ Resposta mediante confirmação por telefone garantida-90 minutos
+✅ Atendemos 24h/7 dias, mediante confirmação por telefone 24h
+✅ Atendemos 24h/7 dias, mediante confirmação por telefone garantida-90 minutos
 ✅ Equipamento completo (mola elétrica, câmara)
 ✅ Orçamento antes começar
 ✅ Garantia 12 meses

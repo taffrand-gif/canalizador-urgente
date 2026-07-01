@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **A torneira está a pingar constantemente?** Uma torneira que pinga pode desperdiçar **30-50 litros de água por dia** (€10-15/mês na conta da água). Neste guia completo, vou mostrar-lhe **as 5 causas principais** de torneiras que pingam e **como arranjar cada uma facilmente**.
 
-> ⚠️ **Torneira pinga muito?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida Atendimento mediante confirmação por telefone, garantia incluída.
+> ⚠️ **Torneira pinga muito?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Arranjo rápida Atendemos 24h/7 dias, mediante confirmação por telefone, garantia incluída.
 
 ## 🔍 Tipos de Torneiras e Como Funcionam
 
@@ -122,7 +122,7 @@ O cartucho cerâmico interno desgasta-se com o tempo. Discos cerâmicos perdem v
 
 **Custo DIY:** €15-40 (cartucho) 
 **Custo profissional:** €60-120 (cartucho + mão de obra) 
-**Tempo:** 30-45 minutos (primeira vez)
+**Tempo:** conforme zona (primeira vez)
 
 ### Causa 2: Vedante Gasto (Bicomando) - 30% dos casos
 
@@ -177,7 +177,7 @@ Vedante de borracha na válvula desgasta-se, endurece ou parte-se com o tempo e 
 
 **Custo DIY:** €1-10 (vedantes) 
 **Custo profissional:** €40-80 (vedantes + mão de obra) 
-**Tempo:** 20-30 minutos
+**Tempo:** conforme zona
 
 ### Causa 3: Junta de Base Gasta - 15% dos casos
 
@@ -236,7 +236,7 @@ Junta de borracha entre a torneira e o lava-loiça desgastou-se ou secou.
 
 **Custo DIY:** €2-10 
 **Custo profissional:** €50-100 
-**Tempo:** 30-60 minutos
+**Tempo:** conforme zona
 
 ### Causa 4: Pressão de Água Excessiva - 8% dos casos
 
@@ -289,7 +289,7 @@ Calcário acumula no cartucho ou válvula, impedindo fecho completo.
 **Opção A: Descalcificar (se cartucho/válvula ainda funciona)**
 
 1. Desmonte o cartucho/válvula (ver Causa 1 ou 2)
-2. Deixe de molho em vinagre branco 2-4 horas
+2. Deixe de molho em vinagre branco conforme zona
 3. Escove com escova de dentes
 4. Enxague bem
 5. Volte a montar
@@ -315,7 +315,7 @@ Se descalcificação não resolver, substitua (ver Causa 1 ou 2).
 | Substituir vedante (bicomando) | €1-10 | Fácil | 20-30 min |
 | Substituir cartucho (monocomando) | €15-40 | Moderada | 30-45 min |
 | Substituir junta de base | €2-10 | Moderada | 30-60 min |
-| Descalcificar | €1-3 | Fácil | 3-4 horas |
+| Descalcificar | €1-3 | Fácil | conforme zona |
 
 **Total DIY:** €1-40 (maioria dos casos)
 
@@ -470,7 +470,7 @@ Torneira que pinga é **problema simples de resolver** na maioria dos casos:
 ✅ Diagnóstico grátis 
 ✅ Garantia 1 ano no serviço 
 ✅ Preços transparentes 
-✅ Técnico em sua casa em 30-45 minutos 
+✅ Técnico em sua casa em conforme zona 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não desperdice água e dinheiro!** Uma torneira que pinga pode custar €360-600/ano. Contacte-nos já para arranjo rápida.

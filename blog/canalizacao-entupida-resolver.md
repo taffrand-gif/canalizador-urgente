@@ -162,7 +162,7 @@ priority: "HIGH DEMAND"
 **Dica profissional:** Cubra outros ralos da casa para concentrar pressão
 
 **Custo:** Ventosa €5-15
-**Tempo:** 10-15 minutos
+**Tempo:** conforme zona
 **Eficácia:** 70% entupimentos simples
 
 ### Método 2: Água Fervente (Eficácia 60%)
@@ -222,7 +222,7 @@ priority: "HIGH DEMAND"
 **Dica:** Arame com gancho na ponta agarra cabelos melhor
 
 **Custo:** €15-50 (investimento que dura anos)
-**Tempo:** 20-30 minutos
+**Tempo:** conforme zona
 **Eficácia:** 85% dos casos
 
 ### Método 5: Desmontar Sifão (Eficácia 90%)
@@ -244,7 +244,7 @@ priority: "HIGH DEMAND"
 7. Recoloque sifão (aperte bem mas não force)
 8. Teste se não há fugas
 
-**Tempo:** 20-30 minutos
+**Tempo:** conforme zona
 **Dificuldade:** Média
 **Eficácia:** 90% entupimentos em sifão
 
@@ -265,7 +265,7 @@ priority: "HIGH DEMAND"
 3. Ventile bem a divisão
 4. Retire água parada
 5. Despeje quantidade recomendada
-6. Aguarde tempo indicado (30-60 minutos)
+6. Aguarde tempo indicado (conforme zona)
 7. Enxague com água abundante
 
 **⚠️ ATENÇÃO:**
@@ -478,8 +478,8 @@ R: NÃO! Mesmo "biodegradáveis" demoram meses a desfazer-se. Causam 15% dos ent
 **Norte Reparos - Picheleiro Certificado em Trás-os-Montes**
 
 📞 **Ligue Agora: 928 484 451**
-- ✅ Atendimento mediante confirmação por telefone/7d (urgências)
-- ✅ Técnico com equipamento profissional chega em 30-60 minutos
+- ✅ Atendemos 24h/7d (urgências)
+- ✅ Técnico com equipamento profissional chega conforme zona
 - ✅ Mola elétrica + Alta pressão + Câmara inspeção
 - ✅ Orçamento grátis sem compromisso
 - ✅ Garantia 12 meses em todos os serviços

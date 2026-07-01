@@ -4,7 +4,7 @@ slug: "banheira-entupida-desentupir"
 category: "Desentupimentos"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Banheira entupida com água parada? Descubra 5 métodos profissionais (ventosa 75%, sifão 95%, químico 70%) para desentupir Atendimento mediante confirmação por telefone. Guia completo com custos e prevenção em Trás-os-Montes."
+excerpt: "Banheira entupida com água parada? Descubra 5 métodos profissionais (ventosa 75%, sifão 95%, químico 70%) para desentupir Atendemos 24h/7 dias, mediante confirmação por telefone. Guia completo com custos e prevenção em Trás-os-Montes."
 keywords: ["banheira entupida", "desentupir banheira", "água parada banheira", "ralo banheira entupido", "picheleiro Trás-os-Montes", "canalizador urgente", "desentupimento banheira", "sifão banheira"]
 priority: "HIGH DEMAND"
 ---
@@ -70,7 +70,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 75% (entupimentos leves a moderados) 
 **Custo:** €5-15 (ventosa) 
-**Tempo:** 5-10 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Fácil
 
 **Passo a passo:**
@@ -93,7 +93,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 95% (quase todos os entupimentos) 
 **Custo:** €0 (ferramentas que já tem) 
-**Tempo:** 20-30 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Moderada
 
 **Ferramentas necessárias:**
@@ -124,7 +124,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 60% (entupimentos leves, manutenção) 
 **Custo:** €2-3 (ingredientes) 
-**Tempo:** 30-60 minutos (maioria é espera) 
+**Tempo:** conforme zona (maioria é espera) 
 **Dificuldade:** Muito fácil
 
 **Ingredientes:**
@@ -139,7 +139,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 2. **Despeje bicarbonato** directamente no ralo
 3. **Despeje vinagre** sobre o bicarbonato
 4. **Tape o ralo** imediatamente com pano molhado
-5. **Deixe actuar** 30-60 minutos (vai fazer espuma)
+5. **Deixe actuar** conforme zona (vai fazer espuma)
 6. **Despeje água a ferver** lentamente pelo ralo
 7. **Teste** com água corrente
 
@@ -153,7 +153,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 80% (entupimentos profundos) 
 **Custo:** €10-25 (mola 3-5 metros) 
-**Tempo:** 15-20 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Moderada
 
 **Passo a passo:**
@@ -177,7 +177,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 70% (depende do tipo de entupimento) 
 **Custo:** €5-12 (produto) 
-**Tempo:** 30-60 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Fácil
 
 **Produtos recomendados:**
@@ -295,7 +295,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### 2. É normal a água escoar lentamente?
 
-**Resposta:** **NÃO.** Água deve escoar rapidamente (banheira vazia em 2-3 minutos). Escoamento lento indica **entupimento parcial** que vai piorar. Resolva agora antes de entupir completamente.
+**Resposta:** **NÃO.** Água deve escoar rapidamente (banheira vazia em conforme zona). Escoamento lento indica **entupimento parcial** que vai piorar. Resolva agora antes de entupir completamente.
 
 ### 3. Posso usar soda cáustica pura?
 
@@ -303,7 +303,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### 4. Quanto tempo demora a desentupir com ventosa?
 
-**Resposta:** 5-10 minutos de trabalho. Se após 5 minutos de bombeamento vigoroso não melhorar, a ventosa não vai resolver - passe para outro método (desmontar sifão).
+**Resposta:** conforme zona de trabalho. Se após 5 minutos de bombeamento vigoroso não melhorar, a ventosa não vai resolver - passe para outro método (desmontar sifão).
 
 ### 5. O que fazer se água volta por outros ralos?
 

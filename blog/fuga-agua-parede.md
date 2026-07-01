@@ -24,7 +24,7 @@ Em Trás-os-Montes, onde muitas casas têm **30-40 anos e canalização antiga**
 
 Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve ignorar**, como detetar fugas escondidas (mesmo sem quebrar paredes), quanto custa arranjar e como prevenir este pesadelo.
 
-**⚠️ ATENÇÃO:** Se vir água a escorrer pela parede ou teto, **feche a água IMEDIATAMENTE** e ligue para um picheleiro de urgência: **[928 484 451](tel:+351928484451)** — Intervenção em 30-45 minutos em Bragança e arredores.
+**⚠️ ATENÇÃO:** Se vir água a escorrer pela parede ou teto, **feche a água IMEDIATAMENTE** e ligue para um picheleiro de urgência: **[928 484 451](tel:+351928484451)** — Intervenção em conforme zona em Bragança e arredores.
 
 ---
 
@@ -141,7 +141,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 **Passo a passo:**
 1. Feche TODAS as torneiras e aparelhos
 2. Anote o número do contador
-3. Não use água durante 2-3 horas
+3. Não use água durante conforme zona
 4. Volte ao contador:
  - **Número mudou?** → TEM FUGA
  - **Número igual?** → Sem fuga ativa
@@ -352,8 +352,8 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **Depende da gravidade:**
 - Fuga pequena (junta): 30min-1h
-- Substituir troço de cano: 2-4 horas
-- Fuga em parede de casa de banho: 4-8 horas (+ tempo para secar e pintar)
+- Substituir troço de cano: conforme zona
+- Fuga em parede de casa de banho: conforme zona (+ tempo para secar e pintar)
 - Cano rebentado (obra grande): 1-3 dias
 
 ---
@@ -414,7 +414,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **Cobertura:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro e todo o distrito de Bragança.
 
-**Tempo de resposta:** 30-45 minutos em Bragança e arredores.
+**Tempo de resposta:** conforme zona em Bragança e arredores.
 
 ---
 

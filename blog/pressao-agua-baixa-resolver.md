@@ -135,7 +135,7 @@ priority: "HIGH DEMAND"
 3. Limpe calcário (vinagre 2 horas)
 4. Recoloque
 
-**Tempo:** 15-30 minutos
+**Tempo:** conforme zona
 **Custo:** €0
 
 **Prevenção:** Limpar filtros a cada 6 meses
@@ -333,7 +333,7 @@ priority: "HIGH DEMAND"
 
 **Instalação:**
 - Picheleiro certificado
-- 2-4 horas
+- conforme zona
 - **Custo total:** €200-500 (bomba + instalação)
 
 **Vantagens:**

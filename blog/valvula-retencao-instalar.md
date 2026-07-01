@@ -164,7 +164,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 
 **Vantagens:**
 - ✅ Instalação em qualquer posição (horizontal, vertical)
-- ✅ Resposta mediante confirmação por telefone
+- ✅ Atendemos 24h/7 dias, mediante confirmação por telefone
 - ✅ Compacta
 - ✅ Boa para pressões médias/altas
 
@@ -543,7 +543,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 - Sistemas de aquecimento
 - Proteção contra refluxo de esgoto
 
-**Instalação simples:** 30-60 minutos (profissional) ou DIY se tem experiência.
+**Instalação simples:** conforme zona (profissional) ou DIY se tem experiência.
 
 **Investimento:** €15-60 (válvula) + €40-80 (instalação) = €55-140 total
 

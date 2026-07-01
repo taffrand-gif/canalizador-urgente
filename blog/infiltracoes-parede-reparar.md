@@ -417,7 +417,7 @@ keywords: ["infiltrações parede", "humidade parede", "bolor parede", "pichelei
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Urgências infiltração prioritárias
 
@@ -435,7 +435,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Infiltração%20parede%20ajuda)**
 
-**Resposta mediante confirmação por telefone garantida. Câmara térmica disponível.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Câmara térmica disponível.**
 
 ---
 

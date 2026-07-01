@@ -82,7 +82,7 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
 **Solução:**
 - **DIY:** Substituir junta (€0.50-2)
 - **Profissional:** €30-60 (inclui mão de obra)
-- **Dificuldade:** Fácil (15-30 minutos)
+- **Dificuldade:** Fácil (conforme zona)
 
 ### 2. Cartucho Defeituoso (20% dos Casos)
 
@@ -107,7 +107,7 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
 **Solução:**
 - **DIY:** Substituir cartucho (€15-45)
 - **Profissional:** €50-100 (inclui mão de obra)
-- **Dificuldade:** Média (30-60 minutos)
+- **Dificuldade:** Média (conforme zona)
 
 **⚠️ ATENÇÃO:** Cada marca tem cartucho específico. Leve o antigo à loja para garantir compatibilidade.
 
@@ -270,7 +270,7 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
  - Verifique se há fugas
  - Teste abertura/fecho várias vezes
 
-**Tempo:** 15-30 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Fácil 
 **Custo:** €0.50-2
 
@@ -319,7 +319,7 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
  - Teste quente/frio
  - Verifique se não goteja
 
-**Tempo:** 30-60 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Média 
 **Custo:** €15-45
 
@@ -345,7 +345,7 @@ Com base na nossa experiência de 1.000+ arranjos em Trás-os-Montes:
 6. Instale junta nova
 7. Remonte torneira
 
-**Tempo:** 30-45 minutos 
+**Tempo:** conforme zona 
 **Dificuldade:** Média 
 **Custo:** €20-40 (ferramenta) + €0.50-2 (junta)
 
@@ -496,11 +496,11 @@ Uma torneira que goteja é um **problema simples com solução fácil**, mas que
 
 **✅ Garantias Norte Reparos:**
 - Picheleiros certificados com 15+ anos de experiência
-- Arranjo rápida (30-60 minutos)
+- Arranjo rápida (conforme zona)
 - Peças de qualidade (Grohe, Hansgrohe, Roca)
 - Orçamento transparente antes de iniciar
 - Garantia de 6 meses na arranjo
-- Disponível Atendimento mediante confirmação por telefone/7d para urgências
+- Disponível Atendemos 24h/7d para urgências
 
 **Cada gota conta. Repare hoje e comece a poupar amanhã.**
 

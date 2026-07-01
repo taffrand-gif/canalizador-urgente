@@ -55,7 +55,7 @@ keywords: ["chuveiro sem pressão", "duche fraco", "aumentar pressão chuveiro",
 **Solução DIY** (15 minutos):
 1. Desenrosque cabeça chuveiro
 2. Retire filtro
-3. Mergulhe em vinagre branco (2-4 horas)
+3. Mergulhe em vinagre branco (conforme zona)
 4. Escove com escova dentes
 5. Enxague e reinstale
 
@@ -188,7 +188,7 @@ keywords: ["chuveiro sem pressão", "duche fraco", "aumentar pressão chuveiro",
 1. Limpar filtro (€0-3)
 2. Se não resolve, substituir chuveiro (€30-100)
 
-**Tempo**: 15-30 minutos
+**Tempo**: conforme zona
 **Custo**: €0-100
 
 ### Pressão Baixa Só Água Quente
@@ -200,7 +200,7 @@ keywords: ["chuveiro sem pressão", "duche fraco", "aumentar pressão chuveiro",
 2. Descalcificar esquentador (€80-120)
 3. Verificar misturadora (€60-150)
 
-**Tempo**: 1-2 horas
+**Tempo**: conforme zona
 **Custo**: €40-150
 
 ### Pressão Baixa em Toda a Casa
@@ -414,7 +414,7 @@ keywords: ["chuveiro sem pressão", "duche fraco", "aumentar pressão chuveiro",
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Orçamento grátis
 
@@ -432,7 +432,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Chuveiro%20sem%20pressão%20diagnóstico)**
 
-**Resposta mediante confirmação por telefone garantida. Orçamento sem compromisso.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Orçamento sem compromisso.**
 
 ---
 
