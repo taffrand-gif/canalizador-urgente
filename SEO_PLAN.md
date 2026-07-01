@@ -157,6 +157,7 @@ grep -c "fala sempre com a mesma pessoa" index.html
 ## 🔄 HISTORIQUE
 
 > **Format OBLIGATOIRE** : `| DATE | AGENT | TÂCHE | ACTION | JUSTIFICATION | RÉSULTAT | STATUT |`
+| 2026-07-02 | Hermes (mode loop 02/07, R7-bis merge non requis CU wait rate-limit) | session 02/07 : MARKETING.md câblé | PR #77 MARKETING.md (squash, ef4f6fa3b) | MARKETING.md = registre voix/positionnement append-only câblé dans CLAUDE.md. Pas d'action solaire/VE (CU a 0 hits grep solaire — contenu légitime urgence/panne). 13/13 locales + 69/69 distantes cleanup. Vercel prod = READY/PROMOTED SHA 92fa972ba (PR #71 câblage) mais HEAD main = ef4f6fa3b (post-#77 MARKETING) → désynchro. Rate-limit Free plan bloque redeploy manuel API (HTTP 402 remaining 0, reset 24h). | LECONS #282 #283 #283-bis #287 #288 | ⏳ PR #77 mergée, main avance, prod rate-limited 24h — redeploy manuel API à reset demain
 
 | Date | Agent | Tâche | Action | Justification | Résultat | Statut |
 |---|---|---|---|---|---|---|
