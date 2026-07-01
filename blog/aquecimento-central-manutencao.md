@@ -131,12 +131,12 @@ keywords: ["aquecimento central", "manutenção caldeira", "radiadores", "poupar
 **Caldeira gás** (anual):
 - Inspeção + limpeza: €80-120
 - Inclui: queimador, permutador, testes
-- Tempo: 1-2 horas
+- Tempo: conforme zona
 
 **Caldeira gasóleo** (anual):
 - Inspeção + limpeza: €120-180
 - Mais complexa que gás
-- Tempo: 2-3 horas
+- Tempo: conforme zona
 
 **Esquentador** (anual):
 - Inspeção + limpeza: €60-100
@@ -399,7 +399,7 @@ Não espere manutenção anual se:
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Emergências inverno prioritárias
 
@@ -417,7 +417,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Manutenção%20aquecimento%20central)**
 
-**Resposta mediante confirmação por telefone garantida. Agendamento flexível.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Agendamento flexível.**
 
 ---
 

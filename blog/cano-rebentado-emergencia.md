@@ -47,7 +47,7 @@ Se a água está perto de tomadas ou quadro elétrico:
 
 📞 **+351 928 484 451** (24h/7d)
 
-Chegamos em **30-60 minutos** em Bragança, Mirandela, Trás-os-Montes.
+Chegamos em **conforme zona** em Bragança, Mirandela, Trás-os-Montes.
 
 ## 🔍 Causas Comuns de Canos Rebentados
 
@@ -178,7 +178,7 @@ Canos têm vida útil limitada:
 ## ✅ Por Que Escolher Norte Reparos
 
 ### Resposta Ultra-Rápida
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Técnico sai imediatamente após chamada
 
@@ -232,7 +232,7 @@ Em noites muito frias (-5°C ou menos):
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Cano%20rebentado%20emergência)**
 
-**Resposta mediante confirmação por telefone garantida. Chegada em 30-60 minutos.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Chegada conforme zona.**
 
 ---
 
@@ -242,7 +242,7 @@ Em noites muito frias (-5°C ou menos):
 **€80-800** dependendo da localização e extensão do dano. Orçamento grátis por telefone.
 
 ### Quanto tempo demora a arranjo?
-**1-4 horas** para maioria dos casos. Emergências são prioridade máxima.
+**conforme zona** para maioria dos casos. Emergências são prioridade máxima.
 
 ### O seguro cobre?
 **Sim**, a maioria dos seguros habitação cobre canos rebentados. Fornecemos relatório técnico.

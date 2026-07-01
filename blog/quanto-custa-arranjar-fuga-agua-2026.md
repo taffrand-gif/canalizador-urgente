@@ -50,7 +50,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Desmontar torneira
 3. Substituir vedante
 4. Montar e testar
-**Tempo:** 20-30 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação Zona 1-3: 15-35€
@@ -76,7 +76,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Desmontar torneira completa
 3. Substituir cartucho ou juntas
 4. Montar e testar estanquidade
-**Tempo:** 40-60 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -106,7 +106,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 3. Substituir torneira completa
 4. Vedar rosca
 5. Testar
-**Tempo:** 30-45 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -134,7 +134,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Verificar boia e válvula
 3. Regular ou substituir
 4. Testar
-**Tempo:** 20-40 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -162,7 +162,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 4. Substituir junta
 5. Montar e apertar
 6. Testar estanquidade
-**Tempo:** 45-70 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -186,7 +186,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 3. Remover mecanismo antigo
 4. Instalar mecanismo novo completo
 5. Regular e testar
-**Tempo:** 60-90 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -212,7 +212,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Localizar fuga exata
 3. Apertar ligação OU substituir troço
 4. Testar pressão
-**Tempo:** 30-60 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -240,7 +240,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 4. Reparar/substituir troço
 5. Testar
 6. Fechar parede provisório (gesso)
-**Tempo:** 1.5-3 horas
+**Tempo:** 1.conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -270,7 +270,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 4. Substituir troço danificado
 5. Testar alta pressão
 6. Fechar provisório
-**Tempo:** 1-2 horas (urgência)
+**Tempo:** conforme zona (urgência)
 
 **Custo detalhado:**
 - Deslocação urgente: 25-55€
@@ -299,7 +299,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 3. Substituir junta ou rosca
 4. Montar e apertar
 5. Testar com água quente
-**Tempo:** 30-50 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -323,7 +323,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Se pressão ok: substituir válvula
 3. Se pressão alta: instalar redutor pressão
 4. Testar
-**Tempo:** 40-90 minutos (conforme causa)
+**Tempo:** conforme zona (conforme causa)
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -350,7 +350,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Desmontar sifão
 3. Substituir juntas OU sifão completo
 4. Montar e testar
-**Tempo:** 20-35 minutos
+**Tempo:** conforme zona
 
 **Custo detalhado:**
 - Deslocação: 15-35€
@@ -579,7 +579,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 **Fugas simples sim** (vedante torneira, regular boia). **Fugas complexas não** (canalização oculta, esquentador). Se dúvida, chamar profissional.
 
 ### 6. Quanto tempo demora arranjo?
-**20-90 minutos** maioria casos. Fugas simples: 20-40 min. Fugas complexas: 1-3 horas. Rotura grave: 1-2h urgência.
+**conforme zona** maioria casos. Fugas simples: 20-40 min. Fugas complexas: conforme zona. Rotura grave: 1-2h urgência.
 
 ### 7. Dão garantia?
 **Sim, 12 meses** mão obra. Material: garantia fabricante (1-5 anos conforme marca). Se fuga voltar: arranjo gratuito.
@@ -591,9 +591,9 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 ✅ Orçamento gratuito por telefone
 ✅ Diagnóstico profissional
 ✅ Preços transparentes sem surpresas
-✅ Resposta mediante confirmação por telefone garantida-90 minutos
+✅ Atendemos 24h/7 dias, mediante confirmação por telefone garantida-90 minutos
 ✅ Garantia 12 meses
-✅ Atendimento mediante confirmação por telefone/7d urgências
+✅ Atendemos 24h/7d urgências
 
 **WhatsApp:** [Orçamento fuga água](https://wa.me/351928484451?text=Preciso orçamento arranjar fuga água)
 

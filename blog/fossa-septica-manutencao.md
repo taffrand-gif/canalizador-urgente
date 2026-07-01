@@ -391,7 +391,7 @@ keywords: ["fossa séptica", "manutenção fossa", "esvaziar fossa", "picheleiro
 
 ### Resposta Rápida
 
-- **30-60 minutos** em Bragança, Mirandela, Macedo
+- **conforme zona** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Urgências prioritárias
 - Camião disponível
@@ -412,7 +412,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Esvaziar%20fossa%20séptica)**
 
-**Resposta mediante confirmação por telefone garantida. Serviço rápido e profissional.**
+**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Serviço rápido e profissional.**
 
 ---
 

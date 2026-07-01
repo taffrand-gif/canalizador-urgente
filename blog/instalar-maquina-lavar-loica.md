@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **Comprou uma máquina de lavar loiça e quer instalar?** A instalação requer ligações de água, esgoto e eletricidade. Neste guia completo, vou mostrar-lhe **como instalar em 8 passos**, requisitos necessários, custos e erros comuns a evitar.
 
-> ⚠️ **Precisa de instalação profissional?** Picheleiro + eletricista em Bragança: **[928 484 451](tel:+351928484451)** — Instalação completa em 2-3 horas, garantia incluída.
+> ⚠️ **Precisa de instalação profissional?** Picheleiro + eletricista em Bragança: **[928 484 451](tel:+351928484451)** — Instalação completa em conforme zona, garantia incluída.
 
 ## 🔍 Requisitos Antes de Instalar
 
@@ -83,7 +83,7 @@ priority: "HIGH DEMAND"
 
 ## 🔧 Passo a Passo: Instalação
 
-### Parranjo (15-30 minutos)
+### Parranjo (conforme zona)
 
 **Passo 1: Desembalar e verificar**
 
@@ -102,7 +102,7 @@ priority: "HIGH DEMAND"
 3. Não empurre completamente ainda
 4. Verifique que cabos e tubos alcançam ligações
 
-### Ligação de Água (20-30 minutos)
+### Ligação de Água (conforme zona)
 
 **Passo 3: Ligar entrada de água**
 
@@ -132,7 +132,7 @@ priority: "HIGH DEMAND"
 
 **Dica:** Tubo de entrada tem filtro na ponta. Limpe-o a cada 6 meses.
 
-### Ligação de Esgoto (15-20 minutos)
+### Ligação de Esgoto (conforme zona)
 
 **Passo 4: Ligar saída de esgoto**
 
@@ -157,7 +157,7 @@ priority: "HIGH DEMAND"
 - Não deve estar dobrado ou esmagado
 - Fixe tubo à parede com abraçadeiras (evita cair)
 
-### Ligação Elétrica (10-15 minutos)
+### Ligação Elétrica (conforme zona)
 
 **Passo 5: Ligar à corrente**
 
@@ -179,7 +179,7 @@ priority: "HIGH DEMAND"
 
 **Se não tem tomada adequada:** Chame eletricista para instalar (€60-150).
 
-### Nivelamento e Ajustes (15-20 minutos)
+### Nivelamento e Ajustes (conforme zona)
 
 **Passo 6: Nivelar a máquina**
 
@@ -208,7 +208,7 @@ priority: "HIGH DEMAND"
 4. Verifique que porta abre completamente
 5. Se encastrar, fixe com parafusos laterais
 
-### Teste Final (20-30 minutos)
+### Teste Final (conforme zona)
 
 **Passo 8: Primeiro ciclo de teste**
 
@@ -252,7 +252,7 @@ priority: "HIGH DEMAND"
 
 **Total DIY:** €0-100 (se já tiver ligações)
 
-**Tempo necessário:** 2-4 horas (primeira vez)
+**Tempo necessário:** conforme zona (primeira vez)
 
 **Vantagens:**
 ✅ Mais barato 
@@ -285,7 +285,7 @@ priority: "HIGH DEMAND"
 ✅ Garantia 1 ano 
 ✅ Limpeza após trabalho
 
-**Tempo de instalação:** 1,5-3 horas
+**Tempo de instalação:** 1,conforme zona
 
 > 💡 **Quer instalação profissional?** Picheleiro em Bragança: **[928 484 451](tel:+351928484451)** — Instalação completa, garantia incluída.
 
@@ -396,7 +396,7 @@ Não recomendado. Deve ir para sifão (evita cheiros). Se for para ralo, instale
 Barulho moderado é normal (bomba, água). Barulho excessivo indica: máquina desnivelada, pés mal ajustados, ou objeto solto dentro. Verifique nivelamento primeiro.
 
 **7. Quanto tempo dura a instalação?**
-DIY primeira vez: 2-4 horas. DIY com experiência: 1-2 horas. Profissional: 1,5-3 horas (dependendo se ligações estão prontas).
+DIY primeira vez: conforme zona. DIY com experiência: conforme zona. Profissional: 1,conforme zona (dependendo se ligações estão prontas).
 
 **8. Preciso de certificado para instalar máquina?**
 Não. Fichas eletrotécnicas assinadas por técnico Profissional é só para instalações elétricas novas ou alterações significativas. Ligar máquina em tomada existente não precisa.
@@ -446,7 +446,7 @@ Instalar máquina de lavar loiça é **relativamente simples** se ligações est
 ✅ Primeiro ciclo de teste 
 ✅ Garantia 1 ano no serviço 
 ✅ Materiais incluídos 
-✅ Técnico em sua casa em 30-45 minutos 
+✅ Técnico em sua casa em conforme zona 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Instalação bem feita = máquina dura mais!** Contacte-nos já para instalação profissional com garantia.
