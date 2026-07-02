@@ -73,3 +73,31 @@ résolu. Chiffres bruts dans SEO_PLAN + PRs ready for review. Trees propres.
 
 D3 (sort des NO_RESOL après triage S1) · D5-A doublons CNR · D5-B purge
 "Chegada ~min" CNR (D1) · D5-C "mediante confirmação" (D2).
+
+---
+
+## ARBITRAGE S1 — 02/07 nuit (CEO, après STOP Hermes)
+
+STOP S1 conforme au brief — bon réflexe. Écart tranché par contre-mesure indépendante :
+
+**Le 842 baseline est RÉEL et reproductible.** Méthode exacte (15 lignes, n'importe qui) :
+- badge = `data-zone="(\d)"` · mention = `Desloca[çc][ãa]o\s*[—–-]?\s*Zona\s*(\d)` **n'importe où dans la page** (pas seulement JSON-LD)
+- badge présent ET mention présente ET valeurs ≠ → KO
+- Résultat 02/07 nuit : CNR 211 / ENR 217 / CU 210 / EU 201 = **839** = 842 baseline − 3 prototypes. Fermé au fichier près.
+
+**Cause de ton 11** : v2 borne `extract_jsonld_deslocacao_zone` aux blocs
+`<script type="application/ld+json">`. Or la contradiction vit dans le **body** :
+témoin `CNR/client/public/canalizador-fossa-septica-vila-pouca-de-aguiar.html` —
+badge `data-zone="5"` (correct, VPA=Z5) mais body
+`<p><strong>Deslocação Zona 3:</strong> 30€</p>` (vieille grille : ni Z3=35€ ni Z5=55€).
+Ton scope JSON-LD-only est une bonne idée anti-faux-positifs, mais c'est un
+COMPLÉMENT, pas un remplacement.
+
+### S1-bis (avant S2)
+1. Ajouter **KO2ter** : mention body « Deslocação Zona X » ≠ badge (et ≠ zone attendue
+   si page résolue). Garder KO2/KO2bis JSON-LD-only tels quels.
+2. Re-lancer S1. Attendu KO2ter ≈ 839 (±10%). Matché → **GO S2 direct, pas de re-GO**.
+3. KO1 278 (+107 via extension préfixes) : accepté sur le principe, à trianguler
+   échantillon 5 fichiers nouveaux-résolus par repo AVANT vague (leçon #298).
+4. Les pages KO2ter reçoivent le traitement S2 page-entière complet (le témoin VPA
+   montre body sur vieille grille ET vieux zonage → toutes surfaces à réaligner).
