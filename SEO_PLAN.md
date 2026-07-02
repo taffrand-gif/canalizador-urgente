@@ -210,13 +210,22 @@ grep -c "fala sempre com a mesma pessoa" index.html
 
 | # | SHA | Description |
 |---|----|-------------|
-| 1 | `cf4566d61` | Prototype Chaves : Z6+Z5→Z4 (incohérence interne), R145 'Sob marcação' retiré, prix 65€→45€ |
-| 2 | `584087675` | Vague 1 racine (36 fichiers, 60 ES exclus) |
+| 1 | `cf4566d61` | Prototype Chaves : Z6+Z5→Z4, R145 'Sob marcação' retiré, prix 65€→45€ |
+| 2 | `350ae43e6` | Vague 3 racine (95 fichiers) |
 | 3 | `74e481bce` | Vague 2 racine (94 fichiers) |
-| 4 | `350ae43e6` | Vague 3 racine (95 fichiers) |
-| 5 | `8320a78b2` | Vague 4 racine (1 fichier) — **CU batch terminé** |
+| 4 | `584087675` | Vague 1 racine (36 fichiers, 60 ES exclus) |
+| 5 | `8320a78b2` | Vague 4 racine (1 fichier, 60 ES exclus) — **CU batch terminé** |
+| 6 | `d94312630` | **Correctif R145 + cohérence prix** (audit sub-agent deleg_8ec8672d — NO-GO sur 5 KO levés) : meta description 65€→Z4, og "24h" retiré, FAQ "24h/7d"→"Sob marcação", majoração 105€/h→97.50€/h (+50% strict §12) |
 
 **CU : 226 fichiers patchés.** 60 ES exclus (filtre strict suffixes espagnols). 70 NO_RESOL (typos + freguesias hors 914). Artefacts : `phase0-dryrun/CU_audit.{csv,json}` + sub-agent `deleg_a415b3d7` dryrun ES (`phase1-cu-eu-dryrun/CU_dryrun.json`).
+
+**⚠️ Audit qualité P0 04/07** — sub-agent `deleg_8ec8672d` a identifié **5 KO bloquants** sur le prototype cf4566d61 avant ce correctif :
+1. R145 violation × 3 (meta description "24h", og:description "24h", JSON-LD FAQ "24h/7d")
+2. Méta description incohérente avec body ("65€ deslocação" Z6 vs body "45€" Z4)
+3. Prix dérivé "A partir de 145€ (1h)" — math invérifiable (R11 invention)
+4. Mineure : majoration Dimanche 105€/h vs doctrine +50% strict (97.50€ attendus)
+
+**Résolu par `d94312630`** (4 patches chirurgicaux sur 1 fichier, commit isolé traçable). STOP #1 levé pour CU.
 
 ### Lien PR (à ouvrir — STOP Filipe avant merge)
 
