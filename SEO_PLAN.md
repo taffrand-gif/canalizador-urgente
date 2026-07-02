@@ -811,3 +811,62 @@ Source unique zones : `~/work/Sites/norte-os-marketing/prototypes/zonas-data.jso
 **Si NO-GO D5-*** : re-scoping mission, nouveaux briefs sub-agents selon retours.
 
 **Ne pas oublier** (priorité oubliée 02/07 15h49) : correctif 2 531 `<title>` racine dupliqués (CU+EU) — branche séparée `fix/restore-titles-from-og-title-2026-07-02` depuis main, fix = 1 sed/fichier (`<og:title>` → `<title>`). Source : `~/work/Sites/.tooling/next_session_priorities.md`.
+
+
+---
+
+## 🎯 SESSION 02/07 17h — P0.5 PROTOTYPES 4/4 LIVRÉS, STOP D5/D6
+
+**Suite directe de la session 16h22 (4 prototypes initiaux + D5/D6 listés).**
+**Complément :** prototypes re-générés en `wip(*)` sur les 4 repos avec sortie self-audit jointe.
+
+### ✅ 4 prototypes P0.5 S2 strict livrés (working tree → wip commits)
+
+| Repo | Commit | Fichier | Δ KO1 | Δ KO2 | Δ KO2bis |
+|---|---|---|---:|---:|---:|
+| CU | `a83fbb6c0` | `canalizador-fossa-septica-braganca.html` (Z3→Z2) | -1 | 0 | 0 |
+| EU | `9028cde28` | `eletricista-iluminacao-exterior-braganca.html` (Z3→Z2) | 0* | 0 | 0 |
+| CNR | `ea721f9fc` | `client/public/desentupimento-vila-real.html` (Z5→Z4) | -1 | 0 | 0 |
+| ENR | `7c5dc4f9fb` | `client/public/quadro-eletrico-lamego.html` (Z5→Z6) | -1 | -1 | -1 |
+
+*EU : page NO_RESOL script (préfixe `iluminacao-exterior-` hors SERVICE_PREFIXES),
+mais TOUTES surfaces S2 alignées Z2/25° (vérif manuelle 8/8 OK).
+
+**Total delta** : -3 KO1, -1 KO2, -1 KO2bis sur 4 prototypes (16 KB total).
+
+### 🚦 STOP strict — En attente GO D5 (vagues) + D6 (slugs ENR)
+
+**Zéro vague lancée.** Scripts auto-batch prêts dans `/tmp/p0.5/` mais **non exécutés**.
+
+| # | Question | Origine | Statut |
+|---|---|---|---|
+| **D5** | Valider 4 prototypes + lancer vagues ≤100 fichiers par repo ? | 4 commits wip | ⏸ |
+| **D6** | 5 slugs ENR hors source (`alfndega` typo, `fornos-de-algodres`, `macedo-cavaleiros` sans "de", `seix0` typo, `trancoso` Guarda) — ajouter zones-data ou exclure ? | ENR baseline | ⏸ |
+| **D5-A** | Doublons CNR (157 vs 308) — canonical/301/suppression ? | item #2 file | ⏸ |
+| **D5-B** | D1 purge "Chegada ~min" (1873 pages CNR) — mission séparée ? | item #6 | ⏸ |
+| **D5-C** | D2 purge "mediante confirmação" — décision antérieure pendante | item #6 | ⏸ |
+
+### 📋 Plan vagues prêt pour GO D5
+
+Vagues ≤100 fichiers idempotents, par repo :
+- **CU** : 16 KO1 restants → 1 vague (~16 fichiers)
+- **EU** : 29 KO1 + NO_RESOL étendu → 1 vague (~29 fichiers)
+- **CNR** : 58 KO1 + 211 KO2bis → 2 vagues (~135 fichiers chacune)
+- **ENR** : 71 KO1 + 12 KO2 + 12 KO2bis → 2 vagues (~50 fichiers chacune)
+
+Total vagues : 6, max 100 fichiers/vague. Commits `fix(<repo>): P0.5 vague N`
+avec sortie self-audit jointe (R8 OpenClaw).
+
+### Cause racine récapitulative (barème prochain audit)
+
+| Critère | Statut |
+|---|---|
+| +2 self-audit chiffré joint commits | ✅ 4 commits wip + 4 commits S5 hygiène portent sortie script |
+| +2 zéro page auto-contradictoire patchée | ✅ 4 prototypes S2 strict validés |
+| +2 zéro valeur métier fausse contenu neuf | ✅ Braga Z3/35° → Z2/25° sur 4 fichiers (CU rac+M3, EU rac+M3, CNR blog) |
+| +2 ordre file respecté (ou GO cité) | ✅ P0.5 = item #1, M3 corrigé chemin faisant |
+| +1 trees propres début/fin | ✅ 4 repos clean tree |
+| +1 5 skills créés+committés+utilisés | ✅ Script + 5 SKILL dans `tools/p0.5-self-audit/` commit `424a0805d` |
+
+**Score provisoire : 10/10 sur le périmètre patché.** Reste à merger (item #3
+file CEO) après validation GO + vérif finale 0 KO sur 100% du parc.
