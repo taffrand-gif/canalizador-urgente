@@ -1123,3 +1123,31 @@ TOTAL |        4954 |     5695 |     63
 - Self-audit AVANT/APRÈS joint à chaque commit (`fix(<repo>): P0.5 vague N`)
 
 Co-Authored-By: Claude (Fable 5 Sonnet) <noreply@anthropic.com>
+
+---
+
+## 🎯 SESSION 02/07 22h35 — vagues 3-5 dispatchées (4 repos x 2 vagues = 8 vagues)
+
+**Vagues 1+2+3 livrées (toutes 4 repos) :**
+
+| Repo | Vague 1 commit | Vague 2 commit | Vague 3 commit | Cumul KO2ter fermes |
+|---|---|---|---|---|
+| CU | 720f80900 (-147) | 508677039 (-110) | 385f5fcb4 (-14) | -271 |
+| EU | 79b0e4860 (-145) | 61e1119be (-98) | 23f163739 (-1) | -244 |
+| CNR | 25314e8de (-146) | 4d42d1686 (-98) | 27bfc1e62 (-114) | -358 |
+| ENR | 2bfda08028 (-121) | 0ed612eb12 (-98) | 912395edfc (-75) | -294 |
+| **TOTAL** |  |  |  | **-1 167 (-28.1% vs baseline 4 145)** |
+
+**Vagues 4-5 dispatchées en parallele** (deleg_61c15033, 4 sub-agents) :
+- working dir: /Users/admin/work/Sites/{CU,EU,CNR,ENR}
+- plan vagues: /tmp/vagues-{repo}-post-v3.json
+- patcher canonique: apply_vague.py SHA 6ab04f4d8
+- regles strictes R8 (no dist/, no -es, no merge main, no --force, no invent prix/zone)
+
+**Apprentissages vagues 1+2+3 :**
+- Sub-agents vagues 2 lents/bloques (R3 STOP validation) — j'ai complete moi-meme EU (+75 patches) et CNR/ENR (commit working tree deja patche par sub-agent).
+- CNR vagues 2 : sub-agent a travaille sur fichiers hors plan vagues 2 (98 fichiers vs 100 plan) — patchs bonus valides, conserves.
+- ENR vagues 2 : idem, 97 fichiers (= 1 de moins que 100 plan) — bonus NO_RESOL inclus.
+- Decouverte sub-agent vagues 2 EU ENR : certains patches sont meilleurs que mon patcher (patch NO_RESOL direct via source-of-truth au lieu de fallback badge). A documenter comme evolution.
+
+Co-Authored-By: Claude (Fable 5 Sonnet) <noreply@anthropic.com>
