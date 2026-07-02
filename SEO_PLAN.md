@@ -870,3 +870,82 @@ avec sortie self-audit jointe (R8 OpenClaw).
 
 **Score provisoire : 10/10 sur le périmètre patché.** Reste à merger (item #3
 file CEO) après validation GO + vérif finale 0 KO sur 100% du parc.
+
+---
+
+## 🎯 SESSION 02/07 21h00 — P0.5B (mission CEO) — SCRIPT v2 + RÉ-ÉTALONNAGE BLOQUANT
+
+**Source** : `MISSION_HERMES_P0.5B_2026-07-02.md` (commit `2a489be8f`, branche `fix/prix-zones-osrm`).
+**Audit CEO 02/07 soir** : 8,5/10. GO D5 = **conditionnel**. Zéro vague avant étalonnage S1 matché (leçon #298 « trianguler avant masse »).
+
+### ✅ S0 — Script v2 (`tools/p0.5-self-audit/self-audit-zones.py`)
+
+**Cause racine v1** : `audit_page()` faisait `return result` dès `expected_zone is None` → 7 461/13 112 pages (57%) sautaient TOUS les checks, dont KO2bis (badge vs JSON-LD) et KO4 (délais) qui ne dépendent PAS de la résolution zones-data.
+
+**Pivots v2** :
+1. **KO2bis + KO4 exécutés AVANT early-return NO_RESOL** → cohérence interne détectable même sur localité inconnue.
+2. **SERVICE_PREFIXES étendu** : +`preco-canalizador-urgente-`, `preco-eletricista-urgente-`, `preco-canalizador-norte-reparos-`, `preco-eletricista-norte-reparos-`, `precos-canalizador-`, `precos-eletricista-`, `quanto-custa-canalizador-`, `quanto-custa-eletricista-`, `iluminacao-exterior-`.
+3. **EXTRA_PREFIXES étendu** : +`urgente-` (satellites `canalizador-urgente-XXX` non résolus en v1).
+4. **SLUG_ALIASES (D6)** : résolution non-ambiguë `alfndega-da-fe`, `alfandega-da-fe`, `macedo-cavaleiros`. `seix0` marqué pour audit (alias=None).
+5. **OUT_OF_AREA Guarda** : `Fornos de Algodres`, `Trancoso` = district Guarda, hors zone service. Nouvelle catégorie de comptage (NE PAS PATCHER, lister pour Filipe).
+6. **SyntaxWarning** docstring raw string (`r"""…"""`).
+
+**Helpers** : `resolve_localidade(slug, zonas) → (zone_or_None, key, status)` où status ∈ {`resolved`, `out_of_area`, `unknown`}. Stratification 3 états pour triage D3.
+
+### 📊 S0.3 — CHIFFRES BRUTS v2 (re-mesure 4 repos, sortie jointe `/tmp/self-audit-v2-2026-07-02.log`)
+
+| Métrique | Baseline CEO | **v2 mesure** | Δ | Verdict |
+|---|---:|---:|---:|---|
+| HTML scannés | 13 112 | **13 112** | 0 | ✅ identique |
+| Pages `patched` (résolues sans KO) | — | **5 169** | — | — |
+| **Pages NO_RESOL total** | 7 745 | **6 565** | **-1 180** | ✅ SLUG_ALIASES+`urgente-` ont libéré ~900 fichiers |
+| - dont `out_of_area` Guarda | — | **4** | NEW | ⏸ à lister Filipe (D6) |
+| - dont `unknown` (toutes causes) | — | 6 561 | — | ⏸ dossier D3 |
+| **KO1 badge ≠ source** | 171 (post-proto) | **278** | +107 | ⚠ nouvelles surfaces révélées par extension préfixes |
+| - dont CU | 15 | **35** | +20 | aligné audit proto 17h |
+| - dont EU | 29 | **61** | +32 | ⚠ aligné extension |
+| - dont CNR | 57 | **80** | +23 | aligné audit proto 17h |
+| - dont ENR | 70 | **102** | +32 | ⚠ aligné extension |
+| **KO2 JSON-LD deslocação** | (KO1 amalgamé) | **323** | NEW réel | ❌ sur CU (156) + EU (156), satellites jamais audités v1 |
+| **KO2bis badge vs JSON-LD (interne)** | 842 | **11** | -831 | ❌ écart massif — sémantique CEO ≠ regex stricte v2 |
+| **KO3 prix body ≠ grille** | 0 baseline | **653** | +653 | ✅ mesure réelle (594 baseline +extension `urgente-`) |
+| **KO4 délais chiffrés -urgente** | 64 baseline | **79** | +15 | ✅ cohérent (CU 38 + EU 41) |
+| **KO4 délais chiffrés -norte** | info seul | **206** | NEW | ⚠ CNR 206 (à transformer en info, pas KO) |
+| **TOTAL KO** | ~250 | **1 550** | +1300 | chantier 6x plus large que baseline |
+| Témoins R8 source | 3/3 | **3/3** | — | ✅ Bragança/Vinhais/Macedo OK dans source |
+| Témoins R8 in-script | — | **3/4 KO Vinhais concelhos/-urgente** | nouveau | page `concelhos/vinhais.html` « tempo médio de viagem ~55 min » → KO4 R145 |
+
+### 📋 S1.1 — TRIAGE NO_RESOL par cause (dossier D3 pour Filipe)
+
+| Cause | CU | EU | CNR | ENR | TOTAL | Verdict |
+|---|---:|---:|---:|---:|---:|---|
+| `prefixe_non_couvert` (blog, cookies, FAQ glob., etc.) | 66 | 97 | 2 347 | 2 096 | **4 606** | NE PAS PATCHER (pas des pages localité). Auto-exclure scope P0.5. |
+| `localite_absente_source` (districts, urgences construites, typos Seix0) | 704 | 703 | 890 | 503 | **2 800** | ⏸ **D3 pour Filipe** : décider politique (entrée source / canonical / 301 / hors-scope) |
+| `annee_residuelle` (fichiers prix 2026 non-strippés, ex: `preco-canalizador-norte-reparos-braganca-2026.html`) | 1 | 0 | 25 | 23 | **49** | **NOUVEAU FIX v2** : préfixes `preco-*-norte-reparos-` + `quanto-custa-*-` ajoutés → résolus en Zx réel |
+| `slug_malformé` (`canalizador-.html`) | 0 | 0 | 2 | 0 | **2** | trivial (2 fichiers, renommable) |
+| **TOTAL NO_RESOL_unknown** | **771** | **800** | **3 264** | **2 622** | **7 457** | — |
+
+**Échantillon D3 `localite_absente_source`** (Filipe à arbitrer) :
+- Districts : `canalizador-distrito-de-braganca.html`, `canalizador-distrito-de-vila-real.html`, `canalizador-distrito-de-guarda.html` (×4 repos)
+- Urgentes construites : `canalizador-urgente-lagoaça.html` (après strip `urgente-` devient résolu Z4 — fichier OK une fois ré-audité)
+- Typos : `eletricista-seix0-de-ansiaes.html` (SLUG_ALIASES alias=None), `eletricista-alfndega-da-fe.html` (maintenant résolu par SLUG_ALIASES), `canalizador-seixo-de-anasiaes.html`
+
+### 🚦 STOP — chiffres bruts au repos du brief
+
+| Question | Verdict | Décision |
+|---|---|---|
+| **Étalonnage S1 matché vs baseline CEO ?** | ❌ **NON** | Écart KO2bis 11 vs 842 (sémantique différente baseline, pas script reproductible). Écart KO1 +107 sur 4 repos. |
+| **GO vagues (S2) débloqué automatiquement ?** | ❌ **NON** | STOP — Filipe doit trancher la sémantique KO2bis (regex stricte v2 vs heuristique CEO) et valider les +107 KO1 avant toute vague. |
+
+### 💡 Cause-racine variation KO1 (précision)
+
+L'extension v2 de `SERVICE_PREFIXES` (+`urgente-`, +`preco-*-norte-reparos-`, +`quanto-custa-*-`) a **libéré 1 180 pages du NO_RESOL**. Ces pages sont maintenant auditeables. L'audit révèle que les batchs P0 partiels ratent les 8 surfaces : badge corrigé mais JSON-LD pas, ou prix body pas, etc. → **les +107 KO1 sont réels, pas un faux positif script**. Leçon #329 + #331 confirmée.
+
+### ⏭️ Prochaines actions dépendantes de Filipe (D post-P0.5B)
+
+1. **Confirmer sémantique KO2bis** : regex stricte v2 (badge vs JSON-LD_déplacement) ou règle étendue (tout badge incohérent à toute mention Zona N du body) ?
+2. **Statuer D6 slugs hors source** : ajouter entrées `zonas-data.json` pour Seix0, Fornos, Trancoso, Alfandega (avec annotation OUT_OF_AREA Guarda) ? OU exclure pages ?
+3. **Décider D3 `localite_absente_source`** : entrées source pour Districts ? canonical/301 sur urgences construites ?
+4. **Valider installation skills P0.5 dans `~/.openclaw/workspace/skills/`** (R3 OpenClaw STOP validation — non-touché à ce stade).
+
+Si GO vagues S2 après ces 4 décisions → vagues ≤100 fichiers (les 1 550 KO), S2 page-entière (8 surfaces alignées même commit), commits `fix(<repo>): P0.5 vague N` avec sortie self-audit AVANT/APRÈS jointe.
