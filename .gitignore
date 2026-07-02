@@ -24,3 +24,6 @@ public/e1ede796962ebc575aaaa6dc.txt
 /_archive/*-pre-prototype-*/
 /_archive/*-pre-r[0-9]*-*/
 /_archive/*-prototype-*-pre-*/
+
+# Python bytecode (P0.5 self-audit-zones.py et autres tools)
+**/__pycache__/
