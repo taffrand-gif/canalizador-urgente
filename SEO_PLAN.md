@@ -1017,3 +1017,109 @@ du MISSION_HERMES_P0.5B_2026-07-02.md.
 | | (b) Élargi = 4 145 KO2ter (toutes variantes) + reste (~5 488 KO) |
 
 Co-Authored-By: Claude (Fable 5 Sonnet) <noreply@anthropic.com>
+
+
+---
+
+## 🎯 SESSION 02/07 23h — S2/S3 GO (perimètre élargi CEO 9/10, règle permanente)
+
+**Décision CEO 22h45** (verbatim) :
+1. Périmètre vagues S2 = (b) élargi 4 145 KO2ter (pas CEO strict 828)
+2. D3 in-scope : patcher cohérence interne (KO2ter/KO4) sur les 2 800 NO_RESOL
+3. Page-entière : une page = tous ses KO corrigés même commit (regroupé)
+4. Ordre vagues par impact client visible :
+   - **Tier 1** : KO2ter body_vs_badge (CEO validé 828)
+   - **Tier 2** : KO1 badge ≠ source
+   - **Tier 3** : KO3 prix body ≠ grille
+   - **Tier 4** : KO4 -urgente (R145 délais chiffrés)
+   - **Tier 5** : KO2 JSON-LD deslocação
+   - **Tier 6** (bonus) : KO2ter zone_attendue + body_seul
+   - **Tier 7** : KO2bis (interne, gardé pour mémoire)
+
+**Règle permanente codée** dans `~/.hermes/skills/priority-gate/SKILL.md` :
+
+> Tu ne poses plus de question si l'action est RÉVERSIBLE (branche, commit
+> atomique, PR draft, self-audit joint, découpage vagues, alias non-ambigu,
+> patch cohérence interne). Tu décides, documentes « arbitrage : X parce que Y »
+> dans le commit + SEO_PLAN. STOP uniquement pour : irréversible (301, DNS,
+> merge main, prod), valeur métier introuvable source-of-truth (ne jamais
+> inventer prix/zone/délai), contradiction entre doctrines verrouillées, dépense.
+
+### Plan vagues v3 (généré par dédup S2.1, fichiers /tmp/vagues-<repo>.json)
+
+**Résumé global** :
+
+```
+Repo | Total pages | Total KO | Vagues | Vague 1 (tier, count)
+CU    |        1332 |     1464 |     17 | tier=1, count=100
+EU    |        1308 |     1444 |     17 | tier=1, count=100
+CNR   |        1181 |     1506 |     14 | tier=1, count=100
+ENR   |        1133 |     1281 |     15 | tier=1, count=100
+TOTAL |        4954 |     5695 |     63
+```
+
+**Périmètre total dédupliqué** : 4 954 pages uniques avec ≥1 KO, 5 695 KO détectés, ~63 vagues ≤100 fichiers.
+
+**Découpage CU** (extrait top 5) :
+
+- **CU** (1332 pages, 1464 KO, 17 vagues) :
+  - Vague  1 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  2 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  3 tier=1 (KO2ter_body_vs_badge) :  10 fichiers
+  - Vague  4 tier=2 (KO1_badge_zona) :  24 fichiers
+  - Vague  5 tier=3 (KO3_prix_body) : 100 fichiers
+  - ...
+  - Vague 16 tier=6 (KO2ter_zone_attendue_or_body_seul) : 100 fichiers
+  - Vague 17 tier=6 (KO2ter_zone_attendue_or_body_seul) :  39 fichiers
+
+- **EU** (1308 pages, 1444 KO, 17 vagues) :
+  - Vague  1 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  2 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  3 tier=1 (KO2ter_body_vs_badge) :   1 fichiers
+  - Vague  4 tier=2 (KO1_badge_zona) :  23 fichiers
+  - Vague  5 tier=3 (KO3_prix_body) : 100 fichiers
+  - ...
+  - Vague 16 tier=6 (KO2ter_zone_attendue_or_body_seul) : 100 fichiers
+  - Vague 17 tier=6 (KO2ter_zone_attendue_or_body_seul) :  16 fichiers
+
+- **CNR** (1181 pages, 1506 KO, 14 vagues) :
+  - Vague  1 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  2 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  3 tier=1 (KO2ter_body_vs_badge) :  11 fichiers
+  - Vague  4 tier=2 (KO1_badge_zona) :  72 fichiers
+  - Vague  5 tier=3 (KO3_prix_body) : 100 fichiers
+  - ...
+  - Vague 13 tier=6 (KO2ter_zone_attendue_or_body_seul) : 100 fichiers
+  - Vague 14 tier=6 (KO2ter_zone_attendue_or_body_seul) : 100 fichiers
+
+- **ENR** (1133 pages, 1281 KO, 15 vagues) :
+  - Vague  1 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  2 tier=1 (KO2ter_body_vs_badge) : 100 fichiers
+  - Vague  3 tier=1 (KO2ter_body_vs_badge) :   6 fichiers
+  - Vague  4 tier=2 (KO1_badge_zona) :  61 fichiers
+  - Vague  5 tier=3 (KO3_prix_body) : 100 fichiers
+  - ...
+  - Vague 14 tier=6 (KO2ter_zone_attendue_or_body_seul) : 100 fichiers
+  - Vague 15 tier=6 (KO2ter_zone_attendue_or_body_seul) :   5 fichiers
+
+### D3 in-scope (cohérence interne sans toucher au sort du contenu)
+
+- Sur 2 800 pages `localite_absente_source` (districts, urgences construites,
+  typos comme Seix0) : patcher **KO2ter_body_seul** (aligner body sur badge si
+  badge existe) et **KO4** sur -urgente (R145 délais).
+- Logger chaque page NO_RESOL patchée dans la liste D3 pour décision Filipe
+  ultérieure (suppression / 301 / canonical / entrée source).
+- Les 4 606 `prefixe_non_couvert` (blog, cookies, FAQ, concelhos/district) :
+  **non paginés dans les vagues S2** (hors-scope contenu, le sort est
+  D3 distinct).
+
+### Garde-fous inchangés (R8 OpenClaw)
+
+- Pas de `dist/` (md5 vérifié)
+- `-es.html` exclues
+- Offers JSON-LD service intacts (garder `price/availability` OfferedService)
+- Grille canonique informative intacte (Z1=15€..Z6=65€)
+- PR draft, pas de merge sans review (R7)
+- Self-audit AVANT/APRÈS joint à chaque commit (`fix(<repo>): P0.5 vague N`)
+
+Co-Authored-By: Claude (Fable 5 Sonnet) <noreply@anthropic.com>
