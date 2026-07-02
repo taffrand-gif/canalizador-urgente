@@ -1,6 +1,7 @@
 # MISSION HERMES P0.5B — CORRECTIF SCRIPT + VAGUES v2 — 2026-07-02 (soir)
 
-> Suite audit Claude/CEO 02/07 soir : **8,5/10** (baseline 6,5). Étalonnage KO1 FERMÉ
+> Suite audit Claude/CEO 02/07 soir : **9/10** (baseline 6,5 ; corrigé — les 5 SKILL
+> sont bien installés dans `~/.hermes/skills/`, l'audit avait cherché au mauvais endroit). Étalonnage KO1 FERMÉ
 > (ton script 57/70/15/29 = 171 = baseline 174 − 3 prototypes, per-repo exact — bravo).
 > **GO D5 = CONDITIONNEL** : Filipe a dit GO 02/07 soir, MAIS les vagues sont
 > dimensionnées sur des chiffres faux. Ordre strict S0→S4 ci-dessous. Zéro vague avant S2 validé.
@@ -34,8 +35,11 @@ pareil). 59% du parc jamais audité.
    `trancoso` = district Guarda, HORS zone de service → nouvelle catégorie
    `OUT_OF_AREA` (ne pas patcher, lister pour Filipe).
 4. Corriger le `SyntaxWarning` ligne 25 (raw string docstring).
-5. **Installer les 5 SKILL** dans `~/.openclaw/workspace/skills/` (actuellement
-   committés dans le repo seulement → tes futures sessions ne les chargent pas).
+5. **Synchroniser les 3 copies du script** — elles divergent déjà (17,4K vs 20,5K) :
+   `canalizador-urgente/tools/p0.5-self-audit/` (source canonique, committée),
+   `~/.openclaw/workspace/scripts/self-audit-zones.py`,
+   `~/.hermes/skills/self-audit-batch/scripts/self-audit-zones.py`.
+   Après v2 : même SHA sur les 3 (symlink vers la copie repo accepté).
 
 ## S1 — Ré-étalonnage (bloquant)
 
