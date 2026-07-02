@@ -203,6 +203,27 @@ grep -c "fala sempre com a mesma pessoa" index.html
 
 ---
 
+## 🔄 HISTORIQUE P0 (batch 04/07/2026) — Mission Hermes prix/zones OSRM (urgence)
+
+> **Mode** : autonomie Philippe sur le réversible. 2 STOP-durs : (1) QUALITÉ 4 prototypes validés avant batch, (2) merge main = STOP Filipe surtout CU/EU. **AGENTS.md §12** : JAMAIS merger main urgence sans STOP Filipe.
+> **Doctrine** : normalisation idempotente depuis `zonas-data.json` + GRILLE_CONCELHO. Regex NFD pour diacritiques. **Filtre ES strict** pour racines ES (suffixes: -sayago, -del-pan, -de-la-praderia, -aliste, etc.). R145 limité au bloc zone (D3).
+
+| # | SHA | Description |
+|---|----|-------------|
+| 1 | `cf4566d61` | Prototype Chaves : Z6+Z5→Z4 (incohérence interne), R145 'Sob marcação' retiré, prix 65€→45€ |
+| 2 | `584087675` | Vague 1 racine (36 fichiers, 60 ES exclus) |
+| 3 | `74e481bce` | Vague 2 racine (94 fichiers) |
+| 4 | `350ae43e6` | Vague 3 racine (95 fichiers) |
+| 5 | `8320a78b2` | Vague 4 racine (1 fichier) — **CU batch terminé** |
+
+**CU : 226 fichiers patchés.** 60 ES exclus (filtre strict suffixes espagnols). 70 NO_RESOL (typos + freguesias hors 914). Artefacts : `phase0-dryrun/CU_audit.{csv,json}` + sub-agent `deleg_a415b3d7` dryrun ES (`phase1-cu-eu-dryrun/CU_dryrun.json`).
+
+### Lien PR (à ouvrir — STOP Filipe avant merge)
+
+- CU : https://github.com/taffrand-gif/canalizador-urgente/pull/new/fix/prix-zones-osrm
+
+---
+
 ## 🔄 HISTORIQUE
 
 > **Format OBLIGATOIRE** : `| DATE | AGENT | TÂCHE | ACTION | JUSTIFICATION | RÉSULTAT | STATUT |`
