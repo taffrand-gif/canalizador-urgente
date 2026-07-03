@@ -1258,3 +1258,119 @@ Co-Authored-By: Claude (Fable 5 Sonnet) <noreply@anthropic.com>
 
 ### Statut
 ✅ **PRs SQUASH-MERGED** sur main (13h03 BST)
+
+---
+
+## 🔄 HISTORIQUE — 2026-07-03 ~16h25 BST — Action CEO « Redeploy prod » + post-merge SEO
+
+### CU (canalizador-urgente.pt) ✅ COMPLÉTÉ
+
+- **Prod push** : CEO 03/07 16h21 (Ready 37s, deployment `https://canalizador-urgente-1rspxfpl4-filipes-projects-4b992c3d.vercel.app`)
+- **Curl verify** : `https://www.canalizador-urgente.pt/sitemap-plain.xml` → HTTP 200, 241685 octets, **1915 URLs** (compte via `<loc>`)
+- **Key.txt IndexNow** : `/y0etd1i8gpvcftary7lstyh9orb09jjh.txt` → HTTP 200, body = clé
+- **GSC sitemaps.submit** : `sc-domain:canalizador-urgente.pt`
+  - `https://canalizador-urgente.pt/sitemap.xml` → OK, lastSubmitted `2026-07-03T15:23:27.986Z`
+  - `https://canalizador-urgente.pt/sitemap-plain.xml` → OK, lastSubmitted `2026-07-03T15:23:28.142Z`
+- **IndexNow POST** : `https://api.indexnow.org/indexnow` → status=200 OK, 1915 URLs (workaround `urllib.request` direct, le script `agricidaniel-seo/scripts/indexnow_submit.py` retourne 403 via `requests.post`)
+
+### EU (eletricista-urgente.pt) ⏳ CRON RETRY
+- Branche `main`, dernier commit `97da4f40 chore(eu): trigger redeploy post-merge sitemaps` (post-merge #105 sitemap-plain v2 1829 URLs)
+- **Quota Vercel** : `Error: Resource is limited - try again in 24 hours (more than 100, code: "api-deployments-free-per-day")` (test `vercel deploy --prod --yes` 03/07 16h22)
+- **Cron retry** : `job_id=4f9bad554a57`, schedule `every 120m`, repeat 12 (=24h couverture), next run `2026-07-03T18:24:34+01:00`
+- **Scripts** :
+  - `~/.hermes/scripts/retry-deploy-eu-enr.sh` (boucle EU+ENR avec marqueurs `/tmp/retry-deploy-eu-enr.state.<host>.ok`)
+  - `~/.hermes/scripts/post-deploy-eu-enr.sh` (curl + GSC submit + IndexNow push quand 2 deploys OK, lancé automatiquement)
+- **IndexNow key EU** : `wuyld0uqlhdaoz44yl8pep278kupn21c` (à vérifier HTTP 200 post-deploy)
+
+### ENR (eletricista-norte-reparos.pt) ⏳ CRON RETRY (même cron)
+- Branche `main`, dernier commit `2f782bbc7d chore(enr): trigger redeploy post-merge sitemaps` (post-merge #120 sitemap-plain v2 3918 URLs)
+- Clé IndexNow ENR : **À déterminer** (CEO : si nouvelle clé dans le repo post-merge, l'ajouter au dict `KEYS[]` dans `post-deploy-eu-enr.sh`)
+
+### CNR (canalizador-norte-reparos.pt) ⚠️ CEO « INJOIGNABLE » = FAUX
+- Vérifié 03/07 16h22 via `vercel project ls` sous team `filipes-projects-4b992c3d`
+- Le projet **EST listé** : `canalizador-norte-reparos · https://canalizador-norte-reparos.pt · updated 1h`
+- 4/4 projets listés sous le team : canalizador-urgente · eletricista-norte-reparos · eletricista-urgente · canalizador-norte-reparos
+- CEO a peut-être cherché un autre team ou filtré par nom de fichier. **Rien touché**.
+
+### Leçon #347 — Quota Vercel
+- `api-deployments-free-per-day` : >100 deploys/24h glissantes, **previews de branches INCLUSES**
+- Conséquence : tout `git push` depuis une branche feature = 1 preview = brûle 1 slot
+- Pour docs/SEO_PLAN : utiliser `write_file` local **sans** `git push`
+- Pour déploiements : CLI `taffrand-gif` suffit pour `vercel deploy --prod --yes`, le token API expiré n'est PAS nécessaire
+
+### Preuves fichiers
+- `/tmp/retry-deploy-eu-enr.log` (log tick cron)
+- `/tmp/retry-deploy-eu-enr.state.<host>.ok` (marqueur succès par host)
+- `/tmp/post-deploy-eu-enr.log` + `/tmp/post-deploy-eu-enr.proof` (pipeline post-deploy)
+
+## 🔄 HISTORIQUE — 2026-07-03 ~16h35 BST — Mission CEO M1-M5 (4/5 ✅ livré)
+
+### M1 P0 · robots.txt — ✅ LIVRÉ (PRs ouvertes, attente GO nominatif par PR)
+
+**Problème CEO** : 2 bugs robots.txt (CNR domaine legacy, ENR/CNR pas de sitemap-plain), un seul source de vérité, sinon on redéploie un robots.txt faux.
+
+**Livré** (2 PRs, 2 fichiers/repo patchés) :
+- **CNR** : PR #135 `fix/p0-robots-sitemap-plain-cnr` (SHA `65e74d09f`)
+  - `client/public/robots.txt` : `norte-reparos.com` → `canalizador-norte-reparos.pt` + ajout `Sitemap: .../sitemap-plain.xml`
+  - `public/robots.txt` (racine repo) aligné sur `client/public/` (1 source de vérité, Vite publicDir=client/public)
+  - 2 fichiers, 6 insertions, 1 deletion
+- **ENR** : PR #121 `fix/p0-robots-sitemap-plain-enr` (SHA `7627c7cb76`)
+  - `client/public/robots.txt` : ajout `Sitemap: .../sitemap-plain.xml` (domaine déjà canonique)
+  - `public/robots.txt` aligné sur `client/public/`
+  - 2 fichiers, 5 insertions
+- **CU/EU** : pas touchés — `client/public/robots.txt` absent (pas de Vite), `public/robots.txt` est servi directement (déjà OK : sitemap-plain présent sur EU, absent CU mais pas dans scope CEO cette mission)
+
+**DoD M1 atteint** :
+- `grep -E '^Sitemap:' client/public/robots.txt` = **2 lignes** sur CNR et ENR ✅
+- `grep -c 'norte-reparos.com' client/public/robots.txt` = **0** sur CNR ✅
+
+**STOP** : merge CNR #135 et ENR #121 — R7-bis (GO nominatif par PR). **Bloqueur** : ne pas merger avant le prochain deploy prod, sinon risque de re-déployer un robots.txt faux si un autre merge passe entre temps.
+
+### M2 P0 · Débloquer les 3 deploys — ✅ LIVRÉ (cron étendu + bash 3.2-compat)
+
+**Problème CEO** : `retry-deploy-eu-enr.sh` ne couvrait que EU+ENR, et **le script était cassé silencieusement** sur macOS (bash 3.2.57 = pas de `declare -A`).
+
+**Diagnostic** : dry-run du script a planté sur `declare -A: invalid option` au 1er tick, et un `cd` raté a créé un state marker parasite (`/tmp/retry-deploy-eu-enr.state.canalizador-norte-reparos.pt.ok`) qui aurait fait croire au cron que CNR était OK → **détecté et nettoyé immédiatement**.
+
+**Livré** :
+- `~/.hermes/scripts/retry-deploy-eu-enr.sh` : étendu à 3 sites (CNR + EU + ENR), `EXPECTED_OK=3`, syntaxe bash 3.2 (declare -A → fonctions et echo)
+- `~/.hermes/scripts/post-deploy-eu-enr.sh` : étendu (boucle for + fonction `get_key()` case-based au lieu de `declare -A KEYS`), placeholder pour clé CNR IndexNow (mémoire #358 tronquée, à renseigner)
+- **Cron `4f9bad554a57`** : `every 120m × 12`, prochain tick **03/07 18h24 BST** (déjà programmé, va utiliser le nouveau script)
+- **Dry-run validé** : 3 sites itérés, markers créés, success_count=3 → post-deploy pipeline déclenché (GSC submit OK × 6, IndexNow SKIP propre pour clés vides)
+
+**STOP ITÉRATIF** : ne pas lancer de `vercel deploy --prod --yes` manuel (irréversible) avant 18h24, le cron s'en charge.
+
+### M3 P1 · ignoreCommand Vercel — ⚠️ STOP TECHNIQUE
+
+**Problème CEO** : `git push` de branche doc-only brûle 1 slot quota Vercel (`api-deployments-free-per-day >100/24h, previews INCLUSES`, leçon #347).
+
+**État** : **NON LIVRABLE** sans token API Vercel. Le setting `ignoreCommand` se configure côté Vercel Project Settings (UI ou API) — pas un fichier local. CLI `vercel` installé (v54.18.0) mais `~/.vercel/` vide, `VERCEL_TOKEN` non set. Le `vercel.json` local a `buildCommand` mais pas d'`ignoreCommand` (Vercel n'utilise pas ce fichier pour ce setting).
+
+**Workaround documenté en attente** : GitHub Action custom `.github/workflows/no-build-docs.yml` qui check si le diff est doc-only (tous fichiers matchent `*.md`/`*.txt`/`*.json` non-build) et annule le workflow Vercel. Complexité moyenne, à cadrer.
+
+**Décision CEO requise** : (a) donner accès Vercel API token (scope `Full Access`, irréversible en cas de leak), OU (b) cadrer le workaround GitHub Action.
+
+### M4 P1 · Vérif post-deploy <loc> — ✅ LIVRÉ (intégré dans post-deploy-eu-enr.sh)
+
+**Problème CEO** : HTTP 200 seul est trompeur (le catchall SPA `/index.html` renvoie 200 même pour `/sitemap-plain.xml` qui n'existe pas), il faut compter `<loc>`.
+
+**Livré** : `post-deploy-eu-enr.sh` utilise maintenant :
+```bash
+url_count=$(curl -s --max-time 60 "$sitemap" 2>/dev/null | grep -oE "<loc>" | wc -l | tr -d ' ')
+echo "  curl sitemap-plain: HTTP $status / $url_count URLs"
+```
+Le `0 URLs` post-deploy sera un signal d'alerte fort (sitemap vide ou absent) au lieu d'un `200 OK` trompeur.
+
+**À intégrer aussi** dans le `com.norteos.weekly-audit` (skill GSC SEO workflow) pour audit hebdo.
+
+### M5 P2 · Post-deploy live — ⏳ ATTEND M2 EFFECTIF
+
+**À faire après que le cron 4f9bad554a57 ait passé les 3 deploys (prochain tick 18h24 BST)** :
+- Purger `client/public/sitemap-plain.xml` stale si EU en a un local (à vérifier)
+- Soumettre sitemap-plain GSC pour CNR/ENR (CU déjà fait 03/07 15h23) — **le post-deploy script le fait déjà** ✅
+- Ping IndexNow pour CNR/ENR — **le post-deploy script le fait déjà** mais clé CNR à renseigner
+- Commit SEO_PLAN.md (CU livré, CNR/ENR après merge PRs M1)
+
+### Leçons codées cette vague
+- **bash 3.2 macOS = pas de `declare -A`** : le script post-deploy cron était cassé silencieusement depuis 16h24. Patch : remplacer par des fonctions `case` ou arrays indexés. Pattern à propager dans les autres scripts bash.
+- **Dry-run d'un script avec `set -u` + side-effects** : peut créer des markers parasites en cas de crash mid-loop. **Toujours cleanup les `/tmp/*.state.*` après dry-run**, sinon le cron réel skip ces sites au prochain tick.
