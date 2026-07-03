@@ -62,6 +62,8 @@ while IFS= read -r f; do
     docs/**|docs/*) continue ;;
     .openclaw/**|.openclaw/*) continue ;;
     SEO_PLAN.md|CLAUDE.md|AGENTS.md|AGENTS_LOCAL.md) continue ;;
+    # Sitemaps = metadata SEO servie statique par Vercel, pas rebuild code
+    sitemap*.xml|sitemap*.txt|sitemap*.xml.gz) continue ;;
     # JSON safe (metadata, configs hors-build)
     *.json)
       case "$f" in
