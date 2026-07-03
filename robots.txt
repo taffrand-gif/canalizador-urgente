@@ -50,3 +50,4 @@ Sitemap: https://canalizador-urgente.pt/sitemap.xml
 # Default
 User-agent: *
 Allow: /
+Sitemap: https://canalizador-urgente.pt/sitemap-plain.xml
