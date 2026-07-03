@@ -1151,3 +1151,54 @@ Co-Authored-By: Claude (Fable 5 Sonnet) <noreply@anthropic.com>
 - Decouverte sub-agent vagues 2 EU ENR : certains patches sont meilleurs que mon patcher (patch NO_RESOL direct via source-of-truth au lieu de fallback badge). A documenter comme evolution.
 
 Co-Authored-By: Claude (Fable 5 Sonnet) <noreply@anthropic.com>
+
+
+---
+
+## 🆕 CLOSE 03/07 13h00 BST — U4 urgency baseline posée, hub mort CU identifié
+
+### U4 urgence CU — baseline scout `u4_m1_scout_urgency.py` 12h45 BST (read-only, 1s)
+
+**Mesures chiffrées** :
+
+| Métrique | CU |
+|---|---:|
+| Pages root (toutes .html à la racine repo) | 2047 |
+| Orphelines (0 lien entrant interne) | 276 (13.5%) |
+| …dont slugs accentués (ç, ã, é…) | 180 |
+| Doublons accentué↔plain (ex: lagoaça.html + lagoaca.html) | 27 paires |
+| Pages <3 liens sortants | 67 |
+
+**Triangulation vs sonde CEO** : alignement parfait sur `180` slugs accentués orphelins.
+
+**Artefacts produits** (`_audit/u4/`) :
+- `U4_M1_urgency_canalizador-urgente_baseline.csv` (276 KB)
+- `U4_M1_urgency_canalizador-urgente_baseline.json` (851 KB)
+- `U4_M1_urgency_canalizador-urgente_orphans.csv` (33 KB) — 276 orphelins listés
+- `U4_M1_urgency_canalizador-urgente_D7_accent_dups.csv` (2.9 KB) — 27 paires doublons
+- `u4_m1_scout_urgency.py` (17 KB) — script canonique réutilisable
+
+### Gisement U4 CU caractérisé
+
+1. **180 orphelins accent** (cassé pur, générateur référence plain-only) → Vague O.1 « Veja também ».
+2. **40 plain préfixe `urgente-<ville-accent>`** (urgente-são, urgente-póvoa…) → même traitement.
+3. **33 `blog/*` orphelins** → liens contextuels depuis pages service correspondantes.
+4. **22 hubs morts CU** identifiés par le scout (pépite non présumée) :
+   - **11 `concelhos/<ville>.html`** (alijo, chaves, lamego, macedo-de-cavaleiros, miranda-do-douro, mirandela, mogadouro, montalegre, peso-da-regua, valpacos, vimioso)
+   - **11 `preco-canalizador-urgente-<ville>-2026.html`** (Bragança, Mirandela, Chaves, Vila Real + autres concelhos)
+   → **Vague O.2 dédiée** AVANT Vague O.1 (réactivation hubs type U4-M1 CNR/ENR strict : hub ↔ aldeias).
+5. **`_archive/`** (24 orphelins) → périmètre mort, EXCLURE.
+6. **27 paires doublons accent** = **D7 STOP** (301 = irréversible, décision CEO).
+
+### Décisions CEO cumulées
+
+- **D3** (6561 NO_RESOL fallback concelho) : U4+ ✓
+- **D4** (avis client réel) : BLOQUÉ
+- **D6** (Trancoso + Fornos) : préservés intacts
+- **D7** (27 doublons accent, CSV prêt) : **À TRANCHER — 301 = STOP**
+
+### Prochain front (Vague O à démarrer nouvelle session)
+
+- **Vague O.2** : réactiver 22 hubs CU + hubs EU équivalents (si présents).
+- **Vague O.1** : `u4_patcher_orphan_inlinks.py` (idempotent, 3 liens max par page, ancres descriptives, commentaire HTML marqueur, avant footer).
+- Standards : vagues ≤100, compteur liens AVANT/APRÈS par commit, PRs attente GO nominatif.
