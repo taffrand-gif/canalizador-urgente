@@ -51,3 +51,5 @@ Sitemap: https://canalizador-urgente.pt/sitemap.xml
 User-agent: *
 Allow: /
 Sitemap: https://canalizador-urgente.pt/sitemap-plain.xml
+
+# Redeploy trigger 2026-07-03 16:06:25
