@@ -62,8 +62,11 @@ while IFS= read -r f; do
     docs/**|docs/*) continue ;;
     .openclaw/**|.openclaw/*) continue ;;
     SEO_PLAN.md|CLAUDE.md|AGENTS.md|AGENTS_LOCAL.md) continue ;;
-    # Sitemaps = metadata SEO servie statique par Vercel, pas rebuild code
-    sitemap*.xml|sitemap*.txt|sitemap*.xml.gz) continue ;;
+    # NOTE: sitemap*.xml whitelist RETIRÉ 2026-07-03 — pour SPA Vite (CNR/ENR)
+    # les sitemaps vivent dans client/public/ et sont servis depuis le dernier
+    # build. Whitelister = pas de deploy = fichier jamais re-servi. Le push
+    # sitemap doit déclencher un deploy (quota Vercel). Cas CU/EU (statique HTML)
+    # idem : whitelist inactive.
     # JSON safe (metadata, configs hors-build)
     *.json)
       case "$f" in
