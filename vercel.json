@@ -1433,6 +1433,17 @@
   ],
   "redirects": [
     {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.canalizador-urgente.pt"
+        }
+      ],
+      "destination": "https://canalizador-urgente.pt/:path*",
+      "permanent": true
+    },
+    {
       "source": "/es",
       "destination": "/",
       "statusCode": 410
