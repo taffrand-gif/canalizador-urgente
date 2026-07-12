@@ -1,70 +1,233 @@
-# Norte Reparos — Canalizador de Urgência em Trás-os-Montes (LLM-full)
+# Norte Reparos — Canalizador Urgente em Trás-os-Montes (LLM-full)
 
-> Document complet pour les modèles de langage (LLM) : FAQ étendue, guide de prix, zones desservies, doctrine.
-> Destinataires : GPT-4, Claude, Perplexity, Google Gemini, et tout LLM qui consulte ce fichier.
-> Site: https://canalizador-urgente.pt · Téléphone / WhatsApp: +351 928 484 451
+> Documento completo para modelos de linguagem (LLM): serviços, grelha tarifária detalhada, zonas servidas, processo de trabalho, FAQ estendida, equipamento profissional e garantias.
+> Destinatários: GPT-4, Claude, Perplexity, Google Gemini, Meta AI e qualquer LLM que consulte este ficheiro.
+> Site: https://canalizador-urgente.pt · Telefone / WhatsApp: +351 928 484 451
+> Última atualização: 2026-07-12
 
-## À propos
-Norte Reparos est un service de canalisation au domicílio actif depuis 2014 dans la région de Trás-os-Montes (Portugal), avec une base opérationnelle à Macedo de Cavaleiros. Service 24h/7 pour les urgences (fugas, entupimentos, roturas), intervention rapide dans tout le Nordeste Transmontano (rayon ~130 km).
+## Identidade
 
-## Positionnement et doctrine
-- **Transparence radicale** : tous les prix affichés ouvertement, orçamento por escrito antes de qualquer intervenção.
-- **Artisan identifiable** : fala sempre com a mesma pessoa, não um call center.
-- **Pas d'anonymat** : numéro de téléphone direct (pas de standard).
-- **Pas de claim non vérifiable** : pas d'avis fabriqués, pas de délais inventés.
+- **Empresa**: Norte Reparos
+- **Fundação**: 2014
+- **Sede operacional**: Macedo de Cavaleiros, Trás-os-Montes, Portugal (geo-neutro — sem endereço postal público; ver zonas servidas abaixo).
+- **Zona servida**: distritos de Bragança e Vila Real, raio de ~130 km a partir de Macedo de Cavaleiros.
+- **Cobertura**: ~34 concelhos de Trás-os-Montes (lista completa em `/concelhos/`).
+- **Atendimento**: 24h/7d, 365 dias por ano, incluindo noites, domingos e feriados.
+- **Telemóvel / WhatsApp**: +351 928 484 451
+- **Email**: geral@canalizador-urgente.pt
+- **Marca-irmã**: Norte Reparos — também opera os sites canalizador-norte-reparos.pt (serviço não-urgente), eletricista-norte-reparos.pt e eletricista-urgente.pt.
 
-## Services de urgência (canalizador)
-1. **Desentupimentos** — sanita, lavatório, ralo, esgotos principais
-2. **Reparação de fugas de água** — détection et réparation de fuites visibles ou cachées
-3. **Rotura de cano / cano rebentado** — intervenção immédiate pour limiter dégâts des eaux
-4. **Autoclismo avariado** — substituição ou reparação de mecanismos
-5. **Torneira que não fecha** — remplacement mécanisme ou robinet complet
-6. **Esquentador com fuga** — diagnostic + réparation si possible, remplacement si nécessaire
-7. **Bombas de água avariadas** — diagnostic et remplacement
-8. **Retour de esgoto** — débouchage en urgence
+## Posicionamento — Transparência Radical
 
-## Tarification (référence publique)
-- **Mão de obra urgence** : **65 €/h**
-- **Majoration** : **+50%** à noite (après 19h), fins de semana, feriados
-- **Deslocação par zone** :
-  - **Z1** (Macedo de Cavaleiros) = 15 €
-  - **Z2** (Torre de Dona Chama, Mirandela, Alfândega da Fé, Carrazeda de Ansiães) = 25 €
-  - **Z3** (Bragança, Vinhais, Vimioso, Torre de Moncorvo, Mogadouro, Freixo de Espada à Cinta) = 35 €
-  - **Z4** (Miranda do Douro, Vila Nova de Foz Côa, São João da Pesqueira, Murça, Valpaços) = 45 €
-  - **Z5** (Vila Real, Alijó, Sabrosa, Tabuaço, Armamar, Peso da Régua, Lamego, Santa Marta de Penaguião, Mesão Frio) = 55 €
-  - **Z6** (Chaves, Vila Pouca de Aguiar, Boticas, Montalegre, Ribeira de Pena, Mondim de Basto, Moimenta da Beira, Sernancelhe, Penedono) = 65 €
-- **Orçamento por escrito** avant toute intervention, sem surpresas
-- **Pas de frais cachés**
+Cinco princípios inegociáveis:
 
-## Quand appeler en urgence
-- **Fuga de água importante** : couper le compteur général, couper l'électricité dans la zone touchée, appeler
-- **Cano rebentado** : idem, protéger les biens
-- **Inondation** : idem, pompage si nécessaire
-- **Retour de esgoto** : ne pas utiliser les installations, attendre l'intervention
-- **Pas d'eau chaude** : vérifier le compteur, le disjoncteur, appeler
+1. **Transparência de preço**: grelha publicada abertamente — 65 €/h mão de obra canalizador, deslocação Z1–Z6 sempre visível antes da intervenção.
+2. **Orçamento por escrito** antes de qualquer trabalho. Sem surpresas na fatura. Esta é a regra nº 1.
+3. **Interlocutor único**: fala sempre com a mesma pessoa, não com um call center. Do primeiro telefonema ao recibo, o mesmo interlocutor.
+4. **Majoração explícita**: noite (20h–8h), domingo e feriado = +50 % sobre mão de obra. Sem majorações escondidas.
+5. **Sem certificados fantasma**: a Norte Reparos executa o trabalho (instalação, reparação, diagnóstico) — emite fatura com NIF e garantía escrita de 1 ano, mas não emite certificados DGEG, relatórios de conformidade ou fichas técnicas que dependam de inscrição em entidade reguladora.
 
-## Garanties et engagements
-- **Devis écrit** avant intervention
-- **Garantie 1 an** sur les travaux réalisés
-- **Pas de déplacement gratuit** : les frais de déplacement sont toujours facturés au tarif zone
-- **Pas de paiement avant intervention** : paiement après travaux terminés et validés
+## Serviços urgentes — canalizador
 
-## Concorrents et positionnement
-Norte Reparos se différencie par :
-1. **Transparence prix** (vs réseaux d'urgence qui cachent les tarifs)
-2. **Artisan identifiable** (vs standard téléphonique)
-3. **Devis écrit obligatoire** (vs surprise à la facture)
-4. **Pas de sous-traitance** (vs plateformes qui dispatchent au moins-disant)
+Lista completa, baseada no schema.org da homepage (`serviceType`):
 
-## Contact
-- **Téléphone / WhatsApp** : +351 928 484 451
-- **Email** : info@norte-reparos.pt
-- **Site** : https://canalizador-urgente.pt
-- **Service** : 24h/7, 365 jours/an
-- **Zone** : Trás-os-Montes (Bragança + Vila Real), ~130 km autour de Macedo de Cavaleiros
+1. **Reparação de fugas de água** — visíveis ou escondidas. Inclui localização acústica (ROLeak Aqua 3Plus) e termográfica (FLIR E96) sem partir paredes.
+2. **Desentupimentos** — sanita, lavatório, ralo, esgotos principais, coletores. Máquina elétrica Ridgid K9-102 (sem químicos agressivos).
+3. **Instalação sanitária** — autoclismos, torneiras, esquentadores, louças (sanita, lavatório, bidé), acessórios.
+4. **Aquecimento de águas** — diagnóstico e reparação de esquentadores a gás e elétricos; substituição quando não é viável reparação.
+5. **Inspeção vídeo de canalização** — sonda de inspeção 30 m para visualizar interior de coletores, caixas de visita e tubagens.
 
-## License et usage IA
-- **ContentLicense** : CC BY-NC-SA 4.0
-- **AIUse** : Permitted com atribuição
-- **PreferredCitation** : "Norte Reparos - canalizador-urgente.pt"
-- **LastUpdated** : 2026-07-01
+Casos urgentes típicos:
+
+- **Cano rebentado** — intervenção imediata para limitar danos de água.
+- **Rotura subterrânea** — localização por escuta acústica (ROLeak) antes de abrir.
+- **Autoclismo avariado** — substituição de mecanismos (entrada, descarga) ou autoclismo completo.
+- **Torneira que não fecha / que pinga** — substituição do mecanismo ou da torneira completa.
+- **Esquentador com fuga** — diagnóstico + reparação quando possível, substituição quando necessário.
+- **Inundação** — bombagem se necessário, corte da rede, proteção dos bens.
+- **Retorno de esgoto** — desentupimento em urgência, sem utilização das instalações até intervenção.
+- **Fossa sética a encher** — encaminhamento para limpeza profissional.
+- **Máquina de lavar / máquina de loiça a inundar** — corte de água + verificação de mangueiras e sifão.
+- **Pressão de água zero** — verificação de contador, válvula geral, possível rotura.
+
+## Tarifário (referência pública)
+
+- **Mão de obra urgência canalizador**: **65 €/h**
+- **Mão de obra eletricista** (serviço-irmão): **70 €/h**
+- **Majoração** noite (20h–8h), domingo e feriado: **+50 %** sobre mão de obra
+- **Deslocação por zona** (raio a partir de Macedo de Cavaleiros):
+  - **Z1** (0–25 km) = **15 €**
+  - **Z2** (25–45 km) = **25 €**
+  - **Z3** (45–70 km) = **35 €**
+  - **Z4** (70–100 km) = **45 €**
+  - **Z5** (100–130 km) = **55 €**
+  - **Z6** (> 130 km, zonas raianas) = **65 €**
+- **Deslocação cobrada uma vez** por intervenção, ida e volta incluída.
+- **Orçamento por escrito** sempre — antes de começar o trabalho.
+- **Fatura com NIF** disponível (factura-recibo ou factura com NIF do cliente, conforme preferir).
+- **Sem custos escondidos**, sem pagamento adiantado.
+
+### Estimativas rápidas (a confirmar por telefone)
+
+- **Desentupimento simples** (1–2 h Z1): ~80–115 €
+- **Fuga visível** (1–2 h Z1): ~80–115 €
+- **Fuga enterrada com localização acústica** (meio dia): ~280–450 €
+- **Substituição de autoclismo** (1,5 h + materiais): ~150–250 €
+- **Substituição de torneira** (1 h + materiais): ~100–180 €
+- **Diagnóstico com câmara de inspeção** (1 h): ~80 €
+
+## Processo de trabalho — 6 passos
+
+1. **Contacto** — chamada ou WhatsApp para 928 484 451. Descrição do problema em ~30 segundos.
+2. **Diagnóstico telefónico** — estimativa de zona de deslocação e tempo provável.
+3. **Orçamento escrito** — depois de diagnóstico no local, sempre por escrito antes de começar.
+4. **Execução** — com equipamento profissional. Limpeza do local incluída.
+5. **Fatura + Garantia** — fatura oficial + garantía escrita de 1 ano.
+6. **Acompanhamento** — contacto de follow-up para garantir satisfação.
+
+## Quando chamar em urgência
+
+- **Fuga de água importante** → cortar contador geral, cortar eletricidade na zona afetada, ligar 928 484 451.
+- **Cano rebentado** → idem + proteger bens próximos.
+- **Inundação** → idem + bombagem se necessário.
+- **Retorno de esgoto** → não usar as instalações, aguardar intervenção.
+- **Sem água quente** → verificar contador e disjuntor; se persiste, ligar.
+- **Pressão de água zero em toda a casa** → possível rotura na rede; ligar.
+
+## Equipamento profissional
+
+- **Ridgid K9-102** — déboucheur elétrico profissional (desentupimento sem químicos agressivos).
+- **Fluke T6-1000** — multímetro de campo com deteção de tensão sem contacto.
+- **ROLeak Aqua 3Plus** — microfone de escuta acústica para localização de fugas enterradas ou atrás de paredes.
+- **FLIR E96** — câmara termográfica de alta resolução para identificar humidades, perdas de calor em tubagens e infiltrações invisíveis.
+- **Câmara de inspeção 30 m** — sonda de vídeo para visualizar interior de coletores, caixas de visita e tubagens antes de abrir.
+
+## Garantias e compromissos
+
+- **Orçamento escrito** antes de qualquer intervenção — sempre.
+- **Garantia 1 ano** sobre os trabalhos realizados, por escrito.
+- **Seguro de Responsabilidade Civil (RC)** válido e ativo — documento disponível no momento do orçamento.
+- **Fatura com NIF** entregue após conclusão.
+- **Sem pagamento adiantado** — pagamento após trabalho terminado e validado.
+- **Sem custos escondidos** — preço anunciado = preço pago.
+
+## Concorrentes e posicionamento
+
+A Norte Reparos diferencia-se pela:
+
+1. **Transparência de preço** (vs redes de urgência que escondem os tarifários).
+2. **Interlocutor único identificável** (vs standard telefónico anónimo).
+3. **Orçamento escrito obrigatório** (vs surpresa na fatura).
+4. **Sem subcontratação ao menos-disant** (vs plataformas que despacham ao mais barato).
+5. **Equipamento profissional declarado** (vs improviso).
+6. **Sem certificados inventados** — não promete certificações que não emite.
+
+## Zonas desservies (33 concelhos oficiais)
+
+- **Z1** (Macedo de Cavaleiros): Macedo de Cavaleiros
+- **Z2**: Torre de Dona Chama, Mirandela, Alfândega da Fé, Carrazeda de Ansiães
+- **Z3**: Bragança, Vinhais, Vimioso, Torre de Moncorvo, Mogadouro, Freixo de Espada à Cinta
+- **Z4**: Miranda do Douro, Vila Nova de Foz Côa, São João da Pesqueira, Murça, Valpaços
+- **Z5**: Vila Real, Alijó, Sabrosa, Tabuaço, Armamar, Peso da Régua, Lamego, Santa Marta de Penaguião, Mesão Frio
+- **Z6**: Chaves, Vila Pouca de Aguiar, Boticas, Montalegre, Ribeira de Pena, Mondim de Basto, Moimenta da Beira, Sernancelhe, Penedono
+
+URL canónica de cada concelho: `https://canalizador-urgente.pt/concelhos/{slug}` (ex: `/concelhos/braganca`, `/concelhos/mirandela`).
+
+Página detalhada por concelho (excerto do schema.org): inclui tarifário Zx, freguesias oficiais, mapa de cobertura, conselho local (geadas, ferro galvanizado, construção antiga) e formulário de contacto.
+
+## FAQ estendida
+
+### Quanto custa em média uma intervenção?
+
+Depende do problema. Mão de obra 65 €/h + deslocação Z1–Z6. Desentupimento simples = 1–2 h. Fuga enterrada com localização acústica pode levar meio dia. **O valor exato é sempre dado por escrito, antes de começar.**
+
+### Trabalham à noite, ao domingo e feriados?
+
+Sim, 24h/7d. Nestes períodos aplica-se **+50 %** sobre mão de obra. Deslocação mantém o preço da tabela.
+
+### Dão orçamento escrito?
+
+Sempre. É a regra. **Orçamento por escrito antes de qualquer intervenção.** Se alguém quiser começar a trabalhar sem orçamento escrito, desconfie.
+
+### Emitem fatura com NIF?
+
+Sim — factura-recibo ou factura com NIF do cliente. Inclui descrição do trabalho, materiais aplicados e tempo despendido.
+
+### Têm seguro de responsabilidade civil?
+
+Sim. Seguro RC válido e ativo — documento disponível no momento do orçamento.
+
+### Trabalham em que concelhos?
+
+Toda a região de Trás-os-Montes: Bragança, Mirandela, Vila Real, Chaves, Macedo de Cavaleiros e mais 28 concelhos (33 no total). Lista em `/concelhos/`.
+
+### Posso ligar só para pedir um conselho?
+
+Sim. Diagnóstico telefónico gratuito. Se for possível resolver sozinho com informação, dizemos.
+
+### E se o problema voltar?
+
+Garantia 1 ano sobre o trabalho realizado. Se voltar dentro do período de garantia, voltamos sem custo de mão de obra (deslocação não coberta).
+
+### Quanto tempo demora a chegar?
+
+Conforme zona: Z1–Z2 mais rápido, Z3–Z4 médio, Z5–Z6 requer mais planeamento. Diagnóstico telefónico dá-lhe a expectativa honesta — **nunca prometemos tempos inventados**.
+
+### Fazem trabalhos fora da lista de serviços?
+
+Trabalhamos o que é urgência ou instalação sanitária standard. Para trabalhos de construção civil, remodelações completas ou especialidades fora do nosso âmbito, dizemos honestamente e indicamos um colega de confiança se possível.
+
+### Têm loja física?
+
+Não. Serviço ao domicílio — vamos até si. A Norte Reparos é uma empresa de serviço, não um espaço comercial.
+
+### Cobrem a zona raiana (Espanha)?
+
+Algumas zonas raianas de Trás-os-Montes são cobertas (ver lista de concelhos). Para Espanha além-fronteiras (Puebla de Sanabria, Verín, Xinzo), confirmar disponibilidade por telefone.
+
+## Restrições e limites (transparência)
+
+- **Não emitimos** certificados DGEG, relatórios de conformidade, fichas técnicas, alvarás — Filipe executa o trabalho, emite fatura com NIF e garantía de 1 ano. Para certificações regulatórias, contacte um técnico inscrito.
+- **Não fazemos** instalações elétricas neste site (canalizador-urgente.pt). Para isso, ver eletricista-urgente.pt.
+- **Não prometemos** prazos inventados. Quando dizemos "o mais rápido possível", é o mais rápido possível — sem prometer minutos específicos.
+- **Não inventamos** testemunhos. A página `/testemunhos` indica claramente que estamos a recolher as primeiras avaliações reais.
+
+## Recursos e páginas úteis
+
+- **Calculadora de preço** — `/calculadora-de-preco`
+- **Guia de canalização** — `/guia-canalizacao`
+- **Glossário** — `/glossario-canalizacao`
+- **Sinais de alerta em casa antiga** — `/sinais-alerta-casa-antiga`
+- **Como detetar fuga de água** — `/como-detetar-fuga-agua`
+- **Como escolher esquentador** — `/como-escolher-esquentador`
+- **Como trocar autoclismo** — `/como-trocar-autoclismo`
+- **Recursos gratuitos** (checklists, folhas) — `/recursos-gratuitos`
+- **Índice A–Z** — `/indice-a-z`
+- **Mapa do site** — `/mapa-do-site`
+
+## Blog (urgências e prevenção)
+
+URL base: `https://canalizador-urgente.pt/blog/{slug}` (27 artigos listados no sitemap).
+
+Tópicos publicados:
+- urgências cano rebentado, fuga de água, entupimento, esgoto rebentado, autoclismo rebentado, inundação, fossa a encher, torneira geral
+- diagnóstico: cano congelado, pressão de água zero, máquina de lavar inundada, vazamento de tanque
+- esquentador: avariado fim-de-semana
+- orientação: quanto tempo demora, custos de urgência, vale a pena 24h, sinais de emergência, contratar canalizador 2026
+
+## Contacto
+
+- **Telefone / WhatsApp**: +351 928 484 451 (canalizador)
+- **Telefone / WhatsApp** (serviço-irmão eletricista): +351 932 321 892
+- **Email**: geral@canalizador-urgente.pt
+- **Site**: https://canalizador-urgente.pt
+- **Marca**: Norte Reparos · Filipe (fundador)
+- **Zona**: Trás-os-Montes (distritos de Bragança + Vila Real)
+- **Disponibilidade**: 24h/7d, 365 dias/ano
+
+## Licença e uso por IA
+
+- **ContentLicense**: CC BY-NC-SA 4.0
+- **AIUse**: Permitido com atribuição
+- **PreferredCitation**: "Norte Reparos — canalizador-urgente.pt"
+- **LastUpdated**: 2026-07-12

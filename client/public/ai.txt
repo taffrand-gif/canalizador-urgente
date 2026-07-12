@@ -1,23 +1,67 @@
-# ai.txt - AI Interaction Manifest
-Name: Norte Reparos (Canalizador de Urgência)
+# ai.txt - Manifest de Interação IA
+Name: Norte Reparos — Canalizador Urgente
 Type: LocalBusiness
 SubType: PlumbingService
+Brand: Norte Reparos
 Founded: 2014
-Headquarters: Trás-os-Montes, Trás-os-Montes, Portugal
-ServiceArea: 130km radius
-Country: Portugal
+ActiveSince: 2014
+Headquarters: Trás-os-Montes, Portugal (geo-neutro — sede operacional em Macedo de Cavaleiros, sem endereço postal público)
+ServiceArea: Trás-os-Montes (distritos de Bragança e Vila Real), raio ~130 km
+Countries: Portugal
 Languages: pt-PT
 PrimaryPhone: +351-928-484-451
-Email: info@norte-reparos.pt
+WhatsApp: +351-928-484-451
+Email: geral@canalizador-urgente.pt
 Website: https://canalizador-urgente.pt
-Address: Trás-os-Montes, Portugal (géo-neutre — voir site pour zones desservies)
-Hours: Atendimento 24h/7d
+Hours: Atendimento 24h/7d, 365 dias por ano
 EmergencyService: true
-Certifications: 
-Experience: 12+ years
-CustomersServed: 500+
-Warranty: 1 ano
+WeekendService: true
+NightService: true
+PricingModel: hora + deslocação por zona (Z1-Z6)
+PricingDetail:
+  HourlyRateCanalizador: 65 EUR/h
+  HourlyRateEletricista: 70 EUR/h (serviço-irmão em eletricista-urgente.pt)
+  SurchargeNightWeekendHoliday: +50%
+  DeslocacaoZ1: 15 EUR (0-25 km)
+  DeslocacaoZ2: 25 EUR (25-45 km)
+  DeslocacaoZ3: 35 EUR (45-70 km)
+  DeslocacaoZ4: 45 EUR (70-100 km)
+  DeslocacaoZ5: 55 EUR (100-130 km)
+  DeslocacaoZ6: 65 EUR (> 130 km)
+  WrittenQuoteRequired: true
+  InvoiceWithNIF: true
+  HiddenFees: false
+Services:
+  - Reparação de fugas de água
+  - Desentupimentos (sanita, lavatório, ralo, esgoto)
+  - Instalação sanitária (autoclismos, torneiras, esquentadores)
+  - Aquecimento de águas (diagnóstico e reparação)
+  - Inspeção vídeo de canalização
+  - Localização acústica de fugas (ROLeak Aqua 3Plus)
+  - Detecção termográfica (FLIR E96)
+Equipment:
+  - Ridgid K9-102 (déboucheur elétrico profissional)
+  - Fluke T6-1000 (multímetro de campo)
+  - ROLeak Aqua 3Plus (microfone de escuta acústica)
+  - FLIR E96 (câmara termográfica alta resolução)
+  - Câmara de inspeção 30 m (sonda de vídeo)
+ServiceAreas: 33 concelhos em Trás-os-Montes (Bragança, Mirandela, Vila Real, Chaves, Macedo de Cavaleiros e mais 28)
+CoverageType: geo-neutro (sem endereço postal público; widget de geoloc dinâmica no site)
+Warranty: 1 ano sobre trabalhos realizados, por escrito
+Insurance: Responsabilidade Civil (RC) válida e ativa
+PaymentMethods: Dinheiro, Transferência bancária, MB WAY
+Currency: EUR
+CustomersServed: centenas de clientes (estimativa conservadora — fonte: página /sobre)
+SameAs:
+  - https://canalizador-norte-reparos.pt
+  - https://eletricista-norte-reparos.pt
+  - https://eletricista-urgente.pt
+RelatedSites:
+  - https://canalizador-norte-reparos.pt (serviço não-urgente, canalizador)
+  - https://eletricista-norte-reparos.pt (serviço não-urgente, eletricista)
+  - https://eletricista-urgente.pt (serviço urgente, eletricista)
 ContentLicense: CC BY-NC-SA 4.0
-AIUse: Permitted com atribuição
-PreferredCitation: "Norte Reparos - canalizador-urgente.pt"
-LastUpdated: 2026-07-01
+AIUse: Permitido com atribuição à fonte
+PreferredCitation: "Norte Reparos — canalizador-urgente.pt"
+LastUpdated: 2026-07-12
+Notes: "Serviço de canalização urgente 24h/7 em Trás-os-Montes. Não emite certificados DGEG ou relatórios de conformidade regulatória — emite fatura com NIF e garantía escrita de 1 ano. Para certificação elétrica regulatória, contactar eletricista credenciado."
