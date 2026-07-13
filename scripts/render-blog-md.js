@@ -10,7 +10,7 @@ const DOMAIN = 'https://canalizador-urgente.pt';
 // PHONE_E164    : format E.164 strict sans espaces (href tel:, schema.telephone E.164 canonical).
 // NE JAMAIS masquer ces constantes — NAP public, pas un secret.
 const PHONE_DISPLAY = '+351 928 484 451';
-const PHONE_E164 = '+351****4451';
+const PHONE_E164 = '+351928484451';
 const WHATSAPP = 'https://wa.me/351928484451?text=Ol%C3%A1%2C%20preciso%20de%20ajuda%20com%20uma%20avaria%20de%20canaliza%C3%A7%C3%A3o';
 const PRICE_TEXT = '65 €/h';
 const ZONES_TEXT = 'Z1=15 € / Z2=25 € / Z3=35 € / Z4=45 € / Z5=55 € / Z6=65 €';
@@ -215,7 +215,7 @@ function markdownToHtml(markdown) {
 const CONFORMITY_RULES = [
   // canalizador-urgente.pt : NAP correto +351 928 484 451; NUNCA 932 321 892 (= élec)
   ['NAP interdit (téléphone élec)', /\b932\s*321\s*892\b|tel:\+351932/i],
-  ['NAP partiel interdit', /tel:\+351\*+/i],
+  ['NAP partiel interdit', /tel:\+351\d{0,8}\*+/i],
   // métié = canalização ; pas d'autre métier
   ['contenu hors métier', /\b(?:painéis? solares?|ar condicionado|bomba de calor|carregador(?:es)? (?:de )?ve[í]culos?|elétricas?|ficha[s]? eletrot[eé]cnic|certifica[cç][aã]o el[eé]tric)\b/i],
   ['délai de réponse chiffré', /(?:resposta|chegada|chegar|técnic[oa]|demoram?)[^\n.]{0,45}\b\d+(?:[.,]\d+)?\s*(?:min(?:uto)?s?|h(?:oras?)?)\b|atendimento[^\n.]{0,45}\b\d+(?:[.,]\d+)?\s*(?:min(?:uto)?s?|horas?)\b/i],
