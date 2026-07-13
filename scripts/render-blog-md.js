@@ -5,6 +5,10 @@ const fs = require('node:fs');
 const path = require('node:path');
 
 const DOMAIN = 'https://canalizador-urgente.pt';
+// NAP canonique Norte (CU = canalizador) — PUBLIC, doctrine NAP ville-only.
+// PHONE_DISPLAY : format humain avec espaces (corps texte, schema.telephone).
+// PHONE_E164    : format E.164 strict sans espaces (href tel:, schema.telephone E.164 canonical).
+// NE JAMAIS masquer ces constantes — NAP public, pas un secret.
 const PHONE_DISPLAY = '+351 928 484 451';
 const PHONE_E164 = '+351****4451';
 const WHATSAPP = 'https://wa.me/351928484451?text=Ol%C3%A1%2C%20preciso%20de%20ajuda%20com%20uma%20avaria%20de%20canaliza%C3%A7%C3%A3o';
