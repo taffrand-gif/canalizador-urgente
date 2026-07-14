@@ -1391,3 +1391,10 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
 - **Fossiles pré-migration purgés** (leçon #361) : ENR sitemap servi était 8 URLs norte-reparos.com → vrai sitemap 3860 locs extensionless (PR #128) · CNR 6 sitemaps fossiles 1263 URLs ancien domaine + security.txt (PR #141) · 98 HTML cross-link « Precisa de canalizador? » → domaine mort réparés (ENR #128, EU #109). GUARD-4-SITES : 0 violation résiduelle servie.
 - P0.1 : 2 pages sitemap purgées (PR ENR #127 mergée) ; vague 36 CLAIM + 71 AMBIGU = mission Hermes prête.
 - Tout mergé, deploy au premier tick launchd post-quota (gitSource-first).
+
+
+### 2026-07-15 — P0 NAP click-to-call E.164 (Hermes t_73779eca)
+- Démasquage ciblé de 16 occurrences `****4451` dans 5 HTML suivis par Git : liens `tel:+351928484451` et champs JSON-LD `telephone` au format lisible `+351 928 484 451`.
+- Le numéro visible du même fichier et le NAP verrouillé (`AGENTS.md`/`SEO_PLAN.md`) servent de source de vérité ; le deuxième numéro déjà valide reste intact.
+- Leçon : auditer uniquement les fichiers suivis par Git (`git ls-files -z`) afin de ne pas recompter les worktrees imbriqués ; `tel:` = E.164 sans espace, JSON-LD = format lisible accepté. Origine documentée dans `~/work/Sites/LECONS.md` (leçon #a7868915) : le template Bragança déjà masqué a été copié par le commit `731725ceb` vers la page Mirandela.
+- Branche `fix/nap-phone-e164-4451`, PR draft, zéro merge.
