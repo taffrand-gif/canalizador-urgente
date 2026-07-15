@@ -1391,3 +1391,9 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
 - **Fossiles pré-migration purgés** (leçon #361) : ENR sitemap servi était 8 URLs norte-reparos.com → vrai sitemap 3860 locs extensionless (PR #128) · CNR 6 sitemaps fossiles 1263 URLs ancien domaine + security.txt (PR #141) · 98 HTML cross-link « Precisa de canalizador? » → domaine mort réparés (ENR #128, EU #109). GUARD-4-SITES : 0 violation résiduelle servie.
 - P0.1 : 2 pages sitemap purgées (PR ENR #127 mergée) ; vague 36 CLAIM + 71 AMBIGU = mission Hermes prête.
 - Tout mergé, deploy au premier tick launchd post-quota (gitSource-first).
+
+
+### 2026-07-15 — P0 NAP click-to-call E.164 (Hermes t_314893c0 régén)
+- Démasquage ciblé de 16 occurrences `****4451` dans 5 HTML sur main frais (`c79159741`) : 13 liens `tel:+351****4451` → `tel:+351****4451` (E.164 sans espace) + 3 champs JSON-LD `+351****4451` → `+351 928 484 451` (format lisible).
+- Le numéro visible du même fichier et le NAP verrouillé (`AGENTS.md`/`SEO_PLAN.md`) servent de source de vérité ; le 932321892 (autre numéro) reste intact.
+- Leçon régén post-merge : sur conflit PR, toujours rebaser sur main frais + recréer une branche-r, JAMAIS merger en rebase depuis l'ancienne branche (les merges prix/priceRange/etc post-campagne touchent les mêmes fichiers). Branche `fix/nap-phone-e164-4451-r2`, PR draft, zéro merge.
