@@ -1,467 +1,122 @@
 ---
-title: "Desentupir Sanita: 7 Métodos Que Funcionam (Do Mais Simples ao Profissional)"
-slug: desentupir-sanita
-category: Arranjos Urgentes
-date: 2026-03-04
-author: Norte Reparos
-excerpt: "Sanita entupida? Descubra 7 métodos eficazes para desentupir: ventosa, arame, produtos químicos, garrafa PET e mais. Saiba quando chamar picheleiro e quanto custa cada solução."
-keywords: 
- - desentupir sanita
- - sanita entupida
- - autoclismo entupido
- - picheleiro Trás-os-Montes
- - desentupidor sanita
- - sanita não desce água
- - desentupir casa de banho
-priority: CRITICAL
+title: "Desentupir Sanita em Trás-os-Montes: Causas, Métodos e Quando Chamar a Nossa Equipa"
+slug: "desentupir-sanita"
+category: "Canalização Urgente"
+date: "2026-07-13"
+author: "Norte Reparos"
+excerpt: "Se a sanita está entupida, comece por fechar a torneira de corte se a água transborda, identificar a causa provável e evitar produtos agressivos. A nossa equipa aplica 65 €/h, apresenta orçamento por escrito antes de qualquer trabalho e opera 24 horas por dia em Trás-os-Montes, com deslocação conforme a zona."
+keywords:
+  - desentupir sanita
+  - sanita entupida
+  - autoclismo entupido
+  - canalizador urgente Trás-os-Montes
+  - desentupidor sanita
+  - sanita não desce água
+  - desentupir casa de banho
+schema:
+  type: "HowTo"
 ---
 
-# Desentupir Sanita: 7 Métodos Que Funcionam (Do Mais Simples ao Profissional)
+# Desentupir Sanita em Trás-os-Montes: Causas, Métodos e Quando Chamar a Nossa Equipa
 
-**Sanita entupida é uma das emergências domésticas mais stressantes** — especialmente se só tem uma casa de banho em casa. A boa notícia? **Em 70% dos casos, consegue desentupir sozinho em conforme zona** usando métodos simples e baratos.
+Se a sanita da sua casa ou empresa está entupida, este guia descreve as causas habituais em Trás-os-Montes, o que verificar antes de chamar a nossa equipa e como se processa a intervenção. Trabalhamos com tarifa horária de **65 €/h** (mão de obra) e deslocação indexada à zona de Macedo de Cavaleiros (Z1 15 € a Z6 65 €), com majoração de +50 % ao fim de semana, feriados e período noturno. Antes de qualquer trabalho, entregamos orçamento por escrito, sem surpresas.
 
-Mas atenção: **usar o método errado pode piorar o entupimento** ou até danificar a sanita. Por isso, neste guia vou mostrar-lhe **7 métodos eficazes** (do mais simples ao profissional), quando usar cada um, e quando é melhor chamar um picheleiro.
+## Como funciona uma sanita e por que entope
 
-**⚠️ EMERGÊNCIA:** Se a água está a transbordar da sanita, **feche a torneira de corte** (atrás da sanita) IMEDIATAMENTE e ligue: **[928 484 451](tel:+351928484451)** — Picheleiro de urgência 24h em Bragança e arredores.
+Uma sanita residencial combina três elementos que precisam de trabalhar em conjunto: o sifão (curva que retém água e bloqueia o retorno de gases), o autoclismo (reservatório que liberta água sob pressão) e o tubo de descarga que liga à rede de esgotos. Um entupimento ocorre quando algo bloqueia a passagem nesta sequência — no sifão, no tubo de descarga, ou mais fundo na canalização.
 
----
+Em Trás-os-Montes, três particularidades locais agravam o problema:
 
-## 🚽 Por Que a Sanita Entope? (5 Causas Principais)
+- **Água muito dura (calcário).** A água da região tem elevado teor de calcário, que se deposita no sifão e nas paredes dos canos ao longo dos anos, estreitando a passagem.
+- **Canalização antiga.** Muitas casas da região têm décadas; as tubagens em ferro galvanizado ou PVC antigo acumulam rugosidades internas que prendem resíduos.
+- **Fossas sépticas em zonas rurais.** Onde a rede pública de esgotos não chega, a fossa séptica ou o sistema de tratamento local pode saturar, e o sintoma aparece em primeiro lugar na sanita.
 
-Antes de desentupir, é importante perceber **o que causou o entupimento** para evitar que volte a acontecer.
+## Causas mais frequentes de sanita entupida
 
-### 1. Papel Higiénico em Excesso (45% dos casos)
+Descrevemos as causas habituais pela fenomenologia observada em instalações da região, sem publicar percentagens porque não temos dados confirmados pelos clientes que sustentem uma estatística fiável.
 
-**Causa:**
-- Usar muito papel de uma vez
-- Papel de má qualidade (não se desfaz na água)
-- Papel de cozinha ou lenços (NUNCA deitar na sanita)
+### Papel higiénico em excesso
 
-**Solução:** Usar menos papel, dar descarga em 2x se necessário.
+A causa mais frequente de entupimento doméstico. O papel higiénico acumula-se no sifão ou no tubo de descarga quando a quantidade numa única descarga ultrapassa a capacidade de transporte do sistema. Papel de baixa qualidade, que não se desfaz bem na água, agrava o problema. Papel de cozinha, lenços ou toalhitas húmidas — mesmo as ditas "biodegradáveis" — não se desfazem na água e devem ir para o lixo.
 
----
+### Objetos estranhos
 
-### 2. Objetos Estranhos (25% dos casos)
+Brinquedos, escovas de dentes, pente, toalhitas, pensos higiénicos, tampões, fio dental, cotonetes, cabelo. Estes objetos não se dissolvem e criam bloqueios persistentes. Quando há crianças em casa, o risco aumenta — uma sanita é vista como um local de "brincar" e cai qualquer coisa lá dentro.
 
-**Objetos comuns:**
-- Toalhitas húmidas (mesmo as "biodegradáveis")
-- Pensos higiénicos, tampões
-- Cotonetes, fio dental
-- Brinquedos (em casas com crianças)
-- Preservativos
+### Calcário e resíduos acumulados
 
-**Atenção:** Estes objetos **NÃO se desfazem na água** e causam entupimentos graves.
+Em zonas de água dura como Trás-os-Montes, o calcário deposita-se lentamente nas paredes do sifão e dos canos. Ao longo de anos, a secção útil da tubagem reduz-se até à obstrução. Sintomas de aviso: a sanita desce mais lentamente do que devia, mesmo sem entupimento visível.
 
----
+### Problema na fossa ou na canalização principal
 
-### 3. Calcário e Resíduos (20% dos casos)
+Quando várias sanitas e ralos (duche, lavatório) entopem ao mesmo tempo, ou a água sobe em outros pontos quando se dá descarga na sanita, o problema não está na sanita isolada — está mais fundo: fossa saturada, caixa de inspeção cheia, ou obstrução na canalização principal. Estes casos exigem diagnóstico profissional com máquina e, se necessário, câmara de inspeção.
 
-**Causa:**
-- Acumulação de calcário no sifão (comum em Trás-os-Montes — água muito dura)
-- Resíduos de sabão, champô
-- Cabelos
+### Sanita antiga ou mal instalada
 
-**Solução:** Limpeza regular com produtos anti-calcário.
+Sifão com design antigo (geometria que facilita acumulação), autoclismo com pouca pressão (não empurra os resíduos com força suficiente), sanita mal nivelada (declive insuficiente para o escoamento). Substituir a sanita resolve quando o problema é estrutural — intervenção sempre avaliada **sob orçamento por escrito**.
 
----
+## O que fazer antes de contactar a nossa equipa
 
-### 4. Problemas na Fossa ou Canalização (8% dos casos)
+Este procedimento permite-nos chegar ao local com a informação certa e avançar mais depressa para o diagnóstico.
 
-**Sinais:**
-- Várias sanitas entopem ao mesmo tempo
-- Água sobe em ralos de duche/lavatório
-- Mau cheiro constante
+1. Se a água está a transbordar, feche a torneira de corte (atrás da sanita, na parede ou no chão) imediatamente. Esta é a única situação em que a ação urgente do cliente é estritamente necessária.
+2. Verifique se é só esta sanita ou se outras (ralos, lavatório) também estão a entupir. Esta pista determina se o problema é local ou na canalização principal.
+3. Tente uma única vez a ventosa (desentupidor de borracha específico para sanita, com borda larga). Se não resultar à primeira, pare — forçar repetidamente pode empurrar o bloqueio mais fundo.
+4. Não utilize soda cáustica, produtos químicos agressivos ou água a ferver — podem danificar a porcelana, atacar o vedante ou matar bactérias da fossa séptica.
+5. Anote a hora a que o problema começou e o que foi atirado para a sanita nessas horas (papel em excesso, objeto, etc.). Estas pistas aceleram o diagnóstico.
 
-**Solução:** Precisa de picheleiro (problema na fossa ou canalização principal).
+## Como se processa a intervenção no local
 
----
+A nossa equipa chega com o equipamento profissional descrito abaixo e segue um método que combina leitura do problema, ensaio mecânico e, se necessário, inspeção visual da canalização.
 
-### 5. Sanita Antiga ou Mal Instalada (2% dos casos)
+- **Mola desentupidora profissional (cabo espiral motorizado).** Permite alcançar bloqueios a vários metros dentro da tubagem, desfazendo o entupimento por rotação. É o método mecânico mais eficaz para obstruções entre o sifão e a caixa de inspeção.
+- **Máquina desentupidora de alta pressão.** Para bloqueios mais profundos ou compactados, a jato de água profissional resolve sem atacar paredes dos canos.
+- **Câmara de inspeção 30 m.** Visualização do interior dos canos para localizar a obstrução, identificar a causa (raiz, calcário, objeto, deflexão) e decidir o método mais adequado.
+- **ROLeak Aqua 3Plus — correlação acústica.** Localização precisa de fugas ou bloqueios em tubagens enterradas ou dentro de paredes, sem abertura desnecessária. Diferenciador raro no mercado regional.
+- **FLIR E96 — câmara térmica.** Identificação visual de anomalias em tubagens e paredes (humidade, variações térmicas associadas a bloqueios ou fugas).
 
-**Problemas:**
-- Sifão com design antigo (entope facilmente)
-- Autoclismo com pouca pressão
-- Sanita mal nivelada
+O trabalho decorre à tarifa horária de **65 €/h**, com deslocação indexada à zona (Z1 15 €, Z2 25 €, Z3 35 €, Z4 45 €, Z5 55 €, Z6 65 €). Em horário noturno (entre as 20 h e as 8 h), sábado, domingo e feriado, a tarifa sofre majoração de **+50 %** aplicada à mão de obra e à deslocação. Recebe **orçamento por escrito antes de qualquer intervenção**, e a fatura discrimina horas, deslocação e materiais. A nossa equipa realiza o trabalho de canalização (desobstrução, reparação, substituição). Quando a legislação exige documentação ou formalidade equivalente (por exemplo, intervenção significativa na rede predial), esse passo é tratado pelo técnico habilitado em causa — informe-se connosco para indicarmos o caminho correto.
 
-**Solução:** Substituir sanita (€150-400).
+## Prevenção: como reduzir o risco de entupimento
 
----
+A manutenção periódica e o uso consciente da sanita reduzem a probabilidade de entupimento e prolongam a vida útil da instalação.
 
-## 🛠️ 7 Métodos Para Desentupir Sanita (Por Ordem de Eficácia)
+- Não atire para a sanita nada que não seja papel higiénico, dejetos humanos ou água. Toalhitas, papel de cozinha, cotonetes, fio dental, cabelos, pensos, tampões, preservativos, restos de comida, óleo — tudo vai para o lixo.
+- Use papel higiénico de qualidade, em quantidade moderada. Dê descarga em duas vezes se necessário, esperando o autoclismo encher entre cargas.
+- Limpeza mensal com vinagre branco (1 L despejado na sanita, deixado atuar durante a noite) ajuda a dissolver depósitos de calcário antes que se tornem bloqueio.
+- Em casas com mais de duas décadas sem revisão da canalização, considere uma inspeção preventiva com câmara — sempre **sob orçamento por escrito**.
+- Em zonas rurais com fossa séptica, mantenha a manutenção periódica da fossa (limpeza e inspeção) para evitar que a saturação se manifeste primeiro nos sanitários.
 
-### Método 1: Ventosa (Desentupidor) — ⭐ MAIS EFICAZ (70% sucesso)
+## Perguntas Frequentes
 
-**O que precisa:**
-- Ventosa de sanita (€5-15)
-- Luvas de borracha
+### Posso usar água a ferver para desentupir a sanita?
 
-**Passo a passo:**
-1. Certifique-se que há água suficiente na sanita (deve cobrir a ventosa)
-2. Se estiver muito cheia, retire água com balde
-3. Coloque a ventosa sobre o buraco de saída (no fundo da sanita)
-4. Pressione para baixo para criar vácuo
-5. Puxe e empurre vigorosamente 15-20 vezes
-6. Retire a ventosa rapidamente (cria sucção)
-7. Repita 3-4 vezes se necessário
-8. Dê descarga para testar
+Não. Água a ferver pode rachar a porcelana (especialmente no Inverno, quando a sanita está fria e o choque térmico é maior). Use água quente, mas não a ferver (60-70 °C no máximo).
 
-**Dica:** Use ventosa **específica para sanita** (tem borda larga e flexível). Ventosa de lava-loiça não funciona bem.
+### Produtos químicos desentupidores resolvem?
 
-**Taxa de sucesso:** 70% (entupimentos leves a médios).
+Têm eficácia variável e comportam riscos: podem atacar o vedante da sanita, danificar canos antigos, matar bactérias benéficas da fossa séptica e criar gases tóxicos se misturados. Não os recomendamos como primeira opção. A ventosa e a mola desentupidora são mais seguras e, na maioria dos casos, mais eficazes.
 
-**Custo:** €5-15 (ventosa).
+### A sanita entope sempre no mesmo sítio. Porquê?
 
----
+Habitualmente indica calcário acumulado no sifão (água dura), objeto preso permanentemente, ou problema estrutural na canalização (declive insuficiente, defeito na curva). A inspeção com câmara de inspeção permite identificar a causa exata — sempre **sob orçamento por escrito**.
 
-### Método 2: Água Quente + Detergente — Entupimentos Leves (50% sucesso)
+### Quanto custa desentupir a sanita em Trás-os-Montes?
 
-**O que precisa:**
-- 5-10 litros de água quente (NÃO fervente)
-- 1/2 chávena de detergente da loiça
+A mão de obra é de 65 €/h e a deslocação segue a zona (Z1 15 €, Z2 25 €, Z3 35 €, Z4 45 €, Z5 55 €, Z6 65 €). Em horário noturno, fim de semana ou feriado, aplica-se majoração de +50 % à mão de obra e à deslocação. Recebe orçamento por escrito antes do trabalho começar, sem surpresas na fatura. Materiais e equipamento específico (molas descartáveis, etc.) são discriminados na fatura quando utilizados.
 
-**Passo a passo:**
-1. Retire água em excesso da sanita (deixe só 1/3)
-2. Adicione 1/2 chávena de detergente da loiça
-3. Deixe atuar conforme zona (detergente lubrifica)
-4. Aqueça 5-10 litros de água (quente mas NÃO fervente — pode rachar a sanita)
-5. Despeje a água de uma altura de 1 metro (cria pressão)
-6. Espere 10 minutos
-7. Dê descarga para testar
+### Vocês emitem documentação formal da intervenção?
 
-**Atenção:** **NUNCA use água a ferver** — pode rachar a porcelana da sanita (especialmente no inverno).
+Não. A nossa equipa realiza o trabalho de canalização (desobstrução, reparação, diagnóstico). Quando a legislação exige documentação ou formalidade equivalente (por exemplo, alteração significativa da rede predial), esse passo é tratado pelo técnico habilitado em causa — informe-se connosco para indicarmos o caminho correto.
 
-**Taxa de sucesso:** 50% (entupimentos leves — papel higiénico).
+### Atendem 24 horas por dia em Trás-os-Montes?
 
-**Custo:** €0 (usa o que tem em casa).
+Sim, 24 horas por dia, sete dias por semana, em toda a região de Trás-os-Montes. O tempo de chegada depende da zona e da carga de serviço do momento; o preço é confirmado antes da saída, por telefone, para que a deslocação não seja uma surpresa.
 
----
+### A água está a transbordar da sanita. O que faço agora?
 
-### Método 3: Bicarbonato de Sódio + Vinagre — Natural (40% sucesso)
+Feche a torneira de corte da sanita (atrás, na parede ou no chão) e contacte-nos. Não continue a dar descargas — cada descarga adiciona mais água ao transbordo. Esta é a única situação em que a ação imediata do cliente é estritamente necessária antes da nossa chegada.
 
-**O que precisa:**
-- 1 chávena de bicarbonato de sódio
-- 2 chávenas de vinagre branco
-- Água quente
+### Como sei se o problema é na sanita ou na fossa?
 
-**Passo a passo:**
-1. Retire água em excesso da sanita
-2. Adicione 1 chávena de bicarbonato de sódio
-3. Adicione 2 chávenas de vinagre (vai fazer espuma)
-4. Deixe atuar 30 minutos
-5. Despeje 5 litros de água quente
-6. Dê descarga para testar
-
-**Vantagem:** Método natural, não tóxico, seguro para fossas sépticas.
-
-**Taxa de sucesso:** 40% (entupimentos leves).
-
-**Custo:** €2-3.
-
----
-
-### Método 4: Garrafa PET (Método Caseiro) — 35% sucesso
-
-**O que precisa:**
-- Garrafa PET de 2L (vazia)
-- Tesoura
-- Luvas
-
-**Passo a passo:**
-1. Corte o fundo da garrafa
-2. Mantenha a tampa fechada
-3. Coloque a garrafa (lado cortado) sobre o buraco da sanita
-4. Empurre e puxe vigorosamente (funciona como ventosa)
-5. Repita 15-20 vezes
-6. Dê descarga para testar
-
-**Vantagem:** Funciona se não tiver ventosa.
-
-**Taxa de sucesso:** 35%.
-
-**Custo:** €0.
-
----
-
-### Método 5: Arame ou Mola de Cabide — Objetos Presos (60% sucesso)
-
-**O que precisa:**
-- Cabide de arame
-- Alicate
-- Luvas
-
-**Passo a passo:**
-1. Desdobre o cabide (deixe gancho numa ponta)
-2. Envolva a ponta com pano (para não riscar a sanita)
-3. Introduza o arame no buraco da sanita
-4. Empurre e rode para desalojar o objeto
-5. Puxe para fora se conseguir agarrar
-6. Dê descarga para testar
-
-**Quando usar:** Se suspeita que há um objeto preso (brinquedo, toalhita).
-
-**Taxa de sucesso:** 60% (objetos acessíveis).
-
-**Custo:** €0.
-
----
-
-### Método 6: Produto Químico Desentupidor — ⚠️ Usar Com Cuidado (50% sucesso)
-
-**Produtos comuns:**
-- Destop Gel (€5-8)
-- Mr. Músculo Desentupidor (€4-7)
-- Soda cáustica (€3-5)
-
-**Passo a passo:**
-1. Leia SEMPRE as instruções do produto
-2. Use luvas e óculos de proteção
-3. Despeje a quantidade indicada
-4. Deixe atuar o tempo recomendado (30min-8h)
-5. Dê descarga com água quente
-6. Ventile bem a casa de banho
-
-**⚠️ ATENÇÃO:**
-- **NUNCA misture produtos** (pode criar gases tóxicos)
-- **NÃO use se tiver fossa séptica** (mata bactérias benéficas)
-- **Tóxico para crianças e animais**
-- **Pode danificar canos antigos**
-
-**Taxa de sucesso:** 50% (entupimentos médios).
-
-**Custo:** €3-8.
-
----
-
-### Método 7: Mola Desentupidora Profissional (Cabo Espiral) — 90% sucesso
-
-**O que é:**
-- Cabo flexível de metal com ponta em espiral
-- Também chamado "verruma" ou "sonda"
-- Versão manual: €15-40
-- Versão elétrica: €100-300 (profissional)
-
-**Como usar:**
-1. Introduza a ponta no buraco da sanita
-2. Empurre enquanto roda a manivela
-3. Quando sentir resistência, continue rodando (desfaz o entupimento)
-4. Puxe devagar
-5. Dê descarga para testar
-
-**Vantagem:** Resolve entupimentos profundos (no sifão ou canalização).
-
-**Taxa de sucesso:** 90%.
-
-**Custo:** €15-40 (comprar) ou €80-150 (chamar picheleiro).
-
----
-
-## 📊 Comparação Rápida: Qual Método Usar?
-
-| Método | Taxa Sucesso | Custo | Tempo | Quando Usar |
-|--------|--------------|-------|-------|-------------|
-| **Ventosa** | 70% | €5-15 | 10min | Entupimentos leves/médios |
-| **Água quente + detergente** | 50% | €0 | 20min | Papel higiénico |
-| **Bicarbonato + vinagre** | 40% | €2-3 | 40min | Entupimentos leves |
-| **Garrafa PET** | 35% | €0 | 15min | Sem ventosa |
-| **Arame/cabide** | 60% | €0 | 15min | Objeto preso |
-| **Produto químico** | 50% | €3-8 | 1-8h | Entupimentos médios |
-| **Mola profissional** | 90% | €15-40 | 20min | Entupimentos graves |
-
-**💡 Recomendação:** Comece sempre pela **ventosa** (mais eficaz e seguro). Se não funcionar, tente **água quente + detergente**. Se continuar entupida, chame picheleiro.
-
----
-
-## 🚨 Quando Chamar um Picheleiro? (7 Sinais)
-
-**Ligue para um picheleiro se:**
-
-1. ✅ Tentou 2-3 métodos e continua entupida
-2. ✅ Água transborda constantemente
-3. ✅ Várias sanitas/ralos entopem ao mesmo tempo (problema na fossa)
-4. ✅ Mau cheiro forte (problema na canalização)
-5. ✅ Água sobe em outros ralos quando dá descarga
-6. ✅ Suspeita que há objeto grande preso
-7. ✅ Sanita entope frequentemente (1x por semana)
-
-**📞 Picheleiro de Urgência 24h: [928 484 451](tel:+351928484451)**
-
-**Tempo de resposta:** conforme zona em Bragança e arredores.
-
----
-
-## 💰 Quanto Custa Desentupir Sanita? (Profissional)
-
-### Custos por Tipo de Serviço
-
-| Serviço | Custo | Tempo |
-|---------|-------|-------|
-| **Desentupir com mola (simples)** | €60-120 | 30min-1h |
-| **Desentupir com máquina elétrica** | €120-200 | 1-2h |
-| **Desentupir canalização principal** | €150-300 | 2-4h |
-| **Inspeção com câmara** | €80-150 | 1h |
-| **Limpar fossa séptica** | €150-400 | 2-3h |
-| **Substituir sanita** | €150-400 | 2-3h |
-| **Urgência 24h (acréscimo)** | +€30-80 | — |
-
-**Nota:** Preços para Trás-os-Montes (Bragança, Mirandela, Trás-os-Montes).
-
----
-
-## 🛡️ Como Prevenir Entupimentos (5 Regras de Ouro)
-
-### 1. NUNCA Deite Isto na Sanita
-
-**❌ Proibido:**
-- Toalhitas húmidas (mesmo "biodegradáveis")
-- Papel de cozinha
-- Pensos higiénicos, tampões
-- Preservativos
-- Cotonetes, fio dental
-- Cabelos
-- Restos de comida
-- Óleo de cozinha
-- Medicamentos
-
-**✅ Permitido:**
-- Papel higiénico (quantidade moderada)
-- Dejetos humanos
-- Água
-
----
-
-### 2. Use Papel Higiénico de Qualidade
-
-**Porquê:**
-- Papel barato não se desfaz bem na água
-- Papel de 3-4 folhas entope mais facilmente
-
-**Dica:** Teste o papel: coloque num copo de água e agite. Se não se desfizer em 10-15 segundos, mude de marca.
-
----
-
-### 3. Dê Descarga em 2 Vezes (Se Necessário)
-
-**Quando:**
-- Usou muito papel
-- Dejetos volumosos
-
-**Como:** Dê descarga, espere o autoclismo encher, dê descarga novamente.
-
----
-
-### 4. Limpeza Mensal com Vinagre
-
-**Passo a passo:**
-1. 1x por mês, despeje 1L de vinagre branco na sanita
-2. Deixe atuar durante a noite
-3. De manhã, dê descarga
-
-**Benefício:** Remove calcário, previne acumulação.
-
----
-
-### 5. Inspeção Anual da Fossa (Se Tiver)
-
-**Quando:**
-- 1x por ano (mínimo)
-- Ou quando notar sinais (mau cheiro, entupimentos frequentes)
-
-**Custo:** €80-150 (inspeção) + €150-400 (limpeza se necessário).
-
----
-
-## ❓ Perguntas Frequentes (FAQ)
-
-### 1. Posso usar Coca-Cola para desentupir?
-
-**Resposta:** Coca-Cola tem ácido fosfórico que pode ajudar a dissolver resíduos, mas **é muito menos eficaz** que métodos tradicionais.
-
-**Veredicto:** Funciona em 10-15% dos casos (entupimentos muito leves). Não vale a pena.
-
----
-
-### 2. Água a ferver danifica a sanita?
-
-**SIM!** Água a ferver pode **rachar a porcelana** (especialmente no inverno quando a sanita está fria).
-
-**Solução:** Use água **quente mas não fervente** (60-70°C).
-
----
-
-### 3. Produtos químicos danificam a fossa séptica?
-
-**SIM!** Produtos como Destop, soda cáustica matam as **bactérias benéficas** que decompõem os resíduos na fossa.
-
-**Solução:** Se tem fossa, use métodos naturais (bicarbonato + vinagre) ou mecânicos (ventosa, mola).
-
----
-
-### 4. Quanto tempo devo esperar entre tentativas?
-
-**Recomendação:**
-- Ventosa: pode repetir imediatamente
-- Água quente: espere conforme zona
-- Produtos químicos: siga instruções (30min-8h)
-- Bicarbonato + vinagre: espere 30 minutos
-
-**Se após 3 tentativas não funcionar:** Chame picheleiro.
-
----
-
-### 5. Sanita entope sempre no mesmo sítio. Porquê?
-
-**Causas possíveis:**
-- Calcário acumulado no sifão (água dura)
-- Objeto preso permanentemente
-- Problema na canalização (declive insuficiente)
-- Sanita antiga com design ineficiente
-
-**Solução:** Inspeção com câmara (€80-150) para identificar causa exata.
-
----
-
-## 🏠 Serviço de Desentupimentos em Trás-os-Montes
-
-**Norte Reparos — Picheleiro Certificado**
-
-✅ Desentupimento de sanitas, ralos, canos 
-✅ Máquina desentupidora profissional 
-✅ Inspeção com câmara (identifica problema) 
-✅ Limpeza de fossas sépticas 
-✅ Urgências 24h/7 dias 
-✅ Orçamento grátis sem compromisso 
-
-**📞 Ligue já: [928 484 451](tel:+351928484451)**
-
-**💬 WhatsApp:** [Clique para falar connosco](https://wa.me/351928484451?text=Olá%2C%20tenho%20a%20sanita%20entupida%20e%20preciso%20de%20ajuda%20urgente.)
-
-**Zonas servidas:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro, Alfândega da Fé, Vila Flor, Carrazeda de Ansiães, Vimioso, Torre de Moncorvo, Freixo de Espada à Cinta.
-
-**Tempo de resposta:** conforme zona em Bragança e arredores.
-
----
-
-## 🎯 Conclusão: Desentupir Sanita é Mais Fácil do Que Pensa
-
-Na maioria dos casos (70%), consegue **desentupir a sanita sozinho em conforme zona** usando uma ventosa simples de €5-15.
-
-**Ordem de tentativas:**
-1. **Ventosa** (10 min, €5-15) → 70% sucesso
-2. **Água quente + detergente** (20 min, €0) → 50% sucesso
-3. **Mola desentupidora** (20 min, €15-40) → 90% sucesso
-4. **Chamar picheleiro** (€60-120) → 100% sucesso
-
-**⚠️ Regra de ouro:** Se após 2-3 tentativas não funcionar, **NÃO insista** — pode piorar o entupimento. Chame um profissional.
-
-**👉 Sanita continua entupida?**
-
-**Ligue JÁ: [928 484 451](tel:+351928484451)**
-
-**Picheleiro certificado • Urgências 24h • Intervenção em 30-45min • Orçamento grátis**
-
----
-
-**Artigos relacionados:**
-- [Mau Cheiro no Ralo: 5 Causas e Soluções Definitivas](/blog/mau-cheiro-ralo)
-- [Autoclismo Não Enche: 6 Causas e Como Arranjar](/blog/autoclismo-nao-enche)
-- [Desentupir Ralo de Chuveiro: 5 Métodos Eficazes](/blog/desentupir-ralo-chuveiro)
+Se só esta sanita entope e os outros ralos (duche, lavatório, banca da cozinha) funcionam normalmente, o problema é local (sifão ou tubo de descarga da sanita). Se várias sanitas e ralos entopem ao mesmo tempo, ou a água sobe noutros pontos quando dá descarga, o problema está mais fundo — fossa saturada, caixa de inspeção cheia, ou bloqueio na canalização principal. A nossa equipa diagnostica no local e identifica a origem com câmara de inspeção.
