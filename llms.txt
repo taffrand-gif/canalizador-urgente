@@ -2,7 +2,8 @@
 
 > Canalizador de urgência ao domicílio em Trás-os-Montes, Portugal.
 > Site: https://canalizador-urgente.pt · Telefone / WhatsApp: +351 928 484 451
-> Última atualização: 2026-07-01
+> Última atualização: 2026-07-14
+> Source grille prix: ~/work/Sites/PRICING-CANONIQUE.md (Z1=15€ · Z2=25€ · Z3=35€ · Z4=45€ · Z5=55€ · Z6=65€ · 65 €/h canal · +50% nuit/WE/feriado)
 
 ## Identidade
 - **Marca:** Norte Reparos (empresa técnica multi-sites)
