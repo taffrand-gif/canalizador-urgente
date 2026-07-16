@@ -9,6 +9,9 @@ Allow: /
 
 # Sitemaps
 Sitemap: https://canalizador-urgente.pt/sitemap.xml
+# Note: 16/07/2026 — sitemap.xml = sitemap-core (tiering).
+# sitemap-villages.xml existe (2001 URLs priorité basse), référencé après validation Search Console (ajout gradue).
+# Sitemap: https://canalizador-urgente.pt/sitemap-villages.xml
 
 # Crawl-delay pour bots agressifs
 User-agent: AhrefsBot
