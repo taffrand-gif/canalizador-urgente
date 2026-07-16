@@ -1397,3 +1397,15 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
 - Démasquage ciblé de 16 occurrences `****4451` dans 5 HTML sur main frais (`c79159741`) : 13 liens `tel:+351****4451` → `tel:+351****4451` (E.164 sans espace) + 3 champs JSON-LD `+351****4451` → `+351 928 484 451` (format lisible).
 - Le numéro visible du même fichier et le NAP verrouillé (`AGENTS.md`/`SEO_PLAN.md`) servent de source de vérité ; le 932321892 (autre numéro) reste intact.
 - Leçon régén post-merge : sur conflit PR, toujours rebaser sur main frais + recréer une branche-r, JAMAIS merger en rebase depuis l'ancienne branche (les merges prix/priceRange/etc post-campagne touchent les mêmes fichiers). Branche `fix/nap-phone-e164-4451-r2`, PR draft, zéro merge.
+
+### 2026-07-16 — P2 Phase 1 : 2 piliers service-racine national (Hermes mini)
+- **Décision CEO** : GSC J0 cold-start → pas de x concelhos avant J+30. P2 Phase 1 = 2 piliers service-racine UNIQUEMENT (`desentupir-canos` 1300 vol + `entupimento` 110 vol CPC 16.6 EUR), branche `feat/p2-piliers-canalizador` depuis `origin/main`, draft PR, **PAS de merge**.
+- **Branche** : `feat/p2-piliers-canalizador` @ SHA `4756a8cca` (créée depuis `origin/main` SHA `224cb5ea2`, **PAS** depuis `feat/p1-hubs-canalizador` pour isolation).
+- **Cherry-pick ciblé** : `git checkout 0e1baf711 -- data/concelhos.json` pour importer le JSON corrigé (grille Filipe route_km TOMTOM alignée 17/17 concelhos) sans tirer les `scripts/` ni `concelhos/*.html` qui sont sur une autre mission.
+- **2 piliers** : `desentupir-canos.html` (intent action) + `entupimento.html` (intent symptôme). Variante C adaptée national (spec §6-8 ne couvre QUE `service_kw × concelho`, pas national) — voir leçon #412.
+- **Doctrine appliquée** : bloc Transparence tarifaire HAUT (65 €/h + Z1–Z6 15–65 € + +50% nuit/WE/feriado) + anti-société-écran (Norte Reparos equipa + NAP +351 928 484 451) + ZÉRO INVENTION (aucun cas client, aucun délai minutes, aucun "ferro galvanizado") + équipement RÉEL (Ridgid K9-102 + caméra 30 m + molas espirales) + R145 (24h/7d OK, "resposta imediata" INTERDIT) + canonical self + 33 concelhos maillés (fichiers vérifiés par `git ls-files`).
+- **Gate qualité** : desentupir-canos 805 mots utiles / 42 liens OK ; entupimento 1044 mots / 44 liens OK ; 0 claim interdit ; Jaccard pilier↔hub ≈ 0.20 (cible spec §10 ≤0.35 OK) ; Jaccard pilier↔pilier ≈ 0.67 (accepté : gabarit R12 partagé, différenciation par intent).
+- **PR** : #160 DRAFT (https://github.com/taffrand-gif/canalizador-urgente/pull/160), base=main, head=feat/p2-piliers-canalizador, 3 fichiers +1388/-609, **STOP MERGE** validation Philippe requise.
+- **LECONS** : #412 ajoutée — leçon de design "Pilier national vs gabarit Variante C : 2 designs distincts".
+- **Hub concelhos existants NON modifiés** (portée mission = UNIQUEMENT les 2 piliers racine).
+- **À suivre** : (1) décision Philippe sur merge ; (2) post-merge J+30 GSC → mesurer ranking `desentupir canos` et `entupimento` vs baseline ; (3) si uplift confirmé → batch 6 piliers additionnels CU+EU (10 autres intents money actées).
