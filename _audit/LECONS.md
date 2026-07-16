@@ -122,3 +122,68 @@ python3 /Users/admin/work/Sites/.tooling/preco-deslocacao.py "Chaves"
 ```
 
 **Coût évité** : facturation erronée (10 € de trop sur Chaves par intervention), image client dégradée (incohérence grille vs facturation), potentiel conflit R12 « preço transparente ».
+
+
+## Leçon #411 (16/07 2026) — `public/` n'est PAS la racine servie par Vercel sur CU/EU
+
+**Contexte** : Wave-2 refonte V2 data-driven. Vérification prod avant merge : `curl https://canalizador-urgente.pt/sitemap.xml` retourne **432 URLs**, alors que mon `public/sitemap.xml` (auto-réparation Wave-1, 101 core + 792 avant ratiboisé) n'est PAS servi prioritairement par Vercel.
+
+**Pourquoi** : sur **CU et EU** (sites statiques HTML sans React Vite), Vercel sert la **racine du repo directement**. Le `vercel.json` a un catchall `/(.*)` → `/$1.html` qui ne s'applique qu'aux routes sans extension — pas aux `.xml` ou `.txt`.
+
+Sur **CNR et ENR** (Vite React), `dist/public/` est servi (généré par `vite build`). Les pages racines sont aussi servies mais l'architecture est différente.
+
+**Erreur vécue** : Wave-1 auto-réparation, j'ai réécrit `public/sitemap.xml` avec 101 URLs core + supprimé `sitemap-plain.xml` + `sitemap-priority.xml`. Commité sur `feat/p0-...`, draft PR, **pas de merge**. Donc :
+1. Prod voit toujours le `sitemap.xml` à la racine (généré par `scripts/gen_sitemap.py`, 432 URLs)
+2. `public/sitemap.xml` modifié existe mais n'est pas servi prioritairement
+3. `public/robots.txt` modifié n'est pas non plus servi — le prod a un robots.txt différent (mentionne « Sitemap: /sitemap-plain.xml » aussi)
+4. **Aucun des changements Wave-1 atteint la prod sans merge + deploy**
+
+**Leçon stratégie** :
+- **Vérifier AVANT chaque modif sitemap** : `curl -sI https://<domaine>/sitemap.xml | head -1` + `ls -la sitemap*.xml public/sitemap*.xml`
+- **Source-of-truth sitemap CU/EU = `scripts/gen_sitemap.py`** (génère `sitemap.xml` à la racine)
+- **Pour modifier un sitemap CU/EU**, modifier `scripts/gen_sitemap.py` (pas `public/sitemap.xml`)
+- **Robots.txt doit vivre à la racine** (sinon non servi par Vercel)
+
+**Conséquence Wave-2** : la présente refonte V2 est correctement commitée sur `feat/p1-...`, **non mergée** (R3 STOP), donc n'atteint pas la prod. Quand Philippe validera le merge, les changements hub seront bien servis (les `concelhos/*.html` sont à la racine).
+
+**Action recommandée** : mission séparée pour aligner le sitemap core avec `scripts/gen_sitemap.py` CU/EU, post-merge Wave-2.
+
+**Reproduction systématique** :
+```bash
+# 1. Quel sitemap sert Vercel ?
+curl -sI https://canalizador-urgente.pt/sitemap.xml | head -1
+# 2. Quel fichier correspond (racine = source-of-truth) ?
+ls -la sitemap*.xml public/sitemap*.xml 2>/dev/null
+# 3. Robots.txt pointe quoi ?
+curl -s https://canalizador-urgente.pt/robots.txt | grep -i "sitemap:"
+# 4. robots.txt est-il à la racine (servi) ou public (non-servi) ?
+ls -la robots.txt public/robots.txt 2>/dev/null
+```
+
+---
+
+## Leçon #411b (16/07 2026) — `apply_section()` double-anchor bug
+
+**Contexte** : script `p1_hub_render_v2.py` (Wave-2 refonte V2). Pendant les tests sur Chaves, l'application de l'infobox faisait disparaître le paragraphe intro `A 75 km de Macedo de Cavaleiros...`.
+
+**Cause** : `apply_section(html, replacement, anchor_open_re, anchor_close_re)` doublait `</div>` quand le pattern open_re incluait déjà `.*?</div>` :
+```python
+pat = re.compile(anchor_open_re + r'.*?' + anchor_close_re, flags=re.S)
+# Si anchor_open_re finit par r'</div>' et anchor_close_re = r'</div>',
+# résultat = pattern = anchor_open_re + r'.*?</div>' — capture trop loin.
+```
+Dans mon test initial, le pattern infobox était : `<div class="info-box">...Zona tarifária:.*?</p>\s*</div>` avec `anchor_close_re=r'</div>'`. La concaténation ajoutait `.*?</div>` APRÈS, capturant jusqu'au `</div>` suivant (le paragraphe CTA ou la fin de page). Résultat : le paragraphe « A 75 km » était englouti.
+
+**Fix** : vérifier si `anchor_close_re in anchor_open_re` avant de l'ajouter :
+```python
+if anchor_close_re is None:
+    pat_re = anchor_open_re
+elif anchor_close_re in anchor_open_re:
+    pat_re = anchor_open_re  # déjà inclus, ne pas doubler
+else:
+    pat_re = anchor_open_re + r'.*?' + anchor_close_re
+```
+
+**Coût évité** : 30 min de debug regex + risque de casser les pages hub sur un merge.
+
+---
