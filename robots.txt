@@ -53,6 +53,5 @@ Allow: /
 # Disallow /public/ (backup miroir des memes fichiers servis en racine, eviter duplicate content crawl)
 # Mission P0 indexation 2026-07-16 : 84 doublons 200 sur /public/ pour CU
 Disallow: /public/
-Sitemap: https://canalizador-urgente.pt/sitemap-plain.xml
 
 # Redeploy trigger 2026-07-03 16:06:25
