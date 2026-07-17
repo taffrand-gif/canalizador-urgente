@@ -244,3 +244,104 @@ python3 -c "..."
 ```
 
 ---
+
+
+## Leçon #406 (17/07 2026) — Monopole money-kw piliers CU : entupimentos (pluriel) + FAQPage + 1 page neuve esgoto
+
+**Contexte** : mission MONOPOLE EXEC (ruling `~/work/Sites/MONOPOLE-MONEY-KW-2026-07-17.md`). Branche `feat/monopole-piliers-cu` depuis `origin/main`. Surface : 2 piliers enrichis (entupimento.html + desentupir-canos.html) + 1 page neuve `desentupimento-esgoto.html` (kw "desentupimento esgoto" 320 vol / CPC 10,3 € + "desentupimentos de esgotos" 50/7 €).
+
+**3 changements minimums pour capter le pluriel** — la différence entre « entupimento » (110/16,6) et « entupimentos » n'est pas qu'un H2 :
+
+1. **H2 section synonymes** — `entupimento.html` reçoit `<h2>📋 Tipos de entupimentos mais comuns</h2>` avec 5 `<h3>` par type (cozinha, sanita, lavatório, ralo, esgoto/caixa). Capter "entupimentos" sans casser "entupimento" = section explicite, pas un titre rewrité.
+2. **FAQ PAA ciblées** — 2 questions supplémentaires (« O que fazer quando os entupimentos são frequentes ? » + « Como sei se é entupimento ou fuga de água ? »). Formulations qui matchent les PAA Google observés.
+3. **JSON-LD FAQPage aligné sur la FAQ visible** — si la FAQ visible a 7 questions, le JSON-LD DOIT avoir les 7. Sinon PAA = perte sèche. Audit systématique obligatoire avant commit.
+
+**Désalignement grille UI ↔ grille `.tooling/preco-deslocacao.py`** — dette technique héritée :
+
+| Grille UI (affichée pages) | Grille outil canonique (TomTom) |
+|---|---|
+| Z1 = 0–25 km | Z1 = 0–15 km |
+| Z2 = 25–45 km | Z2 = 15–30 km |
+| Z3 = 45–70 km | Z3 = 30–50 km |
+| Z4 = 70–100 km | Z4 = 50–70 km |
+| Z5 = 100–130 km | Z5 = 70–90 km |
+| Z6 = > 130 km | Z6 = 90–140 km |
+
+Pour les 8 concelhos piliers affichés (Macedo, Mirandela, Bragança, Valpaços, Torre de Moncorvo, Vimioso, Chaves, Vila Real), les deux grilles convergent (tous en même zone). Mais la grille UI EXCLUT implicitement des sièges qui seraient Z1 dans l'outil. À reprendre en vague dédiée.
+
+**Piège `write_file` / JSON-LD** — `write_file` de Hermes mute silencieusement `"https://schema.org",` en `"https://***"` (URL + virgule supprimées). Ça donne `"@context":"https://***@graph"` invalide JSON. **Contournement systématique** : pour les blocs JSON-LD, passer par `execute_code` + `json.dumps()` puis `patch()` en mode `replace`. Le `patch` preserve la string. Ne JAMAIS coller un JSON-LD entier dans `write_file` content.
+
+**R12 vs claims interdits — la nuance critique** :
+
+| Phrase | Statut R12 |
+|---|---|
+| « orçamento por escrito antes de qualquer trabalho » | ✅ OBLIGATOIRE (Doctrine §12, point 1) |
+| « emitimos/fazemos certificação » | ❌ INTERDIT (ruling 2026-07-08) |
+| « orçamento por escrito de conformidade » | ❌ INTERDIT |
+| « instalações certificadas » | ❌ INTERDIT |
+| « em conformidade com a (enregistrement en cours) » | ❌ INTERDIT |
+| « +50% noite/WE/feriado » | ✅ OBLIGATOIRE |
+| « 24h/7d » | ✅ OK |
+| « resposta imediata / prioritária / em X minutos » | ❌ INTERDIT (R145) |
+
+Regex grep naïve type `or[çc]amento por escrito` → matche la phrase obligatoire ET capture des faux positifs. Toujours coder le test avec **contexte négatif** : `(?! de conformidade|de interven[çc][ãa]o|antes)`.
+
+**Structure recommandée pour page money neuve (template PR #160)** :
+
+1. `<title>` kw + bénéfice, ~55-60 car, SANS « barato » / « rápido »
+2. `meta description` answer-first + signal prix, ~150 car
+3. canonical self URL clean (sans `.html`)
+4. JSON-LD Service + FAQPage complets, ≥5 questions PAA-aligned
+5. Bloc Transparência tarifária HAUT de page
+6. H1 court (le kw)
+7. Réponse-réflexe 1ʳᵉ phrase : « Em caso de [problème] em [zona], a nossa equipa intervém com preço claro e orçamento por escrito antes de qualquer trabalho — sem surpresas na fatura »
+8. Team-box anti-société-écran
+9. Symptômes, segurança, método, equipamento (réel), prevenção
+10. FAQ PAA-aligned + JSON-LD mirror obligatoire
+11. 8 concelhos piliers liés (cohérents grille)
+12. Section « páginas relacionadas » si cluster money
+13. CTA Tel + WhatsApp, SANS promesse minutes
+14. Resources (calculadora, precos, zonas, testemunhos)
+15. Footer + sticky-cta + float-wa
+
+**Reproduction gate DoD pour page money neuve** :
+```python
+import json, re
+for f in ['entupimento.html','desentupir-canos.html','desentupimento-esgoto.html']:
+    html = open(f).read()
+    m = re.search(r'(<script type="application/ld\+json">)(.*?)(</script>)', html, re.DOTALL)
+    data = json.loads(m.group(2))
+    canon = re.search(r'<link rel="canonical" href="([^"]+)"', html).group(1)
+    for g in data['@graph']:
+        if g.get('@type')=='FAQPage':
+            assert len(g['mainEntity']) >= 5
+        if g.get('@type')=='Service':
+            assert g['areaServed'][0]['name']=='Trás-os-Montes'
+    assert 'AggregateRating' not in m.group(2)
+    assert '"Review"' not in m.group(2)
+    assert not canon.endswith('.html')
+    assert 'orçamento por escrito antes' in html
+    assert '65 €/h' in html
+    assert '+50%' in html
+    assert 'a nossa equipa' in html or 'os nossos' in html
+    assert len(re.findall(r'/concelhos/[a-z-]+\.html', html)) >= 8
+    for bad in ['certificação','certificado','DGEG','emitimos','em conformidade com',
+                'instalações certificadas','emissão de','agendamento prévio',
+                'resposta imediata','resposta prioritária', r'\b\d+\s*minutos?\b',
+                r'\bem \d+\s*horas?\b','eu sou','minha empresa','sou sozinho',
+                'contacte-me','falar comigo']:
+        assert not re.search(bad, html, re.IGNORECASE), f'FORBIDDEN in {f}: {bad}'
+print('DoD PASS')
+```
+
+**Coût évité** : batch partial (1 page sur 3 JSON-LD cassée silencieusement par `write_file`) aurait livré une PR avec schema.org invalide → perte de PAA → échec silencieux SEO. Le test JSON-LD parse AVANT commit = 1 minute ajoutée, 1 régression évitée.
+
+**Reproduction gate prix / concelhos (cohérence grille)** :
+```bash
+for c in "Macedo de Cavaleiros" Mirandela Bragança Valpaços "Torre de Moncorvo" Vimioso Chaves "Vila Real"; do
+  python3 /Users/admin/work/Sites/.tooling/preco-deslocacao.py "$c"
+done
+# Comparer chaque ligne au format « (Zx — xx €) » affiché dans la page
+```
+
+**Statut** : 3 fichiers modifiés/créés, JSON-LD valides (7 FAQ sur entupimento, 5 sur les 2 autres), 0 claims interdits, 8 concelhos piliers liés par page, prix cohérents avec `.tooling/preco-deslocacao.py` sur les 8 sièges. Branche prête — **PAS de merge sans STOP validation Philippe**.
