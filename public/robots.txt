@@ -8,6 +8,10 @@ Target: PT
 Allow: /
 
 # Sitemaps
+# Tiering 16/07/2026 :
+#   sitemap.xml = core (101 URLs : home + 28 pilier + 6 distritos + 33 hubs concelhos + 33 money-kw concelhos)
+#   sitemap-villages.xml = 2001 URLs low-priority, préparé mais NON référencé ici
+#   (ajout gradue après validation GSC sur le core)
 Sitemap: https://canalizador-urgente.pt/sitemap.xml
 
 # Crawl-delay pour bots agressifs
