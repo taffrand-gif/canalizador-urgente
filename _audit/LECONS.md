@@ -187,3 +187,60 @@ else:
 **Coût évité** : 30 min de debug regex + risque de casser les pages hub sur un merge.
 
 ---
+
+## Leçon #412 (16/07 2026) — Pilier national vs gabarit Variante C : 2 designs distincts
+
+**Contexte** : Mission P2 Phase 1 (CU), 2 pages pilier service-racine (`desentupir-canos.html` + `entupimento.html`). La SPEC §6-8 ne définit Variante C QUE pour `service_kw × concelho` — pas pour un pilier national sans ancrage communal.
+
+**Question initiale** : peut-on appliquer Variante C telle quelle à un pilier sans concelho unique ? Non — Variante C attend `{{concelho_name}}`, `{{district}}`, `{{route_km}}`, `{{price_block}}` : 4 champs sur 6 n'ont pas de source unique. Adapter ou créer un gabarit national distinct ?
+
+**Décision** : **Variante C adaptée, pas recopiée**. Le pilier national n'est PAS un hub-concelho :
+- Pas de `{{concelho_name}}` unique → remplacé par liste **33 concelhos indexables** organisés par zone tarifaire Z1–Z6 (vérifiés par `git ls-files`)
+- Bloc Transparence tarifaire **HAUT** (Doctrine §12) identique aux hubs : 65 €/h + Z1–Z6 + +50% nuit/WE/feriado
+- Section "Onde atuamos" avec maillage vers les 33 hubs réels (pas de constellation villageoise, R0 self-ref hub)
+- Symptômes + causes + méthode + équipement RÉEL listés (Ridgid K9-102 + caméra 30 m + molas espirales) — équipement = R12 §1 validé, pas inventé
+- FAQ 5 questions answer-first, dont "Quanto custa?" et "Posso fazer sozinho?" (confiance client, R12 §1)
+- Pas d'adresse privée, NAP public seul (`+351 928 484 451`), centreïde Trás-os-Montes dans JSON-LD uniquement (R5 géo-neutre)
+
+**Mesures Jaccard (gate spec §10)** :
+- `Jaccard(pilier↔hub)` ≈ **0.20** (cible hub↔hub pairwise median ≤0.35 — OK, piliers plus longs et plus didactiques que hubs urgence)
+- `Jaccard(pilier↔pilier)` ≈ **0.67** — attendu : 2 piliers nationaux partagent le même gabarit R12 + équipement + FAQ R12 + maillage 33 concelhos. La différenciation vient de l'**intent** (action vs symptôme), pas du payload factuel.
+
+**Différenciation intent vs contenu** :
+- `desentupir-canos.html` (intent action "fazer"): focus sur les **types de cano** (cozinha, sanita, lavatório, ralo, caixa inspeção) + méthode + équipement + prévention
+- `entupimento.html` (intent symptôme "problema"): focus sur les **signes** (esvaziamento lento, borbulhar, refluxo, mau cheiro) + **causas habituais** + **distinção fuga vs entupimento** + lien sortant vers `/como-detetar-fuga-agua.html` (renforcie le silo fuite à côté)
+
+**Méthode de validation avant commit** :
+1. Liste des 33 fichiers cibles générée par script : `for x in concelhos.json → if indexable → fname = canalizador-urgente-{slug}.html; assert fname in git_ls_files`
+2. Grille prix figée : checker `65 €/h`, `15 €`, `25 €`, `35 €`, `45 €`, `55 €`, `65 €`, `+50%` tous présents (8 ancres)
+3. Équipement réel : checker `Ridgid K9-102`, `câmara de inspeção 30 m`, `molas espirais` tous présents
+4. Claim interdits : grep `mesma pessoa|em X minutos|resposta imediata|mediante confirmação|ferro galvanizado|atendimento imediato|garantimos.*min|emitimos.*certificado` → 0 sur les 2 pages
+5. Canonical self : `https://canalizador-urgente.pt/{slug-pilier}` exactement
+6. Compteur mots utiles (≥3 char, hors stopwords PT) : cible **800-1500** → 805 et 1044 ✓
+
+**Cherry-pick depuis branche sœur** : `data/concelhos.json` corrigé (grille Filipe route_km TOMTOM alignée) est sur la branche `fix/data-zones-tomtom` (commit `0e1baf711`). Cherry-pick ciblé `git checkout 0e1baf711 -- data/concelhos.json` pour importer UNIQUEMENT le JSON, sans les `scripts/fix_zones_tomtom.py` ni les `concelhos/*.html` (qui sont sur une autre mission).
+
+**Coût évité** :
+- Refonte Variante C stricto sensu → impossible (pas de concelho unique)
+- Création d'un gabarit "D" national à partir de zéro → inutile, Variante C fournit 80% de la structure
+- Régression préséance zones (16 discordances historiquement non tranchées) → tranchée par merge `fix/data-zones-tomtom` dans la branche `feat/p1-hubs-canalizador` mais PAS encore dans `origin/main` → cherry-pick ciblé
+- Prix BLOQUÉ hérité de la mission précédente → levé par le cherry-pick, le JSON aligné Filipe permet l'affichage prix
+- Jaccard 0.67 entre piliers → ACCEPTÉ car c'est le coût d'avoir un gabarit R12 réutilisable (Doctrine §13 "gabarit réutilisable — verrouillée")
+
+**Reproduction systématique** :
+```bash
+# 1. Lister hubs réels indexables depuis concelhos.json
+python3 -c "import json; c=json.load(open('data/concelhos.json')); \
+  import subprocess; fs=set(subprocess.run(['git','ls-files'],capture_output=True,text=True).stdout.split()); \
+  print([(x['zone'],x['name'],f'canalizador-urgente-{x[chr(34)+chr(115)+chr(108)+chr(117)+chr(103)+chr(34)].strip()}.html') for x in c if x['indexable'] and f'canalizador-urgente-{x['slug']}.html' in fs])"
+
+# 2. Cherry-pick ciblé concelhos.json corrigé depuis branche sœur
+git checkout fix/data-zones-tomtom -- data/concelhos.json  # si branche dispo
+# OU commit direct :
+git checkout 0e1baf711 -- data/concelhos.json
+
+# 3. Gate qualité avant commit
+python3 -c "..."
+```
+
+---
