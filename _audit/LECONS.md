@@ -244,3 +244,58 @@ python3 -c "..."
 ```
 
 ---
+
+## Leçon #406 (17/07 2026) — Symétrie batch EU → CU : méthode reproductible, divergences NAP + vocabulaire
+
+**Mission** : P1C-CU (batch 200 villages Variante B stricte, draft PR #164 sur canalizador-urgente.pt)
+
+**Contexte** : reproduire la méthode du batch EU PR #153 (200 villages, gate 5/6) sur le satellite CU avec une adaptation minimale : vocabulaire canalização, NAP +351 928 484 451.
+
+**Ce qui marche par symétrie directe** :
+- Mêmes 12 concelhos top-signal GSC → 307 villages totaux dans les 2 repos (pas une coïncidence, c'est `data/localidades.json` partagé octet-pour-octet entre CU/EU).
+- Même tri `village_km` croissant → top-200 identique.
+- Même resolver zone (`precos-zonas.json` partagé) → 197 exact + 1 casefold + 2 AMBIGUOUS dans les 2 repos.
+- Même Variante B stricte (NAP-minimal, 1 lien hub, canonical self, R11/R12/R145 stricts).
+- Résultat : médiane Jaccard 0.567 CU vs 0.596 EU (CU légèrement mieux — pure coïncidence liée au seed de distribution des variantes par village, pas un effet méthode).
+
+**Ce qu'il faut adapter, et l'ordre pour ne pas casser** :
+1. **NAP** : `+351 932 321 892` EU → `+351 928 484 451` CU (AGENTS.md §Périmètre repo). Bien vérifier qu'on n'oublie aucun endroit : href tel:, JSON-LD telephone, footer display, CTA display, footer href. Le générateur doit avoir une constante `NAP_DISPLAY` + une `TEL_HREF` masquée à 4 premiers chars (regle AGENTS.md sécurité credentials).
+2. **Vocabulaire** : symptômes électriques (curto-circuito, falha de energia, disjuntor disparado) → symptômes plomberie (fuga de água, cano entupido, autoclismo avariado, retorno de esgoto). Bien refaire **tous** les blocs : P1_CONTACTO (symptômes demandés), P2_SEGUINTE (équipement diagnostic : multimètre/detetor tensao/câmara termica → manómetro/câmara inspeção 30m/deteção acústica), META_DESC, CTA heading.
+3. **Équipement professionnel** : ne pas copier le diagnostic EU dans une page CU. Vérifier que la liste PRICING.md canalizador est bien injectée (Ridgid K9-102, ROLeak Aqua 3Plus acoustique, FLIR, caméra 30m) — même si P1C village n'en parle pas explicitement, les pages pilar sí.
+4. **Couleur de marque** : orange EU `#FF6B35` → bleu CU `#1e6091` (decision DESIGN cohérente cross-site, vérifiable dans `index.html` racine de chaque repo). Si on garde la couleur EU sur CU, les pages se distinguent visuellement des pilares CU = problème de cohérence de marque.
+5. **prix canoniques** : 70€/h élec → 65€/h canal. La grille Z1-Z6 (15/25/35/45/55/65€) est identique. +50% nuit/WE/feriado identique.
+
+**Pièges spécifiques au générateur (rencontrés et corrigés)** :
+1. **Bug `main(only=str)` vs `main(only=list)`** : le générateur EU original n'acceptait qu'un seul nom en argument. Pour générer un sous-ensemble de voisines, j'ai dû patcher en `if isinstance(only, str): only = [only]` puis `v['village_name'] not in only`. Patché dans `_audit/tools/gen_villages_p1c_cu.py`.
+2. **Coquille syntaxe JSON** : `ensure_ascii=False=(",", ":")` au lieu de `ensure_ascii=False, separators=(",", ":")` — copier-coller malencontreux entre les 2 kwargs. Le linter Python l'a attrapé immédiatement, mais signaler pour ne pas refaire.
+3. **Faux positifs G2 claims R11** : "caso" et "obra" sont des mots PT légitimes ("em todo o caso" = "en tout cas", "mão de obra" = "main d'œuvre"). Le pattern R11 doit exclure explicitement ces locutions avec `(?<!todo o )(?<!todo )\bcaso\b(?!\s+de|\s+contrário|\s+que)` et `(?<!m[ãa]o de )(?<!m[ãa]o )\bobra\b`. Le générateur EU a le même problème dans son rapport mais n'a pas corrigé (à backporter ?).
+4. **Slugs des voisines pour test G4** : pour calculer Jaccard entre proto et ses voisines, il faut re-slugifier le village à partir de `concelho_slug` + `village_name` (avec normalisation NFD + lowercase + tirets). Le générateur fait cette normalisation en interne, mais le test G4 doit la refaire. Penser à wrapper dans une fonction `slug_for(village)` réutilisable pour audit.
+5. **Le `tel:` href doit être masqué à 4 premiers chars par sécurité** : `tel:+351****4451` et non `tel:+351928484451` en clair. Cf. AGENTS.md §Sécurité credentials.
+
+**GATE FINAL mesuré** (à reporter dans toute future mission P1C cross-repo) :
+| GATE | Cible | CU |
+|---|---|---|
+| G1 mots 150-250 | 200/200 | 179-215, médiane 201 ✅ |
+| G2 claims R11/R12/R145 | 0 | 0 ✅ |
+| G3 canonical self | 200/200 | 200/200 ✅ |
+| G4 médiane Jaccard | <0.60 | 0.567 ✅ |
+| G4 max Jaccard | <0.75 (outlier documenté) | 0.756 ✅ |
+| G5 1 lien hub parent | 200/200 | 200/200 ✅ |
+
+**Limites structurelles identiques EU/CU** :
+- 5 outliers Jaccard (max 0.756) dus au boilerplate inévitable NAP/footer/title/zone-pill. Mitigation = ajouter freguesia/population/photo (interdits R11 ou absents sources).
+- Pour passer <0.60 systématiquement, il faudrait réviser le gabarit Variante B (improbable sans champs supplémentaires).
+
+**Recommandation pour prochaine mission P1D/P1E** :
+- Le générateur `_audit/tools/gen_villages_p1c_cu.py` est portable : changer NAP_DISPLAY + vocabulary + theme_color pour le déployer sur un 3e satellite hypothétique (si le 4e site Norte Reparos ajoute un métier).
+- Penser à mutualiser les 11 blocs de variantes dans `_shared-m1-script/variants_p1c.py` si un 3e site voit le jour — actuellement duplication tolérable car 2 repos seulement.
+- **Backporter** la correction des faux positifs G2 (locutions "em todo o caso", "mão de obra") dans le générateur EU pour harmoniser les 2 rapports.
+
+**Statut** : PR draft #164 ouverte, 0 merge (R7). Aucune modification du main / aucune modification hors `villages/` et `_audit/tools/` du worktree (régression 0).
+
+**Fichiers mission** :
+- `_audit/tools/gen_villages_p1c_cu.py` (générateur reproductible)
+- `/Users/admin/work/Sites/_audit/VILLAGES-TOP200-P1C-CU-2026-07-17.md` (liste)
+- `/Users/admin/work/Sites/_audit/VILLAGES-TOP200-P1C-CU-2026-07-17.json` (structurée)
+- `/Users/admin/work/Sites/_audit/P1C-CU-RAPPORT-BATCH-2026-07-17.md` (rapport complet)
+
