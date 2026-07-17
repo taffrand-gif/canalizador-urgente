@@ -263,7 +263,7 @@ grep -c "fala sempre com a mesma pessoa" index.html
 
 ---
 
-**Dernière MAJ** : 2026-07-02 21h45 BST — **✅ SESSION 03/07 CLOSE : 18 PRs loop R12/R145 cleanup + 4 SEO_PLAN sync TOUTES MERGÉES (squash, --delete-branch)**. Loop 3 vagues : Vague 1 reprise (8 PRs localité phares), Vague 2 mass-sed 267 CU+267 EU (sub-agents deleg_680d8a5a), Vague 2bis pass2 (PR #92 mine 1911 CU + PR #94 mine 102 EU, parent finit manuellement après sub-agent lesson #294/#305), Vague 3 hubs concelhos/distritos (PR #93 CU 39 + PR #95 EU 33) + blogs safe-zones (PR #94 CU 32 + PR #96 EU 6). SEO_PLAN sync cross-sites = 4 PRs mergées (#95 CU, #97 EU, #124 CNR, #112 ENR). Doctrine §12 R12/R145/R11 appliquée 100% sur ~2500 fichiers. Sites prod HTTP 200. Leçons #307-#311 codées hermes-task-brief v1.7. **Gisement restant** : CNR/ENR client/public+dist/public regénération build (~66k hits R12), SEO duplicate content (173+178 title/desc identiques), blogs body pédagogique (préservé par design). **Prochain chat Philippe** : reprendre loop sur gisement CNR/ENR + SEO content.
+**Dernière MAJ** : 2026-07-17 20h30 BST — **📊 ÉTAT POST-FOURNÉE — VILLAGES 200/200 NAP-MINIMAL LIVE + INDEXABILITÉ 104/104 CORE + GATING R3 GELÉ**. (cf. section dédiée ci-dessous). Pour l'historique antérieur : voir bloc précédent « SESSION 03/07 CLOSE » ligne suivante.
 **Prochaine action** : (1) **Décision Philippe** branche `fix/a6-cu-tel-links-lot7-final-2906` (rebase + drop vs continuer) — dry-rebase -X theirs SAFE confirmé. (2) **URGENCE R12** : 70€/h → 65€/h sur 1504 fichiers (Doctrine §12 cassée héritée, ~30 min subagents par lots de 250). (3) SEO_PLAN.md dirty → commit/éditer. (4) A2 — 8 pages /zonas/ prioritaires (Bragança, Mirandela, Macedo, Chaves, Vila Real, Miranda do Douro, Mogadouro, Vinhais) — **attente GO Philippe**. (5) 990 mots-clés CRÍTICA sans page (P1).
 | 2026-06-29 | Hermes (multi-agent + mode loupe) | A3 Doctrine §12 services étendu | A2 (bloc Doctrine §12) + A2-BIS (cleanup SEO pré-existant : noindex quotes simples, fourchettes inventées, orçamento grátis, majorations mal formulées) sur 570 fichiers services (urgente + fuga-agua + desentupimento + autoclismo + esquentador). Hors 10 fichiers Bragança déjà conformes (PR #46+#47). 11 commits (10 subagent + 1 correctif mode loupe `25bfb0cb5`). Leçon #204 documentée : pattern noindex élargi pour matcher quotes simples+doubles. R7 : PR #48 ouvert + STOP merge + GO explicite Philippe | Témoins AVANT/APRÈS sur 570 fichiers : bloc_doctrine 0/570 → 570/570, noindex 570/570 → 0/570, desde X€ 570/570 → 0/570, orçamento grátis 570/570 → 0/570, Acréscimos mal formulés 76/570 → 0/570. NAP 928 484 451 + tarif 65 €/h + bloc intact (1 occurrence doctrine-transparence). Vérifié moi-même sur 5 fichiers random (Chaves, Armamar, Macedo, Mogadouro, Miranda) | ✅ Fait (PR #48) |
 | 2026-06-29 | Hermes (2 subagents en parallèle + mode loupe parent-side) | **A4 Doctrine §12 pages courtes** | A2 (bloc Doctrine §12) + A2-BIS (cleanup SEO pré-existant) sur **1827 fichiers courts `canalizador-{ville}.html`** à la racine (hors `concelhos/`, `distritos/`, `blog/`). NAP 928 484 451 + 65 €/h + ⚡ canal + Ridgid/Fluke/ROLeak/FLIR. 37 commits subagent + 1 squash final. Mode loupe post-subagent (leçon #205/#209) : vérifié moi-même compteurs globaux + 5 fichiers random. Faux positif subagent sur compteur `fala sempre` (case-sensitive) détecté et corrigé par comptage Python direct. R7 : PR #49 ouvert + STOP merge + GO explicite Philippe | Témoins AVANT/APRÈS : noindex 1253 → 0, desde_110/145/150 ~285 → 0, orçamento grátis 1439 → 0, Resposta prioritária 1823 → 0, Acréscimos mal formulés 308 → 0, bloc Doctrine 575 → 1828, Fala sempre 575 → 1828. Cross-site drift (928/65 €/h) vérifié 0/1828. Check 6 post-mass-patch : 1 régression mineure introduite (`12+ Anos de Experiência` +1) — corrigible en A4-BIS. Commit batch `86d6dd027 → ddab16485`, squash final `42b1ec17` | ✅ Fait (PR #49) |
@@ -275,6 +275,44 @@ grep -c "fala sempre com a mesma pessoa" index.html
 | 2026-06-30 | Hermes (mode loop + 3 sub-agents) | A4-BIS + contactos.html cleanup | fix 4 JSON-LD bloques ****4451 → 928 484 451, unifier email, audit claims locaux §11. PR #XX ouverte (sera numérotée par GitHub après push), STOP merge R7. | Dette résiduelle A4 finalisée | Témoin R8 = taille fichiers .md/.html avant/après conforme | 🛑 STOP merge R7 — attente GO Philippe |
 | 2026-06-30 | Hermes (mode loop #5) | lag-doc | MAJ SEO_PLAN.md — BOMBE LÉGALE R12 tarif CU close | BOMBE close via PRs #63, #64, #65 mergées 29/06 08h53 (492 fichiers × 3 lots = 1476 fichiers cumul). Témoin 30/06 grep `70€/h` dist/public/ = 0 occurrence. | Doctrine §12 R12 protégée, bombe désamorcée | ✅ Fait (mode loop #5) |
 
+---
+
+## 📊 ÉTAT POST-FOURNÉE 2026-07-17 — canalizador-urgente.pt (canal)
+
+**Vérifié par git/curl le 2026-07-17 20h30 BST (pas un claim, pas un souvenir) — SHA main = `57a5a84d1` (PR #165 MERGÉE 17/07 17h54 UTC).**
+
+### Piliers money live (HTTP 200, curl vérifié)
+- Homepage `/` + 7 piliers service (entupimento, desentupir-canos, desentupimento-esgoto, calculadora-de-preco, precos, zonas-deslocacao, contactos)
+- 4 pages prix datées 2026 (Bragança, Vila Real, Mirandela, Chaves) — `preco-canalizador-urgente-{ville}-2026.html`
+- 4 hubs serviço×concelho phare (Bragança, Chaves, Vila Real, Mirandela) — `canalizador-desentupimento-{concelho}`
+- 33 hubs concelhos + 6 distritos + 4 pages prix phares = 45 entrées money-directes
+
+### Sitemap tiering (curl prod 17/07 20h30)
+- `sitemap.xml` (core) = **104 URLs** (homepage + 7 piliers service + 28 guides/FAQ + 5 prix datés + 33 concelhos + 6 distritos + 23 desentupimento-concelhos = tiers money + trust)
+- `sitemap-villages.xml` (long-tail) = **2000 URLs** (NAP-minimal villages, non déclaré dans robots.txt)
+- `robots.txt` expose sitemap.xml + disallow `/public/` (miroir duplicate content, 84 fichiers 200 sur /public/ identifiés 16/07)
+
+### Villages 200/200 NAP-minimal live (hors sitemap core)
+- 200 villages générés (PR #164 feat(p1c) 2026-07-17, Variante B stricte) — 100% HTTP 200, canonical self-ref (`<link rel="canonical" href="https://canalizador-urgente.pt/{slug}">`), NAP 928 484 451 × 3 minimum/page vérifié sur échantillon (Trevoes, Calvao, Freixo-de-Numao)
+- Sitemap-villages.xml = 2000 entrées mais 200 villages générés P1C = scalabilité 10× à venir (vagues 2-10 par concelho)
+
+### Indexabilité core 104/104
+- 104 URLs sitemap.xml core toutes HTTP 200, canonical self-ref vérifié (échantillon `canalizador-lamego.html`, `canalizador-mogadouro.html`, `contactos.html`, `trabalhar-conosco.html` — corrigés PR #165)
+- 0 PR ouverte, dernier merge = PR #165 (4 canonical self-ref résiduels post-audit 17/07)
+
+### Guides miroirs sites principaux (HTTP 200)
+- 13 pages guides CU live : guia-canalizacao, guia-eletricidade, glossario-canalizacao, glossario-eletricidade, como-detetar-fuga-agua, como-escolher-esquentador, como-trocar-autoclismo, sinais-alerta-casa-antiga, top-10-razoes-contratar-eletricista, metodologia, perguntas-frequentes, mapa-do-site, indice-a-z
+- Miroir avec CNR (`guia-canalizacao` ↔ `canalizador-norte-reparos.pt`) cohérent R11 (zéro invention)
+
+### Queue IndexNow J1 (état réel)
+- `indexnow-key.txt` + `canalizador-urgente-indexnow-urls.txt` (115 KB) présents à la racine du repo
+- ✅ À exécuter J1 (= 2026-07-18) après GO merge PR SEO_PLAN : POST URLs sitemap-villages.xml + sitemap.xml vers `api.indexnow.org/indexnow`
+- Pas de cron configuré pour CU IndexNow (à valider vs cross-sites CNR/ENR)
+
+### Mesures planifiées
+- **2026-07-23 (J+6)** : resoumission GSC des 104 core + échantillon 200 villages P1C, vérification couverture index
+- **2026-07-30 (J+13)** : audit SERP sur 5 mots-clés piliers (« canalizador urgente bragança », « desentupimento bragança », « fuga agua urgente », « canalizador 24h tras-os-montes », « preço canalizador vila real »), comparaison avant/après P1C
+- **J+30 (≈ 2026-08-16)** : mesure indexation réelle des 200 villages P1C, conversion trafic GSC, ROI keywords long-tail villages
 || 2026-06-30 | Hermes (M1 sub-agent audit) | **M1 body purge services FAUX (audit only, CU = hors périmètre M1)** | Audit READ-ONLY post-M1 : site **non touché** par la mission M1 (CU = site urgence propre, pas de backlog P0.1 services FAUX — cf SEO_PLAN §A1 + M5-AUDIT §4). Consignation traçabilité cross-session uniquement. 1 dirty file résiduel non lié à M1 : `precos.html` (modifié hors branche M1, à investiguer — voir SESSION-HANDOFF M7-M1 §Anomalies). | R11 (zéro invention) + traçabilité 4-sites | 1 dirty file `precos.html` à inventorier hors M1 | 🛑 STOP - attente Filipe sur anomalie CU |
 | 2026-06-30 | Hermes (carte blanche Philippe) | M2-B1 H1 hero différenciation urgencia 24h/7 | H1 `Canalizador urgente 24 h/7 dias — resposta imediata em Trás-os-Montes` + subtitle symptômes + title `Canalizador Urgente 24h/7 — Trás-os-Montes | Preço conhecido antes` | R145 conforme (resposta imediata disponibilité, pas chrono) + intent long-tail symptômes | PR #72 merge squash bf3acbbd5 ✅
 | 2026-06-30 | Hermes (carte blanche Philippe) | M2-B2 purifier intro/body Bragança | Nettoyage violations R11/R12/R145 : `Atendemos 24h/7 dias, mediante confirmação por telefone` (BANNIS R145) → `Orçamento por escrito antes da intervenção` ; `Resposta confirmada por chamada` placeholder → supprimé ; `Zona 4` (incohérent Z3) → `Zona 3` ; `⭐⭐⭐⭐ · experiência` (R11 invention) → supprimé ; `40€` → `35€` | Conformité Doctrine §12 Transparence Radicale + R11/R145 leçon #268 (case-sensitive grep) | 1 fichier / 10 lignes, commit `588c86707`, PR #75 merge squash `012084ee1` ✅
