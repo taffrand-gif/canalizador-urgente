@@ -69,6 +69,7 @@ def check(slug: str) -> dict[str, object]:
             "65 €/h", "Z1", "15 €", "Z2", "25 €", "Z3", "35 €",
             "Z4", "45 €", "Z5", "55 €", "Z6", "65 €", "+50 %",
             "mediante confirmação por telefone",
+            "orçamento por escrito antes de qualquer intervenção, sem surpresas",
             "fala sempre com a mesma pessoa, não um call center",
             "+351 928 484 451",
         )
