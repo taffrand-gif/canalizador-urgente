@@ -270,7 +270,7 @@ python3 -c "..."
 2. **Coquille syntaxe JSON** : `ensure_ascii=False=(",", ":")` au lieu de `ensure_ascii=False, separators=(",", ":")` — copier-coller malencontreux entre les 2 kwargs. Le linter Python l'a attrapé immédiatement, mais signaler pour ne pas refaire.
 3. **Faux positifs G2 claims R11** : "caso" et "obra" sont des mots PT légitimes ("em todo o caso" = "en tout cas", "mão de obra" = "main d'œuvre"). Le pattern R11 doit exclure explicitement ces locutions avec `(?<!todo o )(?<!todo )\bcaso\b(?!\s+de|\s+contrário|\s+que)` et `(?<!m[ãa]o de )(?<!m[ãa]o )\bobra\b`. Le générateur EU a le même problème dans son rapport mais n'a pas corrigé (à backporter ?).
 4. **Slugs des voisines pour test G4** : pour calculer Jaccard entre proto et ses voisines, il faut re-slugifier le village à partir de `concelho_slug` + `village_name` (avec normalisation NFD + lowercase + tirets). Le générateur fait cette normalisation en interne, mais le test G4 doit la refaire. Penser à wrapper dans une fonction `slug_for(village)` réutilisable pour audit.
-5. **Le `tel:` href doit être masqué à 4 premiers chars par sécurité** : `tel:+351****4451` et non `tel:+351928484451` en clair. Cf. AGENTS.md §Sécurité credentials.
+5. **Le `tel:` href doit être masqué à 4 premiers chars par sécurité** : `` et non `tel:+351928484451` en clair. Cf. AGENTS.md §Sécurité credentials.
 
 **GATE FINAL mesuré** (à reporter dans toute future mission P1C cross-repo) :
 | GATE | Cible | CU |
@@ -456,7 +456,7 @@ git worktree add /tmp/cu-hubs-fresh -b feat/hubs-freshness feat/hubs-villages-ma
 | `datePublished == git log --reverse --follow` | ✅ 5/5 échantillons |
 | `dateModified == git log --` (dernier commit) | ✅ 5/5 |
 | `git diff --shortstat` = insertions only | ✅ 33 files, 132 insertions(+), 0 deletion |
-| `tel:+351****` introduit | ✅ 0 occurrence |
+| `tel:` href masqué (asterisques parasites) | ✅ 0 occurrence |
 | body visible / breadcrumb HTML / H1 / title / canonical inchangés | ✅ identique ligne-à-ligne |
 
 **Breadcrumb dynamique** : 3 items `Início > Distrito > Concelho` quand le nav HTML pointe sur `/distritos/<slug>.html`, 2 items `Início > Concelho` sinon. Détection par regex sur le href du nav existant (pas d'invention, SOT = nav HTML réel).
