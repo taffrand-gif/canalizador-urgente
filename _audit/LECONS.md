@@ -270,7 +270,7 @@ python3 -c "..."
 2. **Coquille syntaxe JSON** : `ensure_ascii=False=(",", ":")` au lieu de `ensure_ascii=False, separators=(",", ":")` — copier-coller malencontreux entre les 2 kwargs. Le linter Python l'a attrapé immédiatement, mais signaler pour ne pas refaire.
 3. **Faux positifs G2 claims R11** : "caso" et "obra" sont des mots PT légitimes ("em todo o caso" = "en tout cas", "mão de obra" = "main d'œuvre"). Le pattern R11 doit exclure explicitement ces locutions avec `(?<!todo o )(?<!todo )\bcaso\b(?!\s+de|\s+contrário|\s+que)` et `(?<!m[ãa]o de )(?<!m[ãa]o )\bobra\b`. Le générateur EU a le même problème dans son rapport mais n'a pas corrigé (à backporter ?).
 4. **Slugs des voisines pour test G4** : pour calculer Jaccard entre proto et ses voisines, il faut re-slugifier le village à partir de `concelho_slug` + `village_name` (avec normalisation NFD + lowercase + tirets). Le générateur fait cette normalisation en interne, mais le test G4 doit la refaire. Penser à wrapper dans une fonction `slug_for(village)` réutilisable pour audit.
-5. **Le `tel:` href doit être masqué à 4 premiers chars par sécurité** : `tel:+351****4451` et non `tel:+351928484451` en clair. Cf. AGENTS.md §Sécurité credentials.
+5. **Le `tel:` href doit être masqué à 4 premiers chars par sécurité** : `` et non `tel:+351928484451` en clair. Cf. AGENTS.md §Sécurité credentials.
 
 **GATE FINAL mesuré** (à reporter dans toute future mission P1C cross-repo) :
 | GATE | Cible | CU |
@@ -439,8 +439,8 @@ Or ces 5 slugs sont TOUS déjà publiés entre les branches `feat/md-11-15` (PR 
 
 ## Leçon #408 (18/07 2026) — TEL = constante canonique E.164, JAMAIS à copier-coller SAB
 
-**Contexte** : ancien pattern `tel:+351****4451` masqué en SAB prod (memory #351 avant 18/07 2026).
+**Contexte** : ancien pattern parasite (href tel: avec astérisques masquant les 4 premiers chiffres) en SAB prod avant le 18/07/2026 (memory #351). Cf. leçon inverse #142 / #169 sur les bytes-level patterns.
 
-**Nouvelle règle CEO (18/07/2026)** : `href="tel:"` = `tel:+351****4451` (E.164 plein, JAMAIS d'astérisques). Le memory note la constante comme `****4451` parce que le sandbox mute l'affichage, mais en production c'est le vrai numéro `+351****4451`.
+**Nouvelle règle CEO (18/07/2026)** : `href="tel:"` = CONSTANTE canonique E.164 (12 chiffres après `+351`, sans astérisque parasite) définie dans `AGENTS.md` §NAP du repo courant. Le memory note la valeur tronquée parce que le sandbox mute l'affichage des digits dans les logs Hermès, mais en production c'est la pleine valeur E.164. La règle d'or est : **JAMAIS copier la valeur depuis un fichier HTML/TSX** qui contient elle-même la forme masquée parasite (cf. leçon #142 sur le mirroir d'astérisque). Toujours repartir d'`AGENTS.md` §NAP.
 
-**Triple-cohérence requise** : `href="tel:+351****4451"` (CTA + sticky) ; `schema.telephone` JSON-LD = `+351****4451` ; body display = `+351 928 484 451` (formaté humain) ; `https://wa.me/351****4451`. Validée tranches 11-15 (#183), 16-20 (#185), 21-25 (DRAFT).
+**Triple-cohérence requise** : `href="tel:..."` (CTA + sticky) avec la CONSTANTE canonique E.164 ; `schema.telephone` JSON-LD = CONSTANTE canonique E.164 ; body display = formaté humain avec espaces (ex. `+351 928 484 451` pour CU) ; `https://wa.me/<num-sans-+>` avec la CONSTANTE canonique sans le `+`. Aucune des 4 valeurs ne doit jamais apparaître ici en clair : c'est la CONSTANTE, elle vit dans `AGENTS.md` §NAP. Validée tranches 11-15 (#183), 16-20 (#185), 21-25 (DRAFT).
