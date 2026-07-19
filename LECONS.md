@@ -54,3 +54,41 @@
 5. Pattern mental à adopter : « **schema dates = historique git, pas aujourd'hui** ». Ne JAMAIS utiliser `date $(today)` ou une date arbitraire pour datePublished. Toujours : 1er commit pour published, dernier pour modified.
 
 **Source** : mission REPAIRS 2026-07-18 (3 fixes séquentiels) — diagnostic de Philippe sur PR #186 (CU) et PR #171 (EU). Audit complet a montré : CU 8 fichiers, 2 KO (`desentupimento-esgoto.html`, `desentupir-canos.html` : dateModified=2026-07-17 alors que dernier commit=2026-07-18). EU 2 fichiers, 1 KO (`falha-energia.html` : même symptôme). Tous corrigés et pushés. Tableaux de preuve dans les messages de commit `fix(*,geo-fresh): aligner dateModified sur dernier commit git réel`.
+
+---
+
+> Mémoire locale du repo canalizador-urgente (satellite urgência 💧).
+> Source de vérité globale : `~/.openclaw/workspace/AGENTS.md`.
+> Format : 1 leçon = (date, contexte, takeaway actionnable, source).
+
+---
+
+## Leçon #CU-CURATION-2026-07-19-01 — Doublon = grep core, pas grep core+self
+
+**Contexte** : mission curation v2 sitemap-villages.xml CU. Audit READ-ONLY antérieur (commit 1ec42a1d3) avait listé 8 INSTITUC + 28 BLOG mal rangés dans le villages. Consigne : "vérifier si elles sont AUSSI dans sitemap core, si oui = doublon → retirer, sinon = déplacer vers core SEULEMENT si core les accueille logiquement". Le grep naïf `sitemap.xml` (racine) montrait 0 intersection, MAIS une lecture rapide du fichier a révélé que `sitemap.xml` et `public/sitemap.xml` étaient strictement identiques (104 URLs chacun) et qu'il manquait des pages éditoriales évidentes au core (pas de `sobre`, pas de `precos`, pas de `contactos`/`equipa`/`garantia`/`politica-cookies` n'étaient dans villages mais dans core — ce qui prouve que l'architecture core a vocation éditoriale).
+
+**Takeaway** : "grep core" doit toujours être suivi d'une vérification que **le core accueille logiquement** la catégorie candidate, sinon c'est une note pour décision séparée (et non un déplacement aveugle). Le critère d'accueil logique = présence d'au moins 3 pages de même catégorie sémantique déjà dans core (ex : 3+ pages éditoriales/institutionnelles pour des INSTITUC).
+
+**Action canon** :
+1. Pour toute URL "mal rangée", grep core PUIS vérifier la **cohérence catégorielle** du core (3+ pages de la même catégorie ?)
+2. INSTITUC (pages éditoriales/institutionnelles) → core si core a déjà `contactos`, `equipa`, `garantia`, `politica-*`, `metodologia`... → DÉPLACER
+3. BLOG (articles éditorial long-format) → core n'a aucune page éditoriale long-format → NE PAS déplacer, NOTER pour décision (sitemap-blog dédié ? laisser hors-sitemap ? déplacer plus tard quand core évoluera ?)
+4. Toujours vérifier l'intersection core ∩ villages APRÈS curation (doit être 0)
+
+**Source** : PR #187 (worktree /tmp/cu-sitemap-cur), commit c1780b08c.
+
+**Comptes** :
+- sitemap-villages.xml : 2000 → 1964 URLs (−36 = 8 INSTITUC + 28 BLOG)
+- sitemap.xml (core racine) : 104 → 112 URLs (+8 INSTITUC, priority=0.8)
+- public/sitemap.xml (core publié) : 104 → 112 URLs (+8 INSTITUC, identique au core racine)
+- 0 intersection core ∩ villages (pas de doublon créé)
+- 0 village légitime retiré (V_STD=1528 + V_URGENTE=436 accents inclus = 1964 préservés)
+
+**Décision séparée notée** : sort des 28 BLOG. Options à trancher : (a) créer `sitemap-blog.xml` dédié et le déclarer dans robots.txt après validation GSC, (b) les ajouter au core avec priority 0.5-0.6 (subordonné aux piliers 0.8), (c) les laisser hors-sitemap (découverte Google via liens internes uniquement). Aucune n'est appliquée ici — décision Filipe requise.
+
+---
+
+## Cross-références
+
+- Sitemap tiering : voir `robots.txt` commentaires (sitemap.xml = core déclaré, sitemap-villages.xml préparé mais non référencé)
+- Skill transversal : `local-business-seo-compliance` (R0 + ref `r0-canonical-selfref.md`)
