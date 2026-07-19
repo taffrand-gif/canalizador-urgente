@@ -398,3 +398,17 @@ done
 ```
 
 **Statut** : 3 fichiers modifiés/créés, JSON-LD valides (7 FAQ sur entupimento, 5 sur les 2 autres), 0 claims interdits, 8 concelhos piliers liés par page, prix cohérents avec `.tooling/preco-deslocacao.py` sur les 8 sièges. Branche prête — **PAS de merge sans STOP validation Philippe**.
+
+## Leçon #413 (18/07 2026) — Une FAQ money dans `public/blog/` est perdue : router vers un pilier servi avant d'écrire
+
+**Contexte** : le contenu FAQ « fossa séptica » validé par la recherche mots-clés avait été écrit dans `public/blog/`. Sur CU, Vercel sert la racine du repo et `robots.txt` contient `Disallow: /public/` : ce répertoire est un miroir non indexable, pas une cible éditoriale. Sur `origin/main`, `grep -ri fossa public/blog/` retourne déjà 0 parce que le contenu fautif a été reverté ; son historique reste traçable dans le commit `849d5b90c`.
+
+**Règle opérationnelle** : avant toute FAQ issue de DataForSEO/PAA, vérifier dans cet ordre :
+1. la racine réellement servie par `vercel.json` et la leçon #411 ;
+2. `robots.txt` pour les répertoires `Disallow` ;
+3. le `sitemap.xml` racine pour confirmer que la cible est exposée ;
+4. la page pilier la plus proche de l'intention, puis synchroniser mot pour mot HTML visible et `FAQPage` JSON-LD.
+
+**Application fossa** : cible choisie `desentupimento-esgoto.html`, déjà servie et présente dans le sitemap. Seules les réponses conformes ont été reprises : signes de fossa pleine, sécurité, distinction liaison/fossa et prix exclusivement selon la grille 65 €/h + Z1–Z6 + majoration +50 %. Aucun prix d'esvaziamento ni délai chiffré provenant des anciens articles `blog/fossa-*` n'a été conservé. L'esvaziamento reste explicitement hors service ; la disponibilité est `mediante confirmação` via confirmation téléphonique du prix avant déplacement.
+
+**Gate** : conserver le compteur `grep -c fossa desentupimento-esgoto.html` AVANT/APRÈS, parser tous les blocs `application/ld+json` avec `json.loads`, puis comparer exactement chaque nouvelle Q/R visible à sa Q/R JSON-LD.
