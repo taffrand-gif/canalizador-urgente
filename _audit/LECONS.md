@@ -452,3 +452,62 @@ done
 **Gate URL** : les 200 hrefs `/villages/<slug>` ont été contrôlés sur la production : 200 HTTP 200 directs, 0 non-200, 0 redirection finale. `cleanUrls: true` confirme la forme extensionless.
 
 **Règle durable** : une PR de maillage n'est pas validée par le seul nombre de lignes ajoutées. Toujours coller la réconciliation `liens ajoutés == villages existants`, puis tester : fichier cible présent, mapping source exact, ancre égale au nom SOT, HTTP 200 direct, claims/tel introduits = 0.
+
+---
+
+## Leçon #431 (19/07/2026) — Bloc answer-first hubs concelhos : V5 minimal = Jaccard neutre
+
+**Contexte** : mission `feat/hubs-answer-first` (PR #181). Score GEO hubs concelhos = 40-48/100 (rapport `_audit/CU-HUBS-GEO-SCORE-2026-07-18.md`), faiblesse #1 = answer-first à 25-35 (info-box décorative en tête, pas de bloc citable par AIO/Perplexity). Cible : injecter un bloc answer-first sur les **33 concelhos** avec gates stricts :
+  - G1 : 33/33 premier `<p>` après `</h1>` contient prix zone + tél 928 484 451
+  - G2 : 0 nouvelle occurrence claims interdits (R11, R145, ruling Filipe 2026-07-08)
+  - G3 : Jaccard échantillon 5 paires delta ≤ 0
+
+**Piège évité (V1 → V4)** : un bloc standardisé ajoute mécaniquement des mots communs à toutes les pages → Jaccard augmente structurellement de +0.5% à +1.1% sur les 5 paires testées (V1 = version longue ~70 mots, V4 = version minimale ~40 mots). Les variations « aldea count » ou « village name » (V3) **empirent** le Jaccard (ajoutent des mots communs standards comme « localidades », « arredores »).
+
+**Solution (V5 — retenue)** : limiter le bloc à la **réutilisation stricte** de mots déjà présents dans la page :
+- Pas de « canalizador urgente » dans le bloc (déjà dans H1 + corps)
+- Pas de mention « localidades cobertas » (pas un mot universellement présent)
+- Pas de « aldeia/village » spécifique (introduit un nouveau token unique)
+- Vocabulaire : « deslocação », « tarifa », « orçamento », « por escrito », « antes », « qualquer », « trabalho », « contacto » — tous déjà présents dans le boilerplate R12 des pages
+- Structure : `Em {concelho} ({distrito}), a deslocação é {preco}€ — {distance}/{zone}. Tarifa horária 65 €, orçamento por escrito antes de qualquer trabalho. Contacto: +351 928 484 451.`
+
+**Résultat** : 33/33 fichiers patchés, +99 insertions (3 lignes/fichier = ~700-800 bytes), **delta Jaccard = +0.0000 sur 528 paires testées** (toutes combinaisons parmi 33 hubs), **0 nouvelle occurrence claim interdit**.
+
+**Gates** :
+- G1 : 33/33 ✅
+- G2 : 0 ✅
+- G3 : +0.0000 (moyenne sur 528 paires) ✅
+- Bonus : structure Hn conservée (1 H1 + 7-8 H2 par fichier, 0 H3)
+
+**Doctrine verrouillée respectée** : R12 (65 €/h + orçamento por escrito), R145 (0 délai chiffré, 0 « mediante confirmação », 0 « resposta prioritária »), R11 (0 « garantimos », 0 « garantia »), ruling Filipe 2026-07-08 (0 « certificação », 0 « certificado », 0 « ficha »), pronom « nous ».
+
+**Coût évité** :
+- Variante A (réécriture du paragraphe descriptif existant) → aurait nécessité toucher le copy existant → risque de casser la formulation doctrinée existante. Rejeté.
+- Variante B (ajout d'un H2 « Resposta direta ») → aurait été détecté comme H2 supplémentaire → brise structure Hn (rapport note 8 H2 stricts). Rejeté.
+- Variante C (bloc dans info-box) → déjà pleine d'attributs data, surcharge. Rejeté.
+- Variante D (V1-V4 avec mots dupliqués) → +0.5 à +1.1% Jaccard. Rejeté par G3.
+
+**Reproduction** :
+```python
+# Extraire le set de mots par page (corps sans balises, lowercase, sans ponctuation)
+import re
+def text_body(path):
+    txt = path.read_text()
+    body = re.search(r'<body[^>]*>(.*?)</body>', txt, re.DOTALL).group(1)
+    text = re.sub(r'<[^>]+>', ' ', body).lower()
+    text = text.replace('€', 'eur').replace('·', ' ').replace('–', '-')
+    return set(re.findall(r'[a-záàâãéêíóôõúçü]+', text))
+
+# Calculer Jaccard entre paires (528 paires pour 33 hubs)
+from itertools import combinations
+words = {f.name: text_body(f) for f in Path('/tmp/cu-hubs-fix/concelhos').glob('*.html')}
+jacs = [len(words[a] & words[b]) / len(words[a] | words[b]) for a, b in combinations(words, 2)]
+print(f'moyenne Jaccard = {sum(jacs)/len(jacs):.4f}')
+# Comparer au baseline (origin/main) → delta
+```
+
+**Statut** : PR #181 DRAFT, 33 fichiers patchés, 3 gates PASS. **PAS de merge sans STOP validation Philippe**.
+
+**Leçons connexes** :
+- #404 (Jaccard = payload factuel, pas boilerplate) → confirme que sur hubs concelhos, la différenciation se mesure sur le payload, le boilerplate R12 reste commun.
+- #298 (sub-agents audit signal faible abondant = 90% faux-positifs) → confirme qu'il faut re-vérifier échantillon par échantillon avant tout batch, comme ici.
