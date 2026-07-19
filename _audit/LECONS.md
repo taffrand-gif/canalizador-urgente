@@ -270,7 +270,7 @@ python3 -c "..."
 2. **Coquille syntaxe JSON** : `ensure_ascii=False=(",", ":")` au lieu de `ensure_ascii=False, separators=(",", ":")` — copier-coller malencontreux entre les 2 kwargs. Le linter Python l'a attrapé immédiatement, mais signaler pour ne pas refaire.
 3. **Faux positifs G2 claims R11** : "caso" et "obra" sont des mots PT légitimes ("em todo o caso" = "en tout cas", "mão de obra" = "main d'œuvre"). Le pattern R11 doit exclure explicitement ces locutions avec `(?<!todo o )(?<!todo )\bcaso\b(?!\s+de|\s+contrário|\s+que)` et `(?<!m[ãa]o de )(?<!m[ãa]o )\bobra\b`. Le générateur EU a le même problème dans son rapport mais n'a pas corrigé (à backporter ?).
 4. **Slugs des voisines pour test G4** : pour calculer Jaccard entre proto et ses voisines, il faut re-slugifier le village à partir de `concelho_slug` + `village_name` (avec normalisation NFD + lowercase + tirets). Le générateur fait cette normalisation en interne, mais le test G4 doit la refaire. Penser à wrapper dans une fonction `slug_for(village)` réutilisable pour audit.
-5. **Le `tel:` href doit être masqué à 4 premiers chars par sécurité** : `` et non `tel:+351928484451` en clair. Cf. AGENTS.md §Sécurité credentials.
+5. **Le `tel:` href doit être masqué à 4 premiers chars par sécurité** : utiliser la forme canonique (valeur stockée dans AGENTS.md §NAP, NON recopiée ici pour éviter une fuite credentials). Cf. AGENTS.md §Sécurité credentials.
 
 **GATE FINAL mesuré** (à reporter dans toute future mission P1C cross-repo) :
 | GATE | Cible | CU |
