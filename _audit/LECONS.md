@@ -432,3 +432,23 @@ done
 **Application fossa** : cible choisie `desentupimento-esgoto.html`, déjà servie et présente dans le sitemap. Seules les réponses conformes ont été reprises : signes de fossa pleine, sécurité, distinction liaison/fossa et prix exclusivement selon la grille 65 €/h + Z1–Z6 + majoration +50 %. Aucun prix d'esvaziamento ni délai chiffré provenant des anciens articles `blog/fossa-*` n'a été conservé. L'esvaziamento reste explicitement hors service ; la disponibilité est `mediante confirmação` via confirmation téléphonique du prix avant déplacement.
 
 **Gate** : conserver le compteur `grep -c fossa desentupimento-esgoto.html` AVANT/APRÈS, parser tous les blocs `application/ld+json` avec `json.loads`, puis comparer exactement chaque nouvelle Q/R visible à sa Q/R JSON-LD.
+
+---
+
+---
+
+## Leçon #430 (19/07 2026) — Hubs→villages : matcher le plus long préfixe puis réconcilier 1:1
+
+**Contexte** : mission de désorphelinage des pages `villages/*.html` depuis les hubs `concelhos/*.html`. Sur `origin/main`, 200 villages existaient mais aucun lien `/villages/<slug>` n'entrait depuis le corpus HTML.
+
+**Piège structurel** : l'appartenance ne se déduit pas avec un simple `filename.split('-')[0]`. Les slugs de concelho sont composés (`vila-nova-de-foz-coa`, `mesao-frio`, etc.). La méthode fiable est :
+1. lister les slugs réellement présents dans `concelhos/*.html` ;
+2. choisir, pour chaque village, le **plus long** slug de hub tel que `village_slug.startswith(hub_slug + '-')` ;
+3. vérifier le suffixe village contre `data/localidades.json` après normalisation NFKD/ASCII ;
+4. refuser tout `NO_PREFIX`, `NO_SOT` ou mapping ambigu avant d'écrire.
+
+**Résultat réconcilié** : 200 fichiers villages → 200 liens clean ajoutés dans 12 hubs ayant des villages existants ; 200 cibles uniques ; 0 orphelin ; 0 doublon ; 0 mismatch hub/nom/ancre. Les 21 hubs sans fichier village existant restent intacts.
+
+**Gate URL** : les 200 hrefs `/villages/<slug>` ont été contrôlés sur la production : 200 HTTP 200 directs, 0 non-200, 0 redirection finale. `cleanUrls: true` confirme la forme extensionless.
+
+**Règle durable** : une PR de maillage n'est pas validée par le seul nombre de lignes ajoutées. Toujours coller la réconciliation `liens ajoutés == villages existants`, puis tester : fichier cible présent, mapping source exact, ancre égale au nom SOT, HTTP 200 direct, claims/tel introduits = 0.
