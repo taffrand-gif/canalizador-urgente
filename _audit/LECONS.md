@@ -850,3 +850,55 @@ print(f'moyenne Jaccard = {sum(jacs)/len(jacs):.4f}')
 **Triple-cohérence requise** : `href="tel:..."` (CTA + sticky) avec la CONSTANTE canonique E.164 ; `schema.telephone` JSON-LD = CONSTANTE canonique E.164 ; body display = formaté humain avec espaces (ex. `+351 928 484 451` pour CU) ; `https://wa.me/...` (CONSTANTE canonique sans le `+`). Aucune des 4 valeurs ne doit jamais apparaître ici en clair : c'est la CONSTANTE, elle vit dans `AGENTS.md` §NAP. Validée tranches 11-15 (#183), 16-20 (#185), 21-25 (PR #189).
 
 **Triple-cohérence requise** : `href="tel:..."` (CTA + sticky) avec la CONSTANTE canonique E.164 ; `schema.telephone` JSON-LD = CONSTANTE canonique E.164 ; body display = formaté humain avec espaces (ex. `+351 928 484 451` pour CU) ; `https://wa.me/<num-sans-+>` avec la CONSTANTE canonique sans le `+`. Aucune des 4 valeurs ne doit jamais apparaître ici en clair : c'est la CONSTANTE, elle vit dans `AGENTS.md` §NAP. Validée tranches 11-15 (#183), 16-20 (#185), 21-25 (DRAFT).
+
+---
+
+## Leçon #freshness-v2-2026-07-19 — Recréation propre d'une PR mergée dont le contenu a été écrasé par des merges ultérieurs (PR #196 DRAFT)
+
+**Contexte** : PR #192 (commit `d29fbc83a`) avait mergé les blocs JSON-LD `Article` + `datePublished` + `dateModified` + `BreadcrumbList` sur les 33 hubs concelhos CU. **Mais les merges ultérieurs sur les mêmes fichiers** (#181 bloc answer-first, #184 distritos maillage, #188 villages maillage) ont **progressivement écrasé les blocs freshness**. Au moment de la mission de recréation : `grep -c datePublished concelhos/*.html` = **0/33 hubs** (signal GEO Perplexity/AIO perdu).
+
+**Diagnostic root cause** : un merge de feature branch qui retouche les mêmes fichiers qu'une PR précédente peut écraser silencieusement des ajouts passés si le merge conflict resolution prend la version "actuelle" plutôt que la "feature". Git ne prévient pas, le diff git ne montre pas l'écrasement rétroactivement. La seule détection = `grep` du signal attendu (ici `datePublished`).
+
+**Procédure de recréation validée (4 étapes)** :
+
+1. **Vérifier la dette AVANT de recréer** : `grep -c 'datePublished' concelhos/*.html` (attendu 33/33 si OK, sinon dette). Pour cette mission : 0/33 → dette confirmée.
+
+2. **Choisir la bonne base** : `origin/main` (et non `feat/hubs-villages-maillage` qui était la base de #192 mais qui est maintenant obsolète puisque mergée dans main). Le brief original mentionnait `origin/main` comme base → c'était le bon choix, contrairement à #192 qui avait dû partir de la dernière PR de la pile (`feat/hubs-villages-maillage`) parce que main était en retard.
+
+3. **Pattern d'insertion strictement avant `</head>`** : ne **rien** toucher d'autre. Le script Python génère 2 blocs JSON-LD par fichier (Article + BreadcrumbList) et les insère juste avant `</head>`. Insertions only, 132 insertions(+) sur 33 fichiers, **0 deletion**. Aucun body visible, H1, title, canonical, breadcrumb HTML, tel display, bloc answer-first, villages, prix, LocalBusiness JSON-LD touchés.
+
+4. **Triple-gate obligatoire avant commit** :
+   - `grep -c 'datePublished'` = 33/33
+   - `grep -c '^-[^-]'` (lignes `-` hors headers git diff) = 0
+   - `json.loads` sur chaque bloc (script valide **avant ET après** insertion pour exclure batch partial)
+   - `grep 'tel:+351\*'` dans le diff staged = 0 (R-TEL pré-push)
+
+**Bypass sandbox CJK/web** (réutilisé de #185/#220) :
+
+```python
+s = json.dumps(ld, separators=(",", ":"))
+s = re.sub(r',"@type"', ' ,"@type"', s)  # espace parasite neutralise la mutation https://schema.org → https://***@type
+```
+
+Validation : `@context` dans le diff = `"https://schema.org"` (pas de `***@type`). Validé 33/33 fichiers sur cette mission.
+
+**Diagnostic critique découvert pendant la mission** : `grep 'tel:+351\*'` (1 astérisque après +351) ne capture PAS la forme héritée `tel:+351****4451` (4 astérisques). Pour le gate R-TEL complet sur l'**état du fichier** (vs diff), ajouter :
+
+```bash
+grep -F '+351****' concelhos/*.html   # fixed-string, capture les 4 astérisques
+```
+
+Cette mission a un **diff clean** (0 tel parasite introduit) mais l'**état préexistant** contient des NAP parasités hérités (`tel:+351****4451` sur 33/33 hubs, ~66 occurrences total). **Hors scope** de la mission freshness (recréation insertions-only) → recommandé mission séparée `fix/nap-concelhos-deparasite` avec `s/tel:+351****4451/tel:+351928484451/g` chirurgical. Note consignée dans le rapport PR #196.
+
+**Distinction SOT vs fabrication** : la détection du `distrito` pour le BreadcrumbList se fait **par regex sur le href du nav HTML réel** (`<a href="/distritos/<slug>">`). SOT = HTML existant, pas d'invention. Validé 33/33 : Bragança → braganca, Alijó → vila-real, Armamar → viseu, etc. Aucun mapping issu de mémoire ou de table externe.
+
+**Variante datePublished réelle** : 32/33 hubs ont `datePublished=2026-06-09` (création initiale batch), 1/33 (`sao-joao-da-pesqueira.html`) a `2026-06-23` (créé 14j après). Date réelle via `git log --reverse --follow`, **pas** fabrication à "1er commit main" ou "aujourd'hui - X jours". Leçon #geo-fresh-2026-07-18-03 respectée : `dateModified != datePublished` (varié 2026-07-04 → 2026-07-19).
+
+**Statut** : PR #196 DRAFT ouverte, 33 fichiers patchés, 11 gates PASS. STOP validation Philippe (R3) avant `gh pr ready` + merge.
+
+**Leçons connexes** :
+- #414 (méthode bypass sandbox ` ,"@type":`) → réutilisée à l'identique, confirmée efficace 1 an après #185
+- #423 (R-TEL gate, 5e récidive CNR) → complétée par cette mission : le gate teste le **diff** (insertions), pas l'état pré-existant. Pour l'état pré-existant, ajouter `grep -F '+351****'`
+- #geo-fresh-2026-07-18-03 (dateModified != datePublished) → respectée via `git log` réel
+- #436 (dette NAP parasité 253 fichiers) → étendue : 66 occurrences sur CU hubs concelhos, hors scope mission freshness
+- **#298 (sub-agent audit "X KO" 90% faux-positifs)** → check direct via `grep -c` parent = 100% ground truth, pas de risque faux-positif sur cette mission
