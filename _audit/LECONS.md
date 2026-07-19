@@ -444,3 +444,33 @@ Or ces 5 slugs sont TOUS déjà publiés entre les branches `feat/md-11-15` (PR 
 **Nouvelle règle CEO (18/07/2026)** : `href="tel:"` = CONSTANTE canonique E.164 (12 chiffres après `+351`, sans astérisque parasite) définie dans `AGENTS.md` §NAP du repo courant. Le memory note la valeur tronquée parce que le sandbox mute l'affichage des digits dans les logs Hermès, mais en production c'est la pleine valeur E.164. La règle d'or est : **JAMAIS copier la valeur depuis un fichier HTML/TSX** qui contient elle-même la forme masquée parasite (cf. leçon #142 sur le mirroir d'astérisque). Toujours repartir d'`AGENTS.md` §NAP.
 
 **Triple-cohérence requise** : `href="tel:..."` (CTA + sticky) avec la CONSTANTE canonique E.164 ; `schema.telephone` JSON-LD = CONSTANTE canonique E.164 ; body display = formaté humain avec espaces (ex. `+351 928 484 451` pour CU) ; `https://wa.me/<num-sans-+>` avec la CONSTANTE canonique sans le `+`. Aucune des 4 valeurs ne doit jamais apparaître ici en clair : c'est la CONSTANTE, elle vit dans `AGENTS.md` §NAP. Validée tranches 11-15 (#183), 16-20 (#185), 21-25 (DRAFT).
+
+---
+
+## Leçon #428 (19/07 2026) — PR #194 feat/md-37-41 : rebase soft + scope strict tranche 37-41, drop récidives NAP
+
+**Contexte** : PR #194 (`feat/md-37-41`) ouverte par tranche 37-41 PLOMBERIE PLOMBERIE-only, mais DIRTY car (a) la base PR GitHub = `feat/md-21-25` (pas main), 1 commit devant `origin/main` ; (b) la branche avait accumulé 5 commits de bruit (récidives NAP avec pattern `tel:+351` + astérisques parasites, leçons documentant ces récidives, fix(tel) compensatoire) au lieu d'un commit unique propre.
+
+**Stratégie appliquée (1er round)** : tentative rebase littéral sur `origin/main` abandonnée — la PR est basée sur `feat/md-21-25`, rebase sur main aurait droppé 10 articles des tranches 16-25 déjà validées mais non-encore-mergées. Décision : **reset --soft sur `origin/feat/md-21-25`** pour ne rejouer que les 6 fichiers utiles (5 articles tranche 37-41 + LECONS.md additif).
+
+**Décisions sur LECONS.md** :
+1. La branche avait ajouté 192 lignes dont la moitié documentait des récidives NAP parasites (forme `tel:+351` + 4 astérisques parasites + 4 derniers chiffres, à 2 endroits, leçons #427 + addendum). **Règle R-TEL** interdit la forme masquée parasite même en documentation. 
+2. Choix : `git checkout origin/feat/md-21-25 -- _audit/LECONS.md` (restore base), puis append additif propre de cette leçon #428.
+3. La leçon #426 (épuisement slots 26-30) reste sur feat/md-21-25 mais est référencée ici pour traçabilité.
+
+**Règle opérationnelle verrouillée (leçon #428)** :
+1. **Scope strict PR-N = liste explicite du brief CEO, JAMAIS « tout lié »** (cf. memory leçon #425).
+2. **Diagnostic 2-diff** : `git show --stat HEAD` (commit entity seul) vs `git diff origin/<base>..HEAD --stat` (delta branche complet). Si delta > commit → squash soft + replay utile uniquement.
+3. **LECONS.md additif strict** : n'ajouter QUE des leçons propres (pas de pattern parasite, pas de récidive documentée par le patch lui-même). Si le contenu de la branche contient un parasite documenté, **ne pas le cherry-picker** — le parasite est fixé par le reset soft, plus besoin de le documenter dans cette PR.
+4. **Commits parasites (récidives NAP, fix(tel) compensatoire)** : à drop, jamais à pousser — la leçon générique R-TEL existe déjà (#408), dupliquer en #427/#428 est du bruit.
+
+**Gate pré-push adapté** (cas base ≠ main) :
+```bash
+BASE=origin/feat/md-21-25
+git diff $BASE..HEAD --stat          # scope strict : 6 fichiers attendus
+git diff $BASE..HEAD | grep -c '^+.*tel:+351\*'   # = 0
+git diff $BASE..HEAD | grep -ciE '<pattern plomberie-only élec/gaz/hors-scope>'   # = 0 (plomberie-only)
+gh pr view <N> --json mergeStateStatus # = CLEAN
+```
+
+**Statut** : 5 articles tranche 37-41 (fossa-septica-cheia-sinais, fossa-septica-manutencao, substituir-torneira-cozinha, substituir-torneira, torneira-goteja-reparar) + leçon #428 additive, 0 parasite NAP, 0 résidu élec/gaz/hors-scope. PR #194 prête pour `git push --force-with-lease`.
