@@ -88,7 +88,38 @@
 
 ---
 
+## Leçon #CU-CANONICAL-2026-07-20-01 — Triage FINAL CU = 0 bug, 12 bucket A legit
+
+**Contexte** : re-triage FINAL des 1994 pages racine canalizador-*.html, post campagne de fixes #155/#156/#161/#162/#165/#174/#178 (2026-07-15 → 2026-07-20). PR #198 ouverte (audit only, 0 fix code).
+
+**Résultat FINAL** :
+- e_self_ref_ok : 1982 (clean, 99.4%)
+- a_hub_money_legit : 12 (canonical cross-page vers money hub officiel)
+- b/c/d/z/m : tous à 0
+
+**Piège évité** : la classification bucket A ne doit PAS être purement structurelle ("préfixe urgent/non-urgent"). Elle doit valider que **la cible canon est réellement un money hub transactionnel** (présence prix/tel/whatsapp/orçamento). Sans ce filtre, on risque de fixer en self-ref des fichiers qui sont légitimement des variantes satellite d'un hub canonique (duplicate content assumé vs produit, pas bug SEO).
+
+**Critère durable bucket A money hub** :
+```python
+MONEY_HINTS = re.compile(r'(\d+€|€/h|preço|tarifa|or[çc]amento|928 484 451|932 321 892|whatsapp|wa\.me)')
+def is_money_hub(filepath):
+    text = open(filepath, encoding='utf-8', errors='surrogateescape').read()
+    return bool(MONEY_HINTS.search(text))
+```
+
+**Leçons connexes** :
+- #CU-CANONICAL-2026-07-15-01 (méthode 4 buckets) → **complétée** par cette leçon : bucket A = cible money hub réel, pas juste "même concelho"
+- #L1 (doctrine mémoire : canonical cross-page vers cible=money/hub même concelho = GARDER) → confirmée sur CU : 12 fichiers légitime, 0 faux positif
+- Skill `local-business-seo-compliance` (R0 + `r0-canonical-selfref.md`) → R0 déjà passé (PR #174)
+
+**Source** : PR #198, commit cfabad4f4 (branche `audit/t_b36c196a-canonical-final`). CSVs `_audit/canonical-triage-CU-FINAL.csv` (1994) et `_audit/canonical-bucket-A-CU-FINAL.csv` (12) durables.
+
+**Anti-pattern documenté (anti-rebryc)**: NE PAS re-scanner à chaque tâche si les PRs #155-#178 sont déjà mergées. Toujours faire `git log --all --oneline | grep canonical` AVANT de relancer un scan, sinon on sature le contexte (cf. 4 reclaim/stale_lock 2026-07-16 sur cette tâche).
+
+---
+
 ## Cross-références
 
 - Sitemap tiering : voir `robots.txt` commentaires (sitemap.xml = core déclaré, sitemap-villages.xml préparé mais non référencé)
 - Skill transversal : `local-business-seo-compliance` (R0 + ref `r0-canonical-selfref.md`)
+- Tâche t_b36c196a close via PR #198 (audit only)
