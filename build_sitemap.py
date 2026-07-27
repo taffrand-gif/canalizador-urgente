@@ -11,11 +11,16 @@ Cible : inclure les pages money/service SERVIE et INDEXABLES :
 - 6 distritos/
 - 27 blog/ (html)
 
-Exclut :
-- 3 fichiers noindex (glossario-eletricidade, guia-eletricidade, top-10-razoes-contratar-eletricista)
-- 166 doublons md5 (versions avec diacritiques)
-- _archive/*
-- Pages <18KB (boilerplates courts)
+# Exclut :
+# - 3 fichiers noindex (glossario-eletricidade, guia-eletricidade, top-10-razoes-contratar-eletricista)
+# - 166 doublons md5 (versions avec diacritiques)
+# - _archive/*
+# - Pages <18KB (boilerplates courts)
+# AJOUT 27/07 (leçon t_2029e47b): les aldeia simples (ville_seule) ≥18KB sont
+#   des pages MONEY (≠ doublons urgentes/service). Avant: 545 aldeia ≥18KB
+#   étaient EXCLUES à tort du sitemap (assumption erronée "doublon urgente/service").
+#   Après: aldeia simples ≥18KB = aldeia_money incluses avec priority 0.7.
+#   Aldeia <18KB restent exclues (boilerplate court, pas de valeur SEO).
 
 Format URL : https://canalizador-urgente.pt/<slug> (sans .html, conforme canonical)
 """
@@ -139,6 +144,9 @@ def main():
     urgentes_money = by_size(urgentes_all)
     desents_money = by_size(desents_all)
     services_money = by_size(services_all)
+    # FIX 27/07 (leçon t_2029e47b): aldeia simples ≥18KB = aldeia_money.
+    # Avant: ville_seule EXCLUES du sitemap (assumption "doublon urgente/service" = FAUX).
+    aldeia_money = by_size(ville_seule)
 
     # 3) Sous-dossiers
     concelhos_dir = os.path.join(ROOT, 'concelhos')
@@ -185,6 +193,10 @@ def main():
     for f in sorted(services_money):
         urls.append((file_to_url(f), '0.8'))
 
+    # Aldeia simples money : 0.7 (villages simples ≥18KB = money tier, leçon t_2029e47b)
+    for f in sorted(aldeia_money):
+        urls.append((file_to_url(f), '0.7'))
+
     # Stats
     print(f"=== INVENTAIRE FINAL ===")
     print(f"  Piliers info        : {len(pillars)}")
@@ -194,10 +206,11 @@ def main():
     print(f"  Concelhos           : {len(concelhos)}")
     print(f"  Distritos           : {len(distritos)}")
     print(f"  Blog (html)         : {len(blog_html)}")
+    print(f"  Aldeia money        : {len(aldeia_money)} (sur {len(ville_seule)} total simples)")
     print(f"  TOTAL URLs sitemap  : {len(urls)}")
     print(f"  Exclus noindex      : {len(noindex)}")
     print(f"  Exclus <18KB urgente: {len(urgentes_all) - len(urgentes_money)}")
-    print(f"  Exclus ville_seule  : {len(ville_seule)} (doublon avec urgente/service)")
+    print(f"  Exclus aldeia <18KB : {len(ville_seule) - len(aldeia_money)} (boilerplates courts)")
 
     # 5) Génération XML
     xml = build_sitemap_xml(urls)
