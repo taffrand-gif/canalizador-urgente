@@ -1,9 +1,21 @@
 # Norte Reparos — Canalizador Urgente em Trás-os-Montes
 
-> Canalizador de urgência ao domicílio em Trás-os-Montes, Portugal.
-> Site: https://canalizador-urgente.pt · Telefone / WhatsApp: +351 928 484 451
-> Última atualização: 2026-07-14
-> Source grille prix: ~/work/Sites/PRICING-CANONIQUE.md (Z1=15€ · Z2=25€ · Z3=35€ · Z4=45€ · Z5=55€ · Z6=65€ · 65 €/h canal · +50% nuit/WE/feriado)
+> Serviço de canalizador urgente 24h/7d em Trás-os-Montes, pelo técnico Filipe Bragança, com equipamento profissional (Ridgid FlexShaft K9-102, câmara CCTV, câmara térmica FLIR, ROLeak Aqua 3Plus, fluorosceína UV) e materiais Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval.
+> Última atualização: 2026-07-28 · Source grille prix: PRICING-CANONIQUE.md (Z1=15€ · Z2=25€ · Z3=35€ · Z4=45€ · Z5=55€ · Z6=65€ · 65 €/h canal · +50% nuit/WE/feriado)
+
+## Serviços
+
+- [Desentupimento de canos](https://canalizador-urgente.pt/desentupir-canos.html)
+- [Desentupimento de esgoto](https://canalizador-urgente.pt/desentupimento-esgoto.html)
+- [Desentupir sanita](https://canalizador-urgente.pt/desentupir-sanita.html)
+- [Deteção de fugas de água](https://canalizador-urgente.pt/detecao-fuga-agua.html)
+- [Avaria de esquentador](https://canalizador-urgente.pt/esquentador-avaria.html)
+- [Fuga de gás](https://canalizador-urgente.pt/fuga-de-gas.html)
+- [Tabela de preços completa](https://canalizador-urgente.pt/precos.html)
+
+## Preços
+
+Grille officielle Nord Reparos: mão de obra **65 €/h** (canalizador) + deslocação **Z1=15€ · Z2=25€ · Z3=35€ · Z4=45€ · Z5=55€ · Z6=65€** (selon distance routière calculée depuis notre base, ~130 km rayon opérationnel). Acréscimo +50% noite (20h-8h), fim de semana e feriados. Orçamento por escrito antes de qualquer intervenção. Voir: [precos.html](https://canalizador-urgente.pt/precos.html)
 
 ## Identidade
 - **Marca:** Norte Reparos (empresa técnica multi-sites)
