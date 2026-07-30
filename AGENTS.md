@@ -221,3 +221,11 @@ Moule de toutes les pages service/urgence — 2 métiers (canalização + eletri
 - Vérifié à chaque livraison
 
 **Compatibilité** : ce bloc complète la doctrine locale (R1-R11 + §11 ZÉRO INVENTION + §12 Doctrine Transparence Radicale + §13 gabarit) sans la remplacer. En cas de contradiction, la doctrine locale prime.
+
+---
+
+## 14. Note 30/07/2026 — Chargeur VE & DGEG côté CU (plomberie urgente)
+
+- **Chargeur VE / wallbox** : HORS périmètre CU (site plomberie urgente). Ne JAMAIS lister comme service, ni dans le body ni dans le sitemap, ni dans les meta. Ne JAMAIS mentionner `carregador VE`, `wallbox`, `TRIESP`, `Ficha eletrotécnica`, `Termo de Responsabilidade` côté CU.
+- **DGEG** : aucun claim DGEG ne doit apparaître sur les pages CU. Le §12 ligne 129 (AUCUN DOCUMENT ÉMIS) reste valide côté plomberie (le plombier ne délivre aucun document de conformité électrique). L'argumentaire cert vit exclusivement sur les 2 sites élec (EU + ENR).
+- Source vérité : `~/work/Sites/DGEG-CERT-SOURCE-OF-TRUTH.md` + `~/work/Sites/CONTEXTE-BUSINESS.md` §8.
