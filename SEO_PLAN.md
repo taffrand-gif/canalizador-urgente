@@ -20,9 +20,13 @@
 
 - [x] **M0** — Purge conformité R11/R12 (marcas/parceiros, programa-fidelidade, case-study, comparacao) — FAIT.
 - [ ] **M0 — STOP Filipe** — trancher `mediante confirmação` (CLAUDE.md le liste R145-INTERDIT, encore présent) : purger ou tolérer + MAJ doctrine.
+  - **État 2026-08-03** (kanban t_166dac03) : **364 fichiers** racine contiennent encore `mediante confirmação`. PR draft **#222** ouverte `fix/r145-cu-prototype-vidago` (1 prototype Vidago, 2 substitutions R145, doctrines intactes) — **attente STOP validation Filipe + GO batch** (vagues R15 ≤95 fichiers/commit). Skill : `~/.hermes/skills/devops/r145-zero-delay-sweep/`. Pattern validé : PR #75 (M2-B2 30/06/2026 même fix 1 fichier avant batch).
 - [ ] **M1 (phase 1b)** — Maillage COMPLET statique : 39 hubs (33 concelhos + 6 distritos) → localités (page **primaire** only) ; remontant breadcrumb localité→hub ; latéral 6-8 sœurs. Signal unique/hub. Localités RÉELLES only. R15 (≤95 fichiers/commit), grep AVANT/APRÈS, 0 lien 404. **GO Filipe avant merge.**
+  - **État 2026-08-03** : hubs concelhos/distritos présents (`concelhos/braganca.html` + BreadcrumbList OK, PR #165 17/07 a fixé canonical self-ref). Reste à vérifier la primauté breadcrumb localité→hub (root `canalizador-{ville}.html` n'a pas BreadcrumbList ligne 23 du référentiel — à investiguer).
 - [ ] **M3** — 🔴 GROS GAP : site à **0 schema**. AJOUTER `LocalBusiness`/`Plumber` + `areaServed` (SAB, PAS de `streetAddress`) + `FAQPage` (questions urgence réelles) sur homepage + hubs. Puis page prix urgence citable datée (65€/h). Détail : master §M3 DESIGN.
+  - **Correction de mesure t_83c15a76 (2026-08-03)** : le claim « 0 schema » est bien caduc, mais M3 n'est que **PARTIEL**. `origin/main` contient JSON-LD dans 2 480/2 483 HTML (`LocalBusiness` 1 671 fichiers, `Plumber` 610, `FAQPage` 1 895). Homepage : `Plumber`+`LocalBusiness`+`areaServed`+`FAQPage`, 0 `streetAddress`, confirmé en prod HTTP 200. Les 39 hubs (33 concelhos + 6 distritos) ont `LocalBusiness`+`areaServed`, mais **0/39 ont `FAQPage`** ; ils utilisent `PostalAddress` sans `streetAddress`. Reste : FAQ visibles utiles puis JSON-LD aligné sur les hubs. Pas de PR code automatique sans source éditoriale réelle (R4/R11).
 - [ ] **M4** — Combler features (0 actuellement) : `BreadcrumbList` schema + image sitemap (alt géo). Review schema **BLOQUÉ** (0 avis réel → boucle collecte). Détail : master §M4 DESIGN.
+  - **État 2026-08-03** (kanban t_166dac03) : 🟡 **PARTIELLEMENT RÉSOLU**. BreadcrumbList présent sur 885 fichiers racine (incluant `concelhos/braganca.html`). **Manque** : homepage `index.html` + hubs money-pages racine `canalizador-{ville}.html` (cf. M1 ci-dessus). Image sitemap (alt géo) = chantier séparé, non démarré. Review schema = BLOQUÉ boucle collecte (0 avis vérifié).
 
 ---
 
@@ -99,16 +103,21 @@
 - ✅ Branche `prototype-home` déjà active
 - ✅ Doctrine Transparence Radicale verrouillée par AGENTS.md §12
 
-### Faiblesses SEO/GEO CRITIQUES (PRIORITÉ 1)
-- 🔴 Homepage **squelettique** : 16-39 éléments seulement
-- 🔴 Manque : grille de prix 65€/h + Z1-Z6 (Doctrine §12.1)
-- 🔴 Manque : "fala sempre com a mesma pessoa, não um call center" (Doctrine §12.2)
-- 🔴 Manque : section équipement réel (Ridgid K9-102, ROLeak, FLIR)
-- 🔴 Manque : FAQ honnête
-- 🔴 Manque : schema.org FAQPage
-- 🔴 Pages /zonas/ = 0
-- 🟠 Doublon homepage : `./index.html` ET `./public/index.html`
-- 🟠 Pas de différenciation d'intention vs `canalizador-norte-reparos.pt`
+### Faiblesses SEO/GEO CRITIQUES (PRIORITÉ 1) — RÉÉVALUÉ 2026-08-03 (t_72a23ef1)
+**État live vérifié 2026-08-03** (origin/main:index.html, 408 lignes, curl live OK) :
+- ✅ Homepage non squelettique : 408 lignes (vs 16-39 baseline 28/06)
+- ✅ Grille 65 €/h + Z1=15 € / Z6=65 € présente (Doctrine §12.1)
+- ⚠️ "fala sempre com a mesma pessoa" **BANNIE** par arbitrage Filipe 29/07 (cf. `~/work/Sites/PROTOCOLE-AGENTS-AUTONOMES.md` ligne 116, prime sur AGENTS.md §12.2). Remplacée par `nossa equipa` (5× live). **Ligne 105/116 caduques** : à arbitrer Philippe pour MAJ définitive du SEO_PLAN ou laisser en l'état (référence historique AGENTS.md).
+- ✅ Équipement réel : Ridgid K9-102, ROLeak, FLIR, Fluke T6-1000 (4/4 présents)
+- ✅ FAQ honnête : 6 questions
+- ✅ schema.org FAQPage : 1 bloc JSON-LD valide, parse OK
+- 🔴 Pages /zonas/ = 0 (item **A2** ligne 182, inchangé — attente GO Philippe)
+- ✅ Doublon homepage `./public/index.html` : **RÉSOLU** (PR #67 mergée 30/06, cf. B2 ligne 187)
+- 🟠 Différenciation d'intention vs CNR : inchangé (item **B1**, post-A1+A2)
+- ✅ NAP 928 484 451 (13× live) + email `contacto@canalizador-norte-reparos.pt` (1×) + zones Bragança/Mirandela/Vila Real/Chaves (7×)
+- ✅ H1 : « Canalizador urgente 24 h/7 dias — resposta imediata em Trás-os-Montes »
+
+**Origines** : A1 (commit `380c1667c` → merge `133166359` 29/06) + PR #217 (commit `b8ce55ccf` mergée 30/07, FAQPage schema 3 money-intent pages). Cf. ligne 153 ci-dessous statut A1 + HISTORIQUE 30/07. **NO-OP légitime doublement confirmé** (cf. tâche t_72a23ef1, leçon #489 « revalider avant d'agir » + leçon #490 « vérifier que la ligne désigne bien un chantier, pas sa légende »).
 
 ### Doctrine Transparence Radicale (R12) — 10 sections à appliquer
 1. Transparence prix (HAUT) : 65€/h canal, Z1=15€ à Z6=65€, +50% nuit/WE/feriado
@@ -740,6 +749,50 @@ Branche : `feat/seo-vague2-2026-06-30` @ 3 commits (c6ba77562, 305963c53, 6abdb2
 - 🛑 **Composants dark-patterns Cialdini** (CNR mais à cross-check CU) : `BandwagonEffect.tsx` + `LikingTechnician.tsx`.
 - 🟡 **Autres R145 résiduels** flaggés par sub-agent P3 (hors scope) : `Resposta prioritária`, `equipa de piquete`, `orçamento grátis`, `desde X€`, `Experiência profissional`, délais chiffrés — batch 2 à programmer.
 - 🟢 **Push SEO_PLAN** : ce commit est local-only.
+
+---
+
+## 🆕 Session 2026-08-03 (revalidation SEO_PLAN ligne 103) — Hermes
+
+### Tâche t_72a23ef1 — revalidation chantier vivant ligne 103 (Faiblesses SEO/GEO CRITIQUES)
+
+| Date | Agent | Tâche | Action | Justification | Résultat | Statut |
+|---|---|---|---|---|---|---|
+| 2026-08-03 | Hermes | t_166dac03 — Revalidation SEO_PLAN ligne 69 (chantier vivant M0/M3/M4) | Audit live `git show origin/main` + `grep -rln` (5 motifs R145 sur racine, exclude `.worktrees/_audit/`) + lecture index.html/hub x3 + `_audit/phase0-dryrun/CU_audit.csv` lookup Vidago | R04 « vérifier l'état live AVANT d'agir » (leçon #458+#470) + R7 STOP validation Philippe avant batch + R12 Doctrine Transparence Radicale + R15 ≤95 fichiers/commit + scope strict 1 prototype | **M3 🟡 PARTIEL** (échantillon 3 hubs racine OK : 13 schema.org types/FAQPage/LocalBusiness/Service, 2212 fichiers Plumber/LocalBusiness, 1895 FAQPage ; cohérence avec t_83c15a76 : hubs concelhos 0/39 FAQPage reste à arbitrer). **M4 🟡 PARTIEL** (885 BreadcrumbList racine, manque homepage+hub-money-page). **M0 🔴 VIVANT** : 364 fichiers avec `mediante confirmação` + PR draft **#222** ouverte `fix/r145-cu-prototype-vidago` (1 prototype Vidago, 2 substitutions R145, doctrines 65€/h/NAP/orçamento/Filipe intactes) — **attente STOP GO Filipe batch vagues R15**. Chantiers séparés notés PR body : R12 ligne 129 émission budget (`orçamento por escrito que vamos emitir`) + P0 prix/zones OSRM (Vidago Z3/35€ vs page Z4/30€). | ⏳ PR #222 ouverte — attente R7 STOP validation Filipe |
+| 2026-08-03 | Hermes | t_72a23ef1 — Revalidation SEO_PLAN ligne 103 | Audit live (R04 PROTOCOLE) : `git show origin/main:index.html` (408 lignes) + `curl -L https://canalizador-urgente.pt/` + parse JSON-LD via Python | R04 « vérifier l'état live AVANT d'agir » (leçon #458/#470/#477/#478 → 6 PRs fantômes évités) + R08 esprit critique (le brief pointe ligne 103 = description faiblesses, PAS un chantier) + R11 zéro invention | NO-OP légitime doublement confirmé : A1 (commit `380c1667c` → merge `133166359` 29/06) + PR #217 (commit `b8ce55ccf` mergée 30/07, FAQPage schema) absorbent les 6/9 items ligne 103. Items restants : 🔴 A2 (8 pages /zonas/, attente GO Philippe), 🟠 B1 (différenciation vs CNR, post-A2). | ✅ Fait (NO-OP doc-only) |
+
+### Verdict détaillé (9 items ligne 103 vs état live 2026-08-03)
+
+| # | Item ligne 103 | État live 2026-08-03 | Origine |
+|---|---|---|---|
+| 1 | Homepage squelettique 16-39 éléments | ✅ 408 lignes, H1 « Canalizador urgente 24 h/7 dias — resposta imediata em Trás-os-Montes » | A1 commit `380c1667c` (29/06) |
+| 2 | Grille 65 €/h + Z1-Z6 (Doctrine §12.1) | ✅ 8× `65 €` + Z1=15 € / Z6=65 € + +50% ×2 + orçamento por escrito ×6 | A1 (29/06) |
+| 3 | "fala sempre com a mesma pessoa" (Doctrine §12.2) | ⚠️ **0× live** — formulation **BANNIE** par arbitrage Filipe 29/07 (PROTOCOLE ligne 116) ; remplacée par `nossa equipa` (5× live) | Évol. doctrine 29/07 — ligne 105/116 caduques, à arbitrer Philippe |
+| 4 | Équipement réel (Ridgid K9-102, ROLeak, FLIR) | ✅ 4/4 (Ridgid K9-102 ×1, ROLeak ×1, FLIR ×1, Fluke T6-1000 ×1) | A1 (29/06) |
+| 5 | FAQ honnête (5-10 questions) | ✅ 6 questions dans bloc FAQPage | A1 (29/06) + PR #217 (30/07) |
+| 6 | schema.org FAQPage | ✅ 1 bloc JSON-LD FAQPage valide (6 Q/A, parse `json.loads` OK) | PR #217 commit `b8ce55ccf` (30/07) |
+| 7 | Pages /zonas/ = 0 | 🔴 **inchangé** — A2 ligne 182, attente GO Philippe | A2 post-A1 |
+| 8 | Doublon homepage `./public/index.html` | ✅ **RÉSOLU** PR #67 mergée 30/06 (B2 ligne 187) | PR #67 (30/06) |
+| 9 | Différenciation d'intention vs CNR | 🟠 inchangé — B1, post-A2 | B1 post-A2 |
+
+### Leçons codées / référencées
+
+- **Leçon #489** (2026-08-03, verrouillée) : « Revalidation idempotente d'un audit smoke 404 déjà absorbé » — pattern réutilisé ici pour SEO_PLAN ligne 103.
+- **Leçon #490** (2026-08-03, verrouillée) : « Revalidation de chantier vivant SEO_PLAN : toujours vérifier que la ligne du brief désigne bien un chantier, pas sa légende » — application directe : ligne 103 = bloc **description faiblesses** (légende du chantier A1), pas un chantier en soi.
+- **R04 du PROTOCOLE** : « vérifier l'état live AVANT d'agir » — évite les 6 PRs fantômes (#145/#146/#152/#199/#200/#201/#203) signalées par la leçon #478.
+
+### Patchs appliqués au SEO_PLAN (doc-only, NON-committés — R3/R7)
+
+- Section « Faiblesses SEO/GEO CRITIQUES (PRIORITÉ 1) » (ligne 102) réécrite : transformation des 6× 🔴 en 6× ✅/⚠️ + 1🔴 (A2) + 1🟠 (B1) + 2× ✅ ajoutés (NAP, zones, H1).
+- Ajout section « Session 2026-08-03 (revalidation SEO_PLAN ligne 103) — Hermes » dans HISTORIQUE (cette section).
+- **NON committés** : (1) R3 « STOP validation Philippe avant config/contenu » s'applique au SEO_PLAN (mémoire vivante partagée 4 sites) ; (2) divergence entre AGENTS.md §12.2 (qui prescrit « fala sempre ») et PROTOCOLE ligne 116 (qui le bannit) — à arbitrer Philippe avant MAJ définitive ligne 116 du SEO_PLAN.
+
+### Prochaines actions (décisions Philippe)
+
+- ⚠️ **Arbitrage divergence AGENTS.md §12.2 vs PROTOCOLE ligne 116** sur la formulation « fala sempre com a mesma pessoa » : (a) MAJ AGENTS.md pour aligner sur la doctrine collective (recommandé), (b) MAJ PROTOCOLE pour réintroduire le claim solo, (c) laisser en l'état (référence historique seulement). La section « Faiblesses » du SEO_PLAN peut alors basculer en ✅.
+- 🟢 Push SEO_PLAN après décision : `git add SEO_PLAN.md && git commit -m "docs(seo-plan): réévalué ligne 103 — NO-OP légitime doublement confirmé (A1 + PR #217)"`.
+- 🔴 **A2** (8 pages /zonas/ Bragança, Mirandela, Vila Real, Chaves, Miranda do Douro, Mogadouro, Vinhais, Lamego) — toujours en attente GO Philippe.
+- 🟠 **B1** (différenciation d'intention vs CNR) — post-A2.
 
 
 ---
