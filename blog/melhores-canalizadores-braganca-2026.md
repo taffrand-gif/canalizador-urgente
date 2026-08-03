@@ -49,7 +49,7 @@ Seguro que cobre danos causados durante trabalho (fugas, inundações, danos est
 **Porquê importante:**
 - Protege cliente de prejuízos
 - Obrigatório profissionais com experiência
-- Cobre danos até 500.000€+
+- Cobre danos durante a intervenção
 - Tranquilidade
 
 **Como verificar:**
@@ -683,7 +683,7 @@ Não escolher automaticamente mais barato. Avaliar conjunto (qualidade + preço 
 **Ligue agora: 928 484 451**
 
 ✅ Certificação profissional válida
-✅ Seguro RC 500.000€
+✅ Seguro de Responsabilidade Civil Profissional ativo
 ✅ Orçamento escrito detalhado gratuito
 ✅ Garantia 12 meses por escrito
 ✅ 15+ anos experiência
