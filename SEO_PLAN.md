@@ -1448,3 +1448,23 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
 - **LECONS** : #412 ajoutée — leçon de design "Pilier national vs gabarit Variante C : 2 designs distincts".
 - **Hub concelhos existants NON modifiés** (portée mission = UNIQUEMENT les 2 piliers racine).
 - **À suivre** : (1) décision Philippe sur merge ; (2) post-merge J+30 GSC → mesurer ranking `desentupir canos` et `entupimento` vs baseline ; (3) si uplift confirmé → batch 6 piliers additionnels CU+EU (10 autres intents money actées).
+---
+
+### 2026-08-03 — t_c49186be — Recompte doctrine DGEG côté CU (plomberie urgente)
+
+- **Contexte** : levée d'ambiguïté DGEG TRIESP 90062 (chargeur VE = RÉEL élec, INTERDIT plomberie). Cartographie site-by-site après certification du 24/07.
+- **Recompte CU (`origin/main`, _archive/ exclu)** :
+  - `\bDGEG\b|\bTRIESP\b|90062` strict sur l'arbre (hors _archive) : **1 fichier** = `sobre.html`. Contexte : FAQPage JSON-LD réponse à « A Norte Reparos é certificada? » → « Sim, a vertente elétrica (eletricista-norte-reparos.pt e eletricista-urgente.pt) opera com Técnico Responsável de Instalações Elétricas (TRIESP) inscrito na DGEG, nº 90062, Execução em Baixa Tensão até 41,4 kVA. **A vertente canalização opera com seguro de responsabilidade civil válido e fatura com NIF.** ». La mention est explicitement attribuée à la vertente élec sister-site, **disclaimée** pour la vertente canalisation (plomberie urgente). Lecture conforme à AGENTS.md §14 CU « aucun claim DGEG ne doit apparaître sur les pages CU ». **Borderline acceptable** : mention cross-site attributive, pas un claim CU. Pas de violation §14.
+  - `ficha[s]? eletrot[eé]cnica` hors _archive : 0.
+  - `carregador` / `wallbox` hors _archive : 0.
+- **Faux négatif `AUDIT-FAILLES-2026-08-03.md`** : idem CNR, l'audit a utilisé regex `DGEG|TRIESP|90062` strict sur l'arbre _archive-exclu, ce qui détecte bien les 1 fichier sobre.html. Verdict initial `0/200` côté CU confirmé **uniquement si on accepte la mention cross-site attributive**. Lecture alternative plus stricte = « zéro mention, même cross-site » → 1 violation à corriger (mais l'attribution explicite « a vertente elétrica » rend le disclaimer honnête et conforme à R12 Transparence Radicale). Pas d'escalade obligatoire, à arbitrer avec Philippe si durcissement doctrine souhaité.
+- **Conclusion CU** : **clean modulo 1 mention borderline acceptable** (`sobre.html` ligne 24 FAQPage JSON-LD). Chantier `t_9a231a1d` 30/07 avait déjà créé la branche `wt/t9a231a1d-doctrine-ve-canalizador-urgente` avec consigne côté plomberie « HORS périmètre CU », jamais mergée mais documentation disponible. **NO-OP légitime** sur cette carte.
+- **Méthode audit reproductible** :
+  ```bash
+  cd /Users/admin/work/Sites/canalizador-urgente
+  git grep -lE '\bDGEG\b|\bTRIESP\b|90062' origin/main -- $(git ls-tree -r --name-only origin/main | grep -vE '^_archive/') | wc -l   # = 1 (sobre.html)
+  git grep -nE 'TRIESP|DGEG|90062' origin/main -- sobre.html | head -3   # confirme contexte « vertente elétrica »
+  git grep -lE 'ficha[s]? eletrot[eé]cnica' origin/main -- $(git ls-tree -r --name-only origin/main | grep -vE '^_archive/') | wc -l   # = 0
+  ```
+- **Statut** : ✅ CU clean modulo 1 mention cross-site attributive (`sobre.html` FAQPage, disclaimée vertente canalização).
+- **⚠️ Côté CNR sœur** : voir l'entrée correspondante dans `canalizador-norte-reparos/SEO_PLAN.md` §17 historique (date 2026-08-03 t_c49186be) — violation critique §13 AGENTS.md CNR détectée, hors périmètre strict de la carte t_c49186be.
