@@ -1468,4 +1468,12 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
   git grep -lE 'ficha[s]? eletrot[eé]cnica' origin/main -- $(git ls-tree -r --name-only origin/main | grep -vE '^_archive/') | wc -l   # = 0
   ```
 - **Statut** : ✅ CU clean modulo 1 mention cross-site attributive (`sobre.html` FAQPage, disclaimée vertente canalização).
+
+### 2026-08-05 — Rank-push `canalizador urgente` (CPC=14.63 EUR, vol=170) — PR draft
+
+- **Brief** : query money `canalizador urgente` sur CU, DataForSEO vol=170/mois, CPC=14.63 EUR, score=2487.10 ; GSC 28j terminé 2026-08-04 = 0 impression / 0 clic / position None → **GAP H1**.
+- **Anti-doublon vérifié** : aucune page racine dédiée `canalizador-urgente.html` ; la page existante la plus proche est `/blog/canalizador-24-horas-guia-completo.html`, déjà indexée et couverte par sitemap-blog.xml. Renforcement chirurgical retenu au lieu de créer un troisième pilier racine, afin de ne pas contourner le STOP sur les piliers nationaux en attente.
+- **Modifs** : title/meta description/H1/direct-answer/JSON-LD BlogPosting alignés sur `canalizador urgente` ; prix issus de `PRICING.md` (65 €/h, Z1=15 €, Z2=25 €, Z3=35 €, Z4=45 €, Z5=55 €, Z6=65 €, +50 %) ; liens vers `/precos` et `/zona-intervencao` ; sitemap-blog.xml active 29, URL passée de commentaire post-merge à URL indexable lastmod 2026-08-04 priority 0.7.
+- **Conformité** : R11 zéro invention ; R12 transparence prix et règle postérieure 2026-07-08 respectée (`preço confirmado antes de qualquer intervenção`, zéro `orçamento por escrito`) ; phrase `fala sempre com a mesma pessoa, não um call center` ; R145 aucun délai chiffré ; §14 CU = 0 DGEG/TRIESP/wallbox/carregador dans la page.
+- **PR** : draft #229 sur branche `feat/cu-rankpush-canalizador-urgente-t_ee3a8eee`, base `main`, zéro merge sans GO Filipe (R7). Chevauchement détecté avec PR draft #228 sur le même article : consolidation/ordre de merge à valider en review. Mesure GSC J+14 via `gsc-trajectoire-cron.sh`.
 - **⚠️ Côté CNR sœur** : voir l'entrée correspondante dans `canalizador-norte-reparos/SEO_PLAN.md` §17 historique (date 2026-08-03 t_c49186be) — violation critique §13 AGENTS.md CNR détectée, hors périmètre strict de la carte t_c49186be.
