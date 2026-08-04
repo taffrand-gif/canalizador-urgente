@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- canalizador-urgente.pt sitemap-blog.xml | active=28 (PR #187 diff origin/main..origin/fix/sitemap-villages-curation) | post-merge=25 (open DRAFT/OPEN PRs) | generated 2026-07-19 -->
+<!-- canalizador-urgente.pt sitemap-blog.xml | active=29 (PR #187 diff origin/main..origin/fix/sitemap-villages-curation) | post-merge=24 (open DRAFT/OPEN PRs) | updated 2026-08-05 -->
 <url><loc>https://canalizador-urgente.pt/blog/esgoto-rebentado-urgente</loc><lastmod>2026-07-19</lastmod><priority>0.5</priority></url>
 <url><loc>https://canalizador-urgente.pt/blog/fossa-enchendo-urgente</loc><lastmod>2026-07-19</lastmod><priority>0.5</priority></url>
 <url><loc>https://canalizador-urgente.pt/blog/pressao-agua-zero-urgencia</loc><lastmod>2026-07-19</lastmod><priority>0.5</priority></url>
@@ -36,7 +36,7 @@
 <!-- post-merge: https://canalizador-urgente.pt/blog/canalizacao-entupida-causas-solucoes -->
 <!-- post-merge: https://canalizador-urgente.pt/blog/canalizacao-entupida-resolver -->
 <!-- post-merge: https://canalizador-urgente.pt/blog/canalizacao-velha-substituir -->
-<!-- post-merge: https://canalizador-urgente.pt/blog/canalizador-24-horas-guia-completo -->
+<url><loc>https://canalizador-urgente.pt/blog/canalizador-24-horas-guia-completo</loc><lastmod>2026-08-05</lastmod><priority>0.7</priority></url>
 <!-- post-merge: https://canalizador-urgente.pt/blog/canalizador-vs-bricolagem-quando-vale-pena -->
 <!-- post-merge: https://canalizador-urgente.pt/blog/cano-rebentado -->
 <!-- post-merge: https://canalizador-urgente.pt/blog/contador-agua-disparado -->
