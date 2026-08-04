@@ -1469,3 +1469,24 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
   ```
 - **Statut** : ✅ CU clean modulo 1 mention cross-site attributive (`sobre.html` FAQPage, disclaimée vertente canalização).
 - **⚠️ Côté CNR sœur** : voir l'entrée correspondante dans `canalizador-norte-reparos/SEO_PLAN.md` §17 historique (date 2026-08-03 t_c49186be) — violation critique §13 AGENTS.md CNR détectée, hors périmètre strict de la carte t_c49186be.
+---
+
+### 2026-08-04 — Rank-push 'canalizador 24 horas' (CPC=18.63 EUR vol=320) livré en PR draft #228 (Hermes kanban t_8d67d0b4)
+
+- **Brief** : combler le gap MONEY pour la query 'canalizador 24 horas' sur cu — DataForSEO vol=320/mois, CPC=18.63 EUR (la requête plomberie la plus chère du marché portugais), score 5961.60. GSC 28j terminé 2026-08-04 : 0 impressions / 0 clics / position None → **GAP** priorité H1.
+- **Stratégie retenue** : pas de création de nouvelle URL racine (cf. PR #160 DRAFT 2 piliers nationaux `desentupir-canos` + `entupimento` non mergés au 04/08 — Filipe n'a pas tranché les piliers racine, créer un 3ᵉ pilier national sans GO = scope creep). **Renforcement chirurgical de la page existante** `/blog/canalizador-24-horas-guia-completo.html` (déjà indexée, sitemap-blog.xml, 5 inlinks entrants d'autres articles du blog) : signal problème d'alignement, pas d'indexation.
+- **Modifs** (3 fichiers, +30/-9, base=origin/main via branche partagée `feat/cu-hidrojato-pilote-2026-08-03` SHA `f6fdd5d1e`, head commit `2f58bb008`) :
+  - `blog/canalizador-24-horas-guia-completo.html` : `dateModified` 2026-07-18 → 2026-08-04 ; footer `Atualizado em 4 de agosto de 2026` ; H1 aligné query Money + variante ('Como Funciona, Quando Chamar e Quanto Custa') avec NAP explicite + Filipe nommé dans direct-answer ; `og:title`/`og:description` réécrits avec 6 zones + grille tarifaire + oração orçamento ; **+3 sections** (Zonas servidas 24h Trás-os-Montes / Quando NÃO chamar 24h / Confiança avant de contratar) ; **+5 FAQ longues traînes Money** (FAQ 6→11, ciblant 'sábado à noite', 'Trás-os-Montes zones', '24 horas vraiment', 'Bragança 24h', 'quanto custa domingo') ; **+2 schema.org JSON-LD** (BreadcrumbList 3 items + HowTo 3 passos 'O que fazer antes de ligar') ; 6 outbound links vers `/concelhos/{braganca,mirandela,vila-real,chaves,mogadouro,vimioso}` (Z2/Z2/Z3/Z4/Z3/Z5 explicites) ; body **2401 → 3619 mots (+1218, +50 %)** ; keyword density 'canalizador 24 horas' 14× / '24 horas' 33× / '65 €/h' 11× / Z1-Z6 52×.
+  - `index.html` : +1 ligne dans section 'Leituras úteis do blog' vers `/blog/canalizador-24-horas-guia-completo` (drain jus entrant depuis la home).
+  - `sitemap-blog.xml` : +1 URL `<loc>canalizador-24-horas-guia-completo</loc>` avec `lastmod` 2026-08-04 + `priority` 0.7 (vs 0.5 blog standard → signal Money) ; -1 commentaire post-merge ; en-tête `active 28→29`, `post-merge 25→24`.
+- **Conformité Doctrine AGENTS.md** :
+  - **R11** (zéro invention) : pas de cas client/témoignage/chantier fabriqué — uniquement équipement réel (fil rouge Doctrine §12), zones vérifiées, NAP verrouillé.
+  - **R12** (Transparence Radicale) : prix HAUT (`65 €/h + Z1–Z6 + +50 % + orçamento por escrito`) ; 'Fala sempre com a mesma pessoa, não um call center' préservé ; Filipe nommé 4× (sémaphore R12.3 anti-société-écran) ; NAP `+351 928 484 451` fil rouge (3 occurrences visibles + JSON-LD `Service.telephone`).
+  - **Doctrine §14 note 30/07** (chargeur VE HORS périmètre CU) : **0 mention DGEG / TRIESP / wallbox** dans la page ni ailleurs ; aucune seção 'instalações certificadas' / 'documento emitido'.
+  - **R145** (pas de délai chiffré) : '24h/7d mediante confirmação por telefone' OK ; aucun 'chegamos em X minutos', aucun 'resposta prioritária'.
+  - **R7** (STOP MERGE) : PR draft only — **PAS de merge sans GO Filipe nominatif**.
+- **JSON-LD validé** : 5/5 blocs valides (BlogPosting / BreadcrumbList 3 items / HowTo 3 steps / Service / FAQPage 11 questions). Pattern détecté pendant le patch tool : tous les `@context` ont été réécrits en `https://***@type"` au lieu de `https://***@type"` — correction par `s/python3 + replace_all/` post-patch.
+- **PR** : #228 DRAFT (https://github.com/taffrand-gif/canalizador-urgente/pull/228), `base=main`, `head=feat/cu-rankpush-canalizador-24-horas-t_8d67d0b4`, **3 fichiers +30/-9**.
+- **Mesure d'impact** : cron `gsc-trajectoire-cron.sh` dim 22h (id `8e0fd9b3e269`) qui append `TRAJECTOIRE-MONOPOLE.md` → relevé J+7 + J+30 sur la query 'canalizador 24 horas'.
+- **Statut** : ✅ PR DRAFT #228 livrée — `STOP MERGE` validation Philippe requise avant tout merge (R7).
+
