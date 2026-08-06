@@ -3,95 +3,88 @@
 > Écrit par le loop Cowork après chaque run. NE PAS ÉDITER MANUELLEMENT.
 
 ## Dernier run
-- Date : 2026-07-29
-- Tâche exécutée : **AUCUNE modification de code.** Audit de conformité complet + escalade de 3 points bloquants.
-- Branche créée : `loop/context-2026-07-29-cu` (context.md uniquement, poussée en fast-forward sur `main`)
-- PR ouverte : aucune (rien à merger — pas de changement de code)
-- Résultat : 🛑 **SITE COMPLET — attente Philippe.** Les 2 seules tâches restantes du SEO_PLAN (A1 refonte homepage, A2 pages /zonas/) sont explicitement STOP-gatées sur un GO de Philippe. Aucune violation non-ambiguë détectée. 3 points à arbitrer ci-dessous.
+- Date : 2026-08-06
+- Tâche exécutée : **R11 + R145 — violation détectée en lecture, traitée en priorité (R11/R12).** Les 2 tâches prévues du `SEO_PLAN` (A1, A2) restent 🛑 STOP-gatées, non touchées. **PROTOTYPE SUR 1 SEULE PAGE** (AGENTS.md §12) sur `calculadora-de-preco.html` — **le même fichier que le prototype PR #200 sur `eletricista-urgente`, qui est MERGÉE**, donc le pattern de retrait est déjà validé par Philippe.
+- Branche créée : `loop/2026-08-06-canalizador-urgente-r11-r145-prototype` (depuis `origin/main`, **en worktree**)
+- Commits : `9614d3f75` (calculadora-de-preco.html), puis `38fe02516` (SEO_PLAN.md HISTORIQUE)
+- PR ouverte : https://github.com/taffrand-gif/canalizador-urgente/pull/240
+- Résultat : ✅ 2 commits, 2 fichiers (1 par commit, atomique). **3 défauts corrigés, tous par retrait ou réparation d'artefact, zéro invention.** Témoins R8 : `demoram a chegar` 1→0 · `" conforme zona"` 1→0 · `começa em 130 EUR` 1→0 · `130 EUR` 1→0 · `Trabalham Atendimento — ligue 928 484 451/7d?` 1→0 · `Trabalham 24h/7d?` 0→1 · `Mão de obra: 65 EUR/h` 1→1 (conservé) · `24h/7d` 5→5 (conservé, R145 l'autorise ici). Delta −165 octets. **Tous les blocs JSON-LD re-parsés = valides**, `FAQPage` 5→4 questions toutes avec réponse réelle. Attente GO merge + GO batch Philippe (R7).
 
-## Audit de conformité effectué ce run (lecture seule, sur `origin/main`, `_archive/` exclu)
-Tous les motifs verrouillés d'AGENTS.md ont été greppés — **0 occurrence sur chacun** :
+## 🛑 2 GISEMENTS CHIFFRÉS — DÉCISION REQUISE
 
-| Motif | Règle | Occurrences |
-|---|---|---|
-| `resposta priorit…` | R145 (délai chiffré) | 0 |
-| `mediante confirma…` | R145 | 0 |
-| `emitimos` | Ruling 2026-07-08 (aucun document émis) | 0 |
-| `emissão de certificado` | Ruling 2026-07-08 | 0 |
-| `instalações certificadas` | Ruling 2026-07-08 | 0 |
-| `trabalho profissional` | Ruling 2026-07-08 | 0 |
-| `DGEG` | Ruling 2026-07-08 | 0 |
-| `AggregateRating` / `aggregateRating` | R11 / §13 | 0 |
-| `+351-` (tiret, NAP non uniforme) | NAP cross-site | 0 |
-| `130 EUR` / `Desde 130` | R11 (prix inventé) | 0 |
-| `24h/7d` | (rappel : R145 autorise « 24h/7 dias ») | 0 |
+### (a) Prix inventé `Desde 130` — **73 fichiers** ⚠️ LE PLUS URGENT
+`Desde 130` sur **73 fichiers**, `130 EUR` sur **66**, `130€` sur 18, `130 €` sur 7.
+`PRICING-CANONIQUE.md` ne connaît **aucun minimum de 130 €** : la grille verrouillée est **65 €/h + deslocação Z1=15 € · Z2=25 € · Z3=35 € · Z4=45 € · Z5=55 € · Z6=65 €**. Le « 130 » des documents internes désigne le **rayon de 130 km** autour de Macedo de Cavaleiros — **pas un prix**.
+➡️ **C'est un prix faux servi en production sur ~73 pages.** Violation R11 active. Priorité au-dessus de (b).
+**Décision demandée** : autoriser le batch, et indiquer la formulation retenue — retrait pur (comme dans le prototype) ou une phrase de remplacement choisie par Philippe.
 
-➡️ **Le site est propre sur toutes les règles non-ambiguës.** Les correctifs des runs précédents (P0 `d94312630`, B2, A4-BIS) ont tenu.
+### (b) FAQ vide — **816 fichiers** (le gisement d'`eletricista-urgente` existe aussi ici)
+Le `context.md` d'EU demandait de vérifier ce défaut ici. **Vérifié, il y est.** Une purge R145 antérieure a laissé des `acceptedAnswer` cassées dans le JSON-LD `FAQPage`, sur la question « Quanto tempo demoram a chegar? » :
 
-## 🛑 À ARBITRER PAR PHILIPPE (3 points)
+| Occurrences | Valeur de `text` |
+|---|---|
+| 809 | `" conforme zona"` — vide : commence par une espace, sans sujet ni verbe |
+| 5 | `" min conforme zona. Diagnóstico por telefone em poucos minutos — ligue 928 484 451, garantimos atenção orçamento por escrito por telefone ao telefone."` |
+| 1 | `"Diagnóstico por telefone em poucos minutos — … Tempo conforme zona e disponibilidade da equipa."` |
+| 1 | `"5 - atendimento urgente conforme zona. Atendimento urgente ao telefone."` |
 
-### 1. RÉGRESSION B2 — `public/index.html` et `./index.html` ont re-divergé
-`SEO_PLAN.md §B2` est marqué **✅ FAIT** (PR `loop/2026-06-29-canalizador-urgente-b2-doublon-homepage`) avec la solution « `public/index.html` remplacé par copie conforme de `index.html` ». **Ce n'est plus vrai.** Les deux fichiers ont divergé **dans les deux sens** :
+**Pourquoi la réponse n'est pas réparable** : la question porte sur un **délai d'arrivée**. R145 interdit le délai chiffré, R11 interdit d'inventer, « mediante confirmação por telefone » est banni → **aucune réponse honnête ET conforme n'existe**. Retrait du couple Q/R = seule issue. Le vide honnête > le faux.
+**Décision demandée** : autoriser (ou non) le batch sur les 815 fichiers restants. ⚠️ Traiter les 4 variantes séparément et **re-parser le `FAQPage` de chaque fichier après patch** — c'est le contrôle manquant qui a créé le gisement.
 
-| | `./index.html` (racine) | `public/index.html` |
-|---|---|---|
-| `<title>` | `Canalizador Urgente 24h/7 — … \| Preço conhecido antes` | `Canalizador Urgente — … \| Orçamento escrito antes de intervir` |
-| `<h1>` | `Canalizador urgente 24 h/7 dias — resposta imediata em Trás-os-Montes` | `Fuga de água ou cano rebentado? Conhecemos o preço antes de intervir.` |
-| `addressLocality` (JSON-LD) | `Trás-os-Montes` | `Macedo de Cavaleiros` |
-| `sameAs` (JSON-LD) | 3 entrées | 4 entrées (doublon `canalizador-norte-reparos.pt` avec et sans `/`) |
-| Section « Leituras úteis do blog » (maillage interne, 6 liens) | ✅ présente | ❌ absente |
-
-Autrement dit : la **racine** a le maillage blog récent mais le H1 ancien ; `public/` a le H1 conforme §13 (règle d'or « la 1ʳᵉ phrase rassure sur le PRIX ») mais pas le maillage. **Aucun des deux n'est intégralement à jour.**
-
-**Pourquoi le loop n'a pas tranché** : impossible de déterminer de façon fiable lequel des deux est réellement servi en production. `vercel.json` ne déclare **ni `outputDirectory` ni `buildCommand`**, il n'y a **pas de `package.json`** — c'est un déploiement statique zéro-config, et Vercel peut selon les cas servir la racine **ou** auto-détecter `public/` comme répertoire de sortie. `public/` contient **99 fichiers** trackés (pas seulement l'index). Aucun n'est référencé dans `sitemap.xml` (0 occurrence de `public/`).
-
-**Décision demandée** : (a) `public/` est-il déployé ou mort ? (b) Si mort → le supprimer du repo (99 fichiers de contenu dupliqué = risque SEO). (c) Si vivant → quel fichier est la source de vérité, et faut-il fusionner H1-de-`public` + maillage-de-racine ?
-
-### 2. CONTRADICTION INTERNE D'AGENTS.md — « orçamento por escrito »
-- **§13 (gabarit, verrouillé 15/06/2026)** donne comme phrase-modèle : *« intervimos com preço claro e **orçamento por escrito** antes de qualquer trabalho »*.
-- **Ruling Filipe 2026-07-08 (verrouillé)** liste explicitement **« orçamento por escrito » parmi les formulations INTERDITES** sur toute page.
-
-Les deux homepages utilisent la formule (racine : « Orçamento por escrito antes de intervir » ; `public/` : « orçamento por escrito » + le titre « Orçamento escrito antes de intervir »). Le ruling est **postérieur** au gabarit, donc probablement prioritaire — mais AGENTS.md §12 impose : *« si je ne suis pas certain qu'un élément de positionnement soit conforme, je STOP et demande à Philippe »*. **Le loop a donc STOPPÉ et n'a rien touché.**
-
-**Décision demandée** : le ruling 2026-07-08 abroge-t-il la phrase-modèle §13 ? Si oui, §13 doit être réécrit dans AGENTS.md, et la formule purgée des 4 sites (chantier de masse → GO de périmètre requis).
-
-### 3. « resposta imediata » dans le H1 racine — R145 ?
-R145 autorise explicitement « 24h/7 dias » et bannit « resposta prioritária » / « resposta mediante confirmação por telefone ». Le H1 de `./index.html` dit **« resposta imediata »** — même famille sémantique (promesse de délai) mais **pas littéralement dans la liste des bannis**. Ambigu → non touché.
-
-**Décision demandée** : « resposta imediata » tombe-t-il sous R145 ?
+## ✅ RÉSOLU ce run — point d'escalade #2 (« orçamento por escrito »)
+La contradiction **AGENTS.md §13 (gabarit, verrouillé 15/06) vs ruling Filipe 2026-07-08** est **tranchée dans la pratique** : l'entrée `SEO_PLAN.md` du 2026-08-04 (PR #229) applique explicitement *« R12 … règle postérieure 2026-07-08 respectée (`preço confirmado antes de qualquer intervenção`, zéro `orçamento por escrito`) »*.
+➡️ **Le ruling prime sur le gabarit §13.** Formule de remplacement validée : **`preço confirmado antes de qualquer intervenção`**.
+➡️ **TÂCHE SUIVANTE RECOMMANDÉE** : reporter ce ruling dans `AGENTS.md` §13 (1 fichier = 1 PR, sans risque) pour supprimer l'ambiguïté définitivement — sinon chaque run repaiera le coût de l'arbitrage. Puis grep `orçamento por escrito` sur ce repo et purger vers la formule validée (chantier à chiffrer avant GO).
+⚠️ Attention : sur les sites `*-norte-reparos`, « Orçamento por escrito em 48h » est au contraire le **vocabulaire validé** (`shared/siteConfig.ts` L108/L124). **La même formule est bannie ici et prescrite là-bas.**
 
 ## Tâche suivante recommandée
-- **Rien d'exécutable en autonomie.** Les 2 tâches SEO_PLAN restantes sont gatées :
-  - **A1 — Homepage complète Doctrine §12** : 🛑 STOP attente Philippe (verrouillé depuis le 28/06, ligne 253 du SEO_PLAN).
-  - **A2 — 8 pages /zonas/** (`canalizador-urgente-{braganca,vila-real,mirandela,chaves,miranda-do-douro,mogadouro,vinhais,lamego}.html`, ~8h, risque BAS) : 🛑 STOP attente GO explicite.
-- Dès qu'un GO arrive sur l'un des 3 points ci-dessus, le point 1 (doublon `public/`) est le plus rentable : c'est un risque de duplicate content sur 99 fichiers, et le fix est mécanique une fois la source de vérité désignée.
+1. **`AGENTS.md` §13 — reporter le ruling 2026-07-08** (voir ci-dessus). 1 fichier, risque nul, débloque tous les runs futurs.
+2. Si GO sur le gisement (a) : batch `Desde 130` / `130 EUR` sur 73 fichiers.
+3. Si GO sur le gisement (b) : batch FAQ sur 815 fichiers.
+4. Sinon : appliquer la **méthode d'audit par point d'entrée** (celle qui produit les PR utiles sur CNR/ENR) adaptée à un site statique — auditer les pages les plus crawlées (`index.html`, `precos.html`, `calculadora-de-preco.html`, `perguntas-frequentes.html`, `zona-intervencao.html`) plutôt que le repo entier.
 
 ## Apprentissages (self-improving)
-- **R145 autorise « 24h/7 dias »** — c'est écrit noir sur blanc dans AGENTS.md L125 et L166. Ne PAS purger « 24h » sur les sites urgence par réflexe : ce qui est banni, ce sont les promesses de délai personnalisées (« resposta prioritária », « mediante confirmação por telefone »). ⚠️ C'est **l'inverse** des sites `*-norte-reparos` (installation) où « 24h » est une violation R12 par cannibalisation d'intent. **La même chaîne est violation sur 2 sites et conforme sur les 2 autres.**
-- Le grep `24h/7d` (sans espaces) **rate** les variantes réelles du site : `24h/7`, `24 h/7 dias`. Utiliser `24\s*h[/ ]` pour un audit fiable.
-- Le ruling « AUCUN DOCUMENT ÉMIS » du 2026-07-08 est la règle la plus récente et la plus large d'AGENTS.md — elle **contredit le gabarit §13** du 15/06. Tout futur run qui rédige de la copy doit être conscient de ce conflit et STOPPER plutôt que choisir.
-- Ce repo est un site **statique pur** : pas de `package.json`, pas de build, `vercel.json` en rewrites `/(.*)` → `/$1.html`. Pas de `npx tsc` possible ici (contrairement aux 2 sites `*-norte-reparos`) — la vérification post-patch se fait par grep + inspection HTML.
+- 🔴 **FAUX NÉGATIF D'AUDIT CONFIRMÉ ET REPRODUIT.** L'audit du 29/07 sur ce repo avait conclu **`130 EUR` → 0 occurrence**. La réalité est **66 fichiers**. C'est exactement le piège documenté le **même jour** dans le `context.md` d'`eletricista-urgente` : *« passer un motif contenant `€` à `git grep -F` via une boucle inline `zsh -c` mange le motif et renvoie 0 résultat »*. **Le piège s'est reproduit sur un autre repo parce que la leçon n'était consignée que dans un seul `context.md`.** ➡️ **Règle : tout grep à motif non-ASCII (`€`, accents, guillemets imbriqués) passe par un script Python/bash, jamais une boucle inline.** ➡️ **Méta-règle : une leçon de tooling vaut pour les 4 repos et doit être copiée dans les 4 `context.md` le jour où elle est apprise.**
+- 🔴 **Ne jamais faire confiance à un audit « 0 occurrence » sans contrôle positif.** Avant de conclure qu'un motif est absent, greper un motif **dont on sait qu'il est présent** pour prouver que la commande fonctionne. Le tableau « 11 motifs, 0 occurrence » du 29/07 est désormais suspect **en entier** — il devra être refait par script.
+- **R145 autorise « 24h/7 dias » sur ce site** (AGENTS.md L125/L166). Ce qui est banni, ce sont les promesses de délai personnalisées (« resposta prioritária », « mediante confirmação por telefone »). ⚠️ C'est **l'inverse** des sites `*-norte-reparos` (installation) où « 24h » est une violation R12 par cannibalisation d'intent. **La même chaîne est violation sur 2 sites et conforme sur les 2 autres.** Ne pas purger « 24h » ici par réflexe.
+- Le grep `24h/7d` (sans espaces) **rate** les variantes réelles du site : `24h/7`, `24 h/7 dias`. Utiliser `24\s*h[/ ]`.
+- **Les artefacts des purges automatisées touchent aussi les `name` de questions**, pas seulement les réponses. Ex. trouvé ce run : `"Trabalham Atendimento — ligue 928 484 451/7d?"` (numéro injecté au milieu de « Atendimento 24h/7d »). Ils sont **grammaticalement cassés**, donc les corriger n'invente rien — gisement propre à faible risque.
+- **Toute purge de conformité doit re-parser le JSON-LD après coup** : retirer une sous-chaîne d'un `acceptedAnswer` produit du JSON syntaxiquement valide mais **sémantiquement vide**, qu'aucun linter ne détecte. C'est précisément ce contrôle manquant qui a créé le gisement de 816 fichiers. Contrôle à ajouter à tout batch : re-parser chaque bloc `FAQPage`, vérifier que chaque `text` fait > 20 caractères. ⚠️ Ne pas ajouter « commence par une majuscule » comme critère bloquant : une réponse légitime peut commencer par un chiffre (« 65 €/h + deslocação… »).
+- Ce repo est un site **statique pur** : pas de `package.json`, pas de build, `vercel.json` en rewrites `/(.*)` → `/$1.html`. Pas de `tsc` possible — la vérification post-patch se fait par grep + **re-parsing JSON**.
+- Ce site utilise « 65 € » (avec espace) et « 65 EUR », pas seulement « 65€ » → adapter les greps R8.
+- **Les corrections ne sont PAS propagées entre repos, et les LEÇONS non plus.** C'est le pattern le plus coûteux du cycle, observé 3 fois : `seo.keywords` (14 j), `FAQLocal.tsx` (6 j), et maintenant le piège de grep `€` (jamais propagé → a produit un faux négatif ici).
 
 ## Edge cases détectés
-- **Worktree obligatoire sur ce repo** : la copie de travail est en permanence sale (`llms.txt` modifié, plus 3+ fichiers HTML untracked à la racine : `desentupir-sanita.html`, `detecao-fuga-agua.html`, `esquentador-avaria.html`) et posée sur la branche `fix/cu-maillage-money`. Ne pas faire `git checkout -b` dedans. Pattern fiable : `git worktree add -q /tmp/cu-ctx -b <branche> origin/main`, travailler là, puis `git worktree remove`.
-- Le sandbox `mcp__workspace__bash` **n'a ni `gh` ni credentials Git** → tout git/gh passe par `mcp__desktop-commander__start_process` (host macOS, `gh` authentifié `taffrand-gif`).
-- `mcp__workspace__web_fetch` **refuse les URL non présentes dans la conversation** (« URL not in provenance set ») → impossible de vérifier le HTML servi en prod depuis le loop. Pour trancher le point 1, il faut un `curl` host-side via desktop-commander, ou l'API Vercel.
-- `_archive/` contient de vieux fichiers avec violations — **NE PAS patcher `_archive/`**, et l'exclure de tous les greps d'audit (`-- ':!_archive'`).
-- Ce site utilise « 65 € » (avec espace), pas « 65€/h » → adapter les greps R8.
-- `calculadora-de-preco.html` : zones décalées vs AGENTS.md (Z1=20 € dans le calculateur vs 15 € dans AGENTS) — écart possiblement intentionnel (urgence ≠ normal). **NE PAS toucher la logique JS sans GO Philippe.**
+- **Worktree obligatoire sur ce repo** : la copie de travail est sale en permanence (6 fichiers au 06/08) et posée sur une branche feature d'une autre automation (`fix/cu-conformite-phones-recursos-gratuitos-t_6220b236`). Ne jamais y faire `git checkout` ni `reset --hard`. Patron : `git worktree add -q ~/work/Sites/_worktrees/loop-YYYY-MM-DD/cu -b <branche> origin/main`.
+- 🔴 **Le `/tmp` du sandbox et le `/tmp` du host sont DEUX systèmes de fichiers distincts.** Un worktree créé dans `/tmp` via desktop-commander est **invisible** au sandbox. Les worktrees doivent être créés **sous `~/work/Sites/`** (monté des deux côtés).
+- 🔴 **Les commandes `git` ne fonctionnent PAS depuis le sandbox dans un worktree** : le fichier `.git` d'un worktree contient un chemin **absolu host** qui ne résout pas côté sandbox → `fatal: not a git repository`. Dans un worktree : grep/lecture au sandbox, **tout `git` via desktop-commander**.
+- Le sandbox `mcp__workspace__bash` n'a ni `gh` ni credentials Git en écriture → tout git/gh passe par `mcp__desktop-commander__start_process` (host macOS, `gh` authentifié `taffrand-gif`). En revanche il est **excellent et rapide** pour tous les grep/lecture sur les 2452 fichiers HTML montés.
+- `mcp__workspace__web_fetch` **refuse les URL non présentes dans la conversation** (« URL not in provenance set ») → impossible de vérifier le HTML servi en prod depuis le loop. Pour trancher le doublon `public/`, il faut un `curl` host-side via desktop-commander.
+- `_archive/` contient de vieux fichiers avec violations — **NE PAS patcher `_archive/`**, et l'exclure de tous les greps d'audit.
+- `calculadora-de-preco.html` : zones décalées vs AGENTS.md (Z1=20 € dans le calculateur JS vs 15 € dans AGENTS) — écart possiblement intentionnel (urgence ≠ normal). **NE PAS toucher la logique JS sans GO Philippe.** Non touché ce run (seul le JSON-LD a été patché).
+- Corps de PR long : `cat > /tmp/pr-xxx.md <<'EOF'` puis `gh pr create --body-file`, jamais `--body` inline.
 
 ## Blocages connus
-1. **A1** (refonte homepage Doctrine §12) = 🛑 STOP attente Philippe.
-2. **A2** (8 pages /zonas/) = 🛑 STOP attente GO Philippe.
-3. **Doublon `public/` ↔ racine** = 🛑 régression B2, source de vérité indéterminable sans info de déploiement (voir §1 ci-dessus).
-4. **Contradiction AGENTS.md §13 vs ruling 2026-07-08** sur « orçamento por escrito » (voir §2 ci-dessus).
-5. Zones tarif calculateur vs AGENTS.md : ambiguïté → laissé en place.
-6. PR #68 (FAQ schema calculadora, run du 30/06) et PR #60 (schema LocalBusiness homepage) — vérifier leur statut de merge.
+1. **Gisement (a) `Desde 130` — 73 fichiers, prix faux en production** = 🛑 attente GO batch. **Le plus urgent du repo.**
+2. **Gisement (b) FAQ vide — 816 fichiers** = 🛑 attente GO batch (prototype ci-dessus + PR #200 mergée sur EU comme précédent).
+3. **A1** (refonte homepage Doctrine §12) = 🛑 STOP attente Philippe depuis le 28/06.
+4. **A2** (8 pages /zonas/) = 🛑 STOP attente GO explicite.
+5. **Doublon `public/` ↔ racine — 99 fichiers.** `./index.html` et `public/index.html` ont divergé dans les deux sens (racine = maillage blog récent + H1 ancien ; `public/` = H1 conforme §13 + pas de maillage). Source de vérité indéterminable : `vercel.json` ne déclare **ni `outputDirectory` ni `buildCommand`**, il n'y a **pas de `package.json`** — déploiement statique zéro-config, Vercel peut servir la racine **ou** auto-détecter `public/`. **Décision demandée** : (a) `public/` est-il déployé ou mort ? (b) si mort → le supprimer (99 fichiers de contenu dupliqué = risque SEO) ; (c) si vivant → quel fichier fait foi ?
+6. « **resposta imediata** » dans le H1 racine : R145 bannit « resposta prioritária » et « mediante confirmação » mais pas littéralement « resposta imediata ». Même famille sémantique. Ambigu → non touché. **Décision demandée.**
+7. Zones tarif du calculateur JS vs AGENTS.md (Z1=20 € vs 15 €) : ambiguïté, laissé en place.
+8. **Le tableau d'audit « 11 motifs, 0 occurrence » du 29/07 est SUSPECT EN ENTIER** (voir §Apprentissages) — à refaire par script avant de s'y fier.
+9. 5 PR ouvertes sur ce repo au 06/08 (#228, #231, #232, #238, #239) + **#240 (ce run)**. Sur les 4 repos cumulés : **60 PR ouvertes**. Le goulot est le merge, pas la production.
 
 ## Instructions améliorées pour prochain run
-1. **Ne pas relancer un audit de conformité complet sur ce site** : il a été fait intégralement le 2026-07-29, 11 motifs verrouillés, 0 occurrence (tableau ci-dessus). Refaire uniquement si du code a été mergé depuis.
-2. **Travailler en worktree** (`git worktree add -q /tmp/cu-ctx -b <branche> origin/main`), jamais en `git checkout` dans `~/work/Sites/canalizador-urgente` (copie sale en permanence).
-3. **Ne PAS purger « 24h » sur ce site** — R145 l'autorise explicitement. C'est l'inverse des sites installation.
-4. Si un GO arrive : traiter le point 1 (doublon `public/`) en premier — meilleur ratio impact/effort.
-5. Si aucun GO n'est arrivé : ce site reste **SITE COMPLET — attente Philippe**, ne pas inventer de tâche. Le vide honnête est meilleur que le faux (R11).
-6. Pour vérifier ce qui est servi en prod : `curl -sI https://canalizador-urgente.pt/` host-side via desktop-commander (le web_fetch du sandbox est bloqué par la provenance).
+1. 🔴 **Pré-flight** : `rm -f ~/work/Sites/canalizador-urgente/.git/*.lock` (zsh dit « no matches found » s'il n'y en a pas — normal).
+2. 🔴 **Travailler en worktree sous `~/work/Sites/`** : `git worktree add -q ~/work/Sites/_worktrees/loop-YYYY-MM-DD/cu -b loop/YYYY-MM-DD-canalizador-urgente-{tache} origin/main`. Jamais `/tmp`, jamais la copie principale.
+3. 🔴 **Tout grep à motif non-ASCII passe par un script Python/bash**, jamais une boucle inline `zsh -c`. Et **toujours un contrôle positif** (greper un motif connu présent) avant de conclure « 0 occurrence ».
+4. **Ne PAS purger « 24h » sur ce site** — R145 l'autorise explicitement. C'est l'inverse des sites installation.
+5. **Ne pas se fier au tableau d'audit du 29/07** : refaire par script.
+6. Tâche suivante : **`AGENTS.md` §13 — reporter le ruling 2026-07-08** (1 fichier, risque nul), puis les batchs (a) et (b) si GO.
+7. **Après tout patch d'un JSON-LD : re-parser TOUS les blocs `application/ld+json` du fichier** et vérifier que chaque `acceptedAnswer.text` fait > 20 caractères. C'est le contrôle qui manque aux purges automatisées.
+8. **Répartition des outils** : grep/lecture/scripts d'analyse → `mcp__workspace__bash` ; git/gh/curl → `mcp__desktop-commander__start_process`.
+9. PR : `cat > /tmp/pr-xxx.md <<'EOF'` + `gh pr create --body-file`.
+10. 🔴 **Vérifier que `context.md` est bien arrivé sur `main`** en fin de run : `git show origin/main:context.md | head -6` doit afficher la date du jour.
+11. Nettoyer : `git worktree remove ~/work/Sites/_worktrees/loop-YYYY-MM-DD/cu` puis `git worktree prune`.
+12. Pour vérifier ce qui est servi en prod : `curl -sI https://canalizador-urgente.pt/` host-side (le web_fetch du sandbox est bloqué par la provenance).
