@@ -1477,3 +1477,28 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
 - **Conformité** : R11 zéro invention ; R12 transparence prix et règle postérieure 2026-07-08 respectée (`preço confirmado antes de qualquer intervenção`, zéro `orçamento por escrito`) ; phrase `fala sempre com a mesma pessoa, não um call center` ; R145 aucun délai chiffré ; §14 CU = 0 DGEG/TRIESP/wallbox/carregador dans la page.
 - **PR** : draft #229 sur branche `feat/cu-rankpush-canalizador-urgente-t_ee3a8eee`, base `main`, zéro merge sans GO Filipe (R7). Chevauchement détecté avec PR draft #228 sur le même article : consolidation/ordre de merge à valider en review. Mesure GSC J+14 via `gsc-trajectoire-cron.sh`.
 - **⚠️ Côté CNR sœur** : voir l'entrée correspondante dans `canalizador-norte-reparos/SEO_PLAN.md` §17 historique (date 2026-08-03 t_c49186be) — violation critique §13 AGENTS.md CNR détectée, hors périmètre strict de la carte t_c49186be.
+
+---
+
+### 2026-08-06 — R11 + R145 : FAQ vide + prix minimum sans source de vérité (PROTOTYPE 1 page, cowork-loop)
+
+- **Découverte 1 — le gisement FAQ d'`eletricista-urgente` existe AUSSI ici.** Le `context.md` d'EU demandait de « vérifier le même défaut sur `canalizador-urgente` (même généalogie de purge R145) ». **Vérifié : 816 fichiers** (hors `_archive/`) portent la question « Quanto tempo demoram a chegar? » avec une `acceptedAnswer` cassée. Variantes :
+
+| Occurrences | Valeur de `text` |
+|---|---|
+| 809 | `" conforme zona"` — vide : commence par une espace, sans sujet ni verbe |
+| 5 | `" min conforme zona. Diagnóstico por telefone em poucos minutos — ligue 928 484 451, garantimos atenção orçamento por escrito por telefone ao telefone."` |
+| 1 | `"Diagnóstico por telefone em poucos minutos — ligue 928 484 451, garantimos atenção após contacto telefónico ao telefone. Tempo conforme zona e disponibilidade da equipa."` |
+| 1 | `"5 - atendimento urgente conforme zona. Atendimento urgente ao telefone."` |
+
+- **Découverte 2 — R11 ACTIVE : prix minimum sans source de vérité.** `Desde 130` apparaît sur **73 fichiers**, `130 EUR` sur **66**. `PRICING-CANONIQUE.md` ne connaît **aucun minimum de 130 €** : la grille est **65 €/h + deslocação Z1=15 € … Z6=65 €**. Le « 130 » des documents internes désigne le **rayon de 130 km** autour de Macedo de Cavaleiros, pas un prix. ⚠️ **L'audit du 29/07 avait conclu `130 EUR` → 0 occurrence** : c'est un **faux négatif silencieux**, exactement le piège documenté le même jour dans le `context.md` d'`eletricista-urgente` (« passer un motif contenant `€` à `git grep -F` via une boucle inline `zsh -c` mange le motif »). **Tout grep à motif non-ASCII doit passer par un script Python/bash, jamais une boucle inline.**
+- **Découverte 3 — artefacts de purge dans les `name` de questions.** Ex. `"Trabalham Atendimento — ligue 928 484 451/7d?"` : un numéro de téléphone a été injecté au milieu de « Atendimento 24h/7d » par une purge automatisée.
+- **Action ce run — PROTOTYPE SUR 1 SEULE PAGE**, conformément à AGENTS.md §12 : fichier `calculadora-de-preco.html` (money page — **le même fichier que le prototype PR #200 sur `eletricista-urgente`, qui est MERGÉE**, donc le pattern de retrait est validé par Philippe).
+  1. Couple Q/R « Quanto tempo demoram a chegar? » **retiré** du `FAQPage` (irréparable : R145 interdit le délai chiffré, R11 interdit d'inventer, « mediante confirmação » est banni → le vide honnête > le faux).
+  2. « começa em 130 EUR (1 hora) com deslocação incluída » **retiré** — la phrase restante énonce la vraie grille verbatim, correction par retrait pur, zéro invention.
+  3. `"Trabalham Atendimento — ligue 928 484 451/7d?"` → `"Trabalham 24h/7d?"`, cohérent avec sa propre réponse « Sim, 24h/7d ». R145 autorise explicitement « 24h/7 dias » sur ce site.
+- **Témoins R8** : `demoram a chegar` 1→0 · `" conforme zona"` 1→0 · `começa em 130 EUR` 1→0 · `130 EUR` 1→0 · `Trabalham Atendimento — ligue 928 484 451/7d?` 1→0 · `Trabalham 24h/7d?` 0→1 · `Mão de obra: 65 EUR/h` 1→1 (conservé) · `24h/7d` 5→5 (conservé). Delta **−165 octets**.
+- **Contrôle** : **tous** les blocs JSON-LD re-parsés après patch = **valides**. `FAQPage` 5→4 questions, chaque `acceptedAnswer` non vide et cohérente.
+- **Conformité** : R145 ✅ · R11 ✅ (retrait, zéro invention) · R4 ✅ · R6 ✅ · R8 ✅ · atomique ✅ (1 fichier = 1 commit) · AGENTS.md §12 ✅ (prototype, pas de batch) · R7 ✅ (zéro merge).
+- **🛑 SUITE = DÉCISION PHILIPPE** : autoriser (ou non) les 2 batchs — (a) **815 fichiers** pour le retrait FAQ, (b) **~73 fichiers** pour le prix `Desde 130`. Le batch (b) est le plus urgent : c'est un prix faux servi en production.
+- **✅ Point d'escalade #2 du `context.md` RÉSOLU** : la contradiction AGENTS.md §13 vs ruling 2026-07-08 sur « orçamento por escrito » est **tranchée dans la pratique** — l'entrée SEO_PLAN du 2026-08-04 (PR #229) applique explicitement « **R12 … règle postérieure 2026-07-08 respectée (`preço confirmado antes de qualquer intervenção`, zéro `orçamento por escrito`) ». Le ruling prime donc sur le gabarit §13, et la formule de remplacement est **`preço confirmado antes de qualquer intervenção`**. § À reporter dans AGENTS.md §13 pour supprimer l'ambiguïté.
