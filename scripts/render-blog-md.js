@@ -219,7 +219,7 @@ const CONFORMITY_RULES = [
   // métié = canalização ; pas d'autre métier
   ['contenu hors métier', /\b(?:painéis? solares?|ar condicionado|bomba de calor|carregador(?:es)? (?:de )?ve[í]culos?|elétricas?|ficha[s]? eletrot[eé]cnic|certifica[cç][aã]o el[eé]tric)\b/i],
   ['délai de réponse chiffré', /(?:resposta|chegada|chegar|técnic[oa]|demoram?)[^\n.]{0,45}\b\d+(?:[.,]\d+)?\s*(?:min(?:uto)?s?|h(?:oras?)?)\b|atendimento[^\n.]{0,45}\b\d+(?:[.,]\d+)?\s*(?:min(?:uto)?s?|horas?)\b/i],
-  ['promesse R145', /\b(?:resposta prioritária|resposta rápida|resposta garantida|mediante confirmação|a confirmar por telefone|chegada em minutos|temos alguém agora)\b/i],
+  ['promesse R145', /\b(?:atendimento prioritário|resposta rápida|resposta garantida|mediante confirmação|a confirmar por telefone|chegada em minutos|temos alguém agora)\b/i],
   ['témoignage ou exemple inventé', /(?:^|\n)#{2,4}\s+(?:testemunhos?|exemplos? reais?|casos reais?)\b|\b(?:dados de )?\d+\+?\s+intervenções\b|\b(?:Maria|João|Ana)\s+[A-Z]\./im],
   ['statistique terrain non sourcée', /\b\d+(?:[.,]\d+)?\s*%\s+(?:dos|das|de)\s+casos\b|\b(?:casos|problemas) que (?:vemos|resolvemos)\b/i],
   ['document/certification émis', /\b(?:emit(?:e|imos|ir|ido)[^\n.]{0,50}(?:certificad|relatório|ficha)|fichas? eletrotécnicas?|relatório técnico|certificado em \d|certificação completa|instalações certificadas|orçamento por escrito de conformidade)\b/i],

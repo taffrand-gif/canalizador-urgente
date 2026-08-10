@@ -356,7 +356,7 @@ def render_precos_block(c, slug):
 
 SOBRE_TEMPLATES = [
     '''<h2>Sobre a Norte Reparos</h2>
- <p>A Norte Reparos é uma equipa de canalizadores com base em Macedo de Cavaleiros, ao serviço do concelho de {name} e da região transmontana. Diagnóstico por telefone em poucos minutos — ligue {tel}, garantimos atenção mediante confirmação por telefone 24 horas por dia, 7 dias por semana, incluindo fins de semana e feriados. Fatura com NIF e garantia sobre os trabalhos realizados.</p>''',
+ <p>A Norte Reparos é uma equipa de canalizadores com base em Macedo de Cavaleiros, ao serviço do concelho de {name} e da região transmontana. Diagnóstico por telefone em poucos minutos — ligue {tel}, atenção dedicada mediante confirmação por telefone 24 horas por dia, 7 dias por semana, incluindo fins de semana e feriados. Fatura com NIF e garantia sobre os trabalhos realizados.</p>''',
     '''<h2>Quem somos</h2>
  <p>Norte Reparos opera a partir de Macedo de Cavaleiros, cobrindo {name} e a região circundante. Contacto directo por telefone — {tel} — com marcação após confirmação. Fatura com NIF discriminada, garantia escrita sobre mão-de-obra e peças, seguro de responsabilidade civil.</p>''',
     '''<h2>A nossa equipa</h2>

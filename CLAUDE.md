@@ -20,7 +20,7 @@
 ## Workflow patch (rappel court — ⚠️ DIFFÉRENT des sites `-norte-reparos`)
 1. **Lire `./AGENTS.md` §11-13** EN ENTIER (Doctrine Transparence Radicale + zéro invention + gabarit)
 2. **STOP validation Philippe OBLIGATOIRE** pour tout batch (cf. §12) — *AUCUN batch de pages avant prototype 1 page validé*
-3. Témoin grep décomposé AVANT (motifs R12 §12 : délais chiffrés inventés, anonymat réseau, "resposta prioritária")
+3. Témoin grep décomposé AVANT (motifs R12 §12 : délais chiffrés inventés, anonymat réseau, "atendimento prioritário")
 4. Patch 1 fichier à la fois (R15 : max 95 fichiers/commit, justifié)
 5. Témoin grep APRÈS + commit référencé leçon
 6. Push SANS `--force` (R6)
@@ -31,7 +31,7 @@
 ## Patterns R12 à supprimer (DIFFÉRENTS des `-norte-reparos`)
 - ❌ Délais chiffrés inventés : "resposta em 30min", "chegamos em X minutos", "tempo médio"
 - ❌ Anonymat réseau : "nossa equipa de profissionais" sans visage, "central de atendimento"
-- ❌ Phrases "resposta prioritária / mediante confirmação" (R145)
+- ❌ Phrases "atendimento prioritário / mediante confirmação" (R145)
 - ✅ OK : "24h/7 dias" (disponibilité), "orçamento por escrito antes de qualquer intervenção"
 
 ## Plan stratégique SEO/GEO

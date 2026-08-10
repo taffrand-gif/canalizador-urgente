@@ -19,7 +19,7 @@ PATTERNS = [
      "Atendimento — ligue 928 484 451, damos orçamento por escrito após auscultação por telefone"),
     (r"Atendimento Atendimento mediante confirmação por telefone — ligue 928 484 451, garantimos atendimento mediante confirmação por telefone",
      "Atendimento — ligue 928 484 451, damos orçamento por escrito após auscultação por telefone"),
-    (r"Atendemos 24h/7 dias, mediante confirmação por telefone — ligue 928 484 451, garantimos atenção mediante confirmação por telefone",
+    (r"Atendemos 24h/7 dias, mediante confirmação por telefone — ligue 928 484 451, atenção dedicada mediante confirmação por telefone",
      "Atendemos 24h/7d (orçamento por escrito em poucos minutos)"),
     (r"o atendimento é mediante confirmação por telefone — ligue 928 484 451, garantimos atendimento mediante confirmação por telefone",
      "o atendimento começa por orçamento escrito — ligue 928 484 451"),

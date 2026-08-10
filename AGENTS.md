@@ -122,7 +122,7 @@ Une absence de règle = autorisé par défaut. La règle 10 dit : **en cas de do
 **Cette doctrine se COMBINE avec (ne remplace pas)** :
 
 - **R11 ZÉRO INVENTION** : aucun chantier/avis/témoignage inventé
-- **R145 (jamais de délai chiffré)** : « 24h/7 dias » OK, **« resposta mediante confirmação por telefone » / « resposta prioritária » BANNIS**
+- **R145 (jamais de délai chiffré)** : « 24h/7 dias » OK, **« resposta mediante confirmação por telefone » / « atendimento prioritário » BANNIS**
 - **Grille tarifaire EXACTE** (jamais de fourchette inventée ; hors grille = « sob orçamento »)
 - **Géo-neutre** (jamais d'adresse/sede en dur ; widget géoloc dynamique seulement)
 - **Équipement EXACT** : Ridgid K9-102, FLIR, caméra 30m, **ROLeak Aqua 3Plus = détection ACOUSTIQUE**, Fluke T6-1000

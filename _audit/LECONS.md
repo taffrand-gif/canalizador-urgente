@@ -398,7 +398,7 @@ for f in ['entupimento.html','desentupir-canos.html','desentupimento-esgoto.html
     assert len(re.findall(r'/concelhos/[a-z-]+\.html', html)) >= 8
     for bad in ['certificação','certificado','DGEG','emitimos','em conformidade com',
                 'instalações certificadas','emissão de','agendamento prévio',
-                'resposta imediata','resposta prioritária', r'\b\d+\s*minutos?\b',
+                'resposta imediata','atendimento prioritário', r'\b\d+\s*minutos?\b',
                 r'\bem \d+\s*horas?\b','eu sou','minha empresa','sou sozinho',
                 'contacte-me','falar comigo']:
         assert not re.search(bad, html, re.IGNORECASE), f'FORBIDDEN in {f}: {bad}'
@@ -735,7 +735,7 @@ for f in ['entupimento.html','desentupir-canos.html','desentupimento-esgoto.html
     assert len(re.findall(r'/concelhos/[a-z-]+\.html', html)) >= 8
     for bad in ['certificação','certificado','DGEG','emitimos','em conformidade com',
                 'instalações certificadas','emissão de','agendamento prévio',
-                'resposta imediata','resposta prioritária', r'\b\d+\s*minutos?\b',
+                'resposta imediata','atendimento prioritário', r'\b\d+\s*minutos?\b',
                 r'\bem \d+\s*horas?\b','eu sou','minha empresa','sou sozinho',
                 'contacte-me','falar comigo']:
         assert not re.search(bad, html, re.IGNORECASE), f'FORBIDDEN in {f}: {bad}'
@@ -814,7 +814,7 @@ done
 - G3 : +0.0000 (moyenne sur 528 paires) ✅
 - Bonus : structure Hn conservée (1 H1 + 7-8 H2 par fichier, 0 H3)
 
-**Doctrine verrouillée respectée** : R12 (65 €/h + orçamento por escrito), R145 (0 délai chiffré, 0 « mediante confirmação », 0 « resposta prioritária »), R11 (0 « garantimos », 0 « garantia »), ruling Filipe 2026-07-08 (0 « certificação », 0 « certificado », 0 « ficha »), pronom « nous ».
+**Doctrine verrouillée respectée** : R12 (65 €/h + orçamento por escrito), R145 (0 délai chiffré, 0 « mediante confirmação », 0 « atendimento prioritário »), R11 (0 « garantimos », 0 « garantia »), ruling Filipe 2026-07-08 (0 « certificação », 0 « certificado », 0 « ficha »), pronom « nous ».
 
 **Coût évité** :
 - Variante A (réécriture du paragraphe descriptif existant) → aurait nécessité toucher le copy existant → risque de casser la formulation doctrinée existante. Rejeté.

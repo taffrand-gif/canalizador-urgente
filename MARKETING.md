@@ -25,7 +25,7 @@ Patron : **[peur réelle du client] → [retournement par la transparence]**. To
 - ✅ « Fuga de água a esta hora? Orçamento por escrito antes, sem surpresas na fatura — 24h/7 dias. »
 - ✅ « Cansado de quem não atende ou cobra uma fortuna na urgência? Fala sempre com a mesma pessoa, não um call center. »
 - ✅ « Não fique refém do preço de urgência: o valor é combinado antes de começarmos. »
-- ❌ INTERDIT (R145) : « resolvemos hoje », « chegamos em X min », « ligamos em minutos », « resposta prioritária ».
+- ❌ INTERDIT (R145) : « resolvemos hoje », « chegamos em X min », « ligamos em minutos », « atendimento prioritário ».
 
 ## Verbatim peurs marché (concurrents — JAMAIS cités comme avis Norte Reparos, R11)
 « Cobraram-me 300 euros por um serviço que nem 50 merecia » · « ATENÇÃO AO POSSÍVEL ROUBO » · « não atendeu » · « cobrança não autorizada e excessiva ». → sert à formuler les hooks/objections, pas à inventer des témoignages.
