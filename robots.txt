@@ -47,7 +47,6 @@ Allow: /
 # Sitemap
 Sitemap: https://canalizador-urgente.pt/sitemap.xml
 Sitemap: https://canalizador-urgente.pt/sitemap-blog.xml
-Sitemap: https://canalizador-urgente.pt/sitemap-villages.xml
 
 # Default
 User-agent: *
