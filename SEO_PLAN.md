@@ -1502,3 +1502,75 @@ M8 cleanUrls + M11 redirects + M10 clés IndexNow + M11-bis (sources .html → e
 - **Conformité** : R145 ✅ · R11 ✅ (retrait, zéro invention) · R4 ✅ · R6 ✅ · R8 ✅ · atomique ✅ (1 fichier = 1 commit) · AGENTS.md §12 ✅ (prototype, pas de batch) · R7 ✅ (zéro merge).
 - **🛑 SUITE = DÉCISION PHILIPPE** : autoriser (ou non) les 2 batchs — (a) **815 fichiers** pour le retrait FAQ, (b) **~73 fichiers** pour le prix `Desde 130`. Le batch (b) est le plus urgent : c'est un prix faux servi en production.
 - **✅ Point d'escalade #2 du `context.md` RÉSOLU** : la contradiction AGENTS.md §13 vs ruling 2026-07-08 sur « orçamento por escrito » est **tranchée dans la pratique** — l'entrée SEO_PLAN du 2026-08-04 (PR #229) applique explicitement « **R12 … règle postérieure 2026-07-08 respectée (`preço confirmado antes de qualquer intervenção`, zéro `orçamento por escrito`) ». Le ruling prime donc sur le gabarit §13, et la formule de remplacement est **`preço confirmado antes de qualquer intervenção`**. § À reporter dans AGENTS.md §13 pour supprimer l'ambiguïté.
+
+
+---
+
+## 🔄 HISTORIQUE — Run loop 2026-08-12 · Audit des 2 gisements (tâches n°1 et n°2 du `context.md`)
+
+| Date | Agent | Type | Action | Motif | Résultat | Statut |
+|---|---|---|---|---|---|---|
+| 2026-08-12 | cowork-loop | audit | Recherche des jumeaux `r12_*.py` + recomptage scripté des gisements (a) et (b), avec contrôle positif | Tâches n°1 et n°2 du `context.md` du 11/08 — conditionnent le GO batch | 2452 HTML scannés (`_archive/` exclu). Verrou technique **levé**. Gisement (b) **caractérisé au fichier près** | ✅ Fait |
+
+### 1. Les jumeaux existent — et le verrou technique est levé, comme sur EU
+
+`scripts/r12_blog_safe_cleanup.py` (L54), `scripts/r12_hubs_cleanup.py` (L51) **et** `scripts/r12_mass_cleanup_pass2.py` (L57) portent tous les trois la même chaîne de remplacement défectueuse : **`"Deslocação conforme zona Z"`**, terminée par un `Z` orphelin — le numéro de zone n'est jamais concaténé. Diagnostic EU du 11/08 confirmé ici, sur **3** scripts et non 2.
+
+**One-shot, pas une étape de build** — établi par trois contrôles convergents :
+
+- aucune référence à `r12_` dans un `.json`, `.yml`, `.yaml`, `.sh` ou `.toml` du repo : **0 résultat**
+- **pas de `package.json`**, **pas de `.github/`**
+- `vercel.json` = `rewrites` + `headers` uniquement, ni `buildCommand` ni `outputDirectory`
+
+➡️ **Un batch sur les pages ne sera PAS annulé au prochain déploiement.** Le blocage n°2 du `context.md` tombe.
+
+### 2. ⚠️ Mais la chaîne défectueuse des scripts n'est PAS celle qu'on trouve en production
+
+C'est le résultat inattendu de ce run, et il change la cible du batch.
+
+| Motif | Occurrences | Fichiers |
+|---|---:|---:|
+| **CONTRÔLE POSITIF** `65 €` / `65 EUR` | 12 904 | 2 237 |
+| `conforme zona Z` (le `Z` orphelin **des scripts**) | **0** | **0** |
+| `demoram a chegar` | 816 | **815** |
+| ` conforme zona` (espace initiale) | 1 173 | 1 159 |
+| `Desde 130` | 137 | **73** |
+| `130 €` toutes formes | 147 | 80 |
+
+Les 3 scripts du repo sont **armés mais n'ont jamais tiré** : leur `Z` orphelin a **0 occurrence** en production. Le défaut réel vient d'une **4ᵉ passe de purge absente de `scripts/`** — vraisemblablement une commande ad hoc lancée par un agent. **Elle n'est donc pas reproductible : le gisement est figé.**
+
+### 3. Gisement (b) caractérisé au fichier près — et il est plus petit qu'annoncé
+
+Parsing de **tous** les blocs `application/ld+json` des 815 fichiers portant la question :
+
+| `acceptedAnswer.text` | Fichiers |
+|---|---:|
+| `" conforme zona"` (14 car., espace initiale, ni sujet ni verbe) | **808** |
+| `"min conforme zona. Diagnóstico por telefone…"` (`min` orphelin) | 5 |
+| `"5 - atendimento urgente conforme zona…"` (`5 -` orphelin) | 1 |
+| réponse valide | 1 |
+
+**Blocs JSON-LD non parsables : 0.** Le JSON est syntaxiquement valide — il est sémantiquement vide. Google lit un `FAQPage` bien formé dont la réponse ne veut rien dire.
+
+🔴 **Et surtout — le motif ` conforme zona` NE DOIT PAS servir de cible de batch.** Sur les 1 159 fichiers qui le portent, **1 138 ne l'ont que dans le JSON-LD** ; les **21** qui l'ont aussi dans le body l'ont dans une phrase **légitime et grammaticale** : « com resposta conforme zona e disponibilidade da equipa ». Un `sed` sur ` conforme zona` casserait 21 pages correctes.
+
+➡️ **Cible exacte du batch** : les `acceptedAnswer.text` dont la valeur *strippée* vaut exactement `conforme zona` — **808 fichiers**, zéro ambiguïté, zéro faux positif. Les 3 variantes résiduelles (5 + 1) se traitent séparément.
+
+### 4. Gisement (a) — chiffre du 06/08 confirmé, et il n'a pas bougé
+
+`Desde 130` = **137 occurrences / 73 fichiers**. Le 73 du 06/08 est exact. Rien ne l'a purgé, rien ne le régénère. Reste le prix minimum le plus faux du repo : `PRICING-CANONIQUE.md` ne connaît aucun minimum de 130 € (grille : 65 €/h + deslocação Z1-Z6 de 15 € à 65 €). Le « 130 » est le **rayon en km** autour de Macedo de Cavaleiros.
+
+### 5. 🆕 Deux résidus mesurés en passant
+
+| Motif | Occurrences | Fichiers | Commentaire |
+|---|---:|---:|---|
+| `a a  profissionais` | **101** | **34** | ⚠️ **La PR #254 (mergée, HEAD de `main`) n'a traité que 14 fichiers.** Le gisement n'est pas clos. |
+| `mediante confirmação por telefone/7d` | 37 | 15 | `/7d` orphelin — le `24h` a été substitué en laissant son suffixe. Même famille d'artefact. |
+
+### Décisions demandées à Philippe (les 3 tiennent en un tap)
+
+1. **Batch (b) FAQ** — cible = `acceptedAnswer.text == "conforme zona"`, **808 fichiers**. Verrou technique levé, cible sans ambiguïté. Formulation de remplacement à indiquer (ou retrait du couple Q/R, patron mergé sur PR #200 EU).
+2. **Batch (a) prix** — **73 fichiers**, `Desde 130`. Retrait pur, patron mergé PR #240.
+3. **Finir `a a  profissionais`** — **34 fichiers** restants après la PR #254.
+
+⚠️ Rappel doctrine appliqué à ces 3 batchs : **exclure explicitement `AGENTS.md`, `SEO_PLAN.md`, `context.md`, `CLAUDE.md`** des substitutions (leçon `fb9dd2415`), et **re-parser le `FAQPage` de chaque fichier après patch** (`acceptedAnswer.text` > 20 caractères).
