@@ -41,7 +41,7 @@ CONCELHO_BY_SLUG = {c['slug']: c for c in CONCELHOS}
 TOP200_DATA = json.loads(TOP200.read_text(encoding='utf-8'))
 
 NAP_DISPLAY = '+351 928 484 451'
-TEL_HREF = 'tel:+351****4451'
+TEL_HREF = 'tel:+351928484451'
 
 
 def slugify(s):
@@ -233,10 +233,10 @@ META_DESC_TMPL = {
 }
 
 FOOTER_TMPL = {
-    'A': '<p>© 2026 Norte Reparos — canalizador profissional em Trás-os-Montes.</p>\n <p>Telemóvel <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
-    'B': '<p>© 2026 Norte Reparos · canalizador em Trás-os-Montes, zona tarifária Z{zone}.</p>\n <p>Telemóvel <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
-    'C': '<p>© 2026 Norte Reparos — serviço de canalização em Trás-os-Montes.</p>\n <p>Contacto: <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
-    'D': '<p>© 2026 Norte Reparos · canalizador profissional, Trás-os-Montes.</p>\n <p>Telefone: <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
+    'A': '<p>© 2026 Norte Reparos — canalizador profissional em Trás-os-Montes.</p>\n <p>Telemóvel <a href="tel:+351928484451">{nap}</a></p>',
+    'B': '<p>© 2026 Norte Reparos · canalizador em Trás-os-Montes, zona tarifária Z{zone}.</p>\n <p>Telemóvel <a href="tel:+351928484451">{nap}</a></p>',
+    'C': '<p>© 2026 Norte Reparos — serviço de canalização em Trás-os-Montes.</p>\n <p>Contacto: <a href="tel:+351928484451">{nap}</a></p>',
+    'D': '<p>© 2026 Norte Reparos · canalizador profissional, Trás-os-Montes.</p>\n <p>Telefone: <a href="tel:+351928484451">{nap}</a></p>',
 }
 
 CU_COLOR = '#1e6091'
@@ -289,7 +289,7 @@ HTML_TEMPLATE = '''<!DOCTYPE html>
 
 <div class="cta" role="region" aria-label="Contacto">
  <div style="font-size:1.05rem;font-weight:700;margin-bottom:.4rem;">Fuga de água ou entupimento em {vname}?</div>
- <a href="tel:+351****4451">📞 {nap}</a>
+ <a href="tel:+351928484451">📞 {nap}</a>
 </div>
 
 <footer role="contentinfo">
@@ -408,7 +408,7 @@ def render_village(village):
 
     # CTA_HUB : 1 ligne courte, lien hub vers concelhos
     cta_hub = (
-        f'<p>Próximo passo: contacte <a href="tel:+351****4451">{NAP_DISPLAY}</a>, '
+        f'<p>Próximo passo: contacte <a href="tel:+351928484451">{NAP_DISPLAY}</a>, '
         f'mencione {vname} ({parent_name}), ou consulte a '
         f'<a href="/concelhos/{parent_slug}">página de {parent_name}</a>.</p>'
     )
