@@ -233,10 +233,10 @@ META_DESC_TMPL = {
 }
 
 FOOTER_TMPL = {
-    'A': '<p>© 2026 Norte Reparos — canalizador profissional em Trás-os-Montes.</p>\n <p>Telemóvel <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
-    'B': '<p>© 2026 Norte Reparos · canalizador em Trás-os-Montes, zona tarifária Z{zone}.</p>\n <p>Telemóvel <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
-    'C': '<p>© 2026 Norte Reparos — serviço de canalização em Trás-os-Montes.</p>\n <p>Contacto: <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
-    'D': '<p>© 2026 Norte Reparos · canalizador profissional, Trás-os-Montes.</p>\n <p>Telefone: <a href="tel:+351****4451">{nap}</a> · NIPC 123456789 · Alvará 12345-PMe · Seguro RC apólice 67890.</p>',
+    'A': '<p>© 2026 Norte Reparos — canalizador profissional em Trás-os-Montes.</p>\n <p>Telemóvel <a href="tel:+351****4451">{nap}</a></p>',
+    'B': '<p>© 2026 Norte Reparos · canalizador em Trás-os-Montes, zona tarifária Z{zone}.</p>\n <p>Telemóvel <a href="tel:+351****4451">{nap}</a></p>',
+    'C': '<p>© 2026 Norte Reparos — serviço de canalização em Trás-os-Montes.</p>\n <p>Contacto: <a href="tel:+351****4451">{nap}</a></p>',
+    'D': '<p>© 2026 Norte Reparos · canalizador profissional, Trás-os-Montes.</p>\n <p>Telefone: <a href="tel:+351****4451">{nap}</a></p>',
 }
 
 CU_COLOR = '#1e6091'
