@@ -3,13 +3,32 @@
 > Écrit par le loop Cowork après chaque run. NE PAS ÉDITER MANUELLEMENT.
 
 ## Dernier run
-- Date : 2026-08-13
-- Tâche exécutée : **tâche n°2 du `context.md` du 12/08 (« sans GO : re-vérifier que les PR mergées ont bien clos leur gisement »)**, puis **prototype sur une page**.
-- Branche : `loop/2026-08-13-canalizador-urgente-r11-prototype-contactos` (depuis `origin/main`, **en worktree**)
-- Commits : `d72432c0a` (`contactos.html`, JSON-LD), `b1deaf342` (`contactos.html`, corps de page), le commit `SEO_PLAN.md`
-- PR ouverte : https://github.com/taffrand-gif/canalizador-urgente/pull/260 — **mergeable ✅**
-- Résultat : ✅ 1 fichier de production. **Et le recompte a trouvé que la cible du batch prix était fausse d'un facteur 11.**
+- Date : 2026-08-14
+- Tâche exécutée : **tâche n°4 du `context.md` du 13/08 (« sans GO ») — audit JSON-LD des points d'entrée les plus crawlés**, puis correction de ce que l'audit a trouvé.
+- Branche : `loop/2026-08-14-canalizador-urgente-jsonld-entrypoints` (depuis `origin/main`, **en worktree**)
+- Commits : `aa5c06ba0` (`zona-intervencao.html`), `aa3aff340` (`calculadora-de-preco.html`), + le commit `SEO_PLAN.md`
+- PR ouverte : https://github.com/taffrand-gif/canalizador-urgente/pull/261
+- Résultat : ✅ 2 fichiers de production. **Et un nouveau motif d'artefact de purge, invisible au grep comme au parsing du JSON-LD.**
 
+### Audit — 7 points d'entrée, 26 blocs `ld+json`, tous JSON-valides
+Motifs cherchés dans **toutes les valeurs de chaînes, à toute profondeur** : `rápid`, `prioritári`, `Desde 130`, `Suplemento 30-50`, `por escritoEUR`, `gratuit`, `conforme zona`, `imediat`, `acceptedAnswer.text` < 20 car., doublons `X e X`.
+
+| Point d'entrée | Verdict |
+|---|---|
+| `index.html` · `public/index.html` · `precos.html` · `perguntas-frequentes.html` | ✅ **propres** |
+| `contactos.html` | ⏭️ **déjà couvert par la PR #260** (ouverte) — **non retouché**, pour ne pas créer de conflit |
+| `zona-intervencao.html` · `calculadora-de-preco.html` | 🔴 **corrigés ici** |
+
+### Ce qui a été corrigé
+1. **`zona-intervencao.html`** — prix inventé `Desde 130 EUR (1h)… Suplemento 30-50%…` → **transplant verbatim** de la réponse conforme déjà en production sur `calculadora-de-preco.html` (même repo, **même Question**) : `65 €/h + deslocação (Z1: 15€ a Z6: 65€). Mínimo 1h. Acréscimo +50% fora de horas úteis.` Question de délai (`em poucos minutos` + artefact `garantimos atenção após contacto telefónico ao telefone`) → **retrait du couple Q/R**. `Trabalham 24h/7d?` **conservé** (R145 l'autorise).
+2. **`calculadora-de-preco.html`** — (a) le `FAQPage` finissait par `Resposta rápida, 24h/7d…` : **`Resposta rápida` est la formulation exactement bannie** par R145 → retrait du seul fragment banni, `24h/7d` conservé.
+   (b) 🔴 **La table de zones portait une colonne `Tempo` intégralement cassée** : 3 cellules sur 6 contenaient **un paragraphe de CTA entier écrasé dans une cellule de délai**, préfixé d'un `&lt;` orphelin ; 2 vides ; 1 hors-sujet (`Sob marcação`). **Colonne retirée intégralement** — aucun délai par zone n'est sourçable dans `PRICING.md`, et R145 interdit le délai chiffré. Table ramenée à `Zona | Cidades | €`, **6 lignes × 3 cellules**.
+
+Témoins R8 — `zona-intervencao.html` : `Desde 130` **1→0** · `Suplemento 30-50` **1→0** · `poucos minutos` **1→0** · `garantimos atenção` **1→0** · `Quanto tempo demoram a chegar` **1→0** · `65 €/h + deslocação` **0→1** · `24h/7d` **3→3** (contrôle positif).
+`calculadora-de-preco.html` : `Resposta rápida` **1→0** · `poucos minutos` **3→0** · `Tempo</th>` **1→0** · `24h/7d` **5→5** · `65 EUR/h` **2→2** (grille intacte).
+Contrôle structurel : **4/4 puis 6/6 blocs re-parsés valides**, `FAQPage` de `zona-intervencao.html` **3 → 2 questions**, **0 `acceptedAnswer.text` < 20 caractères**.
+
+⚠️ **`Sob marcação` (Z6) est tombé avec la colonne `Tempo`.** Il est **absent de `PRICING.md` de CU** — non restauré ailleurs (R4). **Si c'est une vraie règle d'offre, l'ajouter d'abord à `PRICING.md`.**
 ## 🔴 CE RUN — la cible du batch prix était fausse, et le batch avait DÉJÀ été lancé
 
 Parsing des `acceptedAnswer.text` de la Question `« Quanto custa uma urgencia de canalizacao? »`, `_archive/` exclu :
@@ -32,10 +51,11 @@ Parsing des `acceptedAnswer.text` de la Question `« Quanto custa uma urgencia d
 - **`a a  profissionais` : 0 occurrence.** Le gisement signalé à 34 fichiers le 12/08 est **clos**. Ne pas le rouvrir.
 
 ## ✅ Gate merge — aucun gate actif
-Vérifié ce run : aucune mention d'attente dans les 4 `context.md`. **CNR #300 a été mergée pendant le run** ; #260 (ici), #334 (ENR) et #284 (EU) sont ouvertes et **toutes mergeables**.
+Vérifié ce run : aucune mention d'attente dans les 4 `context.md`. Aucun gate réécrit.
 
 🔴 **Rappel de doctrine, à ne jamais réécrire** : R7 interdit de **MERGER**, pas de **PRODUIRE**. Entre le 06/08 et le 09/08, cette mention a été relue chaque nuit comme un ordre d'arrêt → **4 runs sans production**.
 
+🆕 **Corollaire découvert ce run (sur CNR)** : le statut `MERGED` de l'API GitHub **n'est pas une preuve de présence en production** — la PR CNR #300, pourtant `MERGED`, a été annulée par une réécriture de `main`. ➡️ **Contrôle de fin de run : `git merge-base --is-ancestor <mergeCommit> <remote>/main`.** À passer aussi sur CU au prochain run.
 ## Prototype livré — `contactos.html`
 Page choisie parce qu'elle porte **à elle seule les deux gisements** : le batch prix ET le batch FAQ se jugent sur un seul diff.
 1. **Q « Quanto custa uma urgencia de canalizacao? »** → **transplant verbatim** de la réponse déjà en production sur `calculadora-de-preco.html` (même repo, même Question). **R4 : le « 130 » n'est pas un prix** — `PRICING.md` en fait le **rayon ROUTE maximal (~130 km)** depuis Macedo de Cavaleiros.
@@ -58,12 +78,17 @@ Page choisie parce qu'elle porte **à elle seule les deux gisements** : le batch
 ⚠️ Rappel appliqué à ces batchs : **exclure explicitement `AGENTS.md`, `SEO_PLAN.md`, `context.md`, `CLAUDE.md`** (leçon `fb9dd2415`).
 
 ## Tâche suivante recommandée
-1. **Si GO (a)** : exécuter le batch — un seul motif, zéro cas particulier, referme (c) et (d) d'un coup.
-2. **Si GO (b)** : retrait du couple Q/R sur les 808, **puis re-parser le `FAQPage` de chaque fichier** (`acceptedAnswer.text` > 20 caractères) — c'est le contrôle manquant qui a créé le gisement.
-3. **Sans GO** : appliquer la méthode du **parsing plutôt que du grep** aux autres Questions du `FAQPage`. Ce run n'a ventilé qu'**une seule** des questions ; les autres n'ont jamais été inventoriées. Commencer par `« Trabalham 24h/7d? »` et `« Quanto tempo demoram a chegar? »`.
-4. **Sans GO** : auditer `StructuredData` / JSON-LD des points d'entrée les plus crawlés (`index.html`, `precos.html`, `calculadora-de-preco.html`, `perguntas-frequentes.html`, `zona-intervencao.html`) — c'est là qu'étaient les pires violations sur les 3 autres repos ce run.
-
+1. **Si GO (a)** : batch `Suplemento 30-50%` — un seul motif, referme (c) et (d). Les PR #260 et #261 en montrent le rendu exact sur 3 pages.
+2. **Si GO (b)** : les 808 `acceptedAnswer.text == "conforme zona"`, **puis re-parser le `FAQPage` de chaque fichier**. ⚠️ **Avant d'exécuter, refaire le comptage avec le PRÉDICAT « Question », pas la valeur de réponse** — sur EU, la même correction de prédicat a fait passer le gisement de **526 à 953**. **Le chiffre 808 est probablement sous-estimé.**
+3. **Sans GO — priorité** : **ventiler par parsing TOUTES les Questions du `FAQPage`** de CU, comme fait sur EU ce run (2 396 fichiers en quelques secondes au sandbox). EU a livré 3 gisements jamais inventoriés en une passe, dont **une contradiction de prix en production** (2 réponses opposées à la même Question). **CU n'a jamais été ventilé.**
+4. **Sans GO** : chercher sur CU les 2 défauts trouvés sur EU ce run — `Sem custo extra de fim de semana` (contredit la majoration +50 %) et la fourchette de prix inventée `varia entre X€ e Y€`.
+5. **Sans GO** : chercher le motif `<td>` contenant `&lt; ` suivi de plus de 40 caractères — signature de la colonne de délai écrasée trouvée ce run. **Jamais recherché ailleurs que sur `calculadora-de-preco.html`.**
 ## Apprentissages (self-improving)
+- 🔴 **NOUVEAU — un artefact de purge peut se loger dans une CELLULE DE TABLEAU, et aucun contrôle existant ne le voyait.** Une substitution a remplacé une valeur de délai (`&lt; 30 min`) par un paragraphe de CTA entier, sans consommer le `&lt;` qui la précédait → 3 cellules d'un tableau de prix remplies d'un CTA. Ni le grep de motifs connus, ni le parsing du JSON-LD ne le détectent. ➡️ **Signature de détection à ajouter : `<td>` contenant `&lt; ` suivi de plus de 40 caractères.** Même famille que `por escritoEUR` : *une substitution qui ne consomme ni son contexte gauche ni son contexte droit*.
+- 🔴 **NOUVEAU — l'artefact `)EUR` n'est pas propre à CU.** Il existe aussi sur `eletricista-urgente` (15 fichiers), trouvé le même run. ➡️ **Tout défaut documenté sur un repo doit être recherché sur les 3 autres dans le run qui suit.**
+- 🔴 **NOUVEAU — vérifier les PR ouvertes AVANT de patcher un fichier.** `contactos.html` portait exactement les mêmes défauts que `zona-intervencao.html`, mais la PR #260 les corrige déjà : le retoucher aurait créé un conflit de merge pour rien. ➡️ **`gh pr list` + liste des fichiers touchés, en début de run.**
+- 🔴 **NOUVEAU — le prédicat d'un gisement doit être la QUESTION, pas la valeur de réponse.** Démontré sur EU ce run : `" conforme zona"` donnait 526, la Question `Quanto tempo demoram a chegar?` donne **953** (4 variantes, dont une à 418 fichiers jamais documentée). ➡️ **Le chiffre 808 de la cible (b) de CU est à recompter avec le bon prédicat avant tout GO.**
+- 🟢 **L'audit par parsing des points d'entrée est rentable et tient dans un run.** 7 fichiers, 26 blocs, 2 gisements réels — dont un invisible à tous les contrôles précédents.
 - 🔴 **NOUVEAU — un batch de conformité partiellement appliqué laisse un gisement PLUS GRAND que celui qu'il corrigeait.** 73 → 698, parce que la substitution n'a pas consommé le token suivant (`EUR`). ➡️ **Toute substitution doit inclure le contexte droit dans son motif**, et **recompter les DEUX motifs — l'ancien ET le nouveau — après exécution.**
 - 🔴 **NOUVEAU — chercher le SURENSEMBLE avant de demander un GO.** Trois runs ont demandé un GO sur `Desde 130` (73). Le motif qui contient réellement tout le gisement est `Suplemento 30-50%` (815) — jamais mesuré, parce que personne n'avait cherché ce que les variantes avaient **en commun**. ➡️ **Ventiler les variantes d'abord, isoler leur intersection, cibler l'intersection.**
 - 🔴 **NOUVEAU — un échantillonnage à 95 % peut manquer la page qui compte.** 20 des 21 occurrences body étaient légitimes ; la 21ᵉ était la money page racine. **Contrôle exhaustif par fichier, jamais statistique.**
