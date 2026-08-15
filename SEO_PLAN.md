@@ -1576,3 +1576,36 @@ Parsing de **tous** les blocs `application/ld+json` des 815 fichiers portant la 
 3. **Finir `a a  profissionais`** — **34 fichiers** restants après la PR #254.
 
 ⚠️ Rappel doctrine appliqué à ces 3 batchs : **exclure explicitement `AGENTS.md`, `SEO_PLAN.md`, `context.md`, `CLAUDE.md`** des substitutions (leçon `fb9dd2415`), et **re-parser le `FAQPage` de chaque fichier après patch** (`acceptedAnswer.text` > 20 caractères).
+
+---
+
+## 🔄 RUN LOOP 2026-08-15 — Première ventilation exhaustive de CU + prototype
+
+| # | Fichier | Statut |
+|---|---|---|
+| 1 | `blog/canalizador-urgente-braganca-24h-premium.html` | ✅ **Fait** — prototype des 2 gisements sur un seul diff. |
+
+**Périmètre ventilé** : **2 453 fichiers HTML · 6 949 blocs `ld+json` · 5 906 Questions · 0 bloc non parsable** (`_archive/` exclu). CU n'avait **jamais** été ventilé.
+
+### 🟢 Résultat majeur — la réponse conforme à la question de délai EXISTE DÉJÀ en production
+La Question `Qual é o tempo de chegada?` porte **29 fichiers, 1 seule variante, entièrement conforme** :
+> « Não comunicamos tempo absoluto de chegada. O que se garante é orçamento por escrito antes da deslocação. »
+
+Elle est **identique au caractère près sur EU** (51 fichiers). ➡️ Le batch de la Question `Quanto tempo demoram a chegar?` peut se traiter par **transplant verbatim** au lieu du retrait du couple Q/R : même substitution déterministe, même conformité, mais **814 entrées FAQPage conservées** au lieu d'être détruites.
+
+### 🔴 Gisement jamais inventorié — `Tempo de resposta?` : **331 fichiers**
+Réponse unique : `para emergências, 24h/7d incluindo fins de semana.` — minuscule initiale, préfixe consommé. Même signature que `min conforme zona` et `por escritoEUR`. **Cinquième gisement du repo, jamais compté.**
+
+### Chiffres corrigés par le bon prédicat (la Question, pas la valeur de réponse)
+| Question | Fichiers | Variantes |
+|---|---:|---:|
+| `Trabalham 24h/7d?` | 817 | 2 (816 conformes) |
+| `Quanto custa uma urgencia de canalizacao?` | 817 | 6 (2 conformes) |
+| `Quanto tempo demoram a chegar?` | **814** (et non 808) | 3, **toutes cassées** |
+| `Tempo de resposta?` | **331** 🆕 | 1, cassée |
+| `Atendem 24h/7d?` | 55 | 4 (3 artefactées) |
+
+### 🟢 Question tranchée pour les 2 repos
+`A altitude obriga a medidas especiais?` — **45 variantes pour 45 fichiers sur CU**, 40/40 sur EU. Le `context.md` d'EU laissait ouvert « soit du contenu légitimement localisé, soit du bruit ». **C'est du contenu légitimement localisé** (altitude + jours de gel réels par commune). **Ne pas purger. Question close sur les 2 repos.**
+
+Contrôles du prototype : `conforme zona` 1→0 · `Desde 130` 1→0 · `Suplemento 30-50` 1→0 · `65 €/h + deslocação` 0→1 · **`24h/7d` 1→1 (contrôle positif)**. **5/5 blocs JSON-LD re-parsés valides**, 0 `acceptedAnswer.text` < 20 caractères.
