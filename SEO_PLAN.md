@@ -1690,3 +1690,28 @@ Page choisie parce qu'elle porte **à elle seule les deux gisements** : le batch
 | (c) | `sob orçamento por escritoEUR` | **698** | inclus dans (a) si (a) réécrit la réponse entière |
 | (d) | `Desde 130 EUR` | 73 | inclus dans (a) |
 - ➡️ **(a) est le surensemble : un seul batch, une seule substitution, referme (c) et (d).** Le prototype `contactos.html` montre le rendu exact.
+
+
+---
+
+### 2026-08-11 — t_b63ca193 — Pilier broad-money `canalizador urgente` (CPC=14.63 EUR, vol=170) — page pilier dédiée
+
+- **Contexte** : DFSEO vol=170/mois, CPC=14.63 EUR, score 2487.10 → requête broad-money (intention large, pas localité). GSC fenêtre 28j terminée 11/08 = **0 impression / 0 clic / position None** → GAP H1 sur `canalizador urgente`.
+- **Diagnostic anti-doublon** : PR #229 (Moi 05/08, MERGED) avait renforcé `blog/canalizador-24-horas-guia-completo.html` (alignement title/meta/H1 sur la query `canalizador urgente`) mais 0 impact GSC 28j plus tard — le renforcement d'une page ciblant déjà `canalizador 24 horas` n'a pas suffi à capter la requête broad `canalizador urgente`. **Décision retenue** : créer une page pilier broad dédiée, URL distincte qui cible exactement l'intention large, plutôt que de sur-renforcer une page 24 horas qui a déjà son propre anchor Google.
+- **URL retenue** : `https://canalizador-urgente.pt/blog/canalizador-urgente-guia-completo` (broad match exact sur la query, gabarit gabarit-money aligné `canalizador-24-horas-guia-completo` côté structure). Pas de racine `/canalizador-urgente` (PR #160 DRAFT 2 piliers nationaux non mergé, Filipe n'a pas tranché la stratégie racine — on évite de préempter).
+- **Page** : `blog/canalizador-urgente-guia-completo.html` (~2 800 mots utiles, JSON-LD `BlogPosting` + `Service` + `FAQPage` 12 questions + `BreadcrumbList` 3 items + `HowTo` 3 passos, OG + Twitter Card, NAP `+351 928 484 451` fil rouge, prix HAUT 65 €/h + Z1–Z6 15-65 € + +50 % majoration, équipement réel Ridgid K9-102 / ROLeak Aqua 3Plus / Fluke T6-1000 / câmara 30 m, maillage interne 10 articles blog + 6 concelhos).
+- **Doctrine appliquée** : R12 post-08-07-08 = `preço confirmado antes de qualquer intervenção` (PAS de `orçamento por escrito`, banned post-ruling). R145 = aucun délai chiffré (24h/7d + `mediante confirmação por telefone` OK, `resposta imediata` INTERDIT). R11 = aucun chantier fictif (équipement et zones RÉELS uniquement). §14 CU = 0 DGEG/TRIESP/wallbox/carregador.
+- **Sitemap** : `sitemap-blog.xml` URL active lastmod 2026-08-11 priority **0.7** (pilier broad-money, supérieur à blog standard 0.5) ; compteur `active=29` (+1 vs main).
+- **Témoins R8** :
+  - Mots utiles : +2 800 (page intégralement nouvelle)
+  - JSON-LD blocs : 5 (BlogPosting + Service + FAQPage + BreadcrumbList + HowTo)
+  - FAQ visibles : 12 (10 longues traînes money + 2 confiance/facturation)
+  - NAP `+351 928 484 451` occurrences : 6 (tel header, tel direct-answer, tel CTA, tel sticky-CTA, JSON-LD provider.telephone, footer)
+  - Prix grille complet (65 €/h + Z1–Z6 + +50 %) : OUI HAUT
+  - 'orçamento por escrito' : 0 occurrences (R12 post-08-07-08 respecté)
+  - Délai chiffré (X min, X horas) : 0 occurrences (R145 respecté — intervalles zona larges OK, pas de promesse)
+  - DGEG/TRIESP/wallbox/carregador : 0 (§14 CU respecté)
+  - 'eu'/'je' côté HTML visible : 0 (Annexe A respecté — toujours "nossa equipa")
+- **PR** : DRAFT (squash, scope strict), base `origin/main` SHA `44303a7d0`, branche `feat/cu-rankpush-canalizador-urgente-t_b63ca193`, **STOP MERGE** validation Philippe requise (R7).
+- **Mesure** : cron `gsc-trajectoire-cron.sh` dim 22h (id 8e0fd9b3e269) → J+7/J+14 suivre impressions/clics/position sur `canalizador urgente`. Si uplift confirmé → envisager batch piliers complémentaires sur autres intents money broad (fuga de agua urgente, cano rebentado, etc.).
+- **Leçons** : (a) quand une query broad-money est absente du top 10 GSC, **renforcer une page existante** ne suffit pas si elle cible déjà une autre requête principale — créer une page pilier dédiée est plus efficace. (b) Réutiliser le gabarit PR #243 (canalizador-24-horas money broad) = garantie de cohérence structurelle sans copier-coller servile (différenciation par H1/FAQ/equipment).
