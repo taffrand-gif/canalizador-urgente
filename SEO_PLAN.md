@@ -66,7 +66,7 @@
 ## 🏆 STRATÉGIE MONOPOLE SERP/GEO → voir `~/work/Sites/MONOPOLE_SEO_2026Q3.md`
 
 > Plan maître cross-sites (établi 30/06/2026). Objectif: occuper **plusieurs surfaces d'un seul résultat** par requête (Local Pack + 2 domaines organic + AI Overview + PAA + image pack + étoiles).
-> Rôle de ce site (urgence plomberie) = **2e slot organique** sur "canalizador <ville>" via intent distinct. Prérequis: refonte Transparence Radicale (🔴 ~25k violations héritées) avant d'être un slot efficace.
+> Rôle de ce site (urgence plomberie) = **2e slot organique** sur "canalizador <ville>" via intent distinct. Prérequis refonte Transparence Radicale = **quasi ✅ FAIT** au 2026-08-17 (A1 homepage + A2 services × district + A3 570 services + A4 1827 villes + P0 70→65 €/h ×1476 = ~3 900 fichiers doctrine-conformes) ; gisements résiduels = traces R145 `mediante confirmação` + stale 🔴 items §ÉTAT lignes 104-108 (audit Kanban `t_bb4ef8ea` 2026-08-17).
 > Priorités globales: **P0** purge/trust + différenciation → **P1** double organic (GBP exclu) → **P2** GEO → **P3** qualité pSEO → **P4** SERP features.
 > ⚠️ Risques: doorway/PBN (intent urgence≠installation obligatoire), scaled-content (signal local unique/page). Véracité R11/R12 prime.
 
@@ -1609,3 +1609,19 @@ Réponse unique : `para emergências, 24h/7d incluindo fins de semana.` — minu
 `A altitude obriga a medidas especiais?` — **45 variantes pour 45 fichiers sur CU**, 40/40 sur EU. Le `context.md` d'EU laissait ouvert « soit du contenu légitimement localisé, soit du bruit ». **C'est du contenu légitimement localisé** (altitude + jours de gel réels par commune). **Ne pas purger. Question close sur les 2 repos.**
 
 Contrôles du prototype : `conforme zona` 1→0 · `Desde 130` 1→0 · `Suplemento 30-50` 1→0 · `65 €/h + deslocação` 0→1 · **`24h/7d` 1→1 (contrôle positif)**. **5/5 blocs JSON-LD re-parsés valides**, 0 `acceptedAnswer.text` < 20 caractères.
+
+## 🆕 Revalidation 2026-08-17 (t_33a93e6c) — ligne 103 « Homepage squelettique » : NO-OP légitime
+
+| Date | Agent | Tâche | Action | Justification | Résultat | Statut |
+|---|---|---|---|---|---|---|
+| 2026-08-17 | claude-minimax-m3 | revalidation ligne 103 | Recompte live `index.html` vs critères Doctrine §12 | Brief t_33a93e6c demande de trancher « Homepage squelettique 16-39 éléments » | Recompte AVANT-PR #45 (28/06/2026) : 16-39 éléments ✅ exact ; APRÈS-PR #45 + #152/#153/#217 mergées : **194 éléments HTML** dans `index.html` (421 lignes), tous les critères Doctrine §12 satisfaits — grille 65 €/h + Z1–Z6 + « fala sempre com a mesma pessoa, sem call center » (l.285) + 5 outils réels (Ridgid K9-102, ROLeak Aqua 3Plus, FLIR E96 + Fluke T6-1000 + caméra 30m) + Schema.org FAQPage (l.27) + 6 zones Z1–Z6 (Bragança, Mirandela, Macedo, Mogadouro, Chaves, Vila Real) + NAP 928 484 451 + artisan local identifiable. Témoin `public/index.html` synchronisé (B2 PR #67 MERGED 01/07/2026 — squash `4144f002a`). | ✅ **Chantier déjà FAIT** (NO-OP légitime, R7 STOP + R11 ZÉRO INVENTION). Aucune PR ouverte. |
+
+### Constat technique
+
+- La mesure « 16-39 éléments » date du **2026-06-28** (cf. HISTORIQUE ligne 252) — **avant** la refonte A1 Doctrine §12 du 2026-06-29 (commit `380c1667c`, merge squash `133166359` PR #45).
+- Aucune action modifiante requise.
+- Statut ligne 103 du diagnostic initial « Faiblesses SEO/GEO CRITIQUES » : **reste 🔴 mais déjà résolu de fait** — la ligne est obsolète, à requalifier en ✅ FAIT dans une prochaine passe CEO (ou laisser en l'état tant que le bloc A1 n'est pas re-publié en méta-status).
+
+### Leçon acquise
+
+- **#kanban-stale-homepage-count-2026-08-17-01** : les lignes « 🔴 » d'un diagnostic datent d'un instant T ; sans revalidation chiffrée à chaque exécution, un agent peut croire le chantier ouvert alors qu'il a été fermé depuis longtemps. Réflexe : recompter les claims avant d'agir (R11 + leçon #447).
