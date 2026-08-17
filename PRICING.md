@@ -37,6 +37,26 @@ Esta regra é publicada **antes** de qualquer intervenção, em todas as página
 - Hors grille / cas variable (ex : installation, wallbox N/A) : **"sob orçamento"**, jamais une fourchette inventée.
 - Bloc Transparence prix placé HAUT de page (grille + majoration + phrase orçamento).
 
+## Règle de communication (doctrine) — V2 2026-08-11
+
+Quatre engagements à publier (Filipe, 11/08) :
+
+1. **Estimativa sem custo por telefone ou WhatsApp quando fotos/vídeo permitem chiffrer**.
+2. **Orcamento por escrito antes de qualquer intervencao**.
+3. **A deslocacao tem preco tabelado por zona (Z1-Z6)** — voir tableau ci-dessus.
+4. **Confirmamos sempre consigo o trabalho e o preco antes de faturar seja o que for**.
+
+### Formulation bannie (R-canon-2026-08-11)
+
+- ❌ **JAMAIS** « orçamento gratuito » : la deslocacao est facturée, ce qui crée une fausse promesse.
+- ❌ **JAMAIS** « visita gratuita » : la visite technique est couplée à la deslocacao facturée.
+- ❌ **JAMAIS** « deslocacao gratuita » : la deslocacao a un prix tabelado par zone (Z1-Z6).
+- ✅ La formulation correcte met l'accent sur **estimativa sem custo** (pas de frais pour chiffrer par téléphone/WhatsApp si photos/vidéo permettent) et sur l'**engagement écrit avant intervention**.
+
+### Hors grille / cas variable
+
+- Cas variable (ex : installation, wallbox, certificação DGEG) : **"sob orçamento"**, jamais une fourchette inventée.
+- Bloc Transparence prix placé HAUT de page (grille + majoration + 4 engagements ci-dessus).
 ## NAP (public, jamais masquer)
 - Canal : `+351 928 484 451` · Élec : `+351 932 321 892`.
 - Machine : schema.telephone = E.164 `+351928484451` (canal) / `+351932321892` (élec) ; href = `tel:+351928484451` / `tel:+351932321892`. **JAMAIS** de masque `****` (invalide E.164 — Leçon #351).
