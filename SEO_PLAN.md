@@ -1643,3 +1643,50 @@ Contrôles du prototype : `conforme zona` 1→0 · `Desde 130` 1→0 · `Supleme
 ### Leçon acquise
 
 - **#kanban-stale-price-grid-2026-08-17-02** : confirmer la présence d'un **livrable structuré** (grille 65 €/h + Z1–Z6 + +50% + phrase obligatoire) exige **plus qu'un grep sur le pattern isolé** : recompte complet des éléments du §12.1 dans **les 2 témoins** (root + public/). Le grep `65 €` sur l'index.html a déjà 4 occurrences (l.17 meta-description, l.27 FAQPage JSON-LD, l.256 prix, l.361 FAQ) — il prouve la présence du **motif**, pas la conformité de la **grille** (qui exige 6 zone-card distincts). Toujours rejouer les témoins Doctrine §12 entiers avant de conclure un NO-OP.
+
+### 2026-08-13 — R11/R4 : prototype sur `contactos.html` + ventilation corrigée des gisements (loop Cowork)
+- **Contexte** : aucun GO batch reçu. Tâche n°2 du `context.md` du 12/08 (« sans GO : re-vérifier que les PR mergées ont bien clos leur gisement ») **exécutée**, puis prototype sur une page, patron des PR #268 / #277 (EU) et #240 (CU, mergée).
+
+#### 🔴 Ce que le recompte a trouvé — la cible du batch prix était **fausse d'un facteur 11**
+Recompte par parsing des `acceptedAnswer.text` de la Question `« Quanto custa uma urgencia de canalizacao? »`, `_archive/` exclu :
+
+| Variante de réponse en production | Fichiers | Verdict |
+|---|---:|---|
+| `sob orçamento por escritoEUR (1h) com deslocacao incluida. Suplemento 30-50% fora de horas.` | **698** | 🔴 **artefact de purge non documenté** |
+| `Desde 130 EUR (1h) com deslocacao incluida. Suplemento 30-50% fora de horas.` | 64 | prix inventé, jamais purgé |
+| `Sob orçamento por escrito. 65€/h + deslocação Z1-Z6 (15-65€). Suplemento 30-50% fora de horas..` | 52 | majoration inventée + double point |
+| `65 €/h + deslocação (Z1: 15€ a Z6: 65€). Mínimo 1h. Acréscimo +50% fora de horas úteis.` | 1 | ✅ **conforme — source de vérité** |
+| `Desde 130 EUR com deslocação incluída. Suplemento 30-50% fora de horas.` | 1 | prix inventé |
+| `Orçamento prévio gratuito por telefone…` | 1 | « gratuito » banni (doctrine 11/08) |
+
+- 🔴 **`sob orçamento por escritoEUR` — 698 fichiers.** Une purge a bien remplacé `Desde 130` par `sob orçamento por escrito`, mais **sans consommer le `EUR` qui suivait**, produisant `por escritoEUR (1h)`. **Le batch prix a donc DÉJÀ été lancé, partiellement, et il a créé un gisement 9,5× plus grand que celui qu'il corrigeait.** Aucune trace dans `context.md` ni dans `scripts/`.
+- 🔴 **La vraie cible n'est ni 73 ni 698, c'est `Suplemento 30-50%` — 815 occurrences / 815 fichiers.** `PRICING.md` verrouille **+50 % ferme** (nuit / week-end / feriado) : la fourchette « 30-50 % » est **inventée sur les 815**, quelle que soit la variante de prix qui la précède. C'est le **surensemble** qui contient les 3 défauts, et il n'avait jamais été mesuré.
+- **Contrôles positifs** : `65 €/h` = 5 441 occ / 2 119 fichiers · `deslocação` = 19 334 occ / 2 335 fichiers.
+
+#### Correction d'une conclusion du 12/08 — ` conforme zona` dans le corps de page
+Le `context.md` du 12/08 concluait que les 21 fichiers portant ` conforme zona` **hors JSON-LD** l'avaient « dans une phrase légitime et grammaticale ». **Vérifié fichier par fichier sur `origin/main` : vrai pour 20 sur 21.** L'exception unique est **`contactos.html`** — et c'est la page la plus à enjeu du lot (racine, money page) :
+
+  - `« ... envie-nos um email. Resposta em conforme zona úteis. »`
+  - `« ... mediante confirmação por telefone (média ). Por email: conforme zona úteis. »`
+
+➡️ **Apprentissage : un échantillonnage à 95 % de justesse peut manquer exactement la page qui compte.** Le contrôle doit être exhaustif par fichier, pas statistique.
+
+#### Prototype — `contactos.html` (2 commits, 1 fichier)
+Page choisie parce qu'elle porte **à elle seule les deux gisements** : le batch prix ET le batch FAQ se jugent sur un seul diff.
+
+1. **Q « Quanto custa uma urgencia de canalizacao? »** — `Desde 130 EUR (1h) … Suplemento 30-50%` → **transplant verbatim** de la réponse déjà en production sur `calculadora-de-preco.html` (même repo, même Question) : `65 €/h + deslocação (Z1: 15€ a Z6: 65€). Mínimo 1h. Acréscimo +50% fora de horas úteis.` **R4 : le « 130 » n'est pas un prix** — `PRICING.md` en fait le **rayon ROUTE maximal (~130 km)** depuis Macedo de Cavaleiros.
+2. **Q « Quanto tempo demoram a chegar? »** — réponse `" conforme zona"` (14 caractères, ni sujet ni verbe) → **retrait du couple Q/R**, la question portant sur un délai (patron validé par le merge de la **PR #200**, EU).
+3. **Corps de page** — retrait des 2 fragments cassés ci-dessus. **Aucun délai reconstruit** : « 24 horas » n'est plus sourçable, le reconstruire violerait R4. Les phrases restantes sont grammaticales et complètes.
+- **Témoins R8 sur `contactos.html` (avant → après)** : `Desde 130` **1 → 0** · `Suplemento 30-50%` **1 → 0** · ` conforme zona` **3 → 0** · `Quanto tempo demoram a chegar` **1 → 0** · `(média )` **1 → 0** · `65 €/h` **0 → 1** · `24h/7d` **7 → 7** (contrôle positif — **R145 autorise 24h/7d sur ce repo**, rien n'a été sur-purgé).
+- **Contrôle post-purge obligatoire** : **4/4 blocs JSON-LD re-parsés valides**, 2 questions, **0 `acceptedAnswer.text` < 20 caractères**.
+- **Conformité** : R4, R6, R7 (aucun merge), R8, R145, R-WT (worktree), commit atomique.
+- **Statut** : ✅ Fait — PR ouverte, en attente de GO/merge Philippe (R7).
+
+#### 🛑 Décisions requises — chiffres corrigés
+| # | Cible | Fichiers | Traitement proposé |
+|---|---|---:|---|
+| (a) | `Suplemento 30-50%` → `Acréscimo +50% fora de horas úteis` | **815** | substitution déterministe, motif unique |
+| (b) | `acceptedAnswer.text` == `conforme zona` (JSON-LD) | 808 | retrait du couple Q/R |
+| (c) | `sob orçamento por escritoEUR` | **698** | inclus dans (a) si (a) réécrit la réponse entière |
+| (d) | `Desde 130 EUR` | 73 | inclus dans (a) |
+- ➡️ **(a) est le surensemble : un seul batch, une seule substitution, referme (c) et (d).** Le prototype `contactos.html` montre le rendu exact.
