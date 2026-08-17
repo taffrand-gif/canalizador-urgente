@@ -1715,3 +1715,5 @@ Page choisie parce qu'elle porte **à elle seule les deux gisements** : le batch
 - **PR** : DRAFT (squash, scope strict), base `origin/main` SHA `44303a7d0`, branche `feat/cu-rankpush-canalizador-urgente-t_b63ca193`, **STOP MERGE** validation Philippe requise (R7).
 - **Mesure** : cron `gsc-trajectoire-cron.sh` dim 22h (id 8e0fd9b3e269) → J+7/J+14 suivre impressions/clics/position sur `canalizador urgente`. Si uplift confirmé → envisager batch piliers complémentaires sur autres intents money broad (fuga de agua urgente, cano rebentado, etc.).
 - **Leçons** : (a) quand une query broad-money est absente du top 10 GSC, **renforcer une page existante** ne suffit pas si elle cible déjà une autre requête principale — créer une page pilier dédiée est plus efficace. (b) Réutiliser le gabarit PR #243 (canalizador-24-horas money broad) = garantie de cohérence structurelle sans copier-coller servile (différenciation par H1/FAQ/equipment).
+
+- ➡️ **(a) est le surensemble : un seul batch, une seule substitution, referme (c) et (d).** Le prototype `contactos.html` montre le rendu exact.
