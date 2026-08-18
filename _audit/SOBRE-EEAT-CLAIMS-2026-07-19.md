@@ -33,4 +33,4 @@ Source unique contrôlée : `AGENTS.md` du repo.
 
 ## Interprétation « mediante confirmação »
 
-`AGENTS.md:125` et `AGENTS.md:166` autorisent `24h/7 dias` mais interdisent la promesse « resposta mediante confirmação por telefone ». La page n'emploie donc pas cette promesse. Elle indique seulement la disponibilité 24h/7 et invite le client à confirmer la disponibilité et la zone, sans délai de réponse ni délai d'arrivée.
+`AGENTS.md:125` et `AGENTS.md:166` autorisent `24h/7 dias` mais interdisent la promesse « resposta ». La page n'emploie donc pas cette promesse. Elle indique seulement la disponibilité 24h/7 et invite le client à confirmer la disponibilité et la zone, sans délai de réponse ni délai d'arrivée.

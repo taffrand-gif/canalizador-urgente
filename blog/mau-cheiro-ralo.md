@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **Mau cheiro a esgoto vindo do ralo da cozinha ou casa de banho?** Este é um problema comum mas muito desagradável que geralmente tem solução simples. Neste guia completo, vou mostrar-lhe **as 5 causas principais** de mau cheiro nos ralos e **soluções eficazes** para eliminar.
 
-> ⚠️ **Cheiro persistente ou muito forte?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Diagnóstico e solução definitiva Atendemos 24h/7 dias, mediante confirmação por telefone.
+> ⚠️ **Cheiro persistente ou muito forte?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Diagnóstico e solução definitiva Atendemos 24h/7 dias.
 
 ## 🔍 Por Que os Ralos Cheiram Mal?
 
@@ -432,7 +432,7 @@ Mau cheiro no ralo tem **causas identificáveis e soluções eficazes**:
 📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20tenho%20mau%20cheiro%20nos%20ralos.%20Pode%20ajudar%3F)**
 
-✅ Diagnóstico preciso Atendemos 24h/7 dias, mediante confirmação por telefone 
+✅ Diagnóstico preciso Atendemos 24h/7 dias 
 ✅ Solução definitiva (não provisória) 
 ✅ Limpeza profunda de sifões e tubagem 
 ✅ Instalação de ventilação se necessário 

@@ -4,14 +4,14 @@ slug: "torneira-goteja-arranjar"
 category: "Arranjos DIY"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Torneira que goteja desperdiça 20.000L/ano (€100-200). Aprenda a arranjar Atendemos 24h/7 dias, mediante confirmação por telefone trocando anilha ou cartucho. Guia completo DIY para Trás-os-Montes."
+excerpt: "Torneira que goteja desperdiça 20.000L/ano (€100-200). Aprenda a arranjar Atendemos 24h/7 dias trocando anilha ou cartucho. Guia completo DIY para Trás-os-Montes."
 keywords: "torneira goteja, torneira pinga, arranjar torneira, trocar anilha, cartucho torneira, picheleiro braganca"
 priority: "HIGH DEMAND"
 ---
 
 # Torneira Goteja: Como Arranjar Atendimento 24h/7d (2026)
 
-**Torneira que goteja desperdiça 20.000 litros/ano - €100-200 pelo cano abaixo!** Em Trás-os-Montes, 55% das casas têm pelo menos 1 torneira a pingar. Neste guia completo, vou mostrar-lhe como arranjar Atendemos 24h/7 dias, mediante confirmação por telefone trocando anilha (€2) ou cartucho (€15-40), poupando €40-80 em picheleiro.
+**Torneira que goteja desperdiça 20.000 litros/ano - €100-200 pelo cano abaixo!** Em Trás-os-Montes, 55% das casas têm pelo menos 1 torneira a pingar. Neste guia completo, vou mostrar-lhe como arranjar Atendemos 24h/7 dias trocando anilha (€2) ou cartucho (€15-40), poupando €40-80 em picheleiro.
 
 ## Quanto Desperdiça Uma Torneira Que Goteja?
 

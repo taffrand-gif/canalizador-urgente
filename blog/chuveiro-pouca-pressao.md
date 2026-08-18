@@ -461,7 +461,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Chuveiro%20pouca%20pressão)**
 
-**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Diagnóstico + solução eficaz.**
+**Atendemos 24h/7 dias garantida. Diagnóstico + solução eficaz.**
 
 ---
 

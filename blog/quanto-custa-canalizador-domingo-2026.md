@@ -215,9 +215,9 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 
 **Ligue agora: 928 484 451**
 
-✅ Atendemos 24h/7 dias, mediante confirmação por telefone Atendemos 24h/7d
+✅ Atendemos 24h/7 dias Atendemos 24h/7d
 ✅ Orçamento gratuito por telefone
-✅ Atendemos 24h/7 dias, mediante confirmação por telefone garantida-90 minutos
+✅ Atendemos 24h/7 dias garantida-90 minutos
 ✅ Preços transparentes sem surpresas
 ✅ Garantia 12 meses
 

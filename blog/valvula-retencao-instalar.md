@@ -164,7 +164,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 
 **Vantagens:**
 - ✅ Instalação em qualquer posição (horizontal, vertical)
-- ✅ Atendemos 24h/7 dias, mediante confirmação por telefone
+- ✅ Atendemos 24h/7 dias
 - ✅ Compacta
 - ✅ Boa para pressões médias/altas
 

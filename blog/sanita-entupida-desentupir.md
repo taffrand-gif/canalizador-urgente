@@ -4,7 +4,7 @@ slug: "sanita-entupida-desentupir"
 category: "Arranjos Urgentes"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Sanita entupida? Descubra 5 métodos eficazes para desentupir Atendemos 24h/7 dias, mediante confirmação por telefone. Guia completo com técnicas profissionais e quando chamar picheleiro em Trás-os-Montes."
+excerpt: "Sanita entupida? Descubra 5 métodos eficazes para desentupir Atendemos 24h/7 dias. Guia completo com técnicas profissionais e quando chamar picheleiro em Trás-os-Montes."
 keywords: "sanita entupida, desentupir sanita, sanita entope, ventosa sanita, picheleiro bragança, canalizador urgente"
 priority: "CRITICAL"
 ---

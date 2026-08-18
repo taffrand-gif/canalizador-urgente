@@ -414,7 +414,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Esquentador%20vs%20termoacumulador)**
 
-**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Recomendação personalizada + orçamento.**
+**Atendemos 24h/7 dias garantida. Recomendação personalizada + orçamento.**
 
 ---
 

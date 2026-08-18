@@ -26,6 +26,6 @@ A prevenção passa por: não sobrecarregar tomadas com adaptadores múltiplos, 
 
 ---
 
-**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendemos 24h/7 dias, mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
+**Norte Reparos** — Eletricista profissional no distrito de Bragança. Atendemos 24h/7 dias, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 932 321 892**
 
-Se precisa de um eletricista em curto circuito, ligue já. Atendemos 24h/7 dias, mediante confirmação por telefone garantida.
+Se precisa de um eletricista em curto circuito, ligue já. Atendemos 24h/7 dias garantida.

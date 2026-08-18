@@ -430,7 +430,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Contador%20água%20disparado)**
 
-**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Câmara térmica disponível. Chegada conforme zona.**
+**Atendemos 24h/7 dias garantida. Câmara térmica disponível. Chegada conforme zona.**
 
 ---
 
