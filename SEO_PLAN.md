@@ -1715,3 +1715,33 @@ Page choisie parce qu'elle porte **à elle seule les deux gisements** : le batch
 - **PR** : DRAFT (squash, scope strict), base `origin/main` SHA `44303a7d0`, branche `feat/cu-rankpush-canalizador-urgente-t_b63ca193`, **STOP MERGE** validation Philippe requise (R7).
 - **Mesure** : cron `gsc-trajectoire-cron.sh` dim 22h (id 8e0fd9b3e269) → J+7/J+14 suivre impressions/clics/position sur `canalizador urgente`. Si uplift confirmé → envisager batch piliers complémentaires sur autres intents money broad (fuga de agua urgente, cano rebentado, etc.).
 - **Leçons** : (a) quand une query broad-money est absente du top 10 GSC, **renforcer une page existante** ne suffit pas si elle cible déjà une autre requête principale — créer une page pilier dédiée est plus efficace. (b) Réutiliser le gabarit PR #243 (canalizador-24-horas money broad) = garantie de cohérence structurelle sans copier-coller servile (différenciation par H1/FAQ/equipment).
+---
+
+## Run loop 2026-08-19 — CU · ventilation exhaustive du `FAQPage` + `zonas-deslocacao.html`
+
+- **Statut** : ✅ Fait — branche `loop/2026-08-19-cu-ventilation`
+- **Origine** : `context.md` du 14/08, tâches n°3 (« ventiler par parsing TOUTES les Questions du `FAQPage` de CU — **CU n'a jamais été ventilé** ») et n°5 (signature `<td>` contenant `&lt; ` + >40 car).
+
+### Ventilation — 2 454 fichiers HTML, 6 960 blocs `ld+json`, **5 JSON invalides**, **1 164 Questions distinctes**
+`_archive/` exclu. Les 4 gisements déjà connus sont confirmés à l'unité près. **Trois nouveaux, jamais inventoriés :**
+
+| Question | Fichiers | Variantes | Verdict |
+|---|---:|---:|---|
+| `Tempo de resposta?` | **331** | 1 | 🔴 **NOUVEAU** — réponse `« para emergências, 24h/7d incluindo fins de semana. »` : commence par `para` en minuscule, **le délai qui la précédait a été mangé par une purge**. Question de délai → patron validé = retrait du couple Q/R |
+| `Garantia e fatura?` | **332** | 1 | 🔴 **NOUVEAU** — `« Sim, 2 anos garantia e fatura com NIF »`. Engagement de garantie chiffré, **et contradiction interne** : `Oferecem garantia?` (47 fichiers) répond `« garantia escrita … conforme orçamento »`, sans durée |
+| `Fazem orçamento sem compromisso?` | **38** | 1 | 🔴 **NOUVEAU** — `« o orçamento escrito é gratuito »`. **`PRICING.md` L51 interdit littéralement « orçamento gratuito »** (la deslocação est facturée) |
+| `Quanto custa uma urgencia de canalizacao?` | 817 | 5 | connu — `por escritoEUR` **698** · `Desde 130 EUR` **62** · variante double-point **52** · ✅ conforme **4** · `gratuito` **1** |
+| `Quanto tempo demoram a chegar?` | 813 | 3 | connu — `conforme zona` **807** |
+| `Trabalham 24h/7d?` | 817 | 2 | ✅ conforme (R145 autorise `24h/7d`) |
+| `A altitude obriga a medidas especiais?` | 45 | **45** | ✅ **question tranchée** — contenu **légitimement localisé** (altitude réelle + jours de gel par commune), **pas du bruit**. Répond à la question laissée ouverte dans le `context.md` d'EU |
+| `Quanto custa a deslocação?` | 56 | 16 | ⚠️ 14 variantes cohérentes Z1-Z6 ; **2 hybrides** (`Z3: 35 € e 65 €/h de mão de obra`) à uniformiser |
+
+➡️ **Le gisement `Tempo de resposta?` (331) portait exactement le même défaut que `Quanto tempo demoram a chegar?` (813) et personne ne l'avait vu**, parce que tous les comptages passés partaient de la **valeur de réponse** (`conforme zona`) et non de la **famille de question**. La leçon « le prédicat est la Question » se généralise : **le prédicat est le SUJET de la question (le délai), pas son libellé.**
+
+### Production — `zonas-deslocacao.html`
+La signature `<td>` + `&lt; ` + >40 caractères, écrite au run du 14/08, a été passée sur les **2 454 fichiers** : **3 hits, tous dans ce seul fichier**, aucun ailleurs. Défaut identique à `calculadora-de-preco.html` (PR #261).
+- Colonne `Tempo de Chegada` : 3 cellules sur 6 = un paragraphe de CTA entier écrasé dans une cellule de délai, préfixé d'un `&lt;` orphelin ; 2 vides ; 1 hors-sujet (`Sob marcação`). **Colonne retirée** — aucun délai par zone n'est sourçable dans `PRICING.md`, R145 interdit le délai chiffré.
+- `Orçamento: gratuito` → `por escrito` (`PRICING.md` L51).
+- 2 `<li>` retirés : parenthèse orpheline (`técnicos com experiência ( para eletricidade`) et doublon `X: X` portant deux fois `em poucos minutos`.
+- **Témoins R8** : `Tempo de Chegada` **1→0** · `poucos minutos` **5→0** · `garantimos atenção` **5→0** · `&lt;` **3→0** · `Sob marcação` **1→0** · `gratuito` **1→0** · `15€`/`65€` **4→4** (contrôle positif). **4/4 blocs JSON-LD valides**, table **6 × 3**.
+- Fichier **sans jumelle `public/`** → n'entre pas dans le blocage n°5. **Aucune PR ouverte ne le touche** (#264, #243 vérifiées).
