@@ -39,7 +39,7 @@ GRILLE_PRECOS = OrderedDict([(1, 15), (2, 25), (3, 35), (4, 45), (5, 55), (6, 65
 TARIF_HORA = 65
 MAJORACAO = "+50% noite (20h-8h) / domingo / feriado"
 TELEFONE_PUBLIC = "928 484 451"
-TELEFONE_E164 = "+351****4451"
+TELEFONE_E164 = "+351928484451"
 
 # Fallback centroïde district pour lat/lon si non trouvé
 DISTRICT_COORDS = {
