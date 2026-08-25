@@ -3,104 +3,109 @@
 > Écrit par le loop Cowork après chaque run. NE PAS ÉDITER MANUELLEMENT.
 
 ## Dernier run
-- Date : 2026-08-24
-- Tâche prévue : rang 3 — le sweep `LECONS.md` passé en **étape fixe**.
-- Tâche réellement exécutée : **la tâche prévue**. Elle a sorti un défaut qu'aucun contrôle du loop ne pouvait voir.
+- Date : 2026-08-25
+- Tâche prévue : **rang 3 — les meta descriptions à phrase dupliquée**. ✅ **Exécutée** (11 pages, et non 10).
+- Tâche additionnelle : **vérifier l'hypothèse des « pages en double par accent »** posée le 24/08. ✅ **Hypothèse CONFIRMÉE, et bien plus grosse que la tâche prévue.**
 - **1 PR ouverte** :
-  - **#274** — https://github.com/taffrand-gif/canalizador-urgente/pull/274 — branche `loop/2026-08-24-cu-sweep` — 12 commits, **11 fichiers de production** + `SEO_PLAN.md`
-- ✅ **#273 a mergé** (le prologue de `contactos.html` est en production).
+  - **#275** — https://github.com/taffrand-gif/canalizador-urgente/pull/275 — branche `loop/2026-08-25-cu-meta-dupliquee` — 12 commits, **11 fichiers de production** + `SEO_PLAN.md`
+- État de #274 (run du 24/08) : **toujours ouverte**. 5 PR ouvertes, inchangé depuis le 24/08.
 
-### 1. 🔴 Du JSON parfaitement valide qui n'émet AUCUNE donnée structurée
-27 propriétés `"type"` au lieu de `"@type"` dans les blocs `ld+json` de **11 pages** — `Answer` ×22, `Organization` ×5.
+### 1. ⚠️ Le premier prédicat a rendu 0, et le 0 était faux
+Le prédicat initial découpait la description en **phrases** et cherchait deux phrases égales → **0 sur 2453 pages**. Or le segment répété est un **sous-segment** : la première occurrence porte un préfixe (`…45€ deslocação, `) ou vit **entre parenthèses** (`carrazeda`). Aucune phrase n'est strictement égale à une autre.
 
-Ces blocs **passent `json.loads`**. C'est exactement pourquoi ni le compteur de conformité, ni le balayage structurel du 23/08 ne les voyaient : **les deux ne testaient que la validité JSON.** `schema.org`, lui, exige `@type` — une propriété `type` nue n'est pas reconnue, donc **les réponses de FAQ et les éditeurs de ces 11 pages n'étaient pas rattachés au graphe**.
+Le 0 a été confronté au contenu réel d'une page nommée par le run du 24/08 → défaut du prédicat exposé en une commande. **Prédicat correct : le plus long SOUS-SEGMENT répété, pas la phrase répétée.**
 
-🔴 **Validité JSON ≠ validité schema.org. Le loop n'avait que le premier contrôle.**
+**11 pages** (et non 10 — `canalizador-urgente-carrazeda-de-ansiães.html` manquait à la liste du 24/08). 3 formes distinctes. **Correction = suppression pure de la seconde occurrence**, aucun mot ajouté. **Témoin : 11 → 0 sur 2453 pages.**
 
-**Témoin d'unanimité** : avant patch, **toutes** les autres occurrences du dépôt écrivaient déjà `"@type"`. Après patch : `"type"` nu = **0 sur tout le dépôt**.
+### 2. 🔴 VERDICT — pages en double par accent : confirmé, et c'est le plus gros défaut d'indexation du repo
 
-### 2. 🔴 Cinq noms de Question de FAQ corrompus, servis aux crawlers
-`Atendem Atendimento — ligue 928 484 451/7d?` (×3) et `Atendem Atendemos 24h/7d?` (×2) : **un numéro de téléphone injecté au milieu d'un intitulé de question**, artefact d'une purge automatisée antérieure.
+| Mesure | Valeur |
+|---|---|
+| Paires de chemins identiques **à l'accent près** | **179** |
+| Paires byte-identiques | **0** — tous les md5 diffèrent |
+| Paires avec **un seul** jumeau en `noindex,follow` (dedup correcte) | 172 |
+| Paires avec **LES DEUX** jumeaux en `noindex` | **7** |
+| Pages `noindex` issues de ces paires | **186** |
+| **…dont présentes dans un sitemap** | **186 / 186** |
 
-Restaurés depuis le **jumeau intact du même fichier** : chacun de ces 5 fichiers porte un **premier** bloc `FAQPage`, **deux lignes plus haut**, avec `Atendem 24h/7d?`. Donneur à distance de deux lignes → zéro invention.
+Aucune paire n'étant byte-identique, **la méthode de retrait mécanique EU #314 (md5 par bloc) ne s'applique pas.**
 
-### 3. Le prédicat brut avait 60 % de faux positifs
-« Nom de nœud contenant un numéro de téléphone » sortait **10 fichiers**. **Six étaient des noms d'étapes `HowToStep`** (`Ligue 928 484 451 e descreva os sintomas`, `Ligue 928 484 451 em segurança`, `Documentar com foto e ligar 928 484 451`), où le numéro est légitime.
+🔴 **Sept CONCELHOS n'ont aucune page indexable** (les deux jumeaux en `noindex`) : **Alijó · Carrazeda de Ansiães · Freixo de Espada à Cinta · Freixo de Numão · Mouçós · São João da Pesqueira · Tabuaço**. Ce sont des concelhos, pas des hameaux.
 
-➡️ **Un numéro dans un `name` n'est une anomalie que si le `name` est celui d'une `Question`.** La requalification en lecture a divisé le périmètre par 2,5.
+🔴 **Les 186 pages `noindex` sont listées dans les 4 sitemaps** (`sitemap.xml`, `sitemap-villages.xml`, `public/sitemap.xml`, `public/sitemap-villages.xml` ; `sitemap-villages.xml` = 1998 `<loc>` dont **180 accentuées**). C'est le signal **« Submitted URL marked 'noindex' »** de la Search Console : le sitemap demande l'indexation de pages qui la refusent.
 
 ## ✅ Gate merge — aucun gate actif
-Vérifié ce run : **aucune mention d'attente de merge**. Aucun gate réécrit. 5 PR étaient ouvertes ; la #274 a été ouverte quand même.
+Vérifié ce run : **aucune mention d'attente de merge**. Aucun gate réécrit. 5 PR étaient ouvertes ; la #275 a été ouverte quand même.
 
 🔴 **Rappel de doctrine, à ne jamais réécrire** : R7 interdit de **MERGER**, pas de **PRODUIRE**. Entre le 06/08 et le 09/08, « Attente GO merge (R7) » a été relue chaque nuit comme un ordre d'arrêt → **4 runs sans production**. **Ne jamais réécrire un gate de ce type.**
 
-## 🎯 FILE DE TÂCHES LOOP — état au 2026-08-24
+## 🎯 FILE DE TÂCHES LOOP — état au 2026-08-25
 
 | Rang | Cible | Statut |
 |---|---|---|
-| — | 27 `"type"` → `"@type"` + 5 noms de Question restaurés (11 pages) | ✅ **traité ce run (#274)** |
-| **1** | 🔴 **Ordre de merge #268 / #269** | 🛑 **ARBITRAGE — risque de régression.** La **#268 est toujours ouverte et réécrit la ligne 26 de `blog/canalizador-urgente-guia-completo.html` en y CONSERVANT le `***`**. La **#269** corrige les 5 blocs `@context` masqués du même fichier. **Si #268 merge après #269, la corruption revient en production.** Signalé pour la 2ᵉ fois (déjà le 20/08). **Merger #268 d'abord, ou la rebaser.** |
-| **2** | 🔴 **`contactos.html` — `Z1 (0-30 km): . Z2 (31-50 km): . Z3 (51-90 km): . Z4 (91-130 km): .`** | ⏸ **des valeurs de délai purgées ont laissé des deux-points suivis d'un point, servis en clair au visiteur** sur une money page. Le **retrait de la phrase** est possible sans invention (R4/R145 interdisent d'y écrire un délai) — mais la zone est **prise par la PR #264**. **Dès #264 mergée.** |
-| **3** | **10 pages à meta description dont une phrase entière est répétée deux fois** | ⏳ **aucun GO, petit périmètre, surface SERP.** `canalizador-travancas` · `canalizador-grijo-de-parada` · `canalizador-urgente-castelaos` · `canalizador-urgente-castelãos` · `canalizador-urgente-cortiços` · `canalizador-urgente-açoreira` · `canalizador-urgente-acoreira` · `public/canalizador-urgente-podence` · `public/canalizador-urgente-corticos` · `distritos/braganca`. **Prédicat : phrase de plus de 25 caractères présente 2 fois dans la même `<meta name="description">`.** ⚠️ Le doublon de `castelaos`/`castelãos` et `acoreira`/`açoreira` suggère aussi un **problème de pages en double par accent** — à vérifier. |
-| **4** | **`garantimos atenção após contacto telefónico` — 20 occ / 9 fichiers de production, dont 6 en META DESCRIPTION** | ⏳ **aucun GO.** R145/R11 : promesse de garantie. Le run du 14/08 en a déjà retiré une sur `zona-intervencao.html` **par transplant verbatim** d'une réponse conforme du même repo — le patron existe. ⚠️ **La moitié des occurrences sont en meta description : surface SERP, pas seulement JSON-LD.** |
-| **5** | 🛑 **Les 5 fichiers du run portent DEUX blocs `FAQPage` avec les MÊMES questions** | 🛑 **ARBITRAGE.** Un bloc ancien (555 o, « Telefone 928 484 451. ») et un récent (766 o) qui énonce les **4 engagements de `PRICING.md` verbatim**. **Non byte-identiques**, donc le prédicat de retrait mécanique (md5 par bloc, méthode EU #314) **ne s'applique pas**. Même situation que les deux `FAQPage` de `precos.html` sur ENR. **Question d'une ligne : garder le récent, retirer l'ancien ?** Le prédicat de segments >45 caractères est déjà passé et **il autorise le retrait de l'ancien** — mais la doctrine du repo exige la byte-identité, donc **GO requis pour lever le prédicat**. |
-| **6** | **`Diagnóstico por telefone em poucos minutos` — 5 134 occurrences / 1 084 fichiers** | 🛑 **GO périmètre.** `poucos minutos` est déjà traité comme R145 (purgé de `calculadora-de-preco.html` le 14/08). **À cette échelle c'est le plus gros gisement de conformité du repo.** |
-| **7** | **`canalizador-desentupimento-vimioso.html` — `<header>` jamais fermé** | 🛑 **point de fermeture indéterminé.** Trois invariants convergent (70/70, 66/77, 69/70) et **ne suffisent pas** : vimioso n'a ni le CTA de fermeture, ni `<main>`, et porte un bloc « HERO BOX » qu'aucun des 70 jumeaux ne possède. **Un arbitrage d'une ligne suffirait** : « fermer le `<header>` après le `<p class="answer-first">` ». |
-| **8** | **Corruption `repar`→`arranj` — 33 occurrences / 19 fichiers** | ⏳ **GO périmètre.** **Aucun `href` touché sur CU** : le défaut y est purement textuel. |
-| **9** | **`Você` — 15 occurrences / ~13 fichiers** | 🛑 corpus INTERDIT, GO requis. ℹ️ **Chercher les doublons d'abord** : 4 sont tombés le 22/08 sans consommer le GO. |
-| **10** | Les **2 variantes hybrides** de `Quanto custa a deslocação?` (`Z3: 35 € e 65 €/h`) | ⏳ **3 fichiers de production** (`canalizador-meixedo`, `canalizador-gimonde`, `canalizador-gondesende`), motif unique, sans GO. Recompté ce run. |
-| **11** | Chercher sur CU les défauts trouvés sur EU : `N% dos/das` et `Sem custo extra de fim de semana` | ⏳ **mesuré ce run** : `N% dos/das` = **697 occ / 144 fichiers** (dont la moitié dans `_archive/`, hors production) ; `Sem custo extra de fim de semana` = **76 occ / 26 fichiers, TOUS dans `_archive/`** → **non-violation en production, famille close.** Reste à requalifier le `N% dos/das` **hors `_archive/`**. |
-| **12** | `streetAddress: "Trás-os-Montes, Portugal"` sur `contactos.html` + `canalizador-frioes.html` | ⏳ incohérent R5 — ce n'est pas une adresse |
-| 13 | Ajouter un **§NAP à `AGENTS.md`** et `Sob marcação` à `PRICING.md` | ⏳ **RÉTROGRADÉ** — confort, pas préalable. |
+| — | 11 meta descriptions à segment dupliqué | ✅ **traité ce run (#275)** |
+| **1** | 🔴 **Ordre de merge #268 / #269** | 🛑 **ARBITRAGE — risque de RÉGRESSION.** La **#268 est toujours ouverte et réécrit la ligne 26 de `blog/canalizador-urgente-guia-completo.html` en y CONSERVANT le `***`** ; la **#269** corrige les 5 blocs `@context` masqués du même fichier. **Si #268 merge après #269, la corruption revient en production.** Signalé pour la **3ᵉ fois** (20/08, 24/08, 25/08). **Merger #268 d'abord, ou la rebaser.** |
+| **2** | 🔴 **NOUVEAU — 186 URLs `noindex` présentes dans les 4 sitemaps** (186/186) | 🛑 **GO PÉRIMÈTRE.** Signal GSC « Submitted URL marked 'noindex' ». Suppression mécanique, zéro invention, mais 186 lignes × 4 fichiers **générés** → batch. ⚠️ **La vraie question est en amont : le générateur produit-il deux fichiers par localité par conception, ou est-ce un artefact ?** |
+| **3** | 🔴 **NOUVEAU — 7 concelhos sans aucune page indexable** : Alijó · Carrazeda de Ansiães · Freixo de Espada à Cinta · Freixo de Numão · Mouçós · São João da Pesqueira · Tabuaço | 🛑 **ARBITRAGE d'une ligne** : lequel des deux jumeaux passe en `index` ? (Convention observée sur les 172 paires saines : **le jumeau SANS accent est l'indexable.**) **Sept concelhos hors index, c'est du chiffre d'affaires, pas de la conformité.** |
+| **4** | 🔴 **`contactos.html` — `Z1 (0-30 km): . Z2 (31-50 km): . Z3 (51-90 km): . Z4 (91-130 km): .`** | ⏸ des valeurs de délai purgées ont laissé des deux-points suivis d'un point, **servis en clair au visiteur** sur une money page. Le **retrait de la phrase** est possible sans invention — mais la zone est **prise par la PR #264**. **Dès #264 mergée.** |
+| **5** | **`garantimos atenção após contacto telefónico` — 20 occ / 9 fichiers, dont 6 en META DESCRIPTION** | ⏳ **aucun GO.** R145/R11 : promesse de garantie. Le run du 14/08 en a retiré une par **transplant verbatim** — le patron existe. ⚠️ **La moitié est en meta description : surface SERP.** **Meilleur rapport effort/valeur restant sans GO.** |
+| **6** | 🛑 **5 fichiers portent DEUX blocs `FAQPage` avec les MÊMES questions** | 🛑 **ARBITRAGE.** Un bloc ancien (555 o) et un récent (766 o) énonçant les 4 engagements de `PRICING.md` verbatim. **Non byte-identiques** → le prédicat de retrait mécanique ne s'applique pas. Même situation que les deux `FAQPage` de `precos.html` sur ENR. **Question d'une ligne : garder le récent, retirer l'ancien ?** |
+| **7** | **`Diagnóstico por telefone em poucos minutos` — 5 134 occurrences / 1 084 fichiers** | 🛑 **GO périmètre.** `poucos minutos` est déjà traité comme R145 (purgé de `calculadora-de-preco.html` le 14/08). **Le plus gros gisement de conformité du repo.** |
+| **8** | **`canalizador-desentupimento-vimioso.html` — `<header>` jamais fermé** | 🛑 **point de fermeture indéterminé.** Trois invariants convergent et ne suffisent pas. **Un arbitrage d'une ligne suffirait** : « fermer le `<header>` après le `<p class="answer-first">` ». |
+| **9** | **Corruption `repar`→`arranj` — 33 occ / 19 fichiers** | ⏳ **GO périmètre.** **Aucun `href` touché sur CU** : le défaut y est purement textuel. |
+| **10** | **`Você` — 15 occ / ~13 fichiers** | 🛑 corpus INTERDIT, GO requis. ℹ️ **Chercher les doublons d'abord** : 4 sont tombés le 22/08 sans consommer le GO. |
+| **11** | 🔴 **NOUVEAU — refaire la mesure `gratuit` avec PÉRIMÈTRE ET MOTIF ÉLARGIS** | ⏳ **Sur CNR ce run, le même prédicat est passé de « ~27 restantes » à 3822 occ / 1723 fichiers** — le compteur antérieur ne balayait qu'un sous-arbre avec un motif littéral. **Le compteur de CU a la même origine.** Une seule commande Python. |
+| **12** | Les **2 variantes hybrides** de `Quanto custa a deslocação?` (`Z3: 35 € e 65 €/h`) | ⏳ 3 fichiers (`canalizador-meixedo`, `canalizador-gimonde`, `canalizador-gondesende`), motif unique, sans GO. |
+| **13** | Requalifier `N% dos/das` **hors `_archive/`** | ⏳ 697 occ / 144 fichiers dont la moitié dans `_archive/`. ✅ `Sem custo extra de fim de semana` : 76 occ, **toutes dans `_archive/`** → **famille close.** |
+| 14 | `streetAddress: "Trás-os-Montes, Portugal"` sur `contactos.html` + `canalizador-frioes.html` | ⏳ incohérent R5 — ce n'est pas une adresse |
+| 15 | §NAP à `AGENTS.md` + `Sob marcação` à `PRICING.md` | ⏳ **RÉTROGRADÉ** — confort. |
 
 ## Tâche suivante recommandée
-1. **Rang 3 — les 10 meta descriptions à phrase dupliquée.** Aucun GO, petit périmètre, surface SERP. **Vérifier en même temps l'hypothèse des pages en double par accent** (`castelaos`/`castelãos`, `acoreira`/`açoreira`) : si elle se confirme, c'est un défaut de canonicalisation, bien plus gros que les meta.
-2. **Rang 4 — `garantimos atenção após contacto telefónico`**, 9 fichiers, patron de transplant déjà validé le 14/08.
-3. **Poser les trois questions d'une ligne** : ordre de merge #268/#269 (rang 1, **risque de régression**), retrait du `FAQPage` ancien (rang 5), fermeture du `<header>` de vimioso (rang 7).
-4. **Rang 11 — requalifier `N% dos/das` hors `_archive/`.**
-5. **Ne PAS relancer le balayage structurel HTML sur CU** : 3 fichiers sur 2 454, la famille est close. **Mais y ajouter le contrôle `@type`** (voir Apprentissages) et le repasser une fois à ce titre.
+1. 🔴 **Poser les DEUX arbitrages d'une ligne qui valent le plus** :
+   - rang 1 — **ordre de merge #268/#269** (risque de régression, 3ᵉ signalement) ;
+   - rang 3 — **les 7 concelhos hors index** (convention observée : le jumeau sans accent est l'indexable).
+2. **Rang 5 — `garantimos atenção após contacto telefónico`**, 9 fichiers, patron de transplant déjà validé le 14/08, dont 6 occurrences en **meta description**. **La meilleure tâche sans GO.**
+3. **Rang 11 — remesurer `gratuit` avec périmètre et motif élargis.** Une commande, potentiellement deux ordres de grandeur.
+4. **Rang 13 — requalifier `N% dos/das` hors `_archive/`.**
+5. **Rang 4 dès #264 mergée.**
 
 ## Apprentissages (self-improving)
-- 🔴 **NOUVEAU — validité JSON ≠ validité schema.org, et le loop n'avait que le premier contrôle.** 27 nœuds passaient `json.loads` sans porter de `@type` : le JSON est valide, la donnée structurée est nulle. ➡️ **Ajouter au balayage structurel un contrôle SÉMANTIQUE : tout objet d'un bloc `ld+json` doit porter `@type`.** Deux contrôles, pas un. Un bloc « valide » peut n'émettre aucune donnée.
-- 🔴 **NOUVEAU — un prédicat brut peut avoir 60 % de faux positifs et rester utile, à condition de requalifier EN LECTURE avant de patcher.** « `name` contenant un numéro » sortait 10 fichiers, 6 étaient des `HowToStep` légitimes. **La requalification a divisé le périmètre par 2,5.** Elle n'est pas une formalité.
-- 🔴 **NOUVEAU — le donneur le plus sûr est le jumeau le plus PROCHE.** Les 5 noms corrompus avaient leur version saine **deux lignes plus haut, dans le même fichier**. ➡️ **Chercher le donneur dans le fichier avant de le chercher dans le dépôt.** (Corollaire du 23/08 sur ENR : la valeur `@context` manquante était aussi dans le même fichier.)
-- 🔴 **NOUVEAU — le témoin d'unanimité transforme une opinion en preuve.** « Il faut écrire `@type` » est une opinion ; « 0 occurrence de `type` nu dans tout le dépôt après patch » est un fait. Même méthode que le DOCTYPE le 23/08 (2 454/2 454).
-- 🔴 **NOUVEAU — `_archive/` fausse tous les compteurs.** `Sem custo extra de fim de semana` rendait 76 occurrences ; **les 76 sont dans `_archive/`**, donc **zéro violation en production**. ➡️ **Exclure `_archive/` de tout compteur de conformité**, et le dire dans le rapport. Sans cette exclusion, une famille close ressemble à un gisement.
-- 🔴 **Un balayage structurel de TOUT le dépôt coûte une commande et vaut mieux qu'un sweep de motifs.** ➡️ Étape fixe sur les 4 repos : équilibre des balises + validité JSON-LD + **présence de `@type` sur chaque objet** + doublons byte-à-byte + DOCTYPE + `<html lang>`.
-- 🔴 **Le dépôt entier est le meilleur juge de ce qui manque à un fichier.** **Avant de restaurer, compter la population. L'unanimité tranche.**
-- 🔴 **Ne pas fermer une balise au jugé.** Trois quasi-preuves ne font pas une preuve. **Consigner bat deviner.**
-- 🔴 **Un résultat NÉGATIF est un résultat.** 3 fichiers sur 2 454 ; 76 occurrences toutes archivées. Le savoir évite de relancer la chasse.
-- 🔴 **Un compteur de balises ÉQUILIBRÉ peut signaler une duplication, pas une santé.** Compter les balises **uniques par document** (`<h1>`, `<header>`, `<main>`), pas seulement leur équilibre.
-- 🔴 **Avant de patcher une chaîne interdite, chercher si elle vit dans un DOUBLON.** Appliqué ce run : les 5 noms corrompus vivent bien dans un bloc dupliqué — mais **les deux blocs ne sont pas byte-identiques**, donc le retrait mécanique n'est pas permis. **On patche la chaîne ET on consigne le bloc.**
-- 🔴 **Prouver qu'une suppression ne perd rien AVANT de supprimer.** Segmenter sur `</li|p|td|h2|h3>`, vérifier que chaque segment > 45 caractères se retrouve dans la copie conservée. Le prédicat est passé ce run sur le `FAQPage` ancien et **il autorise son retrait** — mais la doctrine du repo exige en plus la byte-identité, donc GO.
-- 🔴 **« Valeur non sourçable » se PROUVE en remontant la chaîne de définition.** Distinguer « aucune source » de « source pas encore cherchée ».
-- 🔴 **Ventiler par famille avant de choisir le périmètre** (leçon CNR #327) : chercher le **sous-ensemble homogène**, c'est lui qui rend le contrôle exhaustif possible en une commande.
-- 🔴 **Un défaut DÉJÀ RÉPARÉ qui revient est un générateur non corrigé** (leçon ENR #371). `git log -S <motif>` avant de patcher.
-- 🔴 **Un GO peut devenir inutile si on attaque le défaut au bon niveau.**
-- 🔴 **Un « TODO post-merge » écrit dans `LECONS.md` n'est exécuté par personne.** ➡️ **Étape FIXE du loop, pas recommandation.** Appliqué ce run — et le sweep a payé.
-- 🔴 **Quand un défaut RÉCIDIVE, chercher le GÉNÉRATEUR, pas la page.** ⚠️ **La chaîne de génération a maintenant produit SIX familles de défauts distinctes sur les 4 repos** : marqueurs `##style##`, corps de page dupliqués, JSON-LD tronqué écrasant un `<style>` (ENR), JSX non compilé (CNR), prologue de document absent (CU), **mutation `@context` (ENR + CU)**. **Un audit du générateur rapporterait plus que la somme des correctifs.**
-- 🔴 **Une PR qui répare un fichier ne répare pas sa famille.** Repasser le contrôle sur l'ensemble du motif de nom.
-- 🔴 **Un titre de PR ne dit pas ce que la PR couvre.** **6ᵉ run consécutif** que `gh pr view <n> --json files` évite un conflit.
+- 🔴 **NOUVEAU — « un contrôle qui rend 0 doit prouver sa source » a changé ce run.** Le prédicat « deux phrases égales » rendait 0 sur 2453 pages ; c'était un **faux négatif du prédicat**, pas un résultat. ➡️ **Quand un contrôle rend 0 sur une famille qu'un run antérieur a comptée NON VIDE, c'est le CONTRÔLE qui est en cause, pas la famille.** Coût de la vérification : une commande.
+- 🔴 **NOUVEAU — duplication ≠ phrase répétée : c'est un SOUS-SEGMENT répété.** Découper en phrases suppose que la répétition respecte la ponctuation ; les préfixes et les parenthèses la brisent. **Prédicat robuste : « plus long sous-segment répété ».**
+- 🔴 **NOUVEAU — vérifier une hypothèse laissée par le run précédent peut valoir plus que la tâche prévue.** La tâche valait 11 lignes ; l'hypothèse a sorti **179 paires, 186 URLs en conflit d'indexation, 7 concelhos hors index**. ➡️ **Traiter les « à vérifier » d'un `context.md` comme des tâches de plein droit, pas comme des notes.**
+- 🔴 **NOUVEAU — la non-byte-identité ferme une méthode, pas le dossier.** Les 179 paires ne sont pas byte-identiques → EU #314 ne s'applique pas ; le défaut se traite ailleurs (sitemap, `noindex`, canonical). **Ne pas confondre « la méthode connue ne s'applique pas » et « il n'y a rien à faire ».**
+- 🔴 **NOUVEAU (transposé de CNR) — un compteur de violation vaut ce que vaut son PÉRIMÈTRE, et le périmètre est presque toujours IMPLICITE.** **Ne jamais écrire « il en reste N » sans écrire sur quel arbre et avec quel motif.** Voir rang 11.
+- 🔴 **Validité JSON ≠ validité schema.org.** 27 `"type"` au lieu de `"@type"` passaient `json.loads` et n'émettaient rien. **Deux contrôles distincts.**
+- 🔴 **Un prédicat brut peut avoir 60 % de faux positifs.** « Numéro de téléphone dans un `name` » : légitime dans un `HowToStep`, anomalie dans une `Question`. **La requalification en lecture a divisé le périmètre par 2,5.**
+- 🔴 **`_archive*` n'est pas de la production.** Toujours l'exclure — et **exclure `_archive-*` aussi**, pas seulement `_archive/` : ce repo porte `_archive-p1-fix-2026-07-16/`, `_archive-p1-prototype-2026-07-16/`, `_archive-wave2-refonte-2026-07-16/`. Un filtre sur `_archive/` seul les laisse passer.
+- 🔴 **Ne retirer un doublon que s'il est byte-identique** (md5 par bloc, méthode EU #314).
+- 🔴 **Le contrôle des PR ouvertes se fait AVANT de calculer le périmètre.** ⚠️ **Un titre de PR ne dit pas ce qu'elle couvre** — `gh pr view <n> --json files`.
+- 🔴 **Quand un défaut récidive, chercher le GÉNÉRATEUR, pas la page.**
+- 🔴 **La signature d'une corruption de batch, c'est le MOT INEXISTANT** — par diff des ensembles de mots.
+- 🔴 **Le compteur R12 sur-compte** : R145 **autorise** `24h/7 dias`.
+- **Ne pas sur-purger.** R4 se viole dans les deux sens.
 
 ## Edge cases détectés
-- **Ce repo n'a QU'UN remote : `origin`.**
-- 🔴 **`_audit/LECONS.md` leçon #407 (18/07)** : le filtre sandbox Hermes mute `https://schema.org","@type":` en `https://***@type":`. **Le même défaut existe sur ENR** (`LECONS.md` L#003, 28/07). ➡️ **Écrire les JSON-LD en Python pur, jamais en heredoc shell ni via un tool runtime, et contrôler le BLOB git après commit.**
-- **`gh` et les credentials Git n'existent QUE sur le host macOS.** Répartition : lecture / grep / parsing Python / **écriture de fichiers** → sandbox `mcp__workspace__bash` ; `git` en écriture / `gh` → `mcp__desktop-commander__start_process`.
-- **Le `/tmp` du sandbox ≠ le `/tmp` du host.** Un `--body-file` de PR doit être écrit sous `~/work/Sites/_worktrees/`, jamais dans `/tmp`. **Et il faut le supprimer après le `gh pr create`.**
-- 🔴 **Un worktree n'est PAS un dépôt git vu depuis le sandbox** : `git show`/`diff`/`log` y rendent des **compteurs à zéro** trompeurs. ➡️ **Tout témoin se compte en Python sur le CONTENU des fichiers.**
-- ⚠️ **Borner explicitement ce qu'on imprime** en balayant ~2 900 fichiers : un dict d'exemples fait exploser la sortie.
-- 🔴 **`grep -P` n'existe pas sur macOS** ; **`grep -E` de macOS ne matche pas de façon fiable les accents** (faux négatif silencieux observé sur CNR ce run) ; **`grep -c '***'` échoue en zsh**. **Pour tout motif accentué ou non trivial : Python.**
-- 🔴 **`git commit -m` multiligne est fragile en zsh** → `printf … | git commit -F -`. **Préférer l'ASCII dans les messages de commit**, l'UTF-8 dans les fichiers. Corps de PR : `--body-file`, jamais `--body` inline.
-- **Boucle de commits atomiques** : `for f in $(git diff --name-only); do git add "$f"; … git commit -F -; done` respecte « 1 fichier = 1 commit » sans un appel d'outil par fichier.
+- **Ce repo n'a QU'UN remote : `origin`.** (CNR est le seul des 4 à avoir `github` **et** `origin`.)
+- ⚠️ **L'ancre du HISTORIQUE diffère d'un repo à l'autre, et ce repo en a TROIS** : `## 🔄 HISTORIQUE P0 (batch 04/07/2026)…` (L206), `## 🔄 HISTORIQUE` (L236, **la bonne**), `## 🔄 HISTORIQUE — 2026-07-03…` (L1312). **Insérer sur une correspondance EXACTE de ligne, jamais sur un `in` de sous-chaîne.**
+- **`gh` et les credentials Git n'existent QUE sur le host macOS.** Reconfirmé ce run : `git push --dry-run` depuis le sandbox → `could not read Username for 'https://github.com'`. Répartition : lecture / grep / parsing Python / **écriture de fichiers** → sandbox ; `git` en écriture / `gh` → host.
+- **Le `/tmp` du sandbox ≠ le `/tmp` du host.** Worktrees et `--body-file` sous `~/work/Sites/_worktrees/` ou `~/work/Sites/_loop-<date>/`. Le `--body-file` doit vivre **hors du worktree**.
+- 🔴 **Un worktree n'est PAS un dépôt git vu depuis le sandbox** : `git show`/`diff`/`log` y rendent des **compteurs à zéro** trompeurs. **Tout témoin se compte en Python sur le CONTENU des fichiers.**
+- ⚠️ **Ce repo a ~2450 pages hors archives.** Un `ls`/`find` non borné fait exploser la sortie. **Borner explicitement ce qu'on imprime.**
+- 🔴 **`grep -P` n'existe pas sur macOS** ; **`grep -E` de macOS ne matche pas de façon fiable `ç`/`ã`/`õ`** ; **zsh ne fait pas de word-splitting** ; **`set -e` + glob vide fait avorter le script**. **Pour tout motif accentué : Python.**
+- 🔴 **`git commit -m` multiligne est fragile en zsh** → `printf … | git commit -F -`. **ASCII dans les messages de commit, UTF-8 dans les fichiers.** Corps de PR : `--body-file`.
+- ⚠️ **Les noms de fichiers accentués passent bien en argument `git add`** (vérifié ce run sur `canalizador-urgente-castelãos.html`), mais **la boucle `for f in $(git diff --name-only)` est fiable en zsh** — c'est bien zsh qui ne fait pas de word-splitting, ce qui protège ici.
 - **Worktree obligatoire** (R-WT). **Jamais `reset --hard` / `checkout -- .` / `stash` / `clean`** sur le checkout partagé. Aucun `context.md` ne *prescrit* de `reset --hard`.
 
 ## Blocages connus
-1. 🛑 **RANG 1 — risque de RÉGRESSION : la PR #268 republierait la corruption `@context` que la #269 corrige.** Signalé pour la 2ᵉ fois (déjà le 20/08). **Ordre de merge à arbitrer.**
-2. 🛑 **Retrait du `FAQPage` ancien sur 5 pages** — le prédicat de segments l'autorise, la doctrine de byte-identité ne le permet pas. **GO d'une ligne.**
-3. 🛑 **Fermeture du `<header>` de `canalizador-desentupimento-vimioso.html`** — point indéterminé. **GO d'une ligne.**
-4. 🛑 **GO périmètre — `Diagnóstico por telefone em poucos minutos`** : 5 134 occurrences / 1 084 fichiers. Le plus gros gisement du repo.
-5. 🛑 **GO périmètre — corruption `repar`→`arranj`** : 33 occ / 19 fichiers sur CU, 523 sur les 4 repos.
-6. 🛑 **`Você`** — corpus INTERDIT, GO requis. **Chercher les doublons d'abord.**
-7. ⏸ **`contactos.html` `Z1 (0-30 km): .`** — pris par la PR #264.
-8. 🛑 **Batch FAQ (~815 fichiers)** et **batch prix (~73)** de la PR #240 — périmètre parké. Rappel d'une ligne.
-9. ⚠️ **La chaîne de génération de pages statiques reste non auditée : SIX familles de défauts distinctes lui sont désormais imputables sur les 4 repos.** C'est le point de levier le plus élevé.
+1. 🛑 **RANG 1 — ordre de merge #268 / #269. RISQUE DE RÉGRESSION EN PRODUCTION.** 3ᵉ signalement.
+2. 🛑 **NOUVEAU — 186 URLs `noindex` dans les 4 sitemaps** (186/186). GO périmètre.
+3. 🛑 **NOUVEAU — 7 concelhos sans aucune page indexable.** Arbitrage d'une ligne. **Impact commercial direct.**
+4. ⏸ **`contactos.html`** — zone prise par #264.
+5. 🛑 **Deux `FAQPage` par page sur 5 fichiers** — non byte-identiques, GO requis pour lever le prédicat de byte-identité.
+6. 🛑 **`Diagnóstico por telefone em poucos minutos` — 5 134 occurrences.** GO périmètre.
+7. 🛑 **`canalizador-desentupimento-vimioso.html`** — point de fermeture du `<header>` indéterminé.
+8. 🛑 **GO périmètre — `repar`→`arranj`** : 523 occ / 258 fichiers sur les 4 repos.
+9. 🛑 **`Você`** — corpus INTERDIT. GO requis.
+10. 🛑 **Batch FAQ (~815 fichiers)** et **batch prix (~73)** de la PR #240 — périmètre parké. Rappel d'une ligne.
+11. ⚠️ **La chaîne de génération de pages statiques reste non auditée.** Familles connues : `##style##` (CNR/CU/EU) · corps de page dupliqués (CU 2, ENR 3) · JSON-LD tronqué écrasant `<style>` (ENR) · JSX non compilé (CNR) · mutation `@context` (ENR) · perte du `<div>` ouvrant du bloc de liens internes (ENR) · `"type"` au lieu de `"@type"` (CU) · **et désormais la double génération accentuée / non accentuée (CU, 179 paires)**. **Huit familles, une chaîne. C'est le point de levier le plus élevé des 4 repos.**
