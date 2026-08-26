@@ -4,7 +4,7 @@ slug: "sifao-entupido-limpar"
 category: "problemas-comuns"
 date: "2026-03-03"
 author: "Norte Reparos"
-excerpt: "Sifão entupido causa mau cheiro e água não escoa. Aprenda a desmontar, limpar e remontar sifão Atendemos 24h/7 dias, mediante confirmação por telefone, sem ferramentas especiais."
+excerpt: "Sifão entupido causa mau cheiro e água não escoa. Aprenda a desmontar, limpar e remontar sifão Atendemos 24h/7 dias, sem ferramentas especiais."
 keywords: ["sifão entupido", "limpar sifão", "mau cheiro lavatório", "água não escoa", "Trás-os-Montes"]
 ---
 
@@ -401,7 +401,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Sifão%20entupido%20ajuda)**
 
-**Atendemos 24h/7 dias, mediante confirmação por telefone garantida. Sem compromisso.**
+**Atendemos 24h/7 dias garantida. Sem compromisso.**
 
 ---
 
@@ -427,6 +427,6 @@ Entupimento está na **tubagem** (não no sifão). Precisa [desentupimento profi
 
 ---
 
-**Sifão entupido? Aprenda a limpar Atendemos 24h/7 dias, mediante confirmação por telefone ou ligue para ajuda profissional.**
+**Sifão entupido? Aprenda a limpar Atendemos 24h/7 dias ou ligue para ajuda profissional.**
 
 📞 +351 928 484 451 | 💬 WhatsApp | 🌐 canalizador-norte-reparos.pt

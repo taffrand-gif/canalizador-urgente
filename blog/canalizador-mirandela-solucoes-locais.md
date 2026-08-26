@@ -24,12 +24,12 @@ Para além dos serviços habituais (desentupimento, fugas, esquentadores), em Mi
 
 ## Zona e preços
 
-Mirandela fica na nossa Zona 1 (próxima da base, em Trás-os-Montes). Deslocação: 25€. Tempo médio de chegada: 23 minutos. Preço-hora: 80€. Para emergências, podemos estar no local Atendemos 24h/7 dias, mediante confirmação por telefone garantida.
+Mirandela fica na nossa Zona 1 (próxima da base, em Trás-os-Montes). Deslocação: 25€. Tempo médio de chegada: 23 minutos. Preço-hora: 80€. Para emergências, podemos estar no local Atendemos 24h/7 dias garantida.
 
 
 
 ---
 
-**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendemos 24h/7 dias, mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 928 484 451**
+**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendemos 24h/7 dias, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 928 484 451**
 
-Servimos Mirandela e todas as freguesias envolventes. Ligue já — Atendemos 24h/7 dias, mediante confirmação por telefone garantida.
+Servimos Mirandela e todas as freguesias envolventes. Ligue já — Atendemos 24h/7 dias garantida.

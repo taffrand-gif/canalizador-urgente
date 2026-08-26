@@ -4,14 +4,14 @@ slug: "torneira-lava-loica-trocar"
 category: "Arranjos DIY"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Quer trocar a torneira do lava-loiça? Guia completo passo a passo com fotos, ferramentas necessárias e dicas profissionais. Aprenda a fazer Atendemos 24h/7 dias, mediante confirmação por telefone."
+excerpt: "Quer trocar a torneira do lava-loiça? Guia completo passo a passo com fotos, ferramentas necessárias e dicas profissionais. Aprenda a fazer Atendemos 24h/7 dias."
 keywords: "trocar torneira, instalar torneira, torneira lava loica, torneira cozinha, picheleiro braganca, canalizador"
 priority: "HIGH DEMAND"
 ---
 
 # Trocar Torneira do Lava-Loiça: Guia Passo a Passo (2026)
 
-**Trocar torneira do lava-loiça é um projeto DIY acessível que poupa €80-150 em mão de obra.** Em Trás-os-Montes, 45% dos proprietários fazem esta substituição sozinhos. Neste guia completo, vou mostrar-lhe passo a passo como trocar a torneira Atendemos 24h/7 dias, mediante confirmação por telefone, com todas as ferramentas necessárias e dicas profissionais.
+**Trocar torneira do lava-loiça é um projeto DIY acessível que poupa €80-150 em mão de obra.** Em Trás-os-Montes, 45% dos proprietários fazem esta substituição sozinhos. Neste guia completo, vou mostrar-lhe passo a passo como trocar a torneira Atendemos 24h/7 dias, com todas as ferramentas necessárias e dicas profissionais.
 
 ## Quando Trocar a Torneira?
 

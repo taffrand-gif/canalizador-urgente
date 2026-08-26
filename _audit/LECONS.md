@@ -4,7 +4,7 @@
 
 **Piège détecté** : le brief autorisait l'expression géographique « Trás-os-Montes e Alto Douro », mais `Alto Douro` avait **0 occurrence** dans `AGENTS.md`. Comme le gate exigeait une source `AGENTS.md` pour chaque claim ajouté, recopier la formulation complète du brief aurait créé un claim non sourcé.
 
-**Décision** : conserver uniquement `Trás-os-Montes`, sourcé par `AGENTS.md:60,212`, et consigner l'omission dans `_audit/SOBRE-EEAT-CLAIMS-2026-07-19.md`. Même règle pour l'angle « atendimento 24h/7 mediante confirmação » : `24h/7 dias` est autorisé (`AGENTS.md:125,166`), mais « resposta mediante confirmação por telefone » est explicitement bannie. La page parle donc de disponibilité 24h/7 et invite le client à confirmer la disponibilité et la zone, sans promesse de réponse ni d'arrivée.
+**Décision** : conserver uniquement `Trás-os-Montes`, sourcé par `AGENTS.md:60,212`, et consigner l'omission dans `_audit/SOBRE-EEAT-CLAIMS-2026-07-19.md`. Même règle pour l'angle « atendimento 24h/7 mediante confirmação » : `24h/7 dias` est autorisé (`AGENTS.md:125,166`), mais « resposta » est explicitement bannie. La page parle donc de disponibilité 24h/7 et invite le client à confirmer la disponibilité et la zone, sans promesse de réponse ni d'arrivée.
 
 **Règle durable** : une liste « AUTORISÉ » dans un brief définit le plafond sémantique, pas la preuve. Quand la mission impose « vérifie chaque claim par grep », tout fragment absent du SOT doit être omis et journalisé — jamais complété depuis mémoire, historique ou pages existantes.
 

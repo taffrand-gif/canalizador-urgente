@@ -12,7 +12,7 @@ A nossa base operacional. Resposta mais rápida, preços mais baixos, conhecimen
 
 ## Porque somos diferentes em Macedo
 
-Macedo de Cavaleiros é onde estamos sediados. Isto significa que, para qualquer cliente aqui, temos o tempo de resposta mais rápido de toda a nossa zona de cobertura — muitas vezes Atendemos 24h/7 dias, mediante confirmação por telefone garantida para o centro da cidade. Não há 'deslocação' propriamente dita, é como se fossemos vizinhos.
+Macedo de Cavaleiros é onde estamos sediados. Isto significa que, para qualquer cliente aqui, temos o tempo de resposta mais rápido de toda a nossa zona de cobertura — muitas vezes Atendemos 24h/7 dias garantida para o centro da cidade. Não há 'deslocação' propriamente dita, é como se fossemos vizinhos.
 
 ## Toda a zona servida a partir de Macedo
 
@@ -24,12 +24,12 @@ Por estarmos sediados aqui, os preços para clientes em Macedo de Cavaleiros sã
 
 ## Serviços completos disponíveis
 
-Em Macedo fazemos tudo: desentupimentos, buscas de fuga com câmara térmica, instalação e reparação de esquentadores, certificação de canalização, remodelações completas. Estamos a 5 minutos do centro. Ligue e peça orçamento — respondemos sempre Atendemos 24h/7 dias, mediante confirmação por telefone garantida durante o dia.
+Em Macedo fazemos tudo: desentupimentos, buscas de fuga com câmara térmica, instalação e reparação de esquentadores, certificação de canalização, remodelações completas. Estamos a 5 minutos do centro. Ligue e peça orçamento — respondemos sempre Atendemos 24h/7 dias garantida durante o dia.
 
 
 
 ---
 
-**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendemos 24h/7 dias, mediante confirmação por telefone, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 928 484 451**
+**Norte Reparos** — Serviço profissional no distrito de Bragança. Atendemos 24h/7 dias, 7 dias por semana. Orçamentos por telefone ou WhatsApp: **+351 928 484 451**
 
-Servimos Macedo de Cavaleiros e todas as freguesias envolventes. Ligue já — Atendemos 24h/7 dias, mediante confirmação por telefone garantida.
+Servimos Macedo de Cavaleiros e todas as freguesias envolventes. Ligue já — Atendemos 24h/7 dias garantida.
