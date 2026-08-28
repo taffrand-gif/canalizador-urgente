@@ -267,7 +267,7 @@ Neste guia completo, vamos explicar **como escolher a torneira adequada**, insta
 
 ### PARTE 2: Instalar Torneira Nova
 
-#### Passo 5: Parranjar Torneira Nova
+#### Passo 5: Preparar Torneira Nova
 
 **Verifique conteúdo da embalagem:**
 - Torneira

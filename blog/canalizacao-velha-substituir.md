@@ -347,7 +347,7 @@ keywords: ["canalização velha", "substituir canos", "renovar canalização", "
 - Canalização antiga
 - Abrir regos paredes (se necessário)
 - Remover entulho
-- Parranjar
+- Preparar
 
 ### Instalação (3-7 dias)
 

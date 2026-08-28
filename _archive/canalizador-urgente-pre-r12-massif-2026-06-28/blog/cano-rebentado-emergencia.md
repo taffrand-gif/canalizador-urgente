@@ -41,7 +41,7 @@ Se a água está perto de tomadas ou quadro elétrico:
 
 - Tire fotos/vídeos dos danos
 - Necessário para seguro
-- Ajuda o canalizador a parranjar-se
+- Ajuda o canalizador a preparar-se
 
 ### 5. Ligue para Canalizador Urgente (30 segundos)
 

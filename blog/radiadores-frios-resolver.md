@@ -309,7 +309,7 @@ priority: "SEASONAL"
 
 ### Procedimento Completo:
 
-**Parranjo:**
+**Preparo:**
 1. Ligue aquecimento (caldeira quente)
 2. Aguarde 30 minutos (sistema quente)
 3. Identifique todos os radiadores

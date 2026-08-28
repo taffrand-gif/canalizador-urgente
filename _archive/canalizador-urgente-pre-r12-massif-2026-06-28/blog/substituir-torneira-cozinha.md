@@ -127,7 +127,7 @@ priority: "HIGH DEMAND"
 
 ## 🔧 Passo a Passo: Como Substituir Torneira
 
-### Parranjo (10-15 minutos)
+### Preparo (10-15 minutos)
 
 **1. Feche a água**
 - Localize as torneiras de corte debaixo do lava-loiça
@@ -179,7 +179,7 @@ priority: "HIGH DEMAND"
 
 ### Instalação da Torneira Nova (20-30 minutos)
 
-**Passo 3: Parranjar a torneira nova**
+**Passo 3: Preparar a torneira nova**
 
 1. Retire a torneira da embalagem
 2. Verifique que tem todas as peças:

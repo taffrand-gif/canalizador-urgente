@@ -83,7 +83,7 @@ priority: "HIGH DEMAND"
 
 ## 🔧 Passo a Passo: Instalação
 
-### Parranjo (conforme zona)
+### Preparo (conforme zona)
 
 **Passo 1: Desembalar e verificar**
 

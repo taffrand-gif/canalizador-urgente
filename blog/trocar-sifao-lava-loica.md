@@ -150,7 +150,7 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 
 ## 📝 Passo a Passo: Como Trocar o Sifão (30 Minutos)
 
-### Passo 1: Parranjar a Área (5 minutos)
+### Passo 1: Preparar a Área (5 minutos)
 
 **O que fazer:**
 1. **Esvazie o armário** debaixo do lava-loiça (retire produtos de limpeza, etc.)
@@ -196,7 +196,7 @@ Um sifão novo custa apenas **€8-25** e a instalação é tão simples que at�
 
 ---
 
-### Passo 4: Parranjar o Sifão Novo (3 minutos)
+### Passo 4: Preparar o Sifão Novo (3 minutos)
 
 **Verificações:**
 1. **Confira todas as peças** (sifão, porcas, juntas de borracha)
@@ -509,10 +509,10 @@ Trocar o sifão do lava-loiça é uma das **arranjos mais simples** que pode faz
 ✅ **Qualquer pessoa consegue** (mesmo sem experiência) 
 
 **Ordem de trabalho:**
-1. Parranjar área (5 min)
+1. Preparar área (5 min)
 2. Remover sifão antigo (10 min)
 3. Limpar ligações (5 min)
-4. Parranjar sifão novo (3 min)
+4. Preparar sifão novo (3 min)
 5. Instalar (7 min)
 6. Testar (5 min)
 

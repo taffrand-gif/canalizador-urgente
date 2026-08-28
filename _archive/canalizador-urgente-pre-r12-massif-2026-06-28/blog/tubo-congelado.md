@@ -253,7 +253,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 ## Prevenção: Evite Congelamento
 
-### Antes do Inverno (Parranjo)
+### Antes do Inverno (Preparo)
 
 **1. Isole Tubos Expostos**
 - Espuma isolante: €2-5/metro

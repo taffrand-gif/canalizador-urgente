@@ -126,7 +126,7 @@ priority: "HIGH DEMAND"
 **Fixação:**
 - **1 furo:** Mais comum, fácil instalar
 - **3 furos:** Bicomando tradicional
-- **Parede:** Requer tubagem parranjada
+- **Parede:** Requer tubagem preparada
 
 **Certificação:**
 - Verifique marcação CE
@@ -174,7 +174,7 @@ priority: "HIGH DEMAND"
 
 ## Passo a Passo: Trocar Torneira (60 minutos)
 
-### FASE 1: Parranjo (10 minutos)
+### FASE 1: Preparo (10 minutos)
 
 **Passo 1: Feche a água**
 - Torneiras de seccionamento por baixo do lava-loiça (rode sentido horário)
