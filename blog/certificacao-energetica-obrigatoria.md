@@ -197,7 +197,7 @@ keywords: ["certificado energético", "certificação energética", "vender casa
 - Pedir orçamentos (3+)
 - Comparar preços
 
-**Documentos parranjar**:
+**Documentos preparar**:
 - Caderneta predial
 - Plantas (se tiver)
 - Faturas sistemas (caldeira, AC, etc.)
@@ -415,7 +415,7 @@ keywords: ["certificado energético", "certificação energética", "vender casa
 - Orçamento sem compromisso
 - Agendamento rápido
 
-### Parranjar Visita
+### Preparar Visita
 
 **Documentos**:
 - Caderneta predial

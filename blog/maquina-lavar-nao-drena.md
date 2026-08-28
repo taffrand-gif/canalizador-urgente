@@ -92,7 +92,7 @@ Com base na nossa experiência de 800+ intervenções em Trás-os-Montes:
 
 **Como limpar filtro (passo a passo):**
 
-1. **Parranjo:**
+1. **Preparo:**
  - Desligue máquina da tomada
  - Coloque toalhas no chão (água vai sair)
  - Prepare balde ou tabuleiro raso

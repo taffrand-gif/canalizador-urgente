@@ -81,7 +81,7 @@ keywords: ["sifão entupido", "limpar sifão", "mau cheiro lavatório", "água n
 
 **Não precisa**: Chave inglesa, alicate (maioria sifões)
 
-### Passo 1: Parranjo (1 minuto)
+### Passo 1: Preparo (1 minuto)
 
 1. **Coloque balde** sob o sifão
 2. **Proteja chão** com panos velhos
