@@ -228,7 +228,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 
 ### Início Época (Abril/Maio)
 
-**Preparar piscina**:
+**Parranjar piscina**:
 1. Remover cobertura inverno
 2. Limpar folhas/sujidade
 3. Encher (se esvaziou)
@@ -514,7 +514,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 
 ### Manutenção Regular
 
-✅ Início época (preparar)
+✅ Início época (parranjar)
 ✅ Fim época (hibernar)
 ✅ Mensal (verificação)
 ✅ Problemas persistentes
@@ -556,7 +556,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 - Limpeza
 - Equipamentos
 - Arranjos
-- Hibernação/preparo
+- Hibernação/parranjo
 
 ### Produtos Qualidade
 

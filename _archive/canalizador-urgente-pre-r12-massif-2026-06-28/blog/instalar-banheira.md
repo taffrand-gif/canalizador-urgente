@@ -156,7 +156,7 @@ Neste guia completo, vamos explicar **como escolher a banheira adequada** (acrí
 
 ---
 
-## Preparo Antes da Instalação
+## Parranjo Antes da Instalação
 
 ### 1. Verificar Chão
 
@@ -191,7 +191,7 @@ Neste guia completo, vamos explicar **como escolher a banheira adequada** (acrí
 - Meça porta e corredores
 - Se não passar: considere modelo menor ou desmontável
 
-### 4. Preparar Superfície
+### 4. Parranjar Superfície
 
 **Chão:**
 - Nivelado (use nível)

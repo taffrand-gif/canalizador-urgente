@@ -431,7 +431,7 @@ keywords: ["isolamento térmico", "poupar energia", "isolamento casa", "eficiên
 ### Paredes ETICS (Profissional)
 
 **Passo a passo**:
-1. Limpar/preparar fachada
+1. Limpar/parranjar fachada
 2. Colar painéis isolamento
 3. Fixar mecanicamente (buchas)
 4. Aplicar rede fibra vidro

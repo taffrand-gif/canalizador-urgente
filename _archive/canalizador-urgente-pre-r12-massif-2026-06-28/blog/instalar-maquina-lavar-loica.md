@@ -83,7 +83,7 @@ priority: "HIGH DEMAND"
 
 ## 🔧 Passo a Passo: Instalação
 
-### Preparo (15-30 minutos)
+### Parranjo (15-30 minutos)
 
 **Passo 1: Desembalar e verificar**
 

@@ -366,7 +366,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 
 ---
 
-### Passo 2: Preparar Tubagem (10 minutos)
+### Passo 2: Parranjar Tubagem (10 minutos)
 
 1. **Fechar água** (torneira de corte)
 2. **Esvaziar tubos** (abrir torneira mais baixa)
@@ -375,7 +375,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 
 ---
 
-### Passo 3: Preparar Válvula (5 minutos)
+### Passo 3: Parranjar Válvula (5 minutos)
 
 1. **Verificar sentido** (seta no corpo)
 2. **Aplicar fita teflon** nas roscas (10-15 voltas, sentido horário)
