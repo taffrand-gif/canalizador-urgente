@@ -29,3 +29,5 @@ public/e1ede796962ebc575aaaa6dc.txt
 **/__pycache__/
 .worktrees/
 *.bak-*
+*.orig
+*.rej
