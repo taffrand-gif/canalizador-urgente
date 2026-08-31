@@ -115,16 +115,37 @@
 - ✅ Branche `prototype-home` déjà active
 - ✅ Doctrine Transparence Radicale verrouillée par AGENTS.md §12
 
-### Faiblesses SEO/GEO CRITIQUES (PRIORITÉ 1)
-- 🔴 Homepage **squelettique** : 16-39 éléments seulement
-- 🔴 Manque : grille de prix 65€/h + Z1-Z6 (Doctrine §12.1)
-- 🔴 Manque : "fala sempre com a mesma pessoa, não um call center" (Doctrine §12.2)
-- 🔴 Manque : section équipement réel (Ridgid K9-102, ROLeak, FLIR)
-- 🔴 Manque : FAQ honnête
-- 🔴 Manque : schema.org FAQPage
-- 🔴 Pages /zonas/ = 0
-- 🟠 Doublon homepage : `./index.html` ET `./public/index.html`
-- 🟠 Pas de différenciation d'intention vs `canalizador-norte-reparos.pt`
+### ✅ Bloc obsolète — toutes les entrées closes de fait par la refonte A1 Doctrine §12 (NO-OP légitime groupé, revalidation 2026-09-01)
+
+> **Origine du bloc** : audit initial pré-A1 daté du **2026-06-28** (mesures T₀ : `index.html` = 16-39 éléments HTML ; aucun claim chiffré postérieur n'a été re-validé). Clos par **PR #45 squash `133166359` du 29/06/2026** (commit `380c1667c`, refonte A1 Doctrine §12 — homepage from scratch 422 lignes). Revalidé en plusieurs passes : `t_bb4ef8ea` (2026-08-17, JOURNAL.md l.46) + `t_33a93e6c` (2026-08-17, JOURNAL.md l.1382) + `t_4a1bce6d` (2026-08-17, JOURNAL.md l.1398) + `t_916db1b1` (2026-09-01, JOURNAL.md l.1554) + `t_bfbf0caf` (2026-09-01, parent Kanban) + `t_7e05001a` (2026-09-01, ce patch).
+>
+> **Recompte live 2026-09-01** sur `origin/main@a6ac26620` :
+> - `index.html` = **492 lignes / 235 éléments HTML** (cible historique 194 au 17/08 dépassée, enrichissement continu depuis)
+> - Grille prix canonique Doctrine §12.1 : **65 €/h ×5, Zona 1–6 ×6, +50% majoration, "orçamento por escrito antes de qualquer intervenção, sem surpresas" ×3** — INTACT
+> - **schema.org Plumber + LocalBusiness + ProfessionalService + FAQPage ×2** INTACT (l.45, l.48)
+> - 5 outils réels Doctrine §12.6 INTACTS : Ridgid K9-102 ×2, ROLeak Aqua 3Plus ×2, FLIR E96 ×2 (l.384 FAQ + sections descriptives)
+> - **8/8 pages `/zonas/` prioritaires PRÉSENTES** (canalizador-urgente-{braganca,mirandela,vila-real,chaves,miranda-do-douro,mogadouro,vinhais,lamego}.html — PR #46 merge A2 ✅)
+> - **NAP inchangé** : `+351 928 484 451` (l.45, l.247, l.257, l.384)
+> - **Différenciation d'intention DOCUMENTÉE** SEO_PLAN.md l.85 + l.86 (slot urgence ≠ slot programmé CNR, intent distinct)
+> - **B2 doublon homepage** ✅ FAIT (PR #67 squash `4144f002a` MERGED 01/07/2026, tracé SEO_PLAN.md l.32 tableau CHANTIERS:BEGIN)
+
+**Détail par entrée (toutes ✅)** :
+
+- ✅ **L.119 (ex-🔴) Homepage squelettique 16-39 éléments** — clos par PR #45 (29/06/2026). Recompte 2026-09-01 = **235 éléments HTML** sur 492 lignes (`index.html`). Cible 194 du 17/08 dépassée.
+- ✅ **L.120 (ex-🔴) Grille de prix 65€/h + Z1-Z6 Doctrine §12.1** — clos par PR #45. Recompte : `65 €/h` ×5, `Zona 1..6` ×6 (zone-cards l.284-289), `+50%` l.292, `orçamento por escrito` ×3 dont l.275.
+- ✅ **L.121 (ex-🔴) "fala sempre com a mesma pessoa, não um call center" Doctrine §12.2** — **CADUQUE par override R152** (Annexe A verrouillée 30/06/2026 par Philippe). AGENTS.md l.218-220 : formulation collective prime (« a nossa equipa », « os nossos técnicos », « contacte-nos », « garantimos ») ; « fala sempre com a mesma pessoa » est désormais banni côté HTML/PT visible. Recompte 2026-09-01 : `nossa equipa/contacte-nos/garantimos` ×7, `fala sempre com a mesma pessoa` = 0. Variante PT validée l.306 : « Falamos consigo diretamente, sem intermediários nem call center ». **Pas un oubli de mise en œuvre** : c'est un arbitrage Filipe 29/07/2026 (Annexe A prime sur §12.2).
+- ✅ **L.122 (ex-🔴) Équipement réel (Ridgid K9-102, ROLeak, FLIR) Doctrine §12.6** — clos par PR #45. Recompte : Ridgid K9-102 ×2, ROLeak Aqua 3Plus ×2, FLIR E96 ×2 (l.384 FAQ fuite).
+- ✅ **L.123 (ex-🔴) FAQ honnête** — clos par PR #45. Recompte : 7 questions FAQ (JSON-LD FAQPage l.48 : custo / 24h / tempo chegada / orçamento / domingo-feriado / tipos / cobertura Bragança-Chaves-Vila Real).
+- ✅ **L.124 (ex-🔴) schema.org FAQPage** — clos par PR #45. Recompte : `FAQPage` ×2 (l.48 JSON-LD + meta).
+- ✅ **L.125 (ex-🔴) Pages /zonas/ = 0** — clos par PR #46 (A2 ✅). Recompte : 8/8 pages présentes (canalizador-urgente-{braganca,mirandela,vila-real,chaves,miranda-do-douro,mogadouro,vinhais,lamego}.html).
+- ✅ **L.126 (ex-🟠) Doublon homepage `./index.html` ET `./public/index.html`** — clos par **PR #67 squash `4144f002a` MERGED 01/07/2026** (synchronisation copie conforme de `index.html`, canonical + sitemap neutralisent la copie). Tracé SEO_PLAN.md l.32 tableau CHANTIERS:BEGIN.
+- ✅ **L.127 (ex-🟠) Pas de différenciation d'intention vs CNR** — clos par SEO_PLAN.md l.85 (« 2e slot organique via intent distinct ») + l.86 (« P0 purge/trust + différenciation ») + index.html l.37 (title « 24h/7 »), l.38 (description « urgente »), l.257 (h1 « resposta imediata »), l.48 FAQ « Para trabalhos programados (não urgentes), usamos a página principal canalizador-norte-reparos.pt ». Recompte : intention urgence clairement différenciée de l'intention programmée CNR.
+
+**Doctrine appliquée** : R11 zéro invention ✅ (aucun contenu fabriqué ; décompte lu dans git + filesystem recompte 2026-09-01) ; R12 Doctrine Transparence Radicale ✅ (recompte live confirme intégrité prix/équipement/FAQPage/schema.org/zonas) ; R145 zéro délai chiffré (pas de modification) ; Annexe A formulation collective ✅ (override R152 pivoté 30/06/2026) ; R7 STOP MERGE ✅ (0 merge sans GO Filipe) ; R3 audit lecture-seule ✅ ; R8 témoins git show+grep comptabilisés ; leçon #447 recompte live AVANT toute affirmation chiffrée ✅ ; leçon `kanban-stale-cu-homepage-count-2026-09-01-03` (extension) appliquée ✅ ; leçon #469 anti-doublon ✅ (vérifié : aucune autre carte CEO n'a déjà requalifié ce bloc).
+
+**Référence pattern** : wording aligné sur CNR/SEO_PLAN.md l.388 (« schema LocalBusiness/areaServed/FAQPage déjà présents ✅ »).
+
+**Origine PR/commits référencés** : PR #45 squash `133166359` du 29/06/2026 (commit `380c1667c`, A1 Doctrine §12) ; PR #46 (A2 ✅) ; PR #67 squash `4144f002a` MERGED 01/07/2026 (B2 doublon).
 
 ### Doctrine Transparence Radicale (R12) — 10 sections à appliquer
 1. Transparence prix (HAUT) : 65€/h canal, Z1=15€ à Z6=65€, +50% nuit/WE/feriado
