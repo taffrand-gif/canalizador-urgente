@@ -1453,6 +1453,7 @@
     }
   ],
   "redirects": [
+    { "source": "/(.*)\\.md", "destination": "/", "statusCode": 410 },
     {
       "source": "/:path*",
       "has": [
