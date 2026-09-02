@@ -27,9 +27,11 @@
 ## 🗺️ ROADMAP MONOPOLE — TODO ce repo (CU, urgence) — owner exécution : **Hermes**
 
 <!-- CHANTIERS:BEGIN -->
-| ID | Chantier | Prio | Statut | PR | Gate |
-|---|---|---|---|---|---|
-| B2 | Corriger doublon homepage | HAUTE | FAIT | — | — |
+| ID | Chantier | Prio | Statut | PR | Gate | Prédicat (reproductible) |
+|---|---|---|---|---|---|---|
+| B2 | Corriger doublon homepage | HAUTE | FAIT | — | — | — |
+| X-R12 | « mesma pessoa » / « mesmo técnico » servis en production | HAUTE | A_FAIRE | — | — | `mesma pessoa\|mesmo t[ée]cnico` · **ORDRE IMPOSÉ : prescription → contrôles → rendu → contenu.** (1) `AGENTS.md` **l.115** « Phrase obligatoire » ET **l.155** bloc « Quem somos » — les DEUX, sinon la prescription survit là où un agent lit pour rédiger. (2) contrôles qui verrouillent la violation : `_audit/md-6-10-gate.py:73` la rapporte comme marqueur MANQUANT, `_audit/verify_t_ec555aaf.py:93` `required_literals` min 1 — corriger le contenu d'abord fait échouer deux gates verts. (3) rendu `.hermes-p1-hub-prototype/p1_hub_render_v2.py:110` qui l'émet. (4) **production 4** — `blog/canalizador-24-horas-guia-completo.html` · `blog/canalizador-urgente-guia-completo.html` · `public/.well-known/ai-plugin.json` · `tools/enrich_cu_desentup.py` (faux positif : commentaire de doctrine). **Travail réel : 3 fichiers de contenu + 5 sources.** Les sources sont hors recensement (`_audit/`, `.hermes-…`, `.md` racine) : le total « 4 » les masque. Contrôle positif `mesm` = 530. |
+| X-MAIL | Email `privaterelay.appleid.com` publié comme contact | HAUTE | A_FAIRE | — | — | `privaterelay\.appleid\.com` · **production CU 1** — `public/.well-known/ai-plugin.json`. Contrôle positif `appleid` = 1. |
 <!-- CHANTIERS:END -->
 
 > Roadmap phasée maître : `~/work/Sites/MONOPOLE_SEO_2026Q3.md` §ROADMAP PHASÉE. Site urgence = **phase 1b** (après CNR/ENR validés). ⚠️ **JAMAIS merger main sans STOP validation Filipe** (AGENTS.md urgence).
