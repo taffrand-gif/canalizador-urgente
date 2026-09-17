@@ -30,6 +30,7 @@
 | ID | Chantier | Prio | Statut | PR | Gate |
 |---|---|---|---|---|---|
 | B2 | Corriger doublon homepage | HAUTE | FAIT | — | — |
+| T1-MONEY | Aligner H1 + sub homepage sur query money 'canalizador urgente' (CPC=14.63 EUR, vol=170, score=2487.10 — DFSEO 16/07) | HAUTE | ⏸ DRAFT | [#334](https://github.com/taffrand-gif/canalizador-urgente/pull/334) | GO Filipe (R7) |
 <!-- CHANTIERS:END -->
 
 > Roadmap phasée maître : `~/work/Sites/MONOPOLE_SEO_2026Q3.md` §ROADMAP PHASÉE. Site urgence = **phase 1b** (après CNR/ENR validés). ⚠️ **JAMAIS merger main sans STOP validation Filipe** (AGENTS.md urgence).
