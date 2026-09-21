@@ -339,3 +339,23 @@ Pour chaque image generee :
 - Verifier absence de pixels sur les 5 premiers/derniers pixels des bords (pas de texte coupe)
 - Verifier visuellement que "Instalacao" et "Tras-os-Montes" rendent avec leurs accents (validation visuelle obligatoire, OCR portugais non disponible sur ce systeme)
 - Sauvegarder ancienne image en .bak-<pid> avant d'ecraser
+
+---
+
+## Leçon #CU-R145-RESIDU-2026-09-21-01 — Sous-dossier `villages/` = 200 .html invisibles aux audits « racine uniquement »
+
+**Contexte** : mission R145-RESIDU `t_5d959d29` 2026-09-21 (canalizador-urgente). Audit R145 origin/main : 300 occurrences / 131 fichiers. Le worker précédent `t_5893aef8` (2026-09-21) avait stratifié 11 blog + 32 concelhos + 88 racine canalizador-*.html = 131. **Recompte live `t_5d959d29` a découvert un sous-dossier `villages/` contenant 200 fichiers .html absent de l'analyse initiale**. Vérification : 0 occurrence R145 dans `villages/`, donc pas de cible R145 — mais la structure est un piège pour les futurs audits qui filteraient sur « racine uniquement ».
+
+**Takeaway** : **JAMAIS supposer que la racine `*.html` = exhaustivité** sur les sites Norte-OS pSEO. Les sous-dossiers thématiques (`villages/`, `concelhos/`, `blog/`, `distritos/`, `_archive/`, `public/`) doivent TOUS être énumérés en début d'audit. La commande canonique = `git ls-tree -r --name-only origin/main | grep '\.html$' | awk -F/ '{print $1}' | sort | uniq -c | sort -rn` AVANT toute stratification bucket.
+
+**Action canon** :
+1. Pour tout audit « fichiers R145 / cible / motif » sur un site Norte-OS pSEO, **TOUJOURS** commencer par :
+   ```
+   git ls-tree -r --name-only origin/main | grep '\.html$' | awk -F/ '{print $1}' | sort | uniq -c | sort -rn
+   ```
+   Et lister les sous-dossiers AVANT d'écrire la stratification.
+2. **Toujours vérifier LANG=C.UTF-8 LC_ALL=C.UTF-8** avant les bash qui matchent des caractères accentués portugais (`confirmação`, `orçamento`, `Trás-os-Montes`). Sans locale UTF-8 forcée, `grep -E 'confirmação'` rate silencieusement tous les fichiers (trouvé via recompte à 0 occ quand contrôle positif donnait >0).
+3. Si un sous-dossier thématique a >100 fichiers mais 0 occurrences du motif cible, le **consigner comme « hors périmètre, structure connue »** dans la stratification pour éviter qu'un futur worker le redécouvre et perde du temps à le re-confirmer.
+4. Le dossier `_archive/` (33 fichiers ici) contient du contenu **pré-A1 pré-R12** jamais servi par Vercel — hors périmètre de tout audit SEO/GEO/Doctrine. Mentionner dans la stratification pour qu'il ne soit pas confondu avec du contenu publié.
+
+**Source** : mission R145-RESIDU `t_5d959d29` (canalizador-urgente, 2026-09-21). Recompte live origin/main@06e77261a = 131 fichiers / 300 occurrences R145, répartition 11 blog + 32 concelhos + 88 racine canalizador-*.html. Dossier `villages/` (200 fichiers) vérifié 0 occ — consigné comme structure connue hors périmètre.
