@@ -162,7 +162,7 @@ priority: "HIGH DEMAND"
 **Dica profissional:** Cubra outros ralos da casa para concentrar pressão
 
 **Custo:** Ventosa €5-15
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Eficácia:** 70% entupimentos simples
 
 ### Método 2: Água Fervente (Eficácia 60%)
@@ -222,7 +222,7 @@ priority: "HIGH DEMAND"
 **Dica:** Arame com gancho na ponta agarra cabelos melhor
 
 **Custo:** €15-50 (investimento que dura anos)
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Eficácia:** 85% dos casos
 
 ### Método 5: Desmontar Sifão (Eficácia 90%)
@@ -244,7 +244,7 @@ priority: "HIGH DEMAND"
 7. Recoloque sifão (aperte bem mas não force)
 8. Teste se não há fugas
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Dificuldade:** Média
 **Eficácia:** 90% entupimentos em sifão
 
@@ -265,7 +265,7 @@ priority: "HIGH DEMAND"
 3. Ventile bem a divisão
 4. Retire água parada
 5. Despeje quantidade recomendada
-6. Aguarde tempo indicado (conforme zona)
+6. Aguarde tempo indicado (conforme o caso)
 7. Enxague com água abundante
 
 **⚠️ ATENÇÃO:**
@@ -479,9 +479,9 @@ R: NÃO! Mesmo "biodegradáveis" demoram meses a desfazer-se. Causam 15% dos ent
 
 📞 **Ligue Agora: 928 484 451**
 - ✅ Atendemos 24h/7d (urgências)
-- ✅ Técnico com equipamento profissional chega conforme zona
+- ✅ Técnico com equipamento profissional chega conforme o caso
 - ✅ Mola elétrica + Alta pressão + Câmara inspeção
-- ✅ Orçamento grátis sem compromisso
+- ✅ Orçamento por escrito sem compromisso
 - ✅ Garantia 12 meses em todos os serviços
 
 💬 **WhatsApp:** [Clique para ajuda urgente](https://wa.me/351928484451?text=Olá,%20tenho%20canalização%20entupida%20e%20preciso%20de%20ajuda!)

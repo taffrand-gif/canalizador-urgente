@@ -147,7 +147,7 @@ Gordura, cabelos, restos de comida e sabão acumulam no sifão, apodrecem e cria
 4. **Volte a colocar a grelha**
 
 **Custo:** Grátis (ou €2-5 se precisar juntas novas) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Frequência:** A cada 3-6 meses
 
 ### Causa 3: Falta de Ventilação (Coluna de Ventilação) - 15% dos casos
@@ -437,7 +437,7 @@ Mau cheiro no ralo tem **causas identificáveis e soluções eficazes**:
 ✅ Limpeza profunda de sifões e tubagem 
 ✅ Instalação de ventilação se necessário 
 ✅ Garantia 1 ano no serviço 
-✅ Técnico em sua casa em conforme zona 
+✅ Técnico em sua casa em conforme o caso 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não viva com mau cheiro!** É problema de saúde e conforto. Contacte-nos já para solução definitiva.

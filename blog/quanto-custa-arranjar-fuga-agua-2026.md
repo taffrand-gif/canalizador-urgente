@@ -7,7 +7,7 @@ category: "Preços"
 excerpt: "Guia completo preços arranjar fugas água 2026: torneira, canalização, autoclismo, esquentador. Tabelas detalhadas, exemplos reais, quando chamar."
 image: "/images-optimized/blog/blog-fuga-agua.webp"
 metaTitle: "Quanto Custa Arranjar Fuga Água 2026 | Preços"
-metaDescription: "Arranjar fuga água: torneira 40-80€, canalização 80-250€, autoclismo 50-120€. Preços 2026 Trás-os-Montes. Orçamento grátis. Ligue 928 484 451!"
+metaDescription: "Arranjar fuga água: torneira 40-80€, canalização 80-250€, autoclismo 50-120€. Preços 2026 Trás-os-Montes. Orçamento por escrito. Ligue 928 484 451!"
 keywords: ["quanto custa arranjar fuga água", "preço reparar torneira", "fuga canalização preço", "arranjar autoclismo"]
 ---
 
@@ -22,16 +22,16 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 | Tipo Fuga | Diagnóstico | Mão Obra | Material | TOTAL |
 |-----------|-------------|----------|----------|-------|
 | **Torneira a pingar** | 15€ | 25€ | 5-15€ | **45-55€** |
-| **Torneira jorra base** | 15€ | 35€ | 30-60€ | **80-110€** |
+| **Torneira jorra base** | 15€ | 35€ | 30-60€ |  |
 | **Autoclismo a correr** | 15€ | 25€ | 15-30€ | **55-70€** |
 | **Autoclismo fuga base** | 15€ | 45€ | 40-60€ | **100-120€** |
 | **Sifão lava-loiça** | 15€ | 30€ | 15-25€ | **60-70€** |
 | **Flexível torneira** | 15€ | 25€ | 10-20€ | **50-60€** |
-| **Fuga canalização visível** | 20€ | 50€ | 20-40€ | **90-110€** |
+| **Fuga canalização visível** | 20€ | 50€ | 20-40€ |  |
 | **Fuga canalização oculta** | 30€ | 80€ | 40-80€ | **150-190€** |
 | **Esquentador fuga ligação** | 20€ | 40€ | 15-30€ | **75-90€** |
 
-*Preços dias úteis horário normal. Sábado +23%, Domingo +38%, Noite +50%. Deslocação: 15-55€ conforme zona.*
+*Preços dias úteis horário normal. À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €. Deslocação: 30 € conforme o caso.*
 
 ## Fugas Torneiras: Preços Detalhados
 
@@ -50,10 +50,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Desmontar torneira
 3. Substituir vedante
 4. Montar e testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação Zona 1-3: 15-35€
+- Deslocação 3: 15-35€
 - Diagnóstico: 15€
 - Mão obra (0.5h): 32,50€
 - Vedante: 5-10€
@@ -76,10 +76,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Desmontar torneira completa
 3. Substituir cartucho ou juntas
 4. Montar e testar estanquidade
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.83h): 54€
 - Cartucho: 30-60€ (conforme marca)
@@ -106,10 +106,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 3. Substituir torneira completa
 4. Vedar rosca
 5. Testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.67h): 43,50€
 - Torneira exterior: 15-35€
@@ -134,10 +134,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Verificar boia e válvula
 3. Regular ou substituir
 4. Testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.5h): 32,50€
 - Material (boia ou válvula): 15-30€
@@ -162,14 +162,14 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 4. Substituir junta
 5. Montar e apertar
 6. Testar estanquidade
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (1h): 65€
 - Junta + parafusos: 20-40€
-- **TOTAL: 115-155€**
+Mínimo 100 € (150 € noite/fim de semana)
 
 **Urgência:** Alta (pode infiltrar, danos estruturais)
 
@@ -186,10 +186,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 3. Remover mecanismo antigo
 4. Instalar mecanismo novo completo
 5. Regular e testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (1.25h): 81,25€
 - Mecanismo completo: 40-80€
@@ -212,10 +212,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Localizar fuga exata
 3. Apertar ligação OU substituir troço
 4. Testar pressão
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 20€
 - Mão obra (0.75h): 48,75€
 - Material (abraçadeira/tubo): 15-30€
@@ -240,10 +240,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 4. Reparar/substituir troço
 5. Testar
 6. Fechar parede provisório (gesso)
-**Tempo:** 1.conforme zona
+**Tempo:** 1.conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico avançado: 30€
 - Mão obra (2h): 130€
 - Material (tubo, ligações, gesso): 40-80€
@@ -270,10 +270,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 4. Substituir troço danificado
 5. Testar alta pressão
 6. Fechar provisório
-**Tempo:** conforme zona (urgência)
+**Tempo:** conforme o caso (urgência)
 
 **Custo detalhado:**
-- Deslocação urgente: 25-55€
+- Deslocação urgente: 30 €
 - Diagnóstico: 20€
 - Mão obra urgente (1.5h): 97,50-135€ (conforme horário)
 - Material: 40-80€
@@ -299,10 +299,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 3. Substituir junta ou rosca
 4. Montar e apertar
 5. Testar com água quente
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 20€
 - Mão obra (0.67h): 43,50€
 - Material (juntas, fita teflon): 10-20€
@@ -323,10 +323,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Se pressão ok: substituir válvula
 3. Se pressão alta: instalar redutor pressão
 4. Testar
-**Tempo:** conforme zona (conforme causa)
+**Tempo:** conforme o caso (conforme causa)
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 20€
 - Mão obra (0.75h): 48,75€
 - Válvula segurança: 25-40€
@@ -350,10 +350,10 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 2. Desmontar sifão
 3. Substituir juntas OU sifão completo
 4. Montar e testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.5h): 32,50€
 - Juntas: 5-10€ OU Sifão novo: 15-25€
@@ -378,7 +378,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 **Tempo:** 30 min trabalho + 3h secagem
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.5h): 32,50€
 - Silicone sanitário: 8-15€
@@ -393,22 +393,18 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 | Horário | Multiplicador | Exemplo 1h |
 |---------|---------------|------------|
 | Dias úteis 8h-20h | 1.0x | 65€ |
-| Dias úteis 20h-8h | 1.5x | 97,50€ |
+|  |  | 97,50€ |
 | Sábado 8h-20h | 1.23x | 80€ |
-| Sábado 20h-8h | 1.85x | 120€ |
+| Noite, fim de semana e feriado: 100 €/hora + deslocação 50 € | 1.85x | 120€ |
 | Domingo/Feriado 8h-20h | 1.38x | 90€ |
-| Domingo/Feriado 20h-8h | 2.08x | 135€ |
+| Noite, fim de semana e feriado: 100 €/hora + deslocação 50 € | 2.08x | 135€ |
 
 ### 2. Localização (Deslocação)
 
 | Zona | Distância Bragança | Deslocação |
 |------|-------------------|------------|
-| Zona 1 | 0-15 km | 15€ |
-| Zona 2 | 15-30 km | 25€ |
-| Zona 3 | 30-50 km | 35€ |
-| Zona 4 | 50-75 km | 45€ |
-| Zona 5 | 75-100 km | 55€ |
-
+| Dias úteis (9h–17h) | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | 30 € + 70 €/hora |
+| Noite (17h–9h), fins de semana e feriados | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | 50 € + 100 €/hora |
 ### 3. Complexidade Acesso
 
 **Fácil acesso (preço base):**
@@ -497,8 +493,8 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 ## Como Poupar no Arranjo
 
 ### 1. Chamar Dias Úteis Horário Normal
-**Poupança:** 23-50% vs fim semana/noite
-**Exemplo:** 65€/h vs 90-135€/h
+Noite, fim de semana e feriado: 100 €/hora + deslocação 50 €
+Mínimo 100 € (150 € noite/fim de semana)
 
 ### 2. Agrupar Reparações
 **Poupança:** Deslocação paga 1 vez
@@ -509,7 +505,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 **Dica:** Verificar contador à noite (tudo fechado, não deve girar)
 
 ### 4. Manutenção Preventiva
-**Poupança:** Inspeção anual 80-120€ vs urgências 200-400€
+
 **Inclui:** Verificar todas torneiras, autoclismos, canalizações visíveis
 
 ### 5. Material Económico (Quando Possível)
@@ -564,7 +560,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 ## Perguntas Frequentes
 
 ### 1. Quanto custa arranjar torneira a pingar?
-**45-110€** conforme tipo fuga. Vedante simples: 45-55€. Cartucho completo: 80-110€. Inclui deslocação + mão obra + material.
+Vedante simples: 45-55€.  Inclui deslocação + mão obra + material.
 
 ### 2. Fuga pequena, posso esperar?
 **Depende.** Torneira pinga leve: pode esperar dias úteis (poupar 20%). Fuga canalização ou infiltração: chamar urgente (danos pioram).
@@ -579,7 +575,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 **Fugas simples sim** (vedante torneira, regular boia). **Fugas complexas não** (canalização oculta, esquentador). Se dúvida, chamar profissional.
 
 ### 6. Quanto tempo demora arranjo?
-**conforme zona** maioria casos. Fugas simples: 20-40 min. Fugas complexas: conforme zona. Rotura grave: 1-2h urgência.
+**conforme o caso** maioria casos. Fugas simples: 20-40 min. Fugas complexas: conforme o caso. Rotura grave: 1-2h urgência.
 
 ### 7. Dão garantia?
 **Sim, 12 meses** mão obra. Material: garantia fabricante (1-5 anos conforme marca). Se fuga voltar: arranjo gratuito.
@@ -588,7 +584,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 
 **Ligue agora: 928 484 451**
 
-✅ Orçamento gratuito por telefone
+✅ Orçamento por escrito por telefone
 ✅ Diagnóstico profissional
 ✅ Preços transparentes sem surpresas
 ✅ Atendemos 24h/7 dias garantida-90 minutos

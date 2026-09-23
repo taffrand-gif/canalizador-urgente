@@ -24,7 +24,7 @@ Em Trás-os-Montes, onde muitas casas têm **30-40 anos e canalização antiga**
 
 Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve ignorar**, como detetar fugas escondidas (mesmo sem quebrar paredes), quanto custa arranjar e como prevenir este pesadelo.
 
-**⚠️ ATENÇÃO:** Se vir água a escorrer pela parede ou teto, **feche a água IMEDIATAMENTE** e ligue para um picheleiro de urgência: **[928 484 451](tel:+351928484451)** — Intervenção em conforme zona em Bragança e arredores.
+**⚠️ ATENÇÃO:** Se vir água a escorrer pela parede ou teto, **feche a água IMEDIATAMENTE** e ligue para um picheleiro de urgência: **[928 484 451](tel:+351928484451)** — Intervenção em conforme o caso em Bragança e arredores.
 
 ---
 
@@ -141,7 +141,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 **Passo a passo:**
 1. Feche TODAS as torneiras e aparelhos
 2. Anote o número do contador
-3. Não use água durante conforme zona
+3. Não use água durante conforme o caso
 4. Volte ao contador:
  - **Número mudou?** → TEM FUGA
  - **Número igual?** → Sem fuga ativa
@@ -352,8 +352,8 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **Depende da gravidade:**
 - Fuga pequena (junta): 30min-1h
-- Substituir troço de cano: conforme zona
-- Fuga em parede de casa de banho: conforme zona (+ tempo para secar e pintar)
+- Substituir troço de cano: conforme o caso
+- Fuga em parede de casa de banho: conforme o caso (+ tempo para secar e pintar)
 - Cano rebentado (obra grande): 1-3 dias
 
 ---
@@ -414,7 +414,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 
 **Cobertura:** Bragança, Mirandela, Trás-os-Montes, Miranda do Douro, Vinhais, Mogadouro e todo o distrito de Bragança.
 
-**Tempo de resposta:** conforme zona em Bragança e arredores.
+**Tempo de resposta:** conforme o caso em Bragança e arredores.
 
 ---
 
@@ -426,7 +426,7 @@ Neste guia completo, vou mostrar-lhe os **6 sinais de alerta que nunca deve igno
 ✅ Arranjo de fugas em paredes, tetos, pisos 
 ✅ Substituição de canalização antiga 
 ✅ Tratamento de humidade e bolor 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Urgências 24h/7 dias 
 
 **📞 Ligue já: [928 484 451](tel:+351928484451)**
@@ -452,7 +452,7 @@ Uma fuga de água na parede **nunca se resolve sozinha** — só piora com o tem
 
 **Não arrisque. Ligue JÁ: [928 484 451](tel:+351928484451)**
 
-**Picheleiro certificado • Urgências 24h • Orçamento grátis • Intervenção em 30-45min**
+**Picheleiro certificado • Urgências 24h • Orçamento por escrito • Intervenção em 30-45min**
 
 ---
 

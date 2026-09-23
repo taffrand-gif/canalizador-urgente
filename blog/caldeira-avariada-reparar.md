@@ -368,7 +368,7 @@ Caldeira aquece água que circula pelos radiadores (aquecimento central) e/ou fo
 8. Verifique pressão da caldeira (deve estar 1-1,5 bar)
 9. Encha se necessário
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Frequência:** 1-2x por ano
 
 ## Manutenção Preventiva (Evite 80% das Avarias)
@@ -501,7 +501,7 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 
 📞 **Ligue Agora: 928 484 451**
 - ✅ Atendemos 24h/7d (emergências inverno)
-- ✅ técnico com experiência gás chega conforme zona
+- ✅ técnico com experiência gás chega conforme o caso
 - ✅ Manutenção anual obrigatória €80-150
 - ✅ Arranjos todas as marcas
 - ✅ Garantia 12 meses
@@ -515,4 +515,4 @@ R: Diagnóstico €60-120, manutenção €80-150, arranjos €80-350. Urgente 2
 
 ---
 
-**Não passe frio! técnico com experiência resolve caldeira em conforme zona!**
+**Não passe frio! técnico com experiência resolve caldeira em conforme o caso!**

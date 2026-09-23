@@ -227,8 +227,8 @@ Seguro que cobre danos causados durante trabalho (fugas, inundações, danos est
 ### 9. Preço Justo (Não Mais Barato) ✅ IMPORTANTE
 
 **Preços mercado Bragança 2026:**
-- Mão obra: 65€/h dias úteis
-- Deslocação: 15-35€ (conforme zona)
+- Mão obra: 70€/h dias úteis
+- Deslocação: 30 € (conforme o caso)
 - Material: Preço mercado +10-20%
 
 **Como avaliar:**
@@ -664,7 +664,7 @@ Não escolher automaticamente mais barato. Avaliar conjunto (qualidade + preço 
 **Sim, para trabalhos certificados** (instalações novas, alterações, certificação gás). Trabalhos simples (reparações) não obrigatória mas recomendada.
 
 ### 3. Como sei se preço é justo?
-**Comparar 3 orçamentos.** Média mercado Bragança: 65€/h mão obra + 15-35€ deslocação + material. ±15% é normal.
+**Comparar 3 orçamentos.** Média mercado Bragança: 70€/h mão obra + 30 € deslocação + material. ±15% é normal.
 
 ### 4. Posso negociar preço?
 **Sim, mas com cuidado.** Negociar 5-10% ok. Mais que isso: risco qualidade. Melhor negociar condições (pagamento, prazos) que preço.
@@ -691,7 +691,7 @@ Não escolher automaticamente mais barato. Avaliar conjunto (qualidade + preço 
 ✅ Preços transparentes
 ✅ Atendemos 24h/7d urgências
 
-**WhatsApp:** [Orçamento gratuito](https://wa.me/351928484451?text=Preciso orçamento canalizador)
+**WhatsApp:** [Orçamento por escrito](https://wa.me/351928484451?text=Preciso orçamento canalizador)
 
 ---
 

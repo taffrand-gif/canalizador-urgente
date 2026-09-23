@@ -229,7 +229,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 **Para:** Resíduos acumulados 
 **Eficácia:** 95% 
 **Custo:** €0 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Ferramentas:**
 - Balde
@@ -268,7 +268,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 1. Despeje bicarbonato pelo ralo
 2. Despeje vinagre (vai fazer espuma)
 3. Tape o ralo com pano molhado
-4. Deixe actuar conforme zona
+4. Deixe actuar conforme o caso
 5. Despeje água a ferver lentamente
 6. Deixe correr água fria 2 minutos
 
@@ -286,7 +286,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 **Como fazer:**
 1. Dilua 100ml de lixívia em 1 litro de água
 2. Despeje lentamente pelo ralo
-3. Deixe actuar conforme zona
+3. Deixe actuar conforme o caso
 4. Enxague com água abundante (5 minutos)
 
 **⚠️ ATENÇÃO:**
@@ -319,7 +319,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 **Para:** Sifão rachado, mal instalado, muito antigo 
 **Eficácia:** 100% 
 **Custo:** €50-90 (profissional) 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Quando necessário:**
 - Sifão com mais de 15 anos
@@ -341,7 +341,7 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 **Para:** Problema de ventilação (vários ralos) 
 **Eficácia:** 100% 
 **Custo:** €150-300 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Solução:** **CHAMAR PICHELEIRO**
 

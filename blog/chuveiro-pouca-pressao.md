@@ -201,13 +201,13 @@ keywords: ["chuveiro pouca pressão", "aumentar pressão chuveiro", "chuveiro en
 1. Encher saco plástico vinagre
 2. Colocar chuveiro dentro saco
 3. Prender com elástico
-4. Deixar conforme zona (ou noite)
+4. Deixar conforme o caso (ou noite)
 5. Remover saco
 6. Escovar furos (escova dentes velha)
 7. Enxaguar água quente
 8. Testar
 
-**Custo**: €0 + conforme zona espera
+**Custo**: €0 + conforme o caso espera
 
 **Alternativa**: Desmontar chuveiro, mergulhar vinagre
 
@@ -442,7 +442,7 @@ keywords: ["chuveiro pouca pressão", "aumentar pressão chuveiro", "chuveiro en
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Stock peças
 - Garantia serviço

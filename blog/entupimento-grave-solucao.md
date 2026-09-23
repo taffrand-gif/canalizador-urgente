@@ -198,7 +198,7 @@ keywords: ["entupimento grave", "desentupir canalização", "canalizador urgente
 - ✅ 90% dos entupimentos
 
 **Custo**: €100-250
-**Tempo**: conforme zona
+**Tempo**: conforme o caso
 
 ### 2. Mola Desentupidora Profissional
 
@@ -235,7 +235,7 @@ keywords: ["entupimento grave", "desentupir canalização", "canalizador urgente
 - Canalização enterrada
 
 **Custo**: €120-200
-**Tempo**: conforme zona
+**Tempo**: conforme o caso
 
 ### 4. Substituição de Troço
 
@@ -252,7 +252,7 @@ keywords: ["entupimento grave", "desentupir canalização", "canalizador urgente
 4. Teste pressão e estanquidade
 
 **Custo**: €300-1500 (depende acesso)
-**Tempo**: conforme zona
+**Tempo**: conforme o caso
 
 ## 💰 Custos Comparados
 
@@ -334,7 +334,7 @@ keywords: ["entupimento grave", "desentupir canalização", "canalizador urgente
 - Taxa sucesso 98%
 
 ### Resposta Ultra-Rápida
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Emergências são prioridade máxima
 
@@ -362,7 +362,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=Entupimento%20grave%20urgente)**
 
-**Atendemos 24h/7 dias garantida. Chegada conforme zona.**
+**Atendemos 24h/7 dias garantida. Chegada conforme o caso.**
 
 ---
 
@@ -372,7 +372,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **€80-250** para maioria dos casos. Simples: €80-120. Hidrojato: €100-250. Substituição: €300-1500.
 
 ### Quanto tempo demora?
-**30min-2h** para desentupimento normal. Substituição cano: conforme zona.
+**30min-2h** para desentupimento normal. Substituição cano: conforme o caso.
 
 ### Produtos químicos funcionam?
 **Raramente** em entupimentos graves. Taxa sucesso 30-50% e danificam canos antigos.

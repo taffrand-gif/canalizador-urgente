@@ -48,7 +48,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Vedante novo (2-5€)
 - Pano
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Fechar torneira corte
@@ -80,7 +80,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Pano
 - Luvas (opcional)
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Colocar balde sob sifão
@@ -110,7 +110,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Gancho cabelos (5€) ou arame
 - Luvas
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Remover grelha ralo
@@ -138,7 +138,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Flexível novo (10-20€)
 - Fita teflon
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Fechar água
@@ -163,7 +163,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 **Ferramentas necessárias:**
 - Nenhuma (mãos)
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Abrir autoclismo
@@ -192,7 +192,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Fita teflon
 - Silicone (se bancada)
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Fechar água
@@ -228,7 +228,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Mecanismo novo (40-80€)
 - Esponja (secar)
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Fechar água
@@ -263,7 +263,7 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 - Luvas
 - Balde
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Passo a passo:**
 1. Colocar ventosa sobre saída
@@ -635,7 +635,7 @@ Se fizer 3+ reparações/ano, kit paga-se.
 
 **Ligue agora: 928 484 451**
 
-✅ Orçamento gratuito
+✅ Orçamento por escrito
 ✅ Conselho se DIY viável
 ✅ Reparação profissional se necessário
 ✅ Garantia 12 meses

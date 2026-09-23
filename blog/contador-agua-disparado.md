@@ -151,7 +151,7 @@ keywords: ["contador água disparado", "conta água alta", "fuga água escondida
  - Ponteiros vermelhos (litros)
  - Fotografar
 
-3. **Esperar conforme zona**
+3. **Esperar conforme o caso**
  - Não usar água
  - Ninguém usa
 
@@ -411,7 +411,7 @@ keywords: ["contador água disparado", "conta água alta", "fuga água escondida
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Conta alta = prioridade
 - Câmara térmica disponível
@@ -430,7 +430,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Contador%20água%20disparado)**
 
-**Atendemos 24h/7 dias garantida. Câmara térmica disponível. Chegada conforme zona.**
+**Atendemos 24h/7 dias garantida. Câmara térmica disponível. Chegada conforme o caso.**
 
 ---
 

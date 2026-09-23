@@ -82,7 +82,7 @@ Urgência de canalização requer ação imediata mas CALMA. Este guia explica o
 - Instruções específicas
 - SMS confirmação
 
-### PASSO 4: MINIMIZAR DANOS (conforme zona)
+### PASSO 4: MINIMIZAR DANOS (conforme o caso)
 
 **Se fuga água:**
 - Colocar baldes/alguidares
@@ -211,7 +211,7 @@ Problema localizado (ex: só casa banho).
 - Águas do Norte: 808 202 570
 - Verificar distribuidora local
 
-**Prazo:** conforme zona (conforme disponibilidade).
+**Prazo:** conforme o caso (conforme disponibilidade).
 
 ## 8 Erros FATAIS a Evitar
 
@@ -602,13 +602,13 @@ Balde (se urgência extrema).
 ## Perguntas Frequentes
 
 ### 1. Quanto tempo canalizador demora chegar?
-**conforme zona** conforme localização. Bragança: 15-40 min. Zonas afastadas: até 90 min. Tempo exato informado na chamada.
+**conforme o caso** conforme localização. Bragança: 15-40 min. Zonas afastadas: até 90 min. Tempo exato informado na chamada.
 
 ### 2. Posso sair casa enquanto espero?
 **Não recomendado.** Canalizador precisa acesso e aprovação orçamento. Se sair: deixar chaves vizinho e avisar.
 
 ### 3. Quanto custa urgência?
-**Dias úteis:** 65€/h + deslocação. **Noite/domingo:** 97,50-135€/h + deslocação. Orçamento antes começar.
+**Dias úteis:** 70€/h + deslocação. **Noite/domingo:** 97,50-135€/h + deslocação. Orçamento antes começar.
 
 ### 4. E se não tiver dinheiro agora?
 **Avisar no telefone.** Alguns aceitam MB Way, transferência ou pagamento posterior (clientes conhecidos).
@@ -620,7 +620,7 @@ Balde (se urgência extrema).
 **Depende apólice.** Maioria cobre danos súbitos (rotura). Verificar condições. Documentar TUDO (fotos).
 
 ### 7. E se problema for à noite?
-**Ligar mesmo assim.** Serviço 24h disponível. Urgências não esperam. Preço noturno +50%.
+**Ligar mesmo assim.** Serviço 24h disponível. Urgências não esperam. À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 ### 8. Posso fechar só água quente?
 **Sim, se válvula existe.** Geralmente junto esquentador. Permite usar água fria enquanto espera.

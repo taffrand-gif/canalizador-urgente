@@ -12,7 +12,7 @@ Tudo o que precisa saber sobre contratar um eletricista em Bragança. Preços, c
 
 ## Cobertura e tempo de resposta em Bragança
 
-Bragança é a nossa Zona 3 (deslocação 30€, hora a 85€). Tempo médio de chegada: 34 minutos. Cobrimos todas as freguesias: Sé, Santa Maria, São Vicente, Meixedo, Mós, Coelhoso, e arredores. Para emergências, podemos estar no local em conforme zona.
+Dias úteis (9h–17h): mão de obra 70 €/hora e deslocação 30 €. Noite (17h–9h), fins de semana e feriados: 100 €/hora e deslocação 50 €. Tempo médio de chegada: 34 minutos. Cobrimos todas as freguesias: Sé, Santa Maria, São Vicente, Meixedo, Mós, Coelhoso, e arredores. Para emergências, podemos estar no local em conforme o caso.
 
 ## Problemas elétricos mais frequentes em Bragança
 
@@ -20,7 +20,7 @@ Bragança tem muitas casas antigas com instalações elétricas obsoletas — pr
 
 ## Preços eletricista em Bragança
 
-Diagnóstico elétrico a partir de 90€, substituição de quadro elétrico a partir de 280€ (inclui certificação), avaria urgente a partir de 110€, iluminação LED a partir de 75€. Todos os preços incluem deslocação na Zona 3.
+Diagnóstico elétrico a partir de 100€ (150 € noite/fim de semana), substituição de quadro elétrico a partir de 280€ (inclui certificação), avaria urgente a partir de 100€ (150 € noite/fim de semana), iluminação LED a partir de 75€. Todos os preços incluem deslocação.
 
 ## Certificação elétrica em Bragança
 

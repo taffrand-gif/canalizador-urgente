@@ -48,7 +48,7 @@ priority: "CRITICAL"
 
 **Se água longe de eletricidade:** Pode deixar ligada.
 
-### Passo 3: CONTENHA A ÁGUA (conforme zona)
+### Passo 3: CONTENHA A ÁGUA (conforme o caso)
 
 **Minimize danos:**
 
@@ -69,9 +69,9 @@ priority: "CRITICAL"
 - Gravidade (goteja, jorra, inunda)
 - Se conseguiu fechar a água
 
-**Tempo de chegada:** conforme zona
+**Tempo de chegada:** conforme o caso
 
-### Passo 5: DOCUMENTE OS DANOS (conforme zona)
+### Passo 5: DOCUMENTE OS DANOS (conforme o caso)
 
 **Para seguro:**
 
@@ -234,7 +234,7 @@ priority: "CRITICAL"
 4. Testar pressão
 
 **Custo:** €80-250 (dependendo do acesso e material) 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Opção B: Substituir Cano Completo**
 
@@ -244,7 +244,7 @@ priority: "CRITICAL"
 - Corrosão generalizada
 
 **Custo:** €150-800 (dependendo do comprimento e acesso) 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Opção C: Substituir Tubagem da Casa**
 
@@ -382,7 +382,7 @@ Depende da apólice. Geralmente cobre danos consequentes (móveis, paredes) mas 
 Arranjo temporária: sim (fita, abraçadeira). Arranjo definitiva: recomendo profissional (soldadura, pressão, garantia). Arranjo mal feita pode causar nova fuga.
 
 **4. Quanto tempo demora a arranjar?**
-Arranjo simples (secção acessível): conforme zona. Cano em parede: conforme zona. Substituir tubagem completa: 2-5 dias.
+Arranjo simples (secção acessível): conforme o caso. Cano em parede: conforme o caso. Substituir tubagem completa: 2-5 dias.
 
 **5. Como sei se cano vai rebentar?**
 Sinais: manchas humidade, ferrugem, pequenas fugas, pressão irregular, ruídos, canos oxidados. Se notar, chame picheleiro preventivamente (mais barato que emergência).
@@ -403,9 +403,9 @@ Cano rebentado é **emergência que requer ação imediata**:
 **5 Passos de Emergência:**
 1. Feche a água (30 segundos)
 2. Desligue eletricidade se necessário (1 minuto)
-3. Contenha água (conforme zona)
+3. Contenha água (conforme o caso)
 4. Ligue picheleiro urgente (2 minutos)
-5. Documente danos (conforme zona)
+5. Documente danos (conforme o caso)
 
 **Causas principais:**
 - Congelamento (50% no inverno)

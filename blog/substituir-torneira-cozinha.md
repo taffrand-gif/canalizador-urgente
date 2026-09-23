@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **A torneira da cozinha está a pingar, partida ou desatualizada?** Substituir uma torneira de cozinha é um trabalho relativamente simples que pode fazer sozinho ou com ajuda profissional. Neste guia completo, vou mostrar-lhe **como substituir torneira de cozinha em 8 passos**, com todos os detalhes sobre tipos, custos e ferramentas necessárias.
 
-> ⚠️ **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Instalação rápida em conforme zona, garantia incluída.
+> ⚠️ **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Instalação rápida em conforme o caso, garantia incluída.
 
 ## 🔍 Tipos de Torneiras de Cozinha
 
@@ -127,7 +127,7 @@ priority: "HIGH DEMAND"
 
 ## 🔧 Passo a Passo: Como Substituir Torneira
 
-### Preparo (conforme zona)
+### Preparo (conforme o caso)
 
 **1. Feche a água**
 - Localize as torneiras de corte debaixo do lava-loiça
@@ -146,7 +146,7 @@ priority: "HIGH DEMAND"
 - Não deve sair água
 - Se sair, verifique se fechou as torneiras corretas
 
-### Remoção da Torneira Velha (conforme zona)
+### Remoção da Torneira Velha (conforme o caso)
 
 **Passo 1: Desligar os tubos flexíveis**
 
@@ -158,7 +158,7 @@ priority: "HIGH DEMAND"
 
 **Dica:** Se as porcas estiverem muito apertadas ou oxidadas:
 - Aplique WD-40 ou óleo penetrante
-- Aguarde conforme zona
+- Aguarde conforme o caso
 - Tente novamente com mais força
 - Use alicate de pressão se necessário
 
@@ -177,7 +177,7 @@ priority: "HIGH DEMAND"
 - Use chave de impacto (se tiver)
 - Última opção: cortar a porca com serra de metais (cuidado!)
 
-### Instalação da Torneira Nova (conforme zona)
+### Instalação da Torneira Nova (conforme o caso)
 
 **Passo 3: Preparar a torneira nova**
 
@@ -230,7 +230,7 @@ priority: "HIGH DEMAND"
 2. Verifique se há fugas nas ligações
 3. Se pingar, aperte mais um pouco
 4. Abra a torneira nova (primeiro fria, depois quente)
-5. Deixe correr conforme zona (limpa tubagem)
+5. Deixe correr conforme o caso (limpa tubagem)
 6. Verifique temperatura da água quente
 
 **Passo 8: Verificação completa**
@@ -270,7 +270,7 @@ priority: "HIGH DEMAND"
 
 **Total DIY:** €55-290
 
-**Tempo necessário:** conforme zona (primeira vez)
+**Tempo necessário:** conforme o caso (primeira vez)
 
 **Vantagens:**
 ✅ Mais barato 
@@ -301,9 +301,9 @@ priority: "HIGH DEMAND"
 ✅ Limpeza após trabalho 
 ✅ Teste completo de funcionamento
 
-**Tempo de instalação:** conforme zona
+**Tempo de instalação:** conforme o caso
 
-> 💡 **Quer instalação profissional?** Picheleiro em Bragança: **[928 484 451](tel:+351928484451)** — Orçamento grátis, garantia incluída.
+> 💡 **Quer instalação profissional?** Picheleiro em Bragança: **[928 484 451](tel:+351928484451)** — Orçamento por escrito, garantia incluída.
 
 ## ⚠️ Problemas Comuns e Soluções
 
@@ -407,7 +407,7 @@ Quase sempre sim, mas verifique: (1) número de furos no lava-loiça (1 furo = m
 Não é obrigatório. É um trabalho relativamente simples que pode fazer sozinho. MAS se: (1) não tem experiência, (2) torneiras de corte não funcionam, (3) tubagem muito antiga, então recomendo profissional.
 
 **3. Quanto tempo demora a instalar uma torneira?**
-DIY primeira vez: conforme zona. DIY com experiência: conforme zona. Profissional: conforme zona. Pode demorar mais se houver problemas (porcas oxidadas, tubagem antiga).
+DIY primeira vez: conforme o caso. DIY com experiência: conforme o caso. Profissional: conforme o caso. Pode demorar mais se houver problemas (porcas oxidadas, tubagem antiga).
 
 **4. A torneira nova pinga, é normal?**
 Não. Se pinga nas primeiras horas, pode ser água residual na tubagem (normal). Se continuar após 24h, há problema: fuga na base, ligações mal apertadas, ou torneira defeituosa. Verifique todas as ligações.
@@ -439,8 +439,8 @@ Substituir uma torneira de cozinha é um trabalho **relativamente simples** que 
 8. Verifique fugas e ajuste se necessário
 
 **Custos:**
-- DIY: €55-290 (conforme zona)
-- Profissional: €130-350 (conforme zona, com garantia)
+- DIY: €55-290 (conforme o caso)
+- Profissional: €130-350 (conforme o caso, com garantia)
 
 **Manutenção:** Limpeza regular + vinagre para calcário = 10-15 anos de vida útil
 
@@ -451,11 +451,11 @@ Substituir uma torneira de cozinha é um trabalho **relativamente simples** que 
 📞 **Ligue agora: [928 484 451](tel:+351928484451)** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20substituir%20a%20torneira%20da%20cozinha.%20Pode%20ajudar%3F)**
 
-✅ Instalação rápida (conforme zona) 
+✅ Instalação rápida (conforme o caso) 
 ✅ Garantia 1-2 anos no serviço 
 ✅ Fornecemos torneiras de qualidade 
-✅ Orçamento grátis sem compromisso 
-✅ Técnico em sua casa em conforme zona 
+✅ Orçamento por escrito sem compromisso 
+✅ Técnico em sua casa em conforme o caso 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Torneira a pingar desperdiça 30-50 litros/dia!** Não deixe o problema piorar. Contacte-nos já.

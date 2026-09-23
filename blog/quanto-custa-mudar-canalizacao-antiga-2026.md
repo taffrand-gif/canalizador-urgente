@@ -7,7 +7,7 @@ category: "Renovação"
 excerpt: "Guia completo preços mudar canalização antiga 2026: quando necessário, materiais, processo, prazos. T1 a T4+, preços reais Trás-os-Montes."
 image: "/images-optimized/blog/blog-renovacao-canalizacao.webp"
 metaTitle: "Quanto Custa Mudar Canalização Antiga 2026 | Preços"
-metaDescription: "Mudar canalização: T2 2500-4000€, T3 3500-6000€, T4 5000-8500€. Inclui material, mão obra, testes. Prazo 3-7 dias. Orçamento grátis 928 484 451!"
+metaDescription: "Mudar canalização: T2 2500-4000€, T3 3500-6000€, T4 5000-8500€. Inclui material, mão obra, testes. Prazo 3-7 dias. Orçamento por escrito 928 484 451!"
 keywords: ["quanto custa mudar canalização", "renovar canalização antiga", "substituir tubos", "preço canalização nova"]
 ---
 
@@ -123,7 +123,7 @@ Mudar canalização antiga custa entre 2.500€ (T1) e 8.500€+ (T4+) em 2026. 
 - Valoriza imóvel
 - Tranquilidade
 
-**Poupança:** Renovação planeada vs urgência (poupa 20-30%).
+Noite, fim de semana e feriado: 100 €/hora + deslocação 50 €
 
 **2. Compra Casa Antiga**
 - Canalização original
@@ -311,7 +311,7 @@ Mudar canalização antiga custa entre 2.500€ (T1) e 8.500€+ (T4+) em 2026. 
 - Assinar contrato
 - Agendar início
 
-**Custo:** Orçamento gratuito
+**Custo:** Orçamento por escrito
 
 **Prazo:** 2-3 dias úteis
 
@@ -335,7 +335,7 @@ Mudar canalização antiga custa entre 2.500€ (T1) e 8.500€+ (T4+) em 2026. 
 - Desligar esquentador
 - Proteger aparelhos (se reutilizar)
 
-**Duração:** conforme zona
+**Duração:** conforme o caso
 
 ### FASE 3: Demolição (Dia 1 Tarde)
 
@@ -351,7 +351,7 @@ Mudar canalização antiga custa entre 2.500€ (T1) e 8.500€+ (T4+) em 2026. 
 - Limpar área
 - Preparar para nova
 
-**Duração:** conforme zona
+**Duração:** conforme o caso
 
 **Entulho:** 200-500 kg (conforme tamanho)
 
@@ -623,7 +623,7 @@ Mudar canalização antiga custa entre 2.500€ (T1) e 8.500€+ (T4+) em 2026. 
 
 **Ligue agora: 928 484 451**
 
-✅ Orçamento gratuito sem compromisso
+✅ Orçamento por escrito sem compromisso
 ✅ Visita técnica incluída
 ✅ Materiais certificados
 ✅ Equipa experiente

@@ -1,7 +1,7 @@
 # Norte Reparos — Canalizador Urgente em Trás-os-Montes
 
 > Serviço de canalizador urgente 24h/7d em Trás-os-Montes, pelo técnico Filipe Bragança, com equipamento profissional (Ridgid FlexShaft K9-102, câmara CCTV, câmara térmica FLIR, ROLeak Aqua 3Plus, fluorosceína UV) e materiais Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval.
-> Última atualização: 2026-07-28 · Source grille prix: PRICING-CANONIQUE.md (Z1=15€ · Z2=25€ · Z3=35€ · Z4=45€ · Z5=55€ · Z6=65€ · 65 €/h canal · +50% nuit/WE/feriado)
+> Última atualização: 2026-07-28 · Source grille prix: PRICING-CANONIQUE.md (deslocação 30 € em dias úteis e 50 € à noite, fins de semana e feriados · 70 €/h canal · À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 ## Serviços
 
@@ -15,7 +15,7 @@
 
 ## Preços
 
-Grille officielle Nord Reparos: mão de obra **65 €/h** (canalizador) + deslocação **Z1=15€ · Z2=25€ · Z3=35€ · Z4=45€ · Z5=55€ · Z6=65€** (selon distance routière calculée depuis notre base, ~130 km rayon opérationnel). Acréscimo +50% noite (20h-8h), fim de semana e feriados. Orçamento por escrito antes de qualquer intervenção. Voir: [precos.html](https://canalizador-urgente.pt/precos.html)
+Grille officielle Nord Reparos: mão de obra **70 €/h** (canalizador) + deslocação **30 € em dias úteis e 50 € à noite, fins de semana e feriados** (selon distance routière calculée depuis notre base, ~130 km rayon opérationnel). À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €. Orçamento por escrito antes de qualquer intervenção. Voir: [precos.html](https://canalizador-urgente.pt/precos.html)
 
 ## Identidade
 - **Marca:** Norte Reparos (empresa técnica multi-sites)
@@ -30,14 +30,9 @@ Grille officielle Nord Reparos: mão de obra **65 €/h** (canalizador) + desloc
 
 | Zona | Distância aprox. | Deslocação | Mão de obra |
 |---|---|---|---|
-| **Z1** | 0–15 km | **15 €** | **65 €/h** |
-| **Z2** | 15–30 km | **25 €** | **65 €/h** |
-| **Z3** | 30–50 km | **35 €** | **65 €/h** |
-| **Z4** | 50–70 km | **45 €** | **65 €/h** |
-| **Z5** | 70–90 km | **55 €** | **65 €/h** |
-| **Z6** | 90–140 km | **65 €** | **65 €/h** |
-
-- **Acréscimo** noturno (20h–8h), fins de semana e feriados: **+50 %**
+| Dias úteis (9h–17h) | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | 30 € + 70 €/hora |
+| Noite (17h–9h), fins de semana e feriados | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | 50 € + 100 €/hora |
+Noite, fim de semana e feriado: 100 €/hora + deslocação 50 €
 - **Orçamento por escrito** antes de qualquer intervenção, sem surpresas
 - **Fatura** com NIF emitida no final de cada trabalho
 - **Seguro** de responsabilidade civil profissional
@@ -59,16 +54,16 @@ Grille officielle Nord Reparos: mão de obra **65 €/h** (canalizador) + desloc
 ## Perguntas frequentes
 
 **Quanto custa um canalizador de urgência em Trás-os-Montes?**
-Mão de obra 65 €/h + deslocação por zona Z1-Z6 (15 € a 65 €). Acréscimo de 50 % fora do horário normal. Orçamento por escrito antes da intervenção.
+Dias úteis (9h–17h): mão de obra 70 €/hora e deslocação 30 €. Noite (17h–9h), fins de semana e feriados: 100 €/hora e deslocação 50 €. À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €. Orçamento por escrito antes da intervenção.
 
-**Fazem orçamento grátis?**
+**Fazem orçamento por escrito?**
 Sim, orçamento por telefone e por escrito, sem compromisso, antes de qualquer intervenção.
 
 **Quanto tempo demora a chegada?**
 A deslocação é confirmada por telefone antes da intervenção. O tempo de chegada depende da zona — confirmamos a previsão ao telefone.
 
 **Trabalham de noite e ao fim de semana?**
-Sim, 24h/7d incluindo feriados. Acréscimo de +50 % aplicado de forma transparente.
+Sim, 24h/7d incluindo feriados. À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 **Emitem fatura?**
 Sim, fatura com NIF emitida no final de cada trabalho. Diagnóstico disponível para seguradoras.

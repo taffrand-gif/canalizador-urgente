@@ -417,7 +417,7 @@ keywords: ["infiltrações parede", "humidade parede", "bolor parede", "pichelei
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Urgências infiltração prioritárias
 

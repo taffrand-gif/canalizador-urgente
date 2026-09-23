@@ -543,7 +543,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 - Sistemas de aquecimento
 - Proteção contra refluxo de esgoto
 
-**Instalação simples:** conforme zona (profissional) ou DIY se tem experiência.
+**Instalação simples:** conforme o caso (profissional) ou DIY se tem experiência.
 
 **Investimento:** €15-60 (válvula) + €40-80 (instalação) = €55-140 total
 
@@ -553,7 +553,7 @@ Em Trás-os-Montes, onde muitas casas têm bombas de água (poços, furos) ou es
 ✅ Instalação de válvulas de retenção 
 ✅ Sistemas de bombagem de água 
 ✅ Manutenção de bombas 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Garantia de 2 anos 
 
 **📞 Ligue Agora:** [928 484 451](tel:+351928484451) 

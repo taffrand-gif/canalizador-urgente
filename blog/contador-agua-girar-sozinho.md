@@ -225,7 +225,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 
 ---
 
-### Método 4: Deteção Profissional (conforme zona)
+### Método 4: Deteção Profissional (conforme o caso)
 
 **Quando chamar profissional:**
 - Não consegue localizar fuga
@@ -408,7 +408,7 @@ Em Trás-os-Montes, onde muitas casas têm canalizações antigas (30-40 anos), 
 ✅ Arranjo de fugas invisíveis 
 ✅ Substituição de autoclismos e torneiras 
 ✅ Instalação de redutores de pressão 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Emergências 24h/7 dias 
 
 **📞 Ligue Agora:** [928 484 451](tel:+351928484451) 

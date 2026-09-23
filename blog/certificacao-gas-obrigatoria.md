@@ -133,22 +133,22 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 **Esquentador** (instalação simples):
 - Inspeção + certificado: €150-250
 - Inclui: teste estanquidade, combustão, ventilação
-- Tempo: conforme zona
+- Tempo: conforme o caso
 
 **Esquentador + Fogão**:
 - Inspeção + certificado: €200-300
 - 2 aparelhos
-- Tempo: conforme zona
+- Tempo: conforme o caso
 
 **Caldeira aquecimento**:
 - Inspeção + certificado: €250-400
 - Mais complexa
-- Tempo: conforme zona
+- Tempo: conforme o caso
 
 **Sistema completo** (caldeira + fogão + outros):
 - Inspeção + certificado: €300-500
 - Múltiplos aparelhos
-- Tempo: conforme zona
+- Tempo: conforme o caso
 
 ### Instalação Nova (Sem Instalação)
 
@@ -180,23 +180,23 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 ### Com Instalação Conforme
 
-**Inspeção**: conforme zona
+**Inspeção**: conforme o caso
 **Emissão certificado**: 2-5 dias úteis
 **Registo **: Automático
 **Total**: 3-7 dias
 
 ### Com Correções Necessárias
 
-**Inspeção inicial**: conforme zona
+**Inspeção inicial**: conforme o caso
 **Correções**: 1-3 dias
-**Reinspeção**: conforme zona
+**Reinspeção**: conforme o caso
 **Certificado**: 2-5 dias
 **Total**: 5-12 dias
 
 ### Urgente
 
-**Serviço expresso**: +50% custo
-**Prazo**: conforme zona (se instalação OK)
+Noite, fim de semana e feriado: 100 €/hora + deslocação 50 €
+**Prazo**: conforme o caso (se instalação OK)
 
 ## 🔍 Processo Certificação Passo a Passo
 
@@ -209,7 +209,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 📞 **Norte Reparos**: +351 928 484 451
 
-### Passo 2: Visita Técnica (conforme zona)
+### Passo 2: Visita Técnica (conforme o caso)
 
 **Técnico verifica**:
 - Instalação existente
@@ -225,7 +225,7 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 - Corrigir tubagem
 - Melhorar ventilação
 
-### Passo 4: Testes (conforme zona)
+### Passo 4: Testes (conforme o caso)
 
 **Técnico realiza**:
 - Teste estanquidade (fugas)
@@ -419,14 +419,14 @@ keywords: ["certificação gás", "certificado gás", "instalação gás", "cana
 
 ### Preços Transparentes
 
-- Orçamento grátis
+- Orçamento por escrito
 - Sem surpresas
 - Garantia trabalhos
 - Pagamento após certificado
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - Serviço expresso disponível
 - Certificado em 3-7 dias
 
@@ -440,7 +440,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ## 💬 Contacte-nos Agora
 
-### Orçamento Grátis
+### Orçamento por Escrito
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Certificação%20gás%20orçamento)**
 
@@ -457,7 +457,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **€150-250** (esquentador). **€200-300** (esquentador + fogão). **€250-400** (caldeira). Depende de complexidade.
 
 ### Quanto tempo demora?
-**3-7 dias** se instalação conforme. **5-12 dias** se precisa correções. Expresso: 24-48h (+50% custo).
+**3-7 dias** se instalação conforme. **5-12 dias** se precisa correções. À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 ### Certificação gás expira?
 **Não**. Certificado é permanente. Mas se fizer alterações, precisa novo certificado.
@@ -473,6 +473,6 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ---
 
-**Precisa certificação gás? Orçamento grátis Atendemos 24h/7 dias.**
+**Precisa certificação gás? Orçamento por escrito Atendemos 24h/7 dias.**
 
 📞 +351 928 484 451 | 💬 WhatsApp | 🌐 canalizador-norte-reparos.pt

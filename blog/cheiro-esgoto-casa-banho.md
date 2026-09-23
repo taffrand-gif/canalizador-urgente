@@ -263,7 +263,7 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 3. Se persistir → outra causa
 
 **Solução:**
-- **Limpeza profunda:** €0 (DIY, conforme zona)
+- **Limpeza profunda:** €0 (DIY, conforme o caso)
 - **Produtos antibacterianos:** €5-15
 - **Limpeza profissional:** €60-120
 - **Dificuldade:** Fácil
@@ -421,7 +421,7 @@ Problema geral: ventilação (50%), fossa (40%), rede (10%). Chame picheleiro.
 Temporariamente sim (mata bactérias). Mas não resolve causa raiz (sifão seco, fuga, etc.).
 
 **7. Quanto tempo demora resolver?** 
-Sifão seco: 2 minutos. Limpar sifão: 30 minutos. Arranjar fuga: conforme zona. Instalar ventilação: 1-2 dias.
+Sifão seco: 2 minutos. Limpar sifão: 30 minutos. Arranjar fuga: conforme o caso. Instalar ventilação: 1-2 dias.
 
 **8. É perigoso respirar cheiro a esgoto?** 
 Curto prazo: desconfortável, pode causar náuseas. Longo prazo: pode ser tóxico. Resolva rapidamente.

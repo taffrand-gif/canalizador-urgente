@@ -4,14 +4,14 @@ slug: "agua-quente-demora-chegar"
 category: "Eficiência"
 date: "2026-03-04"
 author: "Norte Reparos"
-excerpt: "Água quente demora conforme zona a chegar? Descubra as 7 causas (distância 60%, canos frios 25%, esquentador lento 10%) e soluções: bomba recirculação, isolamento, termoacumulador em Trás-os-Montes."
+excerpt: "Água quente demora conforme o caso a chegar? Descubra as 7 causas (distância 60%, canos frios 25%, esquentador lento 10%) e soluções: bomba recirculação, isolamento, termoacumulador em Trás-os-Montes."
 keywords: ["água quente demora", "água quente lenta", "bomba recirculação", "isolamento canos", "picheleiro Trás-os-Montes", "água quente instantânea", "termoacumulador"]
 priority: "HIGH DEMAND"
 ---
 
 # Água Quente Demora a Chegar? 7 Causas e Soluções
 
-**Abre a torneira de água quente e espera conforme zona até sair quente?** Este é um dos problemas mais frustrantes e desperdiçadores em casa - especialmente no inverno de Trás-os-Montes, onde água fria pode estar a 5°C.
+**Abre a torneira de água quente e espera conforme o caso até sair quente?** Este é um dos problemas mais frustrantes e desperdiçadores em casa - especialmente no inverno de Trás-os-Montes, onde água fria pode estar a 5°C.
 
 Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre torneira) e **energia** (água fria nos canos arrefece). Mas tem soluções eficazes, desde simples (isolamento) até avançadas (bomba de recirculação).
 
@@ -419,7 +419,7 @@ Além do incómodo, **desperdiça água** (10-30 litros por cada vez que abre to
 ✅ Instalação de bombas de recirculação 
 ✅ Instalação de termoacumuladores 
 ✅ Reconfiguração de instalações 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 
 **📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20a%20água%20quente%20demora%20muito%20a%20chegar!) 

@@ -126,7 +126,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 - Água dura na região
 
 **Solução**:
-- **Descalcificação vinagre**: €0-3 (conforme zona)
+- **Descalcificação vinagre**: €0-3 (conforme o caso)
 - **Produtos anti-calcário**: €5-10
 - **Substituir peças**: €15-40
 
@@ -191,13 +191,13 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 7. Reinstale mecanismo
 8. Teste
 
-### Arranjo 4: Descalcificação (conforme zona)
+### Arranjo 4: Descalcificação (conforme o caso)
 
 **Método vinagre**:
 1. Feche água
 2. Esvazie autoclismo
 3. Despeje 1-2 litros vinagre branco
-4. Deixe atuar conforme zona
+4. Deixe atuar conforme o caso
 5. Escove peças com escova velha
 6. Enxague bem
 7. Abra água e teste
@@ -205,7 +205,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 **Método produtos químicos**:
 - Produtos anti-calcário específicos (€5-10)
 - Seguir instruções embalagem
-- Mais rápido (conforme zona)
+- Mais rápido (conforme o caso)
 
 ## 💰 Custos Arranjo
 
@@ -330,7 +330,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 ✅ Tem ferramentas básicas
 ✅ Confortável com trabalhos manuais
 ✅ Problema simples (boia, borracha)
-✅ Tempo disponível (conforme zona)
+✅ Tempo disponível (conforme o caso)
 
 ### Chame Profissional Se:
 
@@ -347,7 +347,7 @@ keywords: ["autoclismo não para", "autoclismo corre", "arranjar autoclismo", "p
 ### Arranjo Rápida
 
 - Diagnóstico Atendemos 24h/7 dias
-- Arranjo em conforme zona
+- Arranjo em conforme o caso
 - Peças em stock (válvulas, mecanismos)
 
 ### Preços Transparentes
@@ -379,7 +379,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ## 💬 Contacte-nos
 
-### Orçamento Grátis
+### Orçamento por Escrito
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Autoclismo%20não%20para%20correr)**
 
@@ -399,7 +399,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **DIY**: €5-40. **Profissional**: €60-150. Muito mais barato que desperdiçar €150-300/ano.
 
 ### Quanto tempo dura arranjo?
-**DIY**: conforme zona. **Profissional**: conforme zona no local.
+**DIY**: conforme o caso. **Profissional**: conforme o caso no local.
 
 ### Vale a pena substituir autoclismo antigo?
 Se tem **15+ anos** e gasta 10-15L/descarga, **sim**. Dupla descarga (3L/6L) poupa €180/ano. Retorno: 1-2 anos.

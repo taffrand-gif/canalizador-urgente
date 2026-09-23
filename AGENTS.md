@@ -107,9 +107,9 @@ Une absence de règle = autorisé par défaut. La règle 10 dit : **en cas de do
 **Chaque page produite ou modifiée DOIT incarner, dans cet ordre** :
 
 1. **Transparence prix** (placée HAUT dans la page)
- - Grille affichée : **65 €/h** canal, **70 €/h** élec
- - Déplacement par zone : **Z1 = 15 € / Z2 = 25 € / Z3 = 35 € / Z4 = 45 € / Z5 = 55 € / Z6 = 65 €**
- - Majoration nuit/WE/feriado : **+50 %**
+ - Grille unique (23/09/2026, `PRICING.md`) : **70 €/h + deslocação 30 €** dias úteis 9h–17h · **100 €/h + deslocação 50 €** noite (17h–9h), fins de semana, feriados — canal ET élec
+ - Deslocação = preço único, qualquer localidade servida (plus de zones)
+ - Cada hora começada é devida
  - Phrase obligatoire : **"orçamento por escrito antes de qualquer intervenção, sem surpresas"**
 2. **Artisan local identifiable**
  - Phrase obligatoire : **"fala sempre com a mesma pessoa, não um call center"**
@@ -151,7 +151,7 @@ Moule de toutes les pages service/urgence — 2 métiers (canalização + eletri
 
 1. **H1 court** (le keyword).
 2. **Réponse-réflexe (1ʳᵉ phrase citable)** : répond directement à l'intention ET rassure sur le prix. Modèle urgence : *« Em caso de [problème] em [zona], intervimos com preço claro e orçamento por escrito antes de qualquer trabalho — sem surpresas na fatura. »*
-3. **Bloc Transparence prix** (HAUT de page) : la grille (65/70 €/h, Z1-Z6, +50 % nuit/WE/feriado) + « orçamento por escrito antes de qualquer intervenção ». → **répond à la peur n°1 avant tout**.
+3. **Bloc Transparence prix** (HAUT de page) : la grille (70 €/h + 30 € dias úteis · 100 €/h + 50 € noite/fins de semana/feriados) + « orçamento por escrito antes de qualquer intervenção ». → **répond à la peur n°1 avant tout**.
 4. **Bloc « Quem somos » (anti-société-écran)** : Norte Reparos, **Filipe Bragança**, artisan local + emplacement photo réelle (jamais de stock) + « fala sempre com a mesma pessoa » + fatura NIF / seguro RC / garantia escrita.
 5. **Le service** : Sintomas → Causas (avec angle local Trás-os-Montes : ferro galvanizado, construção antiga, gel hivernal) → Como resolvemos (méthode + équipement réel) → Quando chamar um profissional.
 6. **Prevenção / conseil** (valeur ajoutée que les clients recherchent).

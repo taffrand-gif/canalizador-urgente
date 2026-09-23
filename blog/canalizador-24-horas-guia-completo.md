@@ -7,7 +7,7 @@ category: "Urgências"
 excerpt: "Guia completo canalizador Atendemos 24h/7d: quando chamar, quanto custa, tempo resposta, o que esperar. Serviço urgente Trás-os-Montes."
 image: "/images-optimized/blog/blog-urgencia-24h.webp"
 metaTitle: "Canalizador Atendemos 24h/7d Trás-os-Montes | Guia 2026"
-metaDescription: "Canalizador 24h: 15-90min resposta, 65-135€/h conforme horário. Fugas, entupimentos, avarias urgentes. Disponível 365 dias. Ligue 928 484 451!"
+Mão de obra: 70 €/hora em dias úteis (9h–17h) e 100 €/hora à noite (17h–9h), fins de semana e feriados. Fugas, entupimentos, avarias urgentes. Disponível 365 dias. Ligue 928 484 451!"
 keywords: ["canalizador Atendemos 24h/7d", "canalizador urgente", "canalizador noite", "emergência canalização"]
 schema:
  type: "HowTo"
@@ -19,9 +19,9 @@ schema:
  value: "65-135"
 faqSchema:
  - question: "Quanto tempo demora canalizador 24h a chegar?"
- answer: "conforme zona em Bragança, conforme zona em Mirandela, até 90 minutos em zonas mais afastadas de Trás-os-Montes."
+ answer: "conforme o caso em Bragança, conforme o caso em Mirandela, até 90 minutos em zonas mais afastadas de Trás-os-Montes."
  - question: "Quanto custa canalizador Atendemos 24h/7d?"
- answer: "Dias úteis: 65€/h, Sábados: 80€/h, Domingos/feriados: 90€/h, Noite (20h-8h): 135€/h. Mais deslocação 30-60€."
+ Mão de obra: 70 €/hora em dias úteis (9h–17h) e 100 €/hora à noite (17h–9h), fins de semana e feriados. Mais deslocação 30-60€."
  - question: "Canalizador 24h trabalha feriados?"
  answer: "Sim, 365 dias por ano incluindo Natal, Ano Novo e todos os feriados. Preços iguais a domingos."
 ---
@@ -38,7 +38,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 **Cobertura:** Toda região Trás-os-Montes (Bragança, Mirandela, Macedo Cavaleiros, Chaves, Vila Real, Miranda do Douro).
 
-**Resposta:** conforme zona conforme localização.
+**Resposta:** conforme o caso conforme localização.
 
 **Tipos intervenção:** Fugas água, entupimentos, avarias esquentador/caldeira, rotura canalização, fossa séptica.
 
@@ -129,24 +129,20 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 | Período | Horário | Preço/Hora | Exemplo |
 |---------|---------|------------|---------|
-| **Dias Úteis Normal** | Seg-Sex 8h-20h | 65€/h | Terça 14h: 65€/h |
-| **Dias Úteis Noite** | Seg-Sex 20h-8h | 97,50€/h (+50%) | Quarta 23h: 97,50€/h |
+| **Dias Úteis Normal** | Seg-Sex 8h-20h | 70€/h | Terça 14h: 70€/h |
+| **Dias Úteis Noite** |  | Noite, fim de semana e feriado: 100 €/hora + deslocação 50 € | Quarta 23h: 97,50€/h |
 | **Sábado Normal** | Sáb 8h-20h | 80€/h | Sábado 15h: 80€/h |
-| **Sábado Noite** | Sáb 20h-8h | 120€/h (+50%) | Sábado 22h: 120€/h |
+| **Sábado Noite** |  | Noite, fim de semana e feriado: 100 €/hora + deslocação 50 € | Sábado 22h: 120€/h |
 | **Domingo/Feriado Normal** | Dom 8h-20h | 90€/h | Domingo 11h: 90€/h |
-| **Domingo/Feriado Noite** | Dom 20h-8h | 135€/h (+50%) | Domingo 1h: 135€/h |
+| **Domingo/Feriado Noite** |  | Noite, fim de semana e feriado: 100 €/hora + deslocação 50 € | Domingo 1h: 135€/h |
 
-### Deslocação por Zona
+Deslocação 30 € (50 € noite/fim de semana)
 
 | Zona | Localidades Principais | Preço | Tempo Chegada |
 |------|------------------------|-------|---------------|
-| **Zona 1** | Bragança centro, Gimonde, Rabal | 15€ | 10-20 min |
-| **Zona 2** | Izeda, Vinhais, Macedo arredores | 25€ | 20-35 min |
-| **Zona 3** | Macedo centro, Vimioso, Mogadouro | 35€ | 35-50 min |
-| **Zona 4** | Mirandela, Chaves arredores | 45€ | 50-75 min |
-| **Zona 5** | Miranda do Douro, Vila Real | 55€ | 75-90 min |
-
-*Deslocação cobrada 1 vez por intervenção. Horário noturno (20h-8h): +50% deslocação.*
+| Dias úteis (9h–17h) | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | 30 € + 70 €/hora |
+| Noite (17h–9h), fins de semana e feriados | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | Qualquer localidade servida | 50 € + 100 €/hora |
+*Deslocação cobrada 1 vez por intervenção. Dias úteis (9h–17h): mão de obra 70 €/hora e deslocação 30 €. Noite (17h–9h), fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 ## Exemplos Reais Intervenções 24h
 
@@ -163,7 +159,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 50 minutos
 
 **Custo:**
-- Deslocação Zona 1: 15€
+- Deslocação 30€
 - Mão obra domingo (0.83h): 75€
 - Material (abraçadeira, fita): 12€
 - **TOTAL: 102€**
@@ -180,7 +176,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 30 minutos
 
 **Custo:**
-- Deslocação Zona 4 noturna: 45€ + 50% = 67,50€
+Deslocação 30 € (50 € noite/fim de semana) · 70 €/hora (100 €/hora noite/fim de semana)
 - Mão obra noite (0.5h): 48,75€
 - Material: 0€
 - **TOTAL: 116,25€**
@@ -197,7 +193,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 50 minutos
 
 **Custo:**
-- Deslocação Zona 2: 25€
+- Deslocação 30€
 - Mão obra sábado (0.83h): 66,40€
 - Material (termóstato): 35€
 - **TOTAL: 126,40€**
@@ -216,7 +212,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 1h30
 
 **Custo:**
-- Deslocação Zona 3 noturna: 35€ + 50% = 52,50€
+Deslocação 30 € (50 € noite/fim de semana) · 70 €/hora (100 €/hora noite/fim de semana)
 - Mão obra noite (1.5h): 146,25€
 - Material (tubo, ligações, gesso): 45€
 - **TOTAL: 243,75€**
@@ -409,13 +405,13 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 ## Perguntas Frequentes Atendemos 24h/7d
 
 ### 1. Quanto tempo demoram a chegar?
-**conforme zona** conforme localização. Bragança e arredores: 15-40 min. Zonas afastadas: até 90 min. Tempo exato informado na chamada.
+**conforme o caso** conforme localização. Bragança e arredores: 15-40 min. Zonas afastadas: até 90 min. Tempo exato informado na chamada.
 
 ### 2. Trabalham mesmo Atendemos 24h/7d todos os dias?
 **Sim, 365 dias/ano.** Incluindo Natal, Ano Novo, feriados. Sempre alguém disponível.
 
 ### 3. Quanto custa urgência à noite?
-**Horário noturno (20h-8h):** +50% mão obra. Exemplo: dias úteis 65€/h → noite 97,50€/h. Deslocação também +50%.
+À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €. Exemplo: dias úteis 70€/h → noite 97,50€/h. Dias úteis (9h–17h): mão de obra 70 €/hora e deslocação 30 €. Noite (17h–9h), fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 ### 4. Posso ter orçamento antes de começar?
 **Sim, sempre.** Orçamento telefónico estimado na chamada. No local, orçamento exato ANTES começar trabalho. Só começa após aprovação.
@@ -424,7 +420,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 **Sim.** Aceitamos dinheiro, MB Way, Multibanco. Recibo imediato.
 
 ### 6. E se não conseguirem arranjar?
-**Raro (95% resolvido 1ª visita).** Se não resolver: não paga mão obra, apenas deslocação. Se precisar voltar com material especial: 2ª deslocação grátis.
+**Raro (95% resolvido 1ª visita).** Se não resolver: não paga mão obra, apenas deslocação. Se precisar voltar com material especial: 2ª deslocação a 30 € (dias úteis).
 
 ### 7. Dão garantia em urgências?
 **Sim, mesma garantia.** 12 meses mão obra, garantia fabricante material. Urgência não reduz garantia.

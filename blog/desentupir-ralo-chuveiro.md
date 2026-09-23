@@ -51,7 +51,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 1: Remoção Manual (Grátis)
 
 **Eficácia:** 40% dos casos leves 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Muito fácil
 
 **Como fazer:**
@@ -98,7 +98,7 @@ Antes de desentupir, é importante perceber as causas principais:
 2. Despeje o bicarbonato diretamente no ralo
 3. Despeje o vinagre por cima (vai fazer espuma)
 4. Tape o ralo com um pano húmido
-5. Aguarde conforme zona
+5. Aguarde conforme o caso
 6. Despeje 2 litros de água fervente
 7. Teste com água corrente
 
@@ -109,7 +109,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 4: Ventosa/Desentupidor (€5-15)
 
 **Eficácia:** 70% dos casos moderados 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Fácil
 
 **Como fazer:**
@@ -128,7 +128,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 5: Desentupidor Químico (€8-15)
 
 **Eficácia:** 75% dos casos moderados a graves 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Fácil
 
 **Produtos recomendados:**
@@ -155,7 +155,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 6: Mola Desentupidora Manual (€15-30)
 
 **Eficácia:** 85% dos casos graves 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Moderada
 
 **Material necessário:**
@@ -180,7 +180,7 @@ Antes de desentupir, é importante perceber as causas principais:
 ### Método 7: Desmontagem do Sifão (Profissional)
 
 **Eficácia:** 95% dos casos 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Difícil (recomenda-se profissional)
 
 **Quando necessário:**
@@ -204,7 +204,7 @@ Antes de desentupir, é importante perceber as causas principais:
 - Com substituição de peças: €100-200
 - Urgência 24h: +€30-50
 
-> 💡 **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Orçamento grátis, intervenção rápida.
+> 💡 **Precisa de ajuda profissional?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Orçamento por escrito, intervenção rápida.
 
 ## 💰 Comparação de Custos: DIY vs Profissional
 
@@ -317,8 +317,8 @@ O ralo do chuveiro entupido é um problema comum mas **facilmente resolvível** 
 💬 **WhatsApp: [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20desentupir%20o%20ralo%20do%20chuveiro.%20Pode%20ajudar%3F)**
 
 ✅ Atendemos 24h/7d (urgências) 
-✅ Orçamento grátis sem compromisso 
-✅ Técnico em sua casa em conforme zona 
+✅ Orçamento por escrito sem compromisso 
+✅ Técnico em sua casa em conforme o caso 
 ✅ Garantia de 6 meses no serviço 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 

@@ -159,7 +159,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 
 ## 📅 Rotina Manutenção
 
-### Diária (conforme zona)
+### Diária (conforme o caso)
 
 **Verificar**:
 - Nível água (skimmers 2/3 cheios)
@@ -183,7 +183,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 - Superfície (rede)
 - Linha água (escova)
 
-### Semanal (conforme zona)
+### Semanal (conforme o caso)
 
 **Limpeza profunda**:
 - Aspirar fundo (manual ou robot)
@@ -200,7 +200,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 **Filtro**:
 - Retrolavagem (backwash)
 - Enxaguar (rinse)
-- conforme zona
+- conforme o caso
 
 ### Quinzenal
 
@@ -574,7 +574,7 @@ keywords: ["manutenção piscina", "água verde", "pH piscina", "cloro piscina",
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - Urgências prioritárias
 - Stock produtos
 - Peças disponíveis

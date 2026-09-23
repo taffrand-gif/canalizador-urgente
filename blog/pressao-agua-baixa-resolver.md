@@ -135,7 +135,7 @@ priority: "HIGH DEMAND"
 3. Limpe calcário (vinagre 2 horas)
 4. Recoloque
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €0
 
 **Prevenção:** Limpar filtros a cada 6 meses
@@ -333,7 +333,7 @@ priority: "HIGH DEMAND"
 
 **Instalação:**
 - Picheleiro certificado
-- conforme zona
+- conforme o caso
 - **Custo total:** €200-500 (bomba + instalação)
 
 **Vantagens:**
@@ -484,7 +484,7 @@ R: Diagnóstico €60-120, bomba pressurizadora €230-700, substituir tubagem �
 - ✅ Instalação bomba pressurizadora €230-700
 - ✅ Solução definitiva e imediata
 - ✅ Garantia 12 meses
-- ✅ Orçamento grátis sem compromisso
+- ✅ Orçamento por escrito sem compromisso
 
 💬 **WhatsApp:** [Clique para resolver](https://wa.me/351928484451?text=Olá,%20tenho%20pressão%20de%20água%20baixa%20em%20casa)
 

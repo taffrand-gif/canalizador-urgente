@@ -236,7 +236,7 @@ Anel de borracha que veda base da torneira.
 - Feche torneira
 - Não deve pingar!
 
-**Tempo total:** conforme zona
+**Tempo total:** conforme o caso
 **Custo:** €2-5
 **Dificuldade:** Fácil
 
@@ -296,7 +296,7 @@ Anel de borracha que veda base da torneira.
 - Teste quente/frio
 - Verifique se não goteja
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €15-40
 **Dificuldade:** Média
 
@@ -479,7 +479,7 @@ R: Trocar anilha €40-80, trocar cartucho €60-120, substituir torneira €100
 
 ## Conclusão: Repare Hoje, Poupe €100-200/Ano
 
-**Torneira que goteja desperdiça €100-200/ano.** Arranjo DIY custa €2-40 e demora conforme zona. Anilha (€2) ou cartucho (€15-40) resolvem 90% dos casos. Não deixe dinheiro escorrer pelo ralo - repare hoje!
+**Torneira que goteja desperdiça €100-200/ano.** Arranjo DIY custa €2-40 e demora conforme o caso. Anilha (€2) ou cartucho (€15-40) resolvem 90% dos casos. Não deixe dinheiro escorrer pelo ralo - repare hoje!
 
 ### 🚨 Torneira Goteja? Precisa Ajuda?
 

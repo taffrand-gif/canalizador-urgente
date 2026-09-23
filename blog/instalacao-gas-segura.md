@@ -415,7 +415,7 @@ keywords: ["instalação gás", "certificação gás", "normas gás", "seguranç
 
 ### Resposta Urgente
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Fuga gás = prioridade máxima
 - Equipamento disponível

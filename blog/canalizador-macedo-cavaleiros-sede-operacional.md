@@ -20,7 +20,7 @@ A partir da nossa base no norte de Portugal, cobramos todo o concelho: Bornes, C
 
 ## Preços mais baixos para Macedo
 
-Por estarmos sediados aqui, os preços para clientes em Macedo de Cavaleiros são os mais baixos da nossa tabela. Zona 1: deslocação 20€ (ou incluída para o centro), hora a 80€. Para uma reparação típica de conforme zona, o valor total fica tipicamente entre 100€ e 200€ — incluindo tudo.
+Por estarmos sediados aqui, os preços para clientes em Macedo de Cavaleiros são os mais baixos da nossa tabela. deslocação 20€ (ou incluída para o centro), hora a 80€. Para uma reparação típica de conforme o caso, o valor total fica tipicamente entre 100€ e 200€ — incluindo tudo.
 
 ## Serviços completos disponíveis
 

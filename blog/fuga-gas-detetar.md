@@ -228,7 +228,7 @@ keywords: ["fuga gás", "cheiro gás", "emergência gás", "picheleiro urgente",
 ### Urgência
 
 **Horário normal**: Preços acima
-**Noite/fim semana**: +50%
+Noite, fim de semana e feriado: 100 €/hora + deslocação 50 €
 **Feriados**: +100%
 
 **Mas**: Fuga gás = emergência, vale a pena
@@ -382,7 +382,7 @@ keywords: ["fuga gás", "cheiro gás", "emergência gás", "picheleiro urgente",
 
 ### Resposta Ultra-Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - **Fuga gás = prioridade máxima**
 - Camioneta equipada
@@ -432,7 +432,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 📞 **+351 928 484 451**
 💬 **[WhatsApp Urgente](https://wa.me/351928484451?text=FUGA%20GÁS%20URGENTE)**
 
-**Fuga gás = Emergência extrema. Atendemos 24h/7 dias garantida. Chegada conforme zona.**
+**Fuga gás = Emergência extrema. Atendemos 24h/7 dias garantida. Chegada conforme o caso.**
 
 ---
 

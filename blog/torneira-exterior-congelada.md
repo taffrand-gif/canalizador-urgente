@@ -80,7 +80,7 @@ priority: "SEASONAL"
 ### Método 1: Secador de Cabelo (Mais Seguro) ⭐⭐⭐⭐⭐
 
 **Eficácia:** 90% (se cano não rebentou) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Custo:** €0 (usa secador que já tem) 
 **Segurança:** Muito seguro
 
@@ -91,8 +91,8 @@ priority: "SEASONAL"
 3. **Comece pela torneira** e vá descendo pelo cano
 4. **Mantenha 10-15 cm de distância** do cano
 5. **Mova constantemente** (não concentre calor num ponto)
-6. **Continue conforme zona** até água começar a sair
-7. **Deixe água correr** conforme zona (limpa gelo restante)
+6. **Continue conforme o caso** até água começar a sair
+7. **Deixe água correr** conforme o caso (limpa gelo restante)
 
 **💡 Dica:** Se cano está dentro da parede, aqueça a parede por fora (o calor passa).
 
@@ -110,7 +110,7 @@ priority: "SEASONAL"
 ### Método 2: Toalhas Quentes (Sem Eletricidade) ⭐⭐⭐⭐
 
 **Eficácia:** 80% 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Custo:** €0 
 **Segurança:** Muito seguro
 
@@ -122,7 +122,7 @@ priority: "SEASONAL"
 4. **Enrole toalhas** ao redor do cano e torneira
 5. **Substitua toalhas** a cada 5 minutos (arrefecem rápido)
 6. **Continue** até água começar a sair
-7. **Deixe água correr** conforme zona
+7. **Deixe água correr** conforme o caso
 
 **💡 Dica:** Use várias toalhas em rotação (enquanto umas arrefecem, outras aquecem).
 
@@ -140,7 +140,7 @@ priority: "SEASONAL"
 ### Método 3: Aquecedor Portátil (Para Canos Acessíveis) ⭐⭐⭐
 
 **Eficácia:** 85% 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Custo:** €0 (se já tem aquecedor) 
 **Segurança:** Moderada (cuidado com água)
 
@@ -150,7 +150,7 @@ priority: "SEASONAL"
 2. **Coloque aquecedor** a 50-100 cm do cano
 3. **Aponte para o cano** (não direto, área geral)
 4. **Ligue na potência média**
-5. **Aguarde conforme zona**
+5. **Aguarde conforme o caso**
 6. **Verifique regularmente** se água começa a sair
 
 **⚠️ ATENÇÃO:**
@@ -214,7 +214,7 @@ priority: "SEASONAL"
 
 ### 2. Deixar Água a Pingar ⭐⭐⭐⭐
 
-**Eficácia:** 90% (noites muito frias) 
+Noite, fim de semana e feriado: 100 €/hora + deslocação 50 € 
 **Custo:** €2-5/mês (água) 
 **Dificuldade:** Muito fácil
 
@@ -362,7 +362,7 @@ priority: "SEASONAL"
 
 ### 1. Quanto tempo demora a descongelar uma torneira?
 
-**Resposta:** Com secador de cabelo: conforme zona. Com toalhas quentes: conforme zona. Com aquecedor: conforme zona. Se demorar mais de 1 hora, pode haver problema grave - chame picheleiro.
+**Resposta:** Com secador de cabelo: conforme o caso. Com toalhas quentes: conforme o caso. Com aquecedor: conforme o caso. Se demorar mais de 1 hora, pode haver problema grave - chame picheleiro.
 
 ### 2. Posso usar água a ferver para descongelar?
 
@@ -408,7 +408,7 @@ priority: "SEASONAL"
 ✅ Emergências 24h (canos rebentados) 
 ✅ Instalação torneiras anti-congelamento 
 ✅ Isolamento profissional de canos 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Garantia de 2 anos 
 
 **📞 Ligue Agora:** [928 484 451](tel:+351928484451) 

@@ -57,7 +57,7 @@ Borracha/silicone na base do autoclismo que veda saída de água. Com tempo, det
 
 **Como identificar:**
 - Água corre constantemente (fio fino)
-- Autoclismo enche sozinho a cada conforme zona
+- Autoclismo enche sozinho a cada conforme o caso
 - Som de água a correr
 - Teste do corante positivo
 
@@ -84,7 +84,7 @@ Borracha/silicone na base do autoclismo que veda saída de água. Com tempo, det
 6. Recoloque e aperte
 7. Abra água e teste
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €5-15
 **Dificuldade:** Fácil
 
@@ -124,7 +124,7 @@ Boia controla nível de água no autoclismo. Se desregulada ou avariada, água s
 - Mecanismo emperrado
 - **Custo:** €8-20
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €0 (ajuste) ou €8-20 (substituir)
 
 ### 3. Válvula de Entrada Com Problema (12% dos casos)
@@ -158,7 +158,7 @@ Válvula que controla entrada de água no autoclismo. Se não fecha bem, água e
 - Válvula completa €15-30
 - Instalação 20 minutos
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €0 (limpeza) ou €15-30 (nova)
 
 ### 4. Tubo de Overflow Rachado (5% dos casos)
@@ -206,7 +206,7 @@ Borracha de vedação entre autoclismo e sanita gasta ou parafusos soltos.
 4. Substitua borracha (€3-8)
 5. Recoloque e aperte
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €0 (apertar) ou €3-8 (vedante)
 
 ### 6. Botão de Descarga Com Problema (3% dos casos)
@@ -231,7 +231,7 @@ Botão ou alavanca de descarga não retorna completamente, deixando válvula abe
 - Substituir mola €2-5
 - Substituir botão completo €10-25
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €2-25
 
 ### 7. Autoclismo Rachado (1% dos casos)
@@ -252,7 +252,7 @@ Botão ou alavanca de descarga não retorna completamente, deixando válvula abe
 - Rachadura pequena: Silicone (temporário)
 - Rachadura grande: Substituir autoclismo €80-200
 
-**Tempo:** conforme zona (substituir)
+**Tempo:** conforme o caso (substituir)
 **Custo:** €80-200
 
 ## Arranjo Passo a Passo (Válvula de Descarga)
@@ -309,7 +309,7 @@ Botão ou alavanca de descarga não retorna completamente, deixando válvula abe
 - Verifique se não há fuga
 - Puxe descarga e observe
 
-**Tempo total:** conforme zona
+**Tempo total:** conforme o caso
 **Dificuldade:** Fácil (qualquer pessoa consegue)
 
 ## Manutenção Preventiva do Autoclismo

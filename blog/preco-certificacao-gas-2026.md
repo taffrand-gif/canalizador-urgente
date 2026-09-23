@@ -124,7 +124,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 - Sem ligações improvisadas
 - Detetor gás (recomendado)
 
-**Duração:** conforme zona (T3), conforme zona (T5+)
+**Duração:** conforme o caso (T3), conforme o caso (T5+)
 
 ### PASSO 3: Testes Estanquidade (Dia 1)
 
@@ -145,7 +145,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 - Verifica fugas mínimas
 - Precisão alta
 
-**Duração:** conforme zona
+**Duração:** conforme o caso
 
 ### PASSO 4: Relatório e Correções (Dia 1-2)
 
@@ -225,7 +225,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 | Etapa | Prazo |
 |-------|-------|
 | Agendamento | 1-2 dias |
-| Inspeção + Testes | conforme zona |
+| Inspeção + Testes | conforme o caso |
 | Emissão certificado | 2-3 dias |
 | **TOTAL** | **3-5 dias úteis** |
 
@@ -235,7 +235,7 @@ A certificação de instalações de gás é obrigatória por lei para venda e a
 |-------|-------|
 | Inspeção inicial | 1 dia |
 | Orçamento correções | 1 dia |
-| Correções | conforme zona |
+| Correções | conforme o caso |
 | Nova inspeção | 1 hora |
 | Emissão certificado | 2-3 dias |
 | **TOTAL** | **5-7 dias úteis** |

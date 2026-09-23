@@ -13,7 +13,7 @@ priority: "HIGH DEMAND"
 
 **A água sai fraca das torneiras, chuveiro ou máquina de lavar?** Pressão de água baixa é um problema comum em Trás-os-Montes, especialmente em zonas rurais e andares altos. Neste guia completo, vou mostrar-lhe **as 9 causas principais** de pressão baixa e **como resolver cada uma**.
 
-> ⚠️ **Problema grave ou urgente?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Diagnóstico rápido, soluções definitivas em conforme zona.
+> ⚠️ **Problema grave ou urgente?** Picheleiro certificado em Bragança: **[928 484 451](tel:+351928484451)** — Diagnóstico rápido, soluções definitivas em conforme o caso.
 
 ## 🔍 O Que É Pressão de Água?
 
@@ -297,7 +297,7 @@ Contador DN15 (diâmetro 15mm) limita o caudal. Casa grande precisa DN20 ou DN25
 | Substituir redutor de pressão | €80-180 |
 | Urgência 24h | +€50-80 |
 
-> 💡 **Precisa de diagnóstico profissional?** Picheleiro em Bragança: **[928 484 451](tel:+351928484451)** — Identificamos a causa Atendemos 24h/7 dias, orçamento grátis.
+> 💡 **Precisa de diagnóstico profissional?** Picheleiro em Bragança: **[928 484 451](tel:+351928484451)** — Identificamos a causa Atendemos 24h/7 dias, orçamento por escrito.
 
 ## 🔍 Como Diagnosticar o Problema
 
@@ -456,7 +456,7 @@ Pressão de água baixa tem **múltiplas causas**, desde simples (filtro entupid
 ✅ Instalação de bombas pressurizadoras 
 ✅ Deteção de fugas com equipamento profissional 
 ✅ Garantia 1 ano no serviço 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Não viva com pressão baixa!** Afeta conforto, higiene e funcionamento de aparelhos. Contacte-nos já para diagnóstico grátis.

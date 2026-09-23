@@ -5,7 +5,7 @@
 > Ici = **comment construire des messages qui convertissent DANS ce cadre**. En cas de contradiction → AGENTS.md prime, toujours.
 
 ## Quadrant
-**Plomberie 💧 × URGENCE**. NAP **+351 928 484 451**. Tarif **65 €/h** (grille Z1-Z6 dans AGENTS.md §12). Satellite SEO de `canalizador-norte-reparos.pt`. Géo-neutre (Trás-os-Montes ; localité injectée par page pSEO).
+**Plomberie 💧 × URGENCE**. NAP **+351 928 484 451**. Tarif **70 €/h + 30 €** dias úteis · **100 €/h + 50 €** noite/fins de semana/feriados (grille unique `PRICING.md`). Satellite SEO de `canalizador-norte-reparos.pt`. Géo-neutre (Trás-os-Montes ; localité injectée par page pSEO).
 
 ## Persona cible
 Propriétaire en panne hors heures (fuite active, cano rebentado, sans água). Décision en ~2 min. **Peur n°1 = se faire arnaquer sur le prix d'urgence** (pas le délai — cf. R12, sources Portal da Queixa/DECO). Veut : un humain qui décroche + prix clair d'avance.

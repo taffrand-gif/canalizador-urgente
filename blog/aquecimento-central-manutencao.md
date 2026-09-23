@@ -131,12 +131,12 @@ keywords: ["aquecimento central", "manutenção caldeira", "radiadores", "poupar
 **Caldeira gás** (anual):
 - Inspeção + limpeza: €80-120
 - Inclui: queimador, permutador, testes
-- Tempo: conforme zona
+- Tempo: conforme o caso
 
 **Caldeira gasóleo** (anual):
 - Inspeção + limpeza: €120-180
 - Mais complexa que gás
-- Tempo: conforme zona
+- Tempo: conforme o caso
 
 **Esquentador** (anual):
 - Inspeção + limpeza: €60-100
@@ -399,7 +399,7 @@ Não espere manutenção anual se:
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Emergências inverno prioritárias
 

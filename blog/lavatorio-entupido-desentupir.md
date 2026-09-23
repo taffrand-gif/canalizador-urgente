@@ -100,7 +100,7 @@ priority: "HIGH DEMAND"
 7. Recoloque sifão (aperte bem mas não force)
 8. Teste se não há fugas
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €0
 **Eficácia:** 95%
 
@@ -147,7 +147,7 @@ priority: "HIGH DEMAND"
 6. Repita até água escoar
 7. Despeje água quente
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €15-30 (investimento que dura anos)
 **Eficácia:** 80%
 
@@ -403,7 +403,7 @@ priority: "HIGH DEMAND"
 
 **Sinais:**
 - Água escoa mas devagar
-- Demora conforme zona
+- Demora conforme o caso
 - Piora progressivamente
 
 **Causas:**

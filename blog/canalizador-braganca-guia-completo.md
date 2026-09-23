@@ -20,7 +20,7 @@ Bragança tem um parque habitacional envelhecido, com muitas casas construídas 
 
 ## Preços médios em Bragança
 
-Os preços praticados na nossa empresa são tabelados por zonas. Para Bragança (Zona 3), a deslocação é de 30€ e o preço-hora da mão de obra é 80€/h. Exemplos de preços fixos: desentupimento a partir de 110€, busca de fuga a partir de 150€, reparação urgente a partir de 110€. Todos os valores são comunicados ao telefone antes da deslocação.
+A deslocação tem preço único em qualquer localidade servida: 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados. Para Bragança, a deslocação é de 30€ e o preço-hora da mão de obra é 80€/h. Exemplos de preços fixos: desentupimento a partir de 100€ (150 € noite/fim de semana), busca de fuga a partir de 150€, reparação urgente a partir de 100€ (150 € noite/fim de semana). Todos os valores são comunicados ao telefone antes da deslocação.
 
 ## Porquê escolher Norte Reparos em Bragança
 

@@ -24,7 +24,7 @@ Para além dos serviços habituais (desentupimento, fugas, esquentadores), em Mi
 
 ## Zona e preços
 
-Mirandela fica na nossa Zona 1 (próxima da base, em Trás-os-Montes). Deslocação: 25€. Tempo médio de chegada: 23 minutos. Preço-hora: 80€. Para emergências, podemos estar no local Atendemos 24h/7 dias garantida.
+A deslocação tem preço único em qualquer localidade servida: 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados. Deslocação: 30€. Tempo médio de chegada: 23 minutos. Preço-hora: 80€. Para emergências, podemos estar no local Atendemos 24h/7 dias garantida.
 
 
 

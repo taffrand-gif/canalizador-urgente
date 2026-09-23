@@ -183,7 +183,7 @@ Em Trás-os-Montes, onde muitas casas (especialmente em zonas rurais) não têm 
 | Inspeção com câmara | +€80-150 | Verificar estado/danos |
 | Arranjo de tampa | €50-100 | Tampa partida/danificada |
 | Substituir filtro | €30-60 | Filtro entupido |
-| Urgência 24h | +50% | Fossa a transbordar |
+| Urgência 24h | 100 €/hora + deslocação 50 € | Fossa a transbordar |
 
 ### Custos Anualizados
 
@@ -374,7 +374,7 @@ Em Trás-os-Montes, onde muitas casas (especialmente em zonas rurais) não têm 
 ✅ Inspeção e manutenção de fossas 
 ✅ Arranjo de sistemas sépticos 
 ✅ Instalação de fossas novas 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 
 **📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
 **💬 WhatsApp:** [Clique aqui](https://wa.me/351928484451?text=Olá%2C%20preciso%20de%20esvaziar%20a%20fossa%20séptica!) 

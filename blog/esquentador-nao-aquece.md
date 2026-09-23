@@ -103,7 +103,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **⚠️ PERIGO:** Não tente limpar queimador sozinho. Risco de fuga de gás e explosão.
 
 **Custo:** €60-100 (limpeza + manutenção) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Frequência:** 1x/ano (manutenção preventiva)
 
 ---
@@ -121,7 +121,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **Solução:** **CHAMAR PICHELEIRO** - substituir termóstato
 
 **Custo:** €80-150 (peça + mão de obra) 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 ---
 
@@ -137,7 +137,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **Solução:** **CHAMAR PICHELEIRO** - substituir membrana
 
 **Custo:** €60-120 (peça + mão de obra) 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **💡 Nota:** Problema comum em zonas de água dura (Trás-os-Montes).
 
@@ -157,7 +157,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **⚠️ PERIGO:** Problema com gás requer profissional com experiência.
 
 **Custo:** €100-200 (peça + mão de obra) 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 ---
 
@@ -174,7 +174,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **Solução:** **CHAMAR PICHELEIRO** - descalcificação profissional
 
 **Custo:** €80-150 (descalcificação) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Prevenção:** Descalcificação a cada 2-3 anos
 
 ---
@@ -192,7 +192,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 **Solução:** **SUBSTITUIR esquentador**
 
 **Custo:** €300-800 (esquentador novo + instalação) 
-**Benefício:** Eficiência energética +30%, segurança, garantia 2-5 anos
+À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 ---
 
@@ -284,7 +284,7 @@ A boa notícia? **60% dos problemas de esquentador** têm solução simples que 
 | Substituir termóstato | €80-150 | 1-2h | 1 ano |
 | Substituir válvula gás | €100-200 | 2-3h | 1 ano |
 | Descalcificação | €80-150 | 2-3h | 1 ano |
-| Arranjo urgência 24h | +50% | Imediato | 6 meses |
+| Arranjo urgência 24h | 100 €/hora + deslocação 50 € | Imediato | 6 meses |
 
 ### Substituição Completa
 

@@ -79,7 +79,7 @@ Quanto maior a distância, mais água fria nos tubos precisa escoar antes de che
 
 **3. Recirculação com botão (€600-1.200)**
 - Pressiona botão quando precisa
-- Bomba circula água conforme zona
+- Bomba circula água conforme o caso
 - Mais económico (€3-5/mês)
 
 **Instalação:**
@@ -243,7 +243,7 @@ Válvula termostática (mistura água quente e fria) está avariada ou calcifica
 
 **Limpeza (se calcário):**
 1. Desmonte válvula
-2. Deixe de molho em vinagre conforme zona
+2. Deixe de molho em vinagre conforme o caso
 3. Limpe com escova
 4. Volte a montar
 
@@ -395,7 +395,7 @@ Sim, alguns sistemas usam tubagem de água fria como retorno. Economiza instala�
 **Benefícios:**
 - Economiza água (13.000+ litros/ano)
 - Economiza energia (10-20%)
-- Economiza tempo (conforme zona/dia)
+- Economiza tempo (conforme o caso/dia)
 - Mais conforto
 
 **Retorno do investimento:** 2-8 anos (dependendo da solução)
@@ -412,7 +412,7 @@ Sim, alguns sistemas usam tubagem de água fria como retorno. Economiza instala�
 ✅ Instalação profissional 
 ✅ Materiais de qualidade 
 ✅ Garantia 1 ano no serviço 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Cobrimos Bragança, Mirandela, Trás-os-Montes e toda a região
 
 **Pare de desperdiçar água e tempo!** Contacte-nos já para solução definitiva e eficiente.

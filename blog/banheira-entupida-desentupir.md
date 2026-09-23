@@ -70,7 +70,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 75% (entupimentos leves a moderados) 
 **Custo:** €5-15 (ventosa) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Fácil
 
 **Passo a passo:**
@@ -93,7 +93,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 95% (quase todos os entupimentos) 
 **Custo:** €0 (ferramentas que já tem) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Moderada
 
 **Ferramentas necessárias:**
@@ -124,7 +124,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 60% (entupimentos leves, manutenção) 
 **Custo:** €2-3 (ingredientes) 
-**Tempo:** conforme zona (maioria é espera) 
+**Tempo:** conforme o caso (maioria é espera) 
 **Dificuldade:** Muito fácil
 
 **Ingredientes:**
@@ -139,7 +139,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 2. **Despeje bicarbonato** directamente no ralo
 3. **Despeje vinagre** sobre o bicarbonato
 4. **Tape o ralo** imediatamente com pano molhado
-5. **Deixe actuar** conforme zona (vai fazer espuma)
+5. **Deixe actuar** conforme o caso (vai fazer espuma)
 6. **Despeje água a ferver** lentamente pelo ralo
 7. **Teste** com água corrente
 
@@ -153,7 +153,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 80% (entupimentos profundos) 
 **Custo:** €10-25 (mola 3-5 metros) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Moderada
 
 **Passo a passo:**
@@ -177,7 +177,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Taxa de Sucesso:** 70% (depende do tipo de entupimento) 
 **Custo:** €5-12 (produto) 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Dificuldade:** Fácil
 
 **Produtos recomendados:**
@@ -229,7 +229,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 | Desentupimento complexo | €100-150 | 1-2h | 60 dias |
 | Limpeza com máquina | €120-180 | 1-2h | 90 dias |
 | Substituir sifão | €80-120 | 45 min | 2 anos |
-| Urgência 24h | +50% | Imediato | 30 dias |
+| Urgência 24h | 100 €/hora + deslocação 50 € | Imediato | 30 dias |
 
 **💡 Quando compensa chamar picheleiro:**
 - Tentou 2-3 métodos DIY sem sucesso
@@ -295,7 +295,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### 2. É normal a água escoar lentamente?
 
-**Resposta:** **NÃO.** Água deve escoar rapidamente (banheira vazia em conforme zona). Escoamento lento indica **entupimento parcial** que vai piorar. Resolva agora antes de entupir completamente.
+**Resposta:** **NÃO.** Água deve escoar rapidamente (banheira vazia em conforme o caso). Escoamento lento indica **entupimento parcial** que vai piorar. Resolva agora antes de entupir completamente.
 
 ### 3. Posso usar soda cáustica pura?
 
@@ -303,7 +303,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 ### 4. Quanto tempo demora a desentupir com ventosa?
 
-**Resposta:** conforme zona de trabalho. Se após 5 minutos de bombeamento vigoroso não melhorar, a ventosa não vai resolver - passe para outro método (desmontar sifão).
+**Resposta:** conforme o caso de trabalho. Se após 5 minutos de bombeamento vigoroso não melhorar, a ventosa não vai resolver - passe para outro método (desmontar sifão).
 
 ### 5. O que fazer se água volta por outros ralos?
 
@@ -337,7 +337,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 
 **Norte Reparos** - Picheleiro Certificado em Trás-os-Montes 
 ✅ Desentupimentos 24h/7 dias 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Garantia até 90 dias 
 ✅ Técnico em menos de 2h (urgências) 
 ✅ Equipamento profissional (máquina alta pressão)

@@ -251,7 +251,7 @@ Se problemas, negociar preço com vendedor.
 
 ### PASSO 2: Inspeção Visual (Dia 1)
 
-**Duração:** conforme zona (conforme tamanho)
+**Duração:** conforme o caso (conforme tamanho)
 
 **O que é verificado:**
 
@@ -286,7 +286,7 @@ Se problemas, negociar preço com vendedor.
 
 ### PASSO 3: Testes Estanquidade (Dia 1)
 
-**Duração:** conforme zona
+**Duração:** conforme o caso
 
 **Testes obrigatórios:**
 

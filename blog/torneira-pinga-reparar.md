@@ -216,7 +216,7 @@ keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro"
 **Junta**: €2-5
 **Cartucho**: €15-40
 **Ferramentas** (se não tem): €10-20
-**Tempo**: conforme zona
+**Tempo**: conforme o caso
 
 **Total**: €5-60
 
@@ -375,7 +375,7 @@ keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro"
 
 - Diagnóstico imediato
 - Peças stock (juntas, cartuchos)
-- Arranjo conforme zona
+- Arranjo conforme o caso
 - Garantia 6 meses
 
 ### Todas Marcas
@@ -401,7 +401,7 @@ keywords: ["torneira pinga", "arranjar torneira", "junta torneira", "picheleiro"
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
 - Urgências prioritárias
 - Stock peças
@@ -430,7 +430,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **1 gota/segundo**: 1,570L/ano (€5-10). **10 gotas/segundo**: 15,700L/ano (€50-100). **Fio água**: 30,000-50,000L/ano (€100-200). Arranjo €5-15 DIY ou €45-90 picheleiro. ROI imediato.
 
 ### Como arranjar torneira pinga?
-**Tradicional**: Fechar água, desmontar, substituir junta (€2-5), montar. **Monocomando**: Substituir cartucho (€15-40). DIY conforme zona. Ferramentas: chave inglesa, chave fendas. Fácil.
+**Tradicional**: Fechar água, desmontar, substituir junta (€2-5), montar. **Monocomando**: Substituir cartucho (€15-40). DIY conforme o caso. Ferramentas: chave inglesa, chave fendas. Fácil.
 
 ### Quanto custa arranjar?
 **DIY**: €5-60 (junta €2-5, cartucho €15-40). **Picheleiro**: €45-130 (arranjo €45-90, cartucho €70-130). Torneira nova: €70-250. Poupança DIY: €40-120.

@@ -99,7 +99,7 @@ priority: "CRITICAL"
 1. Ferva 5 litros de água (NÃO use água a ferver!)
 2. Adicione 200ml de detergente da loiça
 3. Despeje lentamente na sanita
-4. Aguarde conforme zona
+4. Aguarde conforme o caso
 5. Faça descarga
 
 **Atenção:** Água a ferver pode rachar a porcelana! Use água muito quente (80-90°C)
@@ -128,7 +128,7 @@ priority: "CRITICAL"
 1. Leia instruções do fabricante
 2. Use luvas e óculos de proteção
 3. Despeje quantidade recomendada
-4. Aguarde tempo indicado (conforme zona)
+4. Aguarde tempo indicado (conforme o caso)
 5. Enxague com água abundante
 
 **⚠️ ATENÇÃO:** Nunca misture produtos químicos! Risco de gases tóxicos
@@ -256,7 +256,7 @@ priority: "CRITICAL"
 ## Perguntas Frequentes (FAQ)
 
 **P: Quanto tempo demora a desentupir sanita?**
-R: Com ventosa: conforme zona. Com arame: conforme zona. Picheleiro profissional: conforme zona para casos complexos.
+R: Com ventosa: conforme o caso. Com arame: conforme o caso. Picheleiro profissional: conforme o caso para casos complexos.
 
 **P: Posso usar Coca-Cola para desentupir?**
 R: Mito! Coca-Cola NÃO é eficaz. O ácido é muito fraco. Use bicarbonato + vinagre ou produto específico.
@@ -272,7 +272,7 @@ R: A cada 2-3 anos em uso normal. Anualmente se família numerosa (5+ pessoas).
 
 ## Conclusão: Resolva Já o Problema
 
-**Sanita entupida tem solução rápida se agir corretamente.** Para entupimentos simples, ventosa ou arame resolvem em conforme zona. Para casos complexos ou emergências, não hesite em chamar um picheleiro profissional.
+**Sanita entupida tem solução rápida se agir corretamente.** Para entupimentos simples, ventosa ou arame resolvem em conforme o caso. Para casos complexos ou emergências, não hesite em chamar um picheleiro profissional.
 
 ### 🚨 Precisa Ajuda Urgente?
 
@@ -280,8 +280,8 @@ R: A cada 2-3 anos em uso normal. Anualmente se família numerosa (5+ pessoas).
 
 📞 **Ligue Agora: 928 484 451**
 - ✅ Atendemos 24h/7d (urgências)
-- ✅ Técnico chega conforme zona
-- ✅ Orçamento grátis sem compromisso
+- ✅ Técnico chega conforme o caso
+- ✅ Orçamento por escrito sem compromisso
 - ✅ Garantia 12 meses em todos os serviços
 - ✅ Equipamento profissional (mola elétrica, alta pressão)
 

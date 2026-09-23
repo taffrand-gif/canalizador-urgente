@@ -100,7 +100,7 @@ priority: "HIGH DEMAND"
 6. Limpe grelha com escova
 7. Recoloque grelha
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Custo:** €0 (DIY)
 **Eficácia:** 80% dos casos resolvem assim
 
@@ -173,7 +173,7 @@ priority: "HIGH DEMAND"
 - Elétrico profissional (picheleiro) €200-500
 
 **Custo:** €15-50 (investimento que dura anos)
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 ### Método 6: Desentupidor Químico (Eficácia 75%)
 **Última opção antes de chamar picheleiro:**
@@ -188,7 +188,7 @@ priority: "HIGH DEMAND"
 2. Use luvas e óculos de proteção
 3. Retire água parada
 4. Despeje quantidade recomendada
-5. Aguarde tempo indicado (conforme zona)
+5. Aguarde tempo indicado (conforme o caso)
 6. Enxague com água abundante
 
 **⚠️ ATENÇÃO:**
@@ -244,7 +244,7 @@ priority: "HIGH DEMAND"
 - Abra água e verifique se escoa bem
 - Verifique se não há fugas
 
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 **Dificuldade:** Média (requer alguma habilidade)
 
 ## Quando Chamar Picheleiro Profissional?
@@ -413,8 +413,8 @@ R: Use apenas como último recurso. Nunca misture produtos. Ventile bem. Prefira
 
 📞 **Ligue Agora: 928 484 451**
 - ✅ Atendemos 24h/7d (urgências)
-- ✅ Técnico chega conforme zona
-- ✅ Orçamento grátis sem compromisso
+- ✅ Técnico chega conforme o caso
+- ✅ Orçamento por escrito sem compromisso
 - ✅ Garantia 12 meses em todos os serviços
 - ✅ Equipamento profissional (mola elétrica, alta pressão)
 

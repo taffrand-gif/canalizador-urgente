@@ -110,7 +110,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos acessíveis, interiores
 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Eficácia:** 90%
 
 **Como fazer:**
@@ -131,7 +131,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos acessíveis, sem eletricidade
 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Eficácia:** 80%
 
 **Como fazer:**
@@ -148,7 +148,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Divisão pequena (casa de banho, despensa)
 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Eficácia:** 85%
 
 **Como fazer:**
@@ -156,7 +156,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 2. Coloque aquecedor na divisão
 3. Feche porta (concentra calor)
 4. Ligue aquecedor (temperatura média)
-5. Aguarde conforme zona
+5. Aguarde conforme o caso
 6. Verifique periodicamente
 
 **⚠️ SEGURANÇA:** Não deixe aquecedor sem vigilância
@@ -165,14 +165,14 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Tubos exteriores, prevenção
 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Eficácia:** 95% 
 **Custo:** €30-80 (fita 3-10 metros)
 
 **Como usar:**
 1. Enrole fita ao longo do tubo
 2. Ligue à tomada
-3. Aguarde conforme zona
+3. Aguarde conforme o caso
 4. Desligue quando descongelado
 
 **Vantagem:** Pode deixar ligada (prevenção)
@@ -181,7 +181,7 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 
 **Melhor para:** Casa inteira, prevenção
 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Eficácia:** 70%
 
 **Como fazer:**
@@ -207,12 +207,12 @@ Neste guia completo, vamos explicar **como descongelar tubos com segurança**, p
 **1. Aquecer Divisão**
 - Aumente temperatura ambiente (22-24°C)
 - Abra torneira (fio de água)
-- Aguarde conforme zona
+- Aguarde conforme o caso
 
 **2. Aquecedor Direcionado**
 - Aponte aquecedor para parede
 - Concentre calor na zona do tubo
-- Aguarde conforme zona
+- Aguarde conforme o caso
 
 **3. Chame Picheleiro**
 - Equipamento profissional (aquecedor de tubos)
@@ -366,7 +366,7 @@ Contacte imediatamente se:
 0°C ou inferior. Em Trás-os-Montes, risco quando temperatura noturna <-3°C.
 
 **2. Quanto tempo demora tubo congelar?** 
-conforme zona (temperatura -5°C). Mais rápido se vento forte ou tubo fino.
+conforme o caso (temperatura -5°C). Mais rápido se vento forte ou tubo fino.
 
 **3. Como descongelar tubo rápido?** 
 Secador de cabelo (30-60 min) ou fita aquecedora elétrica (30 min). NUNCA maçarico ou água fervente.

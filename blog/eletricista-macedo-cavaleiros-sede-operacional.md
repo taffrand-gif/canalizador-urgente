@@ -12,19 +12,19 @@ A nossa base. Resposta em minutos, não em horas. Para qualquer problema elétri
 
 ## Sede operacional — resposta imediata
 
-Macedo de Cavaleiros é onde temos a base. Isto significa que para qualquer emergência elétrica em Macedo — curto-circuito, disjuntor que dispara, tomada em chamas — estamos a conforme zona do local. Não há 'tempo de espera para chegar' porque já estamos cá.
+Macedo de Cavaleiros é onde temos a base. Isto significa que para qualquer emergência elétrica em Macedo — curto-circuito, disjuntor que dispara, tomada em chamas — estamos a conforme o caso do local. Não há 'tempo de espera para chegar' porque já estamos cá.
 
 ## Zona servida a partir de Macedo
 
-Toda a região em redor de Macedo está coberta com tempos de resposta curtos. Macedo, Bornes, Podence, Vilar do Monte, Sesulfe, Castelãos, Amendoeira, Carrapatas, e todas as aldeias num raio de 30 km. Para emergências, podemos estar no local em conforme zona.
+Toda a região em redor de Macedo está coberta com tempos de resposta curtos. Macedo, Bornes, Podence, Vilar do Monte, Sesulfe, Castelãos, Amendoeira, Carrapatas, e todas as aldeias num raio de 30 km. Para emergências, podemos estar no local em conforme o caso.
 
 ## Serviços elétricos especializados
 
 Em Macedo fazemos: diagnóstico e reparação de avarias, substituição de quadros elétricos, instalação de iluminação LED interior e exterior, certificação elétrica, sistemas solares fotovoltaicos. Temos experiência e emitimos documentação oficial.
 
-## Preços Macedo — Zona 1
+## Preços Macedo — Deslocação 30 € (50 € noite/fim de semana)
 
-Por ser a nossa sede, os preços em Macedo são os mais baixos: deslocação 20€ (ou incluída no centro), hora a 80€/h. Para um diagnóstico típico + reparação de conforme zona, o investimento ronda os 100€-180€. Ligue 932 321 892 agora.
+Por ser a nossa sede, os preços em Macedo são os mais baixos: deslocação 20€ (ou incluída no centro), hora a 80€/h. Para um diagnóstico típico + reparação de conforme o caso, o investimento ronda os 100€-180€. Ligue 932 321 892 agora.
 
 
 

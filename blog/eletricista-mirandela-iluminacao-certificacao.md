@@ -16,7 +16,7 @@ Mirandela tem visto novas construções e reabilitações, mas muitas casas anti
 
 ## Iluminação LED — investimento que se paga
 
-Uma das melhores melhorias que pode fazer é trocar todas as lâmpadas halógenas por LED. Numa casa T3 normal, com 25-30 pontos de iluminação, a poupança anual é de 250€ a 400€ em eletricidade. A instalação é rápida (conforme zona para uma casa normal) e o investimento recupera-se em 6-12 meses.
+Uma das melhores melhorias que pode fazer é trocar todas as lâmpadas halógenas por LED. Numa casa T3 normal, com 25-30 pontos de iluminação, a poupança anual é de 250€ a 400€ em eletricidade. A instalação é rápida (conforme o caso para uma casa normal) e o investimento recupera-se em 6-12 meses.
 
 ## Certificação para venda ou arrendamento
 
@@ -24,7 +24,7 @@ Se vai colocar a sua casa em Mirandela no mercado de arrendamento, é obrigatór
 
 ## Cobertura e preços
 
-Mirandela fica na nossa Zona 1, com deslocação a 25€ e hora a 80€. Estamos lá Atendemos 24h/7 dias. Para emergências, Atendemos 24h/7 dias garantida.
+Dias úteis (9h–17h): mão de obra 70 €/hora e deslocação 30 €. Noite (17h–9h), fins de semana e feriados: 100 €/hora e deslocação 50 €. Estamos lá Atendemos 24h/7 dias. Para emergências, Atendemos 24h/7 dias garantida.
 
 
 

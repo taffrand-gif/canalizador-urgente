@@ -492,7 +492,7 @@ keywords: ["isolamento térmico", "poupar energia", "isolamento casa", "eficiên
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - Orçamento 24-48h
 - Obras agendadas
 - Demonstração materiais

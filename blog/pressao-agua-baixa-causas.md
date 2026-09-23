@@ -309,9 +309,9 @@ Canalizador usa **manómetro digital** que mede:
 - Manutenção e assistência
 
 ### Resposta Rápida
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
-- Orçamento grátis
+- Orçamento por escrito
 
 ## 🌍 Cobertura
 

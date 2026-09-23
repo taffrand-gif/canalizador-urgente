@@ -24,12 +24,12 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 | **Sanita leve** | Leve | Ventosa | 15-30 min | **60-85€** |
 | **Sanita grave** | Grave | Mola manual | 30-60 min | **90-140€** |
 | **Lava-loiça** | Média | Desmontagem sifão | 20-40 min | **70-110€** |
-| **Ralo duche** | Leve | Limpeza + químico | 20-35 min | **65-95€** |
+| **Ralo duche** | Leve | Limpeza + químico | 20-35 min |  |
 | **Esgoto parcial** | Grave | Mola elétrica | 1-2h | **180-280€** |
 | **Esgoto total** | Crítico | Mola elétrica + câmara | 2-4h | **300-500€** |
 | **Fossa séptica** | Crítico | Limpeza completa | 2-3h | **250-450€** |
 
-*Preços dias úteis horário normal. Inclui deslocação + diagnóstico + mão obra + material. Urgências: +30-50%.*
+*Preços dias úteis horário normal. Inclui deslocação + diagnóstico + mão obra + material. À noite (17h–9h), aos fins de semana e feriados: 100 €/hora e deslocação 50 €.
 
 ## Entupimentos Sanita
 
@@ -52,10 +52,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 2. Ventosa profissional (pressão)
 3. Teste descarga
 4. Verificação completa
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.4h): 26€
 - Material: 0€
@@ -83,10 +83,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Desobstrução
 4. Limpeza
 5. Teste múltiplas descargas
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 20€
 - Mão obra (0.75h): 48,75€
 - Material (se necessário): 10-20€
@@ -115,10 +115,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
  - Substituir sanita
  - Refazer canalização
  - Remover objeto preso
-**Tempo:** conforme zona (conforme solução)
+**Tempo:** conforme o caso (conforme solução)
 
 **Custo detalhado:**
-- Inspeção câmara: 80-120€
+
 - Desentupimento: 60-100€
 - Correção causa:
  - Nova sanita: 150-400€
@@ -149,10 +149,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Limpar obstrução
 4. Limpar tubagem
 5. Montar e testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.5h): 32,50€
 - Material (se substituir sifão): 15-25€
@@ -180,10 +180,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Desmontar sifão se necessário
 4. Limpar completamente
 5. Aplicar químico preventivo
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 10€
 - Mão obra (0.33h): 21,50€
 - Material: 5-10€
@@ -216,10 +216,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 4. Aguardar 15-30 min
 5. Enxaguar água quente
 6. Testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 10€
 - Mão obra (0.4h): 26€
 - Material (químico): 8-15€
@@ -249,10 +249,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Limpar obstrução
 4. Verificar tubagem
 5. Montar e testar
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 15€
 - Mão obra (0.75h): 48,75€
 - Material: 10-20€
@@ -281,10 +281,10 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 4. Desobstrução completa
 5. Limpeza caixa
 6. Teste água corrente
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação: 15-35€
+- Deslocação: 30 €
 - Diagnóstico: 30€
 - Mão obra (1.5h): 97,50€
 - Equipamento (mola elétrica): 40€
@@ -315,11 +315,11 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 4. Limpeza alta pressão
 5. Verificação câmara (confirma desobstruído)
 6. Teste completo
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
-- Deslocação urgente: 25-55€
-- Inspeção câmara: 80-120€
+- Deslocação urgente: 30 €
+
 - Mão obra (3h): 195€
 - Equipamento: 60-100€
 - Material: 20-40€
@@ -351,7 +351,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 3. Verificar filtros
 4. Limpar drenagem
 5. Teste funcionamento
-**Tempo:** conforme zona
+**Tempo:** conforme o caso
 
 **Custo detalhado:**
 - Deslocação camião: 50-80€
@@ -449,7 +449,7 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 ❌ Custo adicional
 ❌ Precisa acesso canalização
 
-**Custo adicional:** 80-120€
+
 
 ### 5. Limpeza Alta Pressão
 
@@ -691,13 +691,13 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 **Sim, com cuidado.** Luvas obrigatórias, não misturar produtos, ventilar. Eficaz gordura/cabelos. Se não resultar: chamar profissional.
 
 ### 3. Quanto tempo demora desentupir?
-**conforme zona** maioria casos. Sanita leve: 15-30 min. Esgoto grave: conforme zona.
+**conforme o caso** maioria casos. Sanita leve: 15-30 min. Esgoto grave: conforme o caso.
 
 ### 4. Toalhitas "descartáveis" pode deitar sanita?
 **NÃO.** Mesmo "descartáveis" não desintegram como papel. Causa principal entupimentos. Sempre lixo.
 
 ### 5. Entupimento recorrente, o que fazer?
-**Inspeção câmara** (80-120€) identifica causa raiz. Pode ser: sanita antiga, canalização mal feita, objeto preso. Resolver causa evita repetir.
+Pode ser: sanita antiga, canalização mal feita, objeto preso. Resolver causa evita repetir.
 
 ### 6. Seguro cobre desentupimentos?
 **Raramente.** Maioria seguros considera manutenção (não cobre). Verificar apólice. Alguns cobrem se causa súbita (ex: raiz rebenta tubo).

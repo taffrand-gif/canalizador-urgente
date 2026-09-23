@@ -125,7 +125,7 @@ keywords: ["sifão entupido", "limpar sifão", "mau cheiro lavatório", "água n
 
 **Limpeza profunda** (se muito sujo):
 1. Mergulhe em água quente + detergente
-2. Deixe conforme zona
+2. Deixe conforme o caso
 3. Escove vigorosamente
 4. Enxague até água sair limpa
 
@@ -383,9 +383,9 @@ keywords: ["sifão entupido", "limpar sifão", "mau cheiro lavatório", "água n
 
 ### Resposta Rápida
 
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
-- Orçamento grátis
+- Orçamento por escrito
 
 ## 🌍 Cobertura
 
@@ -397,7 +397,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 
 ## 💬 Contacte-nos
 
-### Orçamento Grátis
+### Orçamento por Escrito
 📞 **+351 928 484 451**
 💬 **[WhatsApp](https://wa.me/351928484451?text=Sifão%20entupido%20ajuda)**
 

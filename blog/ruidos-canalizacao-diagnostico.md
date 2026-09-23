@@ -410,9 +410,9 @@ Use a tabela acima para identificar o tipo de ruído.
 - Especialistas em casas antigas
 
 ### Resposta Rápida
-- **conforme zona** em Bragança, Mirandela, Macedo
+- **conforme o caso** em Bragança, Mirandela, Macedo
 - 24h/7d incluindo feriados
-- Orçamento grátis
+- Orçamento por escrito
 
 ## 🌍 Cobertura
 

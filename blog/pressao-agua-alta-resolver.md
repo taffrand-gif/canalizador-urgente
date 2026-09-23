@@ -251,7 +251,7 @@ Pressão muito alta (>4 bar) não é apenas incómoda - **danifica torneiras, ca
 5. Ajustar pressão (2,5-3 bar)
 6. Testar (abrir torneiras, verificar pressão)
 
-**Tempo:** conforme zona 
+**Tempo:** conforme o caso 
 **Custo:** €60-120 (redutor) + €60-100 (instalação) = €120-220 total
 
 ---
@@ -387,7 +387,7 @@ Pressão muito alta (>4 bar) não é apenas incómoda - **danifica torneiras, ca
 ✅ Medição de pressão gratuita 
 ✅ Instalação de redutores de pressão 
 ✅ Regulação de bombas pressurizadoras 
-✅ Orçamento grátis sem compromisso 
+✅ Orçamento por escrito sem compromisso 
 ✅ Garantia de 2 anos 
 
 **📞 Ligue Agora:** [928 484 451](tel:+351928484451) 
