@@ -29,11 +29,11 @@ HERE = Path(__file__).resolve().parent
 REPO = HERE.parents[1]
 
 TELEPHONE = '+351 928 484 451'
-CANAL_RATE = 65
-CANAL_STR = '65€'
-MAJORATION = '+50%'
+CANAL_RATE = 70
+CANAL_STR = '70 €/h'
+MAJORATION = '100 €/h + deslocação 50 € à noite, fins de semana e feriados'
 
-ZONE_TABLE = [(15, 1, 15), (30, 2, 25), (50, 3, 35), (70, 4, 45), (90, 5, 55), (140, 6, 65)]
+ZONE_TABLE = [(9999, 1, 30)]
 
 
 def norm(s):
@@ -81,21 +81,21 @@ INFOBOX_TEMPLATES = [
  <p><strong>Concelho:</strong> {name}</p>
  <p><strong>Distrito:</strong> {district}</p>
  <p><strong>Distância desde Macedo de Cavaleiros:</strong> {rkm} km por estrada</p>
- <p><strong>Zona tarifária:</strong> Zona {zone} — deslocação {desloc}€ (incluída no orçamento)</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados</p>
 </div>''',
     # V1 — focus zone contexte
     '''<div class="info-box">
  <p><strong>Concelho:</strong> {name}</p>
  <p><strong>Distrito:</strong> {district}</p>
  <p><strong>Distância desde Macedo de Cavaleiros:</strong> {rkm} km por estrada</p>
- <p><strong>Zona tarifária:</strong> Z{zone} ({zone_label}) — {desloc}€ de deslocação (anunciado antes)</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados</p>
 </div>''',
     # V2 — focus tableau
     '''<div class="info-box">
  <p><strong>Local:</strong> {name} ({district})</p>
  <p><strong>Distância operacional:</strong> {rkm} km (estrada municipal + nacional)</p>
- <p><strong>Tarifa de deslocação:</strong> <strong>{desloc}€</strong> — Zona {zone} aplicada conforme tabela oficial</p>
- <p style="font-size:.85rem;color:#666;margin-top:.5rem">Z1=15€ · Z2=25€ · Z3=35€ · Z4=45€ · Z5=55€ · Z6=65€</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados</p>
+ <p style="font-size:.85rem;color:#666;margin-top:.5rem">A deslocação é um forfait único por horário.</p>
 </div>''',
     # V3 (NO_ROUTE) — Moimenta
     '''<div class="info-box">
@@ -111,7 +111,7 @@ def render_infobox(c, slug):
     name = c['name']
     district = c['district']
     zone = c.get('zone')
-    desloc = (c.get('price') or {}).get('desloc')
+    desloc = 30
     rkm = c.get('route_km')
 
     if zone is None or desloc is None:
@@ -254,7 +254,7 @@ FAQ_TEMPLATES = [
 def render_faq(c, slug, loc_data):
     name = c['name']
     zone = c.get('zone')
-    desloc = (c.get('price') or {}).get('desloc')
+    desloc = 30
     rkm = c.get('route_km')
     rmin = c.get('route_min')
     n_villages = len(loc_data.get(slug, []))
@@ -264,11 +264,11 @@ def render_faq(c, slug, loc_data):
         chegar = 'A janela de chegada é confirmada por telefone antes da deslocação.'
     elif rkm == 0:
         preco_phrase = f'Partindo de {name} (base operacional Norte Reparos), a deslocação para o próprio concelho está incluída no orçamento por escrito.'
-        chegar = f'Como {name} é a nossa base operacional, o tempo de saída é tipicamente inferior a 30 minutos em condições normais — confirmado por telefone antes da deslocação.'
+        chegar = 'A janela de atendimento é confirmada por telefone conforme a disponibilidade operacional.'
     else:
-        preco_phrase = f'A deslocação para {name} (Z{zone}) é de {desloc}€ e está incluída no orçamento por escrito.'
+        preco_phrase = f'A deslocação custa 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados; o orçamento é apresentado por escrito.'
         if rmin is not None:
-            chegar = f'Em condições normais, cerca de {int(rmin)} min publicados entre Macedo de Cavaleiros e {name} ({rkm:g} km). Em horário noturno, feriado ou condições atmosféricas adversas pode aumentar.'
+            chegar = 'A janela de atendimento é confirmada por telefone conforme a disponibilidade operacional.'
         else:
             chegar = f'A distância operacional é de {rkm:g} km por estrada; a janela exata é confirmada por telefone antes da deslocação.'
 
@@ -288,51 +288,51 @@ PRECOS_BLOCK_TEMPLATES = [
     # V0 — défaut
     '''<h2>Preços em {name}</h2>
  <div class="info-box">
- <p><strong>Deslocação (Zona {zone}):</strong> {desloc}€ — incluída no orçamento</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis e 50 € à noite, fins de semana e feriados — incluída no orçamento</p>
  <p><strong>Intervenção (1h):</strong> desde {h1}€</p>
  <p><strong>Intervenção (2h):</strong> {h2}€</p>
- <p style="font-size:.85rem;color:#666;margin-top:.8rem">Mão de obra 65€/h · Tarifa horária fixa · Orçamento por escrito</p>
+ <p style="font-size:.85rem;color:#666;margin-top:.8rem">70 €/h em dias úteis (9h–17h) + deslocação 30 €. À noite, fins de semana e feriados: 100 €/h + deslocação 50 €. Cada hora começada é devida.</p>
  </div>''',
     # V1 — focus zone
-    '''<h2>Preços em {name} (zona {zone})</h2>
+    '''<h2>Preços em {name}</h2>
  <div class="info-box">
- <p><strong>Deslocação (Z{zone} — {zone_label}):</strong> {desloc}€</p>
- <p><strong>Tarifa horária:</strong> 65 €/h · 2ª hora (se necessário) {h1}€ cumulativa</p>
- <p><strong>Majoração noturna/WE/feriado:</strong> +50%</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis; 50 € à noite, fins de semana e feriados</p>
+ <p><strong>Tarifa horária:</strong> 70 €/h em dias úteis; 100 €/h à noite, fins de semana e feriados.</p>
+ <p><strong>Deslocação:</strong> 30 € em horário útil; 50 € à noite, fins de semana e feriados.</p>
  <p style="font-size:.85rem;color:#666;margin-top:.8rem">Orçamento escrito comunicado antes da deslocação</p>
  </div>''',
     # V2 — focus tableaux
     '''<h2>Tabela de preços em {name}</h2>
  <div class="info-box">
  <table style="width:100%;border-collapse:collapse">
- <tr><td><strong>Deslocação Z{zone}</strong></td><td>{desloc}€</td></tr>
- <tr><td><strong>Mão de obra (1ʳᵉ hora)</strong></td><td>{h1}€</td></tr>
- <tr><td><strong>Mão de obra (2h)</strong></td><td>{h2}€</td></tr>
- <tr><td><strong>Majoração noite/WE/feriado</strong></td><td>+50%</td></tr>
+ <tr><td><strong>Deslocação</strong></td><td>30 € / 50 €</td></tr>
+ <tr><td><strong>Mão de obra em horário útil</strong></td><td>70 €/h</td></tr>
+ <tr><td><strong>Noite, fim de semana e feriado</strong></td><td>100 €/h + 50 €</td></tr>
+ <tr><td><strong>Deslocação em horário útil</strong></td><td>30 €</td></tr>
  </table>
  <p style="font-size:.85rem;color:#666;margin-top:.8rem">IVA incluído no total quando aplicável. Majoração anunciada antes.</p>
  </div>''',
     # V3 NO_ROUTE
     '''<h2>Preços em {name}</h2>
  <div class="info-box">
- <p><strong>Deslocação:</strong> a confirmar por telefone (route_km TomTom indisponível)</p>
- <p><strong>Mão de obra (1ʳᵉ hora):</strong> desde {h1}€</p>
- <p><strong>Mão de obra (2h):</strong> {h2}€</p>
- <p style="font-size:.85rem;color:#666;margin-top:.8rem">Tarifa horária 65€ + majoração +50% noite/WE/feriado · Orçamento por escrito</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis e 50 € à noite, fins de semana e feriados</p>
+ <p><strong>Mão de obra:</strong> 70 €/h em horário útil; 100 €/h à noite, fins de semana e feriados</p>
+ <p><strong>Cada hora começada:</strong> é devida</p>
+ <p style="font-size:.85rem;color:#666;margin-top:.8rem">70 €/h em horário útil + deslocação 30 €; 100 €/h + deslocação 50 € à noite, fins de semana e feriados · Orçamento por escrito</p>
  </div>''',
 ]
 
 
 # Mapping grille Filipe pour h1/h2 — par défaut h1=80, h2=145 (Macedo Z1)
 # Suivant prix depuis +65 € h de main d'oeuvre
-H1_BASE = 80   # 1ʳᵉ heure (base)
-H2_BASE = 145  # 2h cumul
+H1_BASE = 100   # 1ʳᵉ heure (base)
+H2_BASE = 170  # 2h cumul
 
 
 def render_precos_block(c, slug):
     name = c['name']
     zone = c.get('zone')
-    desloc = (c.get('price') or {}).get('desloc')
+    desloc = 30
     rkm = c.get('route_km')
 
     if zone is None or desloc is None:

@@ -33,11 +33,12 @@ TOMTOM_SOURCE = Path.home() / "work/Sites/_audit/zonas-distances-concelhos.json"
 # Source 2 (PRICING canonique CU) — mapping localité -> zone depuis precos-zonas.json
 PRECOS_CU = ROOT / "precos-zonas.json"
 
-# Grille officielle verrouillée (doctrine tarifs PRICING.md)
-GRILLE_PRECOS = OrderedDict([(1, 15), (2, 25), (3, 35), (4, 45), (5, 55), (6, 65)])
+# Grille officielle verrouillée (doctrine tarifs 2026)
+# Le déplacement est un forfait unique : aucune zone Z1–Z6 n’est générée.
+GRILLE_PRECOS = OrderedDict([(1, 30), (2, 30), (3, 30), (4, 30), (5, 30), (6, 30)])
 
-TARIF_HORA = 65
-MAJORACAO = "+50% noite (20h-8h) / domingo / feriado"
+TARIF_HORA = 70
+MAJORACAO = "100 €/h + deslocação 50 € à noite (17h-9h), fins de semana e feriados"
 TELEFONE_PUBLIC = "928 484 451"
 TELEFONE_E164 = "+351928484451"
 
@@ -174,18 +175,17 @@ def faq_entries(c: dict) -> list[dict]:
         {
             "q": f"Quanto tempo demora a chegar a {name}?",
             "a": (
-                f"Em condições normais, a vinda desde Macedo de Cavaleiros é de "
-                f"~{minutos} minutos ({km:.0f} km). Em horário noturno, feriado ou "
-                f"condições atmosféricas adversas, este tempo pode aumentar. "
-                f"Confirmamos a janela de chegada ao telefone antes da deslocação."
+                f"O horário de atendimento é confirmado por telefone conforme a "
+                f"disponibilidade. Não comunicamos um prazo absoluto de chegada. "
+                f"Confirmamos a janela de atendimento antes da deslocação."
             ),
         },
         {
             "q": f"Quanto custa a deslocação de desentupimento a {name}?",
             "a": (
-                f"Zona tarifária Z{zone}: deslocação {desloc}€ já incluída no orçamento "
-                f"por escrito. {TARIF_HORA}€/hora de mão de obra. "
-                f"Majoração noite/domingo/feriado: +50% (sempre anunciada antes)."
+                f"A deslocação é um forfait único: 30 € em dias úteis (9h–17h) e "
+                f"50 € à noite (17h–9h), fins de semana e feriados. Mão de obra: "
+                f"70 €/hora em horário normal e 100 €/hora fora desse horário."
             ),
         },
         {
@@ -200,15 +200,15 @@ def faq_entries(c: dict) -> list[dict]:
             "q": f"Fazem orçamento por escrito em {name} antes de começar?",
             "a": (
                 f"Sim — orçamento por escrito sem surpresas, com discriminação de "
-                f"deslocação Z{zone}, mão de obra ({TARIF_HORA}€/h) e material. "
+                f"deslocação, mão de obra e material, cada item discriminado. "
                 f"Só arrancamos depois da sua confirmação oral ou escrita."
             ),
         },
         {
             "q": f"Emitem fatura com NIF para {name}?",
             "a": (
-                f"Sim. Fatura com NIF, discriminada por deslocação Z{zone} ({desloc}€), "
-                f"hora de trabalho ({TARIF_HORA}€/h) e material. Pagamento MB Way, "
+                f"Sim. Fatura com NIF, discriminada por deslocação, hora de trabalho "
+                f"e material. Pagamento MB Way, "
                 f"cartão ou numerário. Garantia 2 anos sobre mão de obra e peças."
             ),
         },
@@ -467,13 +467,12 @@ def briques_geo(c: dict, neighbors: list[str]) -> str:
 </section>
 
 <section class="geo-table-cu" style="background:#fff;padding:1.5rem;border-radius:10px;margin:1.5rem 0">
-<h2 role="heading" aria-level="2" style="color:#0a4d68;font-size:1.4rem;margin-bottom:1rem">📋 Tabela de deslocação por zona — referência oficial</h2>
+<h2 role="heading" aria-level="2" style="color:#0a4d68;font-size:1.4rem;margin-bottom:1rem">📋 Condições de deslocação — referência oficial</h2>
 <table style="width:100%;border-collapse:collapse;background:#fff">
-<thead><tr style="background:#0a4d68;color:#fff"><th style="padding:.6rem;text-align:left">Zona</th><th style="padding:.6rem;text-align:left">Distância aprox.</th><th style="padding:.6rem;text-align:left">Deslocação</th><th style="padding:.6rem;text-align:left">Majoração noite/domingo/feriado</th></tr></thead>
+<thead><tr style="background:#0a4d68;color:#fff"><th style="padding:.6rem;text-align:left">Horário</th><th style="padding:.6rem;text-align:left">Deslocação</th><th style="padding:.6rem;text-align:left">Mão de obra</th></tr></thead>
 <tbody>
-<tr><td style="padding:.55rem;border-bottom:1px solid #eee">Z1</td><td style="padding:.55rem;border-bottom:1px solid #eee">até 15 km</td><td style="padding:.55rem;border-bottom:1px solid #eee">15€</td><td style="padding:.55rem;border-bottom:1px solid #eee">+50%</td></tr>
-<tr style="background:#fff5e0"><td style="padding:.55rem;border-bottom:1px solid #eee"><strong>Z{zone} ← esta zona</strong></td><td style="padding:.55rem;border-bottom:1px solid #eee">{km_str}</td><td style="padding:.55rem;border-bottom:1px solid #eee"><strong>{desloc}€</strong></td><td style="padding:.55rem;border-bottom:1px solid #eee">+50%</td></tr>
-<tr><td style="padding:.55rem">Z{next_zone}</td><td style="padding:.55rem">{next_dist}</td><td style="padding:.55rem">{next_preco}€</td><td style="padding:.55rem">+50%</td></tr>
+<tr><td style="padding:.55rem;border-bottom:1px solid #eee">Dias úteis, 9h–17h</td><td style="padding:.55rem;border-bottom:1px solid #eee"><strong>30 €</strong></td><td style="padding:.55rem;border-bottom:1px solid #eee">70 €/h</td></tr>
+<tr style="background:#fff5e0"><td style="padding:.55rem">Noite, fim de semana e feriado</td><td style="padding:.55rem"><strong>50 €</strong></td><td style="padding:.55rem">100 €/h</td></tr>
 </tbody>
 </table>
 <p style="font-size:.8rem;color:#666;margin-top:.5rem">Hora de trabalho {TARIF_HORA}€ (mão de obra). Para confirmação exata da sua zona, ligue +351 928 484 451.</p>
@@ -518,13 +517,14 @@ def patch_one_page(c: dict, neighbors: list[str], enable_index: bool = False) ->
 
     # 3) Meta description unique avec zone+preço+km
     if c["km"] > 0:
-        km_phrase = f" a {c['km']:.0f} km (~{c['min']} min)"
+        km_phrase = ""
     else:
         km_phrase = " (base operacional em Macedo de Cavaleiros)"
     new_desc = (
         f"Desentupimento urgente em {name} ({c['district']}),{km_phrase}. "
         f"Desentupir canos, entupimento de sanita/ralo/esgoto 24h/7d. "
-        f"Deslocação Z{c['zone']}={c['desloc']}€, {TARIF_HORA}€/h. "
+        f"Deslocação única de 30 € em horário normal ou 50 € fora desse horário; "
+        f"70 €/h em horário normal e 100 €/h fora desse horário. "
         f"Ligue +351 928 484 451 — orçamento por escrito antes da intervenção."
     )
     m = re.search(r'<meta name="description" content="[^"]*">', content)
@@ -533,19 +533,17 @@ def patch_one_page(c: dict, neighbors: list[str], enable_index: bool = False) ->
             content = content.replace(m.group(0), f'<meta name="description" content="{new_desc}">', 1)
             log.append(f"  meta desc updated")
 
-    # 4) Zone badge: s'assurer que la classe zone-badge reflète la bonne zone
+    # 4) Badge de déplacement : forfait unique, sans zone tarifaire
     zone_badge_re = re.compile(r'class="zone-badge"[^>]*>([^<]+)</div>')
     m = zone_badge_re.search(content)
     if c["km"] > 0:
-        dist_phrase = f"{c['km']:.0f} km (~{c['min']} min)"
+        dist_phrase = "couverture régionale"
     else:
         dist_phrase = "base operacional"
-    new_badge = (
-        f'class="zone-badge">📍 Zona {c["zone"]} · {c["desloc"]}€ deslocação · {dist_phrase} · {name}</div>'
-    )
+    new_badge = f'class="zone-badge">📍 {name} · deslocação única 30 € ou 50 € conforme o horário · {dist_phrase}</div>'
     if m and m.group(0) != new_badge:
         content = content.replace(m.group(0), new_badge, 1)
-        log.append(f"  zone-badge updated to Z{c['zone']}")
+        log.append("  displacement badge updated")
 
     # 5) Lead answer-first (paragraph <p class="answer-first">) — si pas déjà différencié
     new_lead = intro_unique(c)

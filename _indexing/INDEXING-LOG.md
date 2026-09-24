@@ -927,3 +927,203 @@ Cumul quotidien des submits Google Indexing API (date, URLs, status, cumul).
 | 200 | https://canalizador-urgente.pt/canalizador-cotimos | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
 | 200 | https://canalizador-urgente.pt/canalizador-coucos | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
 | 200 | https://canalizador-urgente.pt/canalizador-covas-do-barroso | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+## 2026-09-21
+
+- Submissions tentées : **49**
+- 200 OK : **49**
+- SKIP gate : **0**
+- 429 quota stop : **0**
+- 403 auth stop : **0**
+- Quota restant (estim.) : **146/200**
+
+### URLs soumises (status par URL)
+
+| status | url | reason |
+|---|---|---|
+| 200 | https://canalizador-urgente.pt | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-covas-do-douro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-covelaes | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-covelas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-covelinhas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-crasto | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-cumieira | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-cunha | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-curalha | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-curopos | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-curros | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-custoias | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-dalvares | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-deilao | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desejosa | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-alfandega-da-fe | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-alijo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-almendra | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-amarante | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-argozelo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-armamar | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-boticas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-braganca | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-britiande | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-cambres | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-carrazeda-de-ansiaes | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-carrazedo-de-montenegro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-cedovim | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-cerva | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-chaves | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-cumieira | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-ervedosa-do-douro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-favaios | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-figueira-de-castelo-rodrigo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-freixo-de-espada-a-cinta | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-freixo-de-numao | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-izeda | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-lalim | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-lamego | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-lazarim | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-lixa | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-lordelo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-macedo-de-cavaleiros | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-marco-de-canaveses | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-marialva | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-mesao-frio | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-miranda-do-douro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-mirandela | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-mogadouro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+## 2026-09-22
+
+- Submissions tentées : **49**
+- 200 OK : **49**
+- SKIP gate : **0**
+- 429 quota stop : **0**
+- 403 auth stop : **0**
+- Quota restant (estim.) : **146/200**
+
+### URLs soumises (status par URL)
+
+| status | url | reason |
+|---|---|---|
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-mondim-da-beira | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-mondim-de-basto | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-montalegre | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-moucos | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-murca | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-pedras-salgadas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-penedono | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-peso-da-regua | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-pinhao | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-resende | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-ribeira-de-pena | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sabrosa | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-salzedas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sanfins-do-douro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-santa-marinha-do-zezere | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-santa-marta-de-penaguiao | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-santo-estevao | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sao-cosmado | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sao-joao-da-pesqueira | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sao-joao-de-tarouca | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sao-martinho-de-anta | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sao-martinho-de-mouros | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sendim | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-sernancelhe | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-tabuaco | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-tarouca | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-torre-de-dona-chama | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-torre-de-moncorvo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-trevoes | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-valdigem | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-valpacos | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vern | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vidago | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vila-flor | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vila-franca-das-naves | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vila-nova-de-foz-coa | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vila-pouca-de-aguiar | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vila-real | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vilar-de-macada | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vilarandelo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vimioso | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-vinhais | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-desentupimento-xinzo-de-limia | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-distrito-de-braganca | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-distrito-de-guarda | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-distrito-de-vila-real | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-donai | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-donoes | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-duas-igrejas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+## 2026-09-23
+
+- Submissions tentées : **49**
+- 200 OK : **49**
+- SKIP gate : **0**
+- 429 quota stop : **0**
+- 403 auth stop : **0**
+- Quota restant (estim.) : **146/200**
+
+### URLs soumises (status par URL)
+
+| status | url | reason |
+|---|---|---|
+| 200 | https://canalizador-urgente.pt/canalizador-eara-elha | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-edral | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-edrosa | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-edroso | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-eirado | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-eiras | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-eiras-maiores | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-eivados | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-eixal | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-eixes | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ela | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ermelo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ermida | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ermidas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ervas-tenras | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ervededo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ervedosa | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ervedosa-do-douro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ervideira | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-ervoes | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-escalhao | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-escarigo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-escurquela | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-espadanedo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-espinhosa | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-espinhosela | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-alfandega-da-fe | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-alijo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-almendra | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-amarante | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-argozelo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-armamar | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-boticas | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-braganca | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-britiande | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-cambres | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-carrazeda-de-ansiaes | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-carrazedo-de-montenegro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-cedovim | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-cerva | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-chaves | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-cumieira | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-ervedosa-do-douro | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-favaios | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-figueira-de-castelo-rodrigo | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-freixo-de-espada-a-cinta | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-freixo-de-numao | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-izeda | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+| 200 | https://canalizador-urgente.pt/canalizador-esquentador-lalim | tier2_queue_unsubmitted|priority:P0_pillar|mtime_changed |
+## 2026-09-24
+
+- Submissions tentées : **1**
+- 200 OK : **0**
+- SKIP gate : **0**
+- 429 quota stop : **0**
+- 403 auth stop : **1**
+- Quota restant (estim.) : **194/200**
+
+### URLs soumises (status par URL)
+
+| status | url | reason |
+|---|---|---|
+| 403 | https://canalizador-urgente.pt/canalizador-esquentador-lamego | http_403|{"error": {"code": 403, "message": "Permission denied. Failed to verify the URL ownership.", "status": "PERMISSION_DENIED"}} |
