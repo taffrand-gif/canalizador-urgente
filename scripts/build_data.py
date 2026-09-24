@@ -5,16 +5,17 @@
 import json, unicodedata, math, sys
 
 TOMTOM = "/Users/admin/Claude/Projects/norte reparos/norte-reparos-couverture-130km-route.json"
-OUT_DIR = "/Users/admin/projects/canalizador-urgente/data"
+OUT_DIR = "/Users/admin/work/Sites/_wt-prix/canalizador-urgente/data"
 
-# Barème CANAL par zone (AUTORITAIRE) — deslocação, desde(1h), 2h
+# Grille tarifaire officielle 2026 — la zone reste uniquement géographique.
+# Déplacement forfaitaire unique selon l'horaire ; chaque heure commencée est due.
 ZONE_PRICE = {
-    1: {"desloc": 15, "desde": 80,  "h2": 145},
-    2: {"desloc": 25, "desde": 90,  "h2": 155},
-    3: {"desloc": 35, "desde": 100, "h2": 165},
-    4: {"desloc": 45, "desde": 110, "h2": 175},
-    5: {"desloc": 55, "desde": 120, "h2": 185},
-    6: {"desloc": 65, "desde": 130, "h2": 195},
+    1: {"desloc_day": 30, "hour_day": 70, "desloc_night": 50, "hour_night": 100},
+    2: {"desloc_day": 30, "hour_day": 70, "desloc_night": 50, "hour_night": 100},
+    3: {"desloc_day": 30, "hour_day": 70, "desloc_night": 50, "hour_night": 100},
+    4: {"desloc_day": 30, "hour_day": 70, "desloc_night": 50, "hour_night": 100},
+    5: {"desloc_day": 30, "hour_day": 70, "desloc_night": 50, "hour_night": 100},
+    6: {"desloc_day": 30, "hour_day": 70, "desloc_night": 50, "hour_night": 100},
 }
 
 # 34 concelhos AUTORITAIRE: name, district, zone, grille_km. Moimenta = held.

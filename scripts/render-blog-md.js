@@ -12,8 +12,8 @@ const DOMAIN = 'https://canalizador-urgente.pt';
 const PHONE_DISPLAY = '+351 928 484 451';
 const PHONE_E164 = '+351928484451';
 const WHATSAPP = 'https://wa.me/351928484451?text=Ol%C3%A1%2C%20preciso%20de%20ajuda%20com%20uma%20avaria%20de%20canaliza%C3%A7%C3%A3o';
-const PRICE_TEXT = '65 €/h';
-const ZONES_TEXT = 'Z1=15 € / Z2=25 € / Z3=35 € / Z4=45 € / Z5=55 € / Z6=65 €';
+const PRICE_TEXT = '70 €/h em dias úteis (9h–17h) e 100 €/h à noite, fins de semana e feriados';
+const ZONES_TEXT = 'Deslocação 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados';
 const BATCH_LIMIT = 95;
 
 function die(message) {
@@ -259,7 +259,7 @@ function directAnswer(frontmatter, body) {
     const first = body.split(/\n\s*\n/).find((block) => block.trim() && !block.trim().startsWith('#')) || '';
     answer = stripMarkdown(first);
   }
-  const suffix = 'A nossa equipa explica o diagnóstico, aplica 65 €/h e apresenta orçamento por escrito antes de qualquer intervenção, com deslocação conforme a zona e sem surpresas na fatura.';
+  const suffix = 'A nossa equipa explica o diagnóstico, aplica 70 €/h em horário normal ou 100 €/h fora desse horário e apresenta orçamento por escrito antes de qualquer intervenção, com deslocação única de 30 € ou 50 € conforme o horário.';
   while (wordCount(answer) < 40 && !answer.includes(suffix)) answer = `${answer} ${suffix}`.trim();
   const words = answer.split(/\s+/).filter(Boolean);
   if (words.length > 60) answer = `${words.slice(0, 59).join(' ').replace(/[,:;]$/, '')}.`;
@@ -322,7 +322,7 @@ function makeSchemas({ title, description, slug, date, faq, howTo, repoRoot }) {
     name: 'Norte Reparos — Canalizador Urgente',
     telephone: PHONE_E164,
     url: DOMAIN,
-    priceRange: '65 €/h + deslocação Z1-Z6',
+    priceRange: '70 €/h + deslocação 30 € em horário normal; 100 €/h + deslocação 50 € fora do horário normal',
     areaServed,
   };
   const emergency = { '@context': 'https://schema.org', ...provider };
@@ -336,7 +336,7 @@ function makeSchemas({ title, description, slug, date, faq, howTo, repoRoot }) {
     serviceType: 'Diagnóstico e reparação de avarias de canalização',
     provider: { '@id': `${DOMAIN}/#plumber` },
     areaServed,
-    offers: { '@type': 'Offer', price: '65', priceCurrency: 'EUR', description: 'Mão de obra: 65 €/h; deslocação conforme Z1-Z6; +50% noite, domingo e feriado.' },
+    offers: { '@type': 'Offer', price: '70', priceCurrency: 'EUR', description: 'Mão de obra: 70 €/h em dias úteis (9h–17h) e 100 €/h à noite, fins de semana e feriados; deslocação 30 € ou 50 € conforme o horário.' },
   };
   const faqSchema = {
     '@context': 'https://schema.org',

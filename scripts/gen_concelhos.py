@@ -24,7 +24,8 @@ HUB = "Macedo de Cavaleiros"
 
 def page(c, locs):
     name = c["name"]; slug = c["slug"]; district = c["district"]; zone = c["zone"]
-    p = c["price"]; desloc = p["desloc"]; desde = p["desde"]; h2 = p["h2"]
+    p = c["price"]; desloc_day = p["desloc_day"]; hour_day = p["hour_day"]
+    desloc_night = p["desloc_night"]; hour_night = p["hour_night"]
     rkm = c["route_km"]; rmin = c["route_min"]; is_hub = c.get("hub")
     url = f"{BASE}/concelhos/{slug}"
 
@@ -50,7 +51,7 @@ def page(c, locs):
         "@type": "LocalBusiness",
         "name": f"Norte Reparos — Canalizador Urgente {name}",
         "telephone": TEL,
-        "priceRange": f"{desloc}€–{h2}€",
+        "priceRange": "30€–100€/h",
         "address": {"@type": "PostalAddress", "addressLocality": name,
                     "addressRegion": district, "addressCountry": "PT"},
         "areaServed": {"@type": "AdministrativeArea", "name": f"Concelho de {name}"},
@@ -61,18 +62,44 @@ def page(c, locs):
     schema_json = json.dumps(schema, ensure_ascii=False, indent=1)
 
     if is_hub:
-        desc = (f"Canalizador urgente em {name} ({district}). Deslocação {desloc}€, "
+        desc = (f"Canalizador urgente em {name} ({district}). Deslocação {desloc_day}€ em horário útil e {desloc_night}€ à noite, "
                 f"resposta 24h/7d. Desentupimentos e fugas de água. Ligue {TEL}.")
     else:
-        desc = (f"Canalizador urgente em {name} ({district}), a ~{rmin} min de viagem. "
-                f"Deslocação {desloc}€, 24h/7d. Ligue {TEL}.")
+        desc = (f"Canalizador urgente em {name} ({district}), deslocação {desloc_day}€ em horário útil e {desloc_night}€ à noite, "
+                f"24h/7d. Ligue {TEL}.")
 
     return f"""<!DOCTYPE html>
 <html lang="pt-PT">
 <head>
+<!-- GA4 — canalizador-urgente.pt G-65XLQV88LM -->
+<!-- RGPD — Consent Mode v2 default denied -->
+<script data-rgpd-marker="RGPD-consent-default-denied-cu">
+window.dataLayer = window.dataLayer || [];
+function gtag(){{dataLayer.push(arguments);}}
+gtag('consent', 'default', {{
+  'ad_storage': 'denied',
+  'analytics_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'functionality_storage': 'denied',
+  'personalization_storage': 'denied',
+  'security_storage': 'granted',
+  'wait_for_update': 500
+}});
+</script>
+<!-- /RGPD Consent Mode v2 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-65XLQV88LM"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){{dataLayer.push(arguments);}}
+gtag('js', new Date());
+gtag('config', 'G-65XLQV88LM', {{'send_page_view': true, 'anonymize_ip': true, 'cookie_flags': 'SameSite=None;Secure'}});
+window.trackTelClick = function(phone) {{ gtag('event', 'click_tel', {{'event_category': 'conversion', 'event_label': phone, 'value': 1}}); }};
+window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', {{'event_category': 'conversion', 'event_label': source}}); }};
+</script>
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>🚨 Canalizador Urgente {name} {desloc}€ | Norte Reparos</title>
+ <title>🚨 Canalizador Urgente {name} 24h/7d | Norte Reparos</title>
  <meta name="description" content="{desc}">
  <link rel="canonical" href="{url}">
  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -113,7 +140,7 @@ def page(c, locs):
  <p><strong>Concelho:</strong> {name}</p>
  <p><strong>Distrito:</strong> {district}</p>
  <p><strong>Distância desde {HUB}:</strong> {dist_desc(c)}</p>
- <p><strong>Zona tarifária:</strong> Zona {zone} — deslocação {desloc}€ (já incluída no orçamento)</p>
+ <p><strong>Deslocação:</strong> {desloc_day} € em dias úteis (9h–17h) e {desloc_night} € à noite, fins de semana e feriados</p>
  </div>
 
  <p>{dist_line}</p>
@@ -131,19 +158,18 @@ def page(c, locs):
 
  <h2>Preços em {name}</h2>
  <div class="info-box">
- <p><strong>Deslocação (Zona {zone}):</strong> {desloc}€ — incluída no orçamento</p>
- <p><strong>Intervenção (1h):</strong> desde {desde}€</p>
- <p><strong>Intervenção (2h):</strong> {h2}€</p>
- <p style="font-size:.85rem;color:#666;margin-top:.8rem">Preço de deslocação fixo, comunicado antes da chegada. Orçamento gratuito e sem compromisso.</p>
+ <p><strong>Horário útil (9h–17h):</strong> {hour_day} €/hora + {desloc_day} € de deslocação</p>
+ <p><strong>Noite (17h–9h), fins de semana e feriados:</strong> {hour_night} €/hora + {desloc_night} € de deslocação</p>
+ <p style="font-size:.85rem;color:#666;margin-top:.8rem">Cada hora começada é devida. Orçamento por escrito antes da intervenção.</p>
  </div>
 
  <h2>Sobre a Norte Reparos</h2>
- <p>A Norte Reparos é uma equipa de canalizadores com base em {HUB}, ao serviço do concelho de {name} e de toda a região transmontana. Resposta rápida 24 horas por dia, 7 dias por semana, incluindo fins de semana e feriados. Fatura com NIF e garantia sobre os trabalhos realizados.</p>
+ <p>A Norte Reparos é uma equipa de canalizadores com base em {HUB}, ao serviço do concelho de {name} e de toda a região transmontana. Atendimento 24 horas por dia, 7 dias por semana, incluindo fins de semana e feriados. Fatura com NIF e garantia sobre os trabalhos realizados.</p>
 
  <h2>Perguntas frequentes — Canalizador em {name}</h2>
  <p><strong>Quanto tempo demoram a chegar a {name}?</strong><br>{faq_time(c)}</p>
- <p style="margin-top:1rem"><strong>Quanto custa a deslocação?</strong><br>A deslocação para a Zona {zone} é de {desloc}€ e está incluída no orçamento.</p>
- <p style="margin-top:1rem"><strong>Atendem de noite, fins de semana e feriados?</strong><br>Sim, 24h por dia, 7 dias por semana, sem custo adicional de marcação.</p>
+ <p style="margin-top:1rem"><strong>Quanto custa a deslocação?</strong><br>{desloc_day} € em dias úteis (9h–17h) e {desloc_night} € à noite, fins de semana e feriados.</p>
+ <p style="margin-top:1rem"><strong>Atendem de noite, fins de semana e feriados?</strong><br>Sim, 24h por dia, 7 dias por semana. Aplica-se a tarifa correspondente ao horário.</p>
  <p style="margin-top:1rem"><strong>Emitem fatura?</strong><br>Sim, fatura detalhada com NIF e garantia sobre os trabalhos.</p>
 
  <div class="cta">
@@ -167,9 +193,8 @@ def dist_desc(c):
 
 def faq_time(c):
     if c.get("hub"):
-        return "Macedo de Cavaleiros é a nossa base — chegamos no menor tempo possível, com prioridade a emergências."
-    return (f"O tempo médio de viagem desde {HUB} é de cerca de {c['route_min']} minutos "
-            f"({c['route_km']:.0f} km). Para emergências, damos prioridade máxima.")
+        return "Macedo de Cavaleiros é a nossa base. A janela de atendimento é confirmada por telefone."
+    return "A janela de atendimento é confirmada por telefone conforme a disponibilidade operacional. Para emergências, ligue diretamente."
 
 def main():
     concelhos = json.load(open(os.path.join(DATA,"concelhos.json")))
