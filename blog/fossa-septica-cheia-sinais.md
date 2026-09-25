@@ -183,7 +183,7 @@ Em Trás-os-Montes, onde muitas casas (especialmente em zonas rurais) não têm 
 | Inspeção com câmara | +€80-150 | Verificar estado/danos |
 | Arranjo de tampa | €50-100 | Tampa partida/danificada |
 | Substituir filtro | €30-60 | Filtro entupido |
-| Urgência 24h | +50% | Fossa a transbordar |
+| Urgência 24h | Confirmado ao telefone | Fossa a transbordar |
 
 ### Custos Anualizados
 

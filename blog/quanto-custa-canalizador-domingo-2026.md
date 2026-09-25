@@ -7,13 +7,13 @@ category: "Preços"
 excerpt: "Descubra os preços reais para chamar um canalizador ao domingo em 2026. Tabela completa de preços, comparações e quando vale a pena."
 image: "/images-optimized/blog/blog-urgencia-domingo.webp"
 metaTitle: "Quanto Custa Canalizador Domingo 2026 | Preços"
-metaDescription: "Canalizador domingo: 90€/h + deslocação. Sábado 80€/h. Dias úteis 65€/h. Preços 2026. Orçamento grátis. Ligue 928 484 451!"
+metaDescription: "Canalizador domingo: 100€/h + 50€ deslocação. Dias úteis: 70€/h + 30€ deslocação. Preços 2026. Orçamento grátis. Ligue 928 484 451!"
 keywords: ["quanto custa canalizador domingo", "preço canalizador fim de semana", "canalizador domingo urgente", "canalizador sábado preço"]
 faqSchema:
  - question: "Quanto custa canalizador ao domingo?"
- answer: "90€/hora em horário normal (8h-20h) e 135€/hora em horário noturno (20h-8h). Mais deslocação 30-60€ conforme distância."
+ answer: "100€/hora, seja qual for a hora do domingo. Mais deslocação fixa de 50€, independente da distância."
  - question: "Canalizador domingo é mais caro que dias úteis?"
- answer: "Sim, cerca de 38% mais caro. Dias úteis: 65€/h, Domingo: 90€/h. Diferença justificada por disponibilidade Atendemos 24h/7d."
+ answer: "Sim, cerca de 43% mais caro. Dias úteis: 70€/h, Domingo: 100€/h. Diferença justificada por disponibilidade Atendemos 24h/7d."
  - question: "Vale a pena chamar canalizador ao domingo?"
  answer: "Sim para urgências reais: fuga grave, sem água quente, sanita entupida única, canalização rebentada. Não urgente pode esperar segunda-feira e poupar 25%."
 ---
@@ -38,22 +38,17 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 
 ### Mão de Obra por Hora
 
-| Dia | Horário Normal (8h-20h) | Horário Noturno (20h-8h) |
-|-----|-------------------------|--------------------------|
-| **Dias Úteis (Seg-Sex)** | 65€/h | 97,50€/h (+50%) |
-| **Sábado** | 80€/h | 120€/h (+50%) |
-| **Domingo/Feriado** | 90€/h | 135€/h (+50%) |
+| Dia | Preço/Hora |
+|-----|-----------|
+| **Dias Úteis (Seg-Sex, 9h-17h)** | 70€/h |
+| **Fora do horário útil (noite, sábado, domingo, feriado)** | 100€/h |
 
 ### Deslocação por Zona
 
-| Zona | Localidades | Preço | Tempo |
-|------|-------------|-------|-------|
-| Zona 1 | Bragança centro, Gimonde, Rabal | 15€ | 10-15 min |
-| Zona 2 | Izeda, Vinhais, Macedo arredores | 25€ | 20-30 min |
-| Zona 3 | Macedo centro, Vimioso, Mogadouro | 35€ | 35-45 min |
-| Zona 4 | Mirandela, Chaves arredores | 45€ | 50-70 min |
-| Zona 5 | Miranda do Douro, Vila Real | 55€ | 75-90 min |
-| Zona 6 | Lamego, Peso da Régua | 65€ | 90+ min |
+| Horário | Deslocação |
+|---------|-----------|
+| Dias úteis (9h-17h) | 30€ |
+| Fora do horário útil | 50€ |
 
 *Nota: Deslocação cobrada apenas uma vez por intervenção, independentemente da duração.*
 
@@ -70,10 +65,10 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 - **Total tempo:** 30 min
 
 **Custo:**
-- Deslocação Zona 3: 35€
-- Mão de obra domingo (0.5h): 45€
+- Deslocação (fim de semana): 50€
+- Mão de obra (mín. 1h a 100€/h): 100€
 - Material (vedante): 5€
-- **TOTAL: 85€**
+- **TOTAL: 155€**
 
 ### Exemplo 2: Sanita Entupida (Sábado 16h, Mirandela)
 
@@ -85,10 +80,10 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 - **Total tempo:** 30 min
 
 **Custo:**
-- Deslocação Zona 4: 45€
-- Mão de obra sábado (0.5h): 40€
+- Deslocação (fim de semana): 50€
+- Mão de obra (mín. 1h a 100€/h): 100€
 - Material: 0€
-- **TOTAL: 85€**
+- **TOTAL: 150€**
 
 ### Exemplo 3: Fuga Grave Canalização (Domingo 22h, Vinhais)
 
@@ -101,23 +96,21 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 - **Total tempo:** 1 hora
 
 **Custo:**
-- Deslocação Zona 2 noturna: 25€ + 50% = 37,50€
-- Mão de obra domingo noturno (1h): 135€
+- Deslocação (fora do horário útil): 50€
+- Mão de obra (1h a 100€/h): 100€
 - Material: 20€
-- **TOTAL: 192,50€**
+- **TOTAL: 170€**
 
 ## Comparação: Dias Úteis vs Sábado vs Domingo
 
-### Mesma Intervenção (1h trabalho, Zona 3)
+### Mesma Intervenção (1h trabalho)
 
 | Dia | Mão Obra | Deslocação | Material | TOTAL |
 |-----|----------|------------|----------|-------|
-| **Segunda-feira 10h** | 65€ | 35€ | 15€ | **115€** |
-| **Sábado 15h** | 80€ | 35€ | 15€ | **130€** |
-| **Domingo 14h** | 90€ | 35€ | 15€ | **140€** |
-| **Domingo 22h** | 135€ | 52,50€ | 15€ | **202,50€** |
+| **Segunda-feira 10h (dias úteis)** | 70€ | 30€ | 15€ | **115€** |
+| **Sábado, domingo, feriado ou noite** | 100€ | 50€ | 15€ | **165€** |
 
-**Diferença domingo vs dias úteis:** +22% (horário normal) ou +76% (horário noturno)
+**Diferença fora do horário útil vs dias úteis:** +43%
 
 ## Quando Vale a Pena Chamar ao Domingo?
 
@@ -190,10 +183,10 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 **Sim.** Aceitamos dinheiro, MB Way, Multibanco e transferência bancária.
 
 ### 4. Quanto tempo demoram a chegar ao domingo?
-**conforme zona** conforme localização. Bragança e arredores: 15-40 min. Zonas mais afastadas: até 90 min.
+Tempo de chegada confirmado por telefone conforme a localização e a disponibilidade da equipa.
 
 ### 5. Trabalham feriados?
-**Sim, 365 dias/ano.** Feriados têm o mesmo preço que domingos (90€/h horário normal, 135€/h noturno).
+**Sim, 365 dias/ano.** Feriados têm o mesmo preço que domingos: 100€/h + 50€ deslocação.
 
 ### 6. Dão garantia nos arranjos ao domingo?
 **Sim, 12 meses.** Mesma garantia que dias úteis. Se problema voltar, arranjamos gratuitamente.
@@ -202,7 +195,7 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 **Sim.** Pode ligar sábado à noite ou domingo de manhã cedo para agendar hora específica.
 
 ### 8. Preços incluem IVA?
-**Não.** Preços apresentados são sem IVA. Com IVA (23%): dias úteis 80€/h, sábado 98€/h, domingo 111€/h.
+**Não.** Preços apresentados são sem IVA. Com IVA (23%): dias úteis 86€/h, fora do horário útil (noite, fim de semana, feriados) 123€/h.
 
 ## Artigos Relacionados
 

@@ -545,6 +545,22 @@ def patch_one_page(c: dict, neighbors: list[str], enable_index: bool = False) ->
         content = content.replace(m.group(0), new_badge, 1)
         log.append("  displacement badge updated")
 
+    # 4bis) Paragraphe "Hora de trabalho X euros... confirmacao exata da sua zona" — bloc injecte
+    # une seule fois par le marker geo-diff-cu (étape 7) : ne sera jamais retouché par un
+    # simple re-run. Patch chirurgical indépendant, tolère toute ancienne valeur (pas que 65).
+    tarifa_p_re = re.compile(
+        r'<p style="font-size:\.8rem;color:#666;margin-top:\.5rem">Hora de trabalho \d+(?:[.,]\d+)?€ \(mão de obra\)\. '
+        r'Para confirmação exata da sua zona, ligue \+351 928 484 451\.</p>'
+    )
+    new_tarifa_p = (
+        f'<p style="font-size:.8rem;color:#666;margin-top:.5rem">Hora de trabalho {TARIF_HORA}€ em dias úteis '
+        f'(9h–17h) ou 100€ fora desse horário (mão de obra). Ligue +351 928 484 451 para orçamento por escrito.</p>'
+    )
+    m = tarifa_p_re.search(content)
+    if m and m.group(0) != new_tarifa_p:
+        content = content.replace(m.group(0), new_tarifa_p, 1)
+        log.append("  tarifa paragraph (Hora de trabalho) updated, zona reference removed")
+
     # 5) Lead answer-first (paragraph <p class="answer-first">) — si pas déjà différencié
     new_lead = intro_unique(c)
     lead_re = re.compile(r'<p class="answer-first">[^<]+</p>')

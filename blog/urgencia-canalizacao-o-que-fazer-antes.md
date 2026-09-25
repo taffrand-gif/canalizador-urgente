@@ -608,7 +608,7 @@ Balde (se urgência extrema).
 **Não recomendado.** Canalizador precisa acesso e aprovação orçamento. Se sair: deixar chaves vizinho e avisar.
 
 ### 3. Quanto custa urgência?
-**Dias úteis:** 65€/h + deslocação. **Noite/domingo:** 97,50-135€/h + deslocação. Orçamento antes começar.
+**Dias úteis (9h-17h):** 70€/h + 30€ deslocação. **Fora do horário útil:** 100€/h + 50€ deslocação. Orçamento antes começar.
 
 ### 4. E se não tiver dinheiro agora?
 **Avisar no telefone.** Alguns aceitam MB Way, transferência ou pagamento posterior (clientes conhecidos).
@@ -620,7 +620,7 @@ Balde (se urgência extrema).
 **Depende apólice.** Maioria cobre danos súbitos (rotura). Verificar condições. Documentar TUDO (fotos).
 
 ### 7. E se problema for à noite?
-**Ligar mesmo assim.** Serviço 24h disponível. Urgências não esperam. Preço noturno +50%.
+**Ligar mesmo assim.** Serviço 24h disponível. Urgências não esperam. Preço fora do horário útil: 100€/h.
 
 ### 8. Posso fechar só água quente?
 **Sim, se válvula existe.** Geralmente junto esquentador. Permite usar água fria enquanto espera.

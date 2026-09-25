@@ -12,8 +12,8 @@ const DOMAIN = 'https://canalizador-urgente.pt';
 const PHONE_DISPLAY = '+351 928 484 451';
 const PHONE_E164 = '+351928484451';
 const WHATSAPP = 'https://wa.me/351928484451?text=Ol%C3%A1%2C%20preciso%20de%20ajuda%20com%20uma%20avaria%20de%20canaliza%C3%A7%C3%A3o';
-const PRICE_TEXT = '65 €/h';
-const ZONES_TEXT = 'Z1=15 € / Z2=25 € / Z3=35 € / Z4=45 € / Z5=55 € / Z6=65 €';
+const PRICE_TEXT = '70 €/h em dias úteis (9h–17h) ou 100 €/h fora do horário útil';
+const ZONES_TEXT = '30 € em dias úteis (9h–17h) ou 50 € à noite, fins de semana e feriados';
 const BATCH_LIMIT = 95;
 
 function die(message) {
@@ -224,7 +224,7 @@ const CONFORMITY_RULES = [
   ['statistique terrain non sourcée', /\b\d+(?:[.,]\d+)?\s*%\s+(?:dos|das|de)\s+casos\b|\b(?:casos|problemas) que (?:vemos|resolvemos)\b/i],
   ['document/certification émis', /\b(?:emit(?:e|imos|ir|ido)[^\n.]{0,50}(?:certificad|relatório|ficha)|fichas? eletrotécnicas?|relatório técnico|certificado em \d|certificação completa|instalações certificadas|orçamento por escrito de conformidade)\b/i],
   ['statut DGEG interdit', /\b(?:DGEG|registo em curso|aguardando registo|1757\/2026\/DIEN)\b/i],
-  ['prix/fourchette non sourcé', /(?:€\s*\d|\b(?!65(?:[.,]0+)?\s*€\s*\/\s*h\b)\d+(?:[.,]\d+)?\s*€\s*(?:[-–]\s*\d+|por|\/\s*(?:h|hora|metro|unidade)))/i],
+  ['prix/fourchette non sourcé', /(?:€\s*\d|\b(?!(?:70|100)(?:[.,]0+)?\s*€\s*\/\s*(?:h|hora)\b)\d+(?:[.,]\d+)?\s*€\s*(?:[-–]\s*\d+|por|\/\s*(?:h|hora|metro|unidade)))/i],
   ['ancienneté/volume non vérifié', /\b(?:\d+\+?\s+anos? de experiência|mais de \d+ anos|\d+% problemas resolvidos)\b/i],
   ['PT-BR', /\b(?:vazamento|entupiu|torneira pingando|registro|torneira da cozinha)\b/i],
   ['service interdit', /\b(?:painéis? solares?|ar condicionado|bomba de calor|carregador(?:es)? (?:de )?ve[í]culos?)\b/i],
@@ -259,7 +259,7 @@ function directAnswer(frontmatter, body) {
     const first = body.split(/\n\s*\n/).find((block) => block.trim() && !block.trim().startsWith('#')) || '';
     answer = stripMarkdown(first);
   }
-  const suffix = 'A nossa equipa explica o diagnóstico, aplica 65 €/h e apresenta orçamento por escrito antes de qualquer intervenção, com deslocação conforme a zona e sem surpresas na fatura.';
+  const suffix = 'A nossa equipa explica o diagnóstico, aplica 70 €/h em dias úteis ou 100 €/h fora do horário útil, e apresenta orçamento por escrito antes de qualquer intervenção, com deslocação fixa de 30 € ou 50 € conforme o horário e sem surpresas na fatura.';
   while (wordCount(answer) < 40 && !answer.includes(suffix)) answer = `${answer} ${suffix}`.trim();
   const words = answer.split(/\s+/).filter(Boolean);
   if (words.length > 60) answer = `${words.slice(0, 59).join(' ').replace(/[,:;]$/, '')}.`;
@@ -322,7 +322,7 @@ function makeSchemas({ title, description, slug, date, faq, howTo, repoRoot }) {
     name: 'Norte Reparos — Canalizador Urgente',
     telephone: PHONE_E164,
     url: DOMAIN,
-    priceRange: '65 €/h + deslocação Z1-Z6',
+    priceRange: '70 €/h ou 100 €/h fora do horário útil + deslocação fixa 30 €/50 €',
     areaServed,
   };
   const emergency = { '@context': 'https://schema.org', ...provider };
@@ -336,7 +336,7 @@ function makeSchemas({ title, description, slug, date, faq, howTo, repoRoot }) {
     serviceType: 'Diagnóstico e reparação de avarias de canalização',
     provider: { '@id': `${DOMAIN}/#plumber` },
     areaServed,
-    offers: { '@type': 'Offer', price: '65', priceCurrency: 'EUR', description: 'Mão de obra: 65 €/h; deslocação conforme Z1-Z6; +50% noite, domingo e feriado.' },
+    offers: { '@type': 'Offer', price: '70', priceCurrency: 'EUR', description: 'Mão de obra: 70 €/h em dias úteis ou 100 €/h fora do horário útil; deslocação fixa de 30 € ou 50 € conforme o horário.' },
   };
   const faqSchema = {
     '@context': 'https://schema.org',
@@ -423,7 +423,7 @@ function renderPage(parsed, repoRoot) {
       <p class="direct-answer">${escapeHtml(answer)}</p>
       <section class="price-box" aria-labelledby="preco-transparente">
         <h2 id="preco-transparente">Preço transparente antes do trabalho</h2>
-        <p><strong>${PRICE_TEXT}</strong> de mão de obra · Deslocação: <strong>${ZONES_TEXT}</strong> · Noite, domingo e feriado: <strong>+50 %</strong>.</p>
+        <p><strong>${PRICE_TEXT}</strong> de mão de obra · Deslocação: <strong>${ZONES_TEXT}</strong>.</p>
         <p><strong>Orçamento por escrito antes de qualquer intervenção, sem surpresas.</strong></p>
       </section>
       <section class="trust-box" aria-labelledby="quem-atende">

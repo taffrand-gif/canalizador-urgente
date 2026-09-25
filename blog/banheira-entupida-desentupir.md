@@ -229,7 +229,7 @@ Uma banheira entupida não é apenas inconveniente - pode causar **maus cheiros,
 | Desentupimento complexo | €100-150 | 1-2h | 60 dias |
 | Limpeza com máquina | €120-180 | 1-2h | 90 dias |
 | Substituir sifão | €80-120 | 45 min | 2 anos |
-| Urgência 24h | +50% | Imediato | 30 dias |
+| Urgência 24h | Confirmado ao telefone | Imediato | 30 dias |
 
 **💡 Quando compensa chamar picheleiro:**
 - Tentou 2-3 métodos DIY sem sucesso

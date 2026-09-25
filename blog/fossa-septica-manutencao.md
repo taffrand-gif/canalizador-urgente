@@ -190,7 +190,7 @@ keywords: ["fossa séptica", "manutenção fossa", "esvaziar fossa", "picheleiro
 **Fossa 5,000L**:
 - Acesso fácil: €150-250
 - Acesso difícil: €250-400
-- Urgência: +50%
+- Urgência: confirmado ao telefone
 
 **Fossa 10,000L**:
 - €250-500
@@ -422,7 +422,7 @@ Atendemos **86 cidades** em Trás-os-Montes:
 **2-4 anos** (uso normal). Verificar anual: se lamas >50% volume = esvaziar. Uso intenso: 2-3 anos. Sinais: esgoto lento, cheiro, água volta. Custo €150-400.
 
 ### Quanto custa esvaziar fossa?
-**€150-400** (fossa 5,000L). Depende capacidade, acesso, distância. Inclui aspiração, transporte, tratamento lamas. Urgência +50%. Preventivo mais barato que urgente.
+**€150-400** (fossa 5,000L). Depende capacidade, acesso, distância. Inclui aspiração, transporte, tratamento lamas. Urgência confirmada ao telefone. Preventivo mais barato que urgente.
 
 ### O que não deitar fossa?
 **NÃO**: Produtos químicos fortes, lixívia excessiva, toalhitas, pensos, preservativos, gorduras, medicamentos, tintas. **SIM**: Papel higiénico, água, dejetos. Bactérias precisam funcionar.

@@ -228,8 +228,7 @@ keywords: ["fuga gás", "cheiro gás", "emergência gás", "picheleiro urgente",
 ### Urgência
 
 **Horário normal**: Preços acima
-**Noite/fim semana**: +50%
-**Feriados**: +100%
+**Noite, fim de semana e feriados**: confirmado ao telefone antes da intervenção
 
 **Mas**: Fuga gás = emergência, vale a pena
 

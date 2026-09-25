@@ -4,7 +4,7 @@ slug: "desentupir-sanita"
 category: "Canalização Urgente"
 date: "2026-07-13"
 author: "Norte Reparos"
-excerpt: "Se a sanita está entupida, comece por fechar a torneira de corte se a água transborda, identificar a causa provável e evitar produtos agressivos. A nossa equipa aplica 65 €/h, apresenta orçamento por escrito antes de qualquer trabalho e opera 24 horas por dia em Trás-os-Montes, com deslocação conforme a zona."
+excerpt: "Se a sanita está entupida, comece por fechar a torneira de corte se a água transborda, identificar a causa provável e evitar produtos agressivos. A nossa equipa aplica 70 €/h em dias úteis ou 100 €/h fora do horário útil, apresenta orçamento por escrito antes de qualquer trabalho e opera 24 horas por dia em Trás-os-Montes, com deslocação fixa de 30 € ou 50 € conforme o horário."
 keywords:
   - desentupir sanita
   - sanita entupida
@@ -19,7 +19,7 @@ schema:
 
 # Desentupir Sanita em Trás-os-Montes: Causas, Métodos e Quando Chamar a Nossa Equipa
 
-Se a sanita da sua casa ou empresa está entupida, este guia descreve as causas habituais em Trás-os-Montes, o que verificar antes de chamar a nossa equipa e como se processa a intervenção. Trabalhamos com tarifa horária de **65 €/h** (mão de obra) e deslocação indexada à zona de Macedo de Cavaleiros (Z1 15 € a Z6 65 €), com majoração de +50 % ao fim de semana, feriados e período noturno. Antes de qualquer trabalho, entregamos orçamento por escrito, sem surpresas.
+Se a sanita da sua casa ou empresa está entupida, este guia descreve as causas habituais em Trás-os-Montes, o que verificar antes de chamar a nossa equipa e como se processa a intervenção. Trabalhamos com tarifa horária de **70 €/h** em dias úteis ou **100 €/h** fora do horário útil, e deslocação fixa de 30 € (dias úteis) ou 50 € (noite, fim de semana e feriados). Antes de qualquer trabalho, entregamos orçamento por escrito, sem surpresas.
 
 ## Como funciona uma sanita e por que entope
 
@@ -75,7 +75,7 @@ A nossa equipa chega com o equipamento profissional descrito abaixo e segue um m
 - **ROLeak Aqua 3Plus — correlação acústica.** Localização precisa de fugas ou bloqueios em tubagens enterradas ou dentro de paredes, sem abertura desnecessária. Diferenciador raro no mercado regional.
 - **FLIR E96 — câmara térmica.** Identificação visual de anomalias em tubagens e paredes (humidade, variações térmicas associadas a bloqueios ou fugas).
 
-O trabalho decorre à tarifa horária de **65 €/h**, com deslocação indexada à zona (Z1 15 €, Z2 25 €, Z3 35 €, Z4 45 €, Z5 55 €, Z6 65 €). Em horário noturno (entre as 20 h e as 8 h), sábado, domingo e feriado, a tarifa sofre majoração de **+50 %** aplicada à mão de obra e à deslocação. Recebe **orçamento por escrito antes de qualquer intervenção**, e a fatura discrimina horas, deslocação e materiais. A nossa equipa realiza o trabalho de canalização (desobstrução, reparação, substituição). Quando a legislação exige documentação ou formalidade equivalente (por exemplo, intervenção significativa na rede predial), esse passo é tratado pelo técnico habilitado em causa — informe-se connosco para indicarmos o caminho correto.
+O trabalho decorre à tarifa horária de **70 €/h** em dias úteis ou **100 €/h** fora do horário útil, com deslocação fixa de 30 € ou 50 € conforme o horário. Recebe **orçamento por escrito antes de qualquer intervenção**, e a fatura discrimina horas, deslocação e materiais. A nossa equipa realiza o trabalho de canalização (desobstrução, reparação, substituição). Quando a legislação exige documentação ou formalidade equivalente (por exemplo, intervenção significativa na rede predial), esse passo é tratado pelo técnico habilitado em causa — informe-se connosco para indicarmos o caminho correto.
 
 ## Prevenção: como reduzir o risco de entupimento
 
@@ -103,7 +103,7 @@ Habitualmente indica calcário acumulado no sifão (água dura), objeto preso pe
 
 ### Quanto custa desentupir a sanita em Trás-os-Montes?
 
-A mão de obra é de 65 €/h e a deslocação segue a zona (Z1 15 €, Z2 25 €, Z3 35 €, Z4 45 €, Z5 55 €, Z6 65 €). Em horário noturno, fim de semana ou feriado, aplica-se majoração de +50 % à mão de obra e à deslocação. Recebe orçamento por escrito antes do trabalho começar, sem surpresas na fatura. Materiais e equipamento específico (molas descartáveis, etc.) são discriminados na fatura quando utilizados.
+A mão de obra é de 70 €/h em dias úteis ou 100 €/h fora do horário útil, e a deslocação é um forfait fixo de 30 € ou 50 € conforme o horário. Recebe orçamento por escrito antes do trabalho começar, sem surpresas na fatura. Materiais e equipamento específico (molas descartáveis, etc.) são discriminados na fatura quando utilizados.
 
 ### Vocês emitem documentação formal da intervenção?
 

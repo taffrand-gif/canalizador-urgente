@@ -7,7 +7,7 @@ category: "Urgências"
 excerpt: "Guia completo canalizador Atendemos 24h/7d: quando chamar, quanto custa, tempo resposta, o que esperar. Serviço urgente Trás-os-Montes."
 image: "/images-optimized/blog/blog-urgencia-24h.webp"
 metaTitle: "Canalizador Atendemos 24h/7d Trás-os-Montes | Guia 2026"
-metaDescription: "Canalizador 24h: 15-90min resposta, 65-135€/h conforme horário. Fugas, entupimentos, avarias urgentes. Disponível 365 dias. Ligue 928 484 451!"
+metaDescription: "Canalizador 24h: resposta confirmada por telefone, 70€/h ou 100€/h conforme horário. Fugas, entupimentos, avarias urgentes. Disponível 365 dias. Ligue 928 484 451!"
 keywords: ["canalizador Atendemos 24h/7d", "canalizador urgente", "canalizador noite", "emergência canalização"]
 schema:
  type: "HowTo"
@@ -16,12 +16,12 @@ schema:
  totalTime: "PT15M"
  estimatedCost:
  currency: "EUR"
- value: "65-135"
+ value: "70-100"
 faqSchema:
  - question: "Quanto tempo demora canalizador 24h a chegar?"
- answer: "conforme zona em Bragança, conforme zona em Mirandela, até 90 minutos em zonas mais afastadas de Trás-os-Montes."
+ answer: "Tempo de chegada confirmado por telefone conforme a localização e a disponibilidade da equipa."
  - question: "Quanto custa canalizador Atendemos 24h/7d?"
- answer: "Dias úteis: 65€/h, Sábados: 80€/h, Domingos/feriados: 90€/h, Noite (20h-8h): 135€/h. Mais deslocação 30-60€."
+ answer: "70€/h em dias úteis (9h-17h) ou 100€/h fora do horário útil (noite, fim de semana, feriados). Mais deslocação fixa de 30€ ou 50€ conforme o horário."
  - question: "Canalizador 24h trabalha feriados?"
  answer: "Sim, 365 dias por ano incluindo Natal, Ano Novo e todos os feriados. Preços iguais a domingos."
 ---
@@ -129,24 +129,17 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 | Período | Horário | Preço/Hora | Exemplo |
 |---------|---------|------------|---------|
-| **Dias Úteis Normal** | Seg-Sex 8h-20h | 65€/h | Terça 14h: 65€/h |
-| **Dias Úteis Noite** | Seg-Sex 20h-8h | 97,50€/h (+50%) | Quarta 23h: 97,50€/h |
-| **Sábado Normal** | Sáb 8h-20h | 80€/h | Sábado 15h: 80€/h |
-| **Sábado Noite** | Sáb 20h-8h | 120€/h (+50%) | Sábado 22h: 120€/h |
-| **Domingo/Feriado Normal** | Dom 8h-20h | 90€/h | Domingo 11h: 90€/h |
-| **Domingo/Feriado Noite** | Dom 20h-8h | 135€/h (+50%) | Domingo 1h: 135€/h |
+| **Dias Úteis** | Seg-Sex 9h-17h | 70€/h | Terça 14h: 70€/h |
+| **Fora do horário útil** | Noite, fim de semana, feriados | 100€/h | Domingo 11h: 100€/h |
 
 ### Deslocação por Zona
 
-| Zona | Localidades Principais | Preço | Tempo Chegada |
-|------|------------------------|-------|---------------|
-| **Zona 1** | Bragança centro, Gimonde, Rabal | 15€ | 10-20 min |
-| **Zona 2** | Izeda, Vinhais, Macedo arredores | 25€ | 20-35 min |
-| **Zona 3** | Macedo centro, Vimioso, Mogadouro | 35€ | 35-50 min |
-| **Zona 4** | Mirandela, Chaves arredores | 45€ | 50-75 min |
-| **Zona 5** | Miranda do Douro, Vila Real | 55€ | 75-90 min |
+| Horário | Deslocação |
+|---------|-----------|
+| **Dias úteis (9h-17h)** | 30€ |
+| **Fora do horário útil** | 50€ |
 
-*Deslocação cobrada 1 vez por intervenção. Horário noturno (20h-8h): +50% deslocação.*
+*Deslocação cobrada 1 vez por intervenção, forfait único independente da distância, toda a área servida.*
 
 ## Exemplos Reais Intervenções 24h
 
@@ -163,10 +156,10 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 50 minutos
 
 **Custo:**
-- Deslocação Zona 1: 15€
-- Mão obra domingo (0.83h): 75€
+- Deslocação (fim de semana): 50€
+- Mão de obra (mín. 1h a 100€/h): 100€
 - Material (abraçadeira, fita): 12€
-- **TOTAL: 102€**
+- **TOTAL: 162€**
 
 ### Exemplo 2: Sanita Entupida (Sexta 23h, Mirandela)
 
@@ -180,10 +173,10 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 30 minutos
 
 **Custo:**
-- Deslocação Zona 4 noturna: 45€ + 50% = 67,50€
-- Mão obra noite (0.5h): 48,75€
+- Deslocação (fora do horário útil): 50€
+- Mão de obra (mín. 1h a 100€/h): 100€
 - Material: 0€
-- **TOTAL: 116,25€**
+- **TOTAL: 150€**
 
 ### Exemplo 3: Esquentador Avariado (Sábado 9h, Vinhais)
 
@@ -197,10 +190,10 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 50 minutos
 
 **Custo:**
-- Deslocação Zona 2: 25€
-- Mão obra sábado (0.83h): 66,40€
+- Deslocação (fim de semana): 50€
+- Mão de obra (mín. 1h a 100€/h): 100€
 - Material (termóstato): 35€
-- **TOTAL: 126,40€**
+- **TOTAL: 185€**
 
 ### Exemplo 4: Rotura Canalização (Terça 3h, Macedo)
 
@@ -216,10 +209,10 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 - **Total:** 1h30
 
 **Custo:**
-- Deslocação Zona 3 noturna: 35€ + 50% = 52,50€
-- Mão obra noite (1.5h): 146,25€
+- Deslocação (fora do horário útil): 50€
+- Mão de obra (1h30 a 100€/h): 150€
 - Material (tubo, ligações, gesso): 45€
-- **TOTAL: 243,75€**
+- **TOTAL: 245€**
 
 ## Tempo de Resposta por Localização
 
@@ -415,7 +408,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 **Sim, 365 dias/ano.** Incluindo Natal, Ano Novo, feriados. Sempre alguém disponível.
 
 ### 3. Quanto custa urgência à noite?
-**Horário noturno (20h-8h):** +50% mão obra. Exemplo: dias úteis 65€/h → noite 97,50€/h. Deslocação também +50%.
+**Fora do horário útil (noite, fim de semana, feriados):** 100€/h de mão de obra e 50€ de deslocação, em vez de 70€/h e 30€ em dias úteis.
 
 ### 4. Posso ter orçamento antes de começar?
 **Sim, sempre.** Orçamento telefónico estimado na chamada. No local, orçamento exato ANTES começar trabalho. Só começa após aprovação.
