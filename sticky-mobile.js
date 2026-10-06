@@ -12,6 +12,7 @@
   // Detect mobile
   var isMobile = window.matchMedia('(max-width: 767px)').matches;
   if (!isMobile) return;
+  if (document.querySelector('.sticky-cta')) return; // barre statique présente : une seule stratégie par page
   
   // Anti-repeat
   if (sessionStorage.getItem('stickybar_shown_cu')) return;
