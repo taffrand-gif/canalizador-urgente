@@ -75,8 +75,8 @@ Sim, a nossa equipa acompanha cada pedido — sem intermediários nem call cente
 **Atendem em Bragança / Mirandela / Chaves / Macedo?**
 Sim, cobrimos Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila Real, Mogadouro, Vinhais, Miranda do Douro e restante Trás-os-Montes.
 
-## Também prestamos serviços de eletricista urgente
-Para avarias elétricas 24h: eletricista-urgente.pt · +351 932 321 892
+## Site irmão (eletricidade)
+Este site não presta serviços de eletricidade. Para avarias elétricas: https://eletricista-urgente.pt
 
 ## Marcas de materiais (verídicas, conforme disponibilidade de stock)
 Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval
@@ -89,5 +89,5 @@ Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval
 
 ## Notas editoriais
 - Pronom usado: "nossa equipa", "garantimos", "contacte-nos" (R12 verrouillée)
-- Zero conteúdo inventado: preços reais, equipamento real, NAP único por repo (928 canalizador, 932 eletricista)
+- Zero conteúdo inventado: preços reais, equipamento real, NAP único deste site: +351 928 484 451
 - Géo-neutre: sem streetAddress precisa, sem claims locais não verificáveis

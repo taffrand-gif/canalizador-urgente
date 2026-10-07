@@ -11,7 +11,7 @@
 **Norte Reparos** est une entreprise technique professionnelle multi-sites active dans la région de Trás-os-Montes (Portugal). Le site `canalizador-urgente.pt` est dédié exclusivement aux **urgences plomberie** : fuite d'eau, canalisation cassée, engorgement, problème de chauffe-eau, etc.
 
 - **Maison-mère** : Norte Reparos (Portugal)
-- **Téléphone unique canalizador** : **+351 928 484 451** (NE PAS confondre avec 932 = eletricista)
+- **Téléphone unique canalizador** : **+351 928 484 451** (seul numéro de ce site ; l'électricité relève du site frère eletricista-urgente.pt)
 - **Site web** : https://canalizador-urgente.pt
 - **Siège opérationnel** : Macedo de Cavaleiros, Trás-os-Montes
 - **Zone d'intervention** : Trás-os-Montes + Douro (raio ~130 km)
@@ -119,7 +119,7 @@ R : Oui, vous parlez toujours à la même personne — pas un call center.
 R : Oui, nous couvrons Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila Real, et tout Trás-os-Montes.
 
 **Q : Faites-vous aussi de l'électricité ?**
-R : Norte Reparos a un site dédié : eletricista-urgente.pt · +351 932 321 892 (électricien urgence 24h).
+R : Non, ce site ne traite que la plomberie. L'électricité relève du site frère : https://eletricista-urgente.pt
 
 ---
 
@@ -139,8 +139,8 @@ R : Norte Reparos a un site dédié : eletricista-urgente.pt · +351 932 321 892
 |---|---|---|---|
 | Canalizador Urgente | canalizador-urgente.pt | Plomberie urgence 24h | 928 484 451 |
 | Canalizador Norte Reparos | canalizador-norte-reparos.pt | Plomberie installation | 928 484 451 |
-| Eletricista Urgente | eletricista-urgente.pt | Électricité urgence 24h | 932 321 892 |
-| Eletricista Norte Reparos | eletricista-norte-reparos.pt | Électricité installation | 932 321 892 |
+| Eletricista Urgente | eletricista-urgente.pt | Électricité urgence 24h | voir le site |
+| Eletricista Norte Reparos | eletricista-norte-reparos.pt | Électricité installation | voir le site |
 
 ---
 
