@@ -1,7 +1,7 @@
 # Norte Reparos — Canalizador Urgente em Trás-os-Montes
 
 > Serviço de canalizador urgente 24h/7d em Trás-os-Montes, pelo técnico Filipe Bragança, com equipamento profissional (Ridgid FlexShaft K9-102, câmara CCTV, câmara térmica FLIR, ROLeak Aqua 3Plus, fluorosceína UV) e materiais Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval.
-> Última atualização: 2026-07-28 · Source grille prix: PRICING-CANONIQUE.md (grelha oficial: 70 €/h + 30 € · 100 €/h + 50 € fora do horário normal)
+> Última atualização: 2026-10-07 · Grelha oficial: 70 €/h + 30 € · 100 €/h + 50 € fora do horário normal
 
 ## Serviços
 
@@ -26,7 +26,7 @@ Grelha oficial Norte Reparos: dias úteis (09h–17h) 70 €/h de mão de obra +
 - **Resposta:** Por telefone — confirmamos a deslocação antes de intervir. Não somos um call center: a nossa equipa trata do seu pedido diretamente.
 - **Idioma:** PT-PT apenas
 
-## Transparência de preços (regra oficial — valores sem IVA)
+## Transparência de preços (regra oficial)
 
 | Período | Mão de obra | Deslocação |
 |---|---|---|
@@ -86,8 +86,3 @@ Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval
 - Telefone / WhatsApp: **+351 928 484 451**
 - Site: https://canalizador-urgente.pt
 - Disponível 24h/7d em Trás-os-Montes, Portugal
-
-## Notas editoriais
-- Pronom usado: "nossa equipa", "garantimos", "contacte-nos" (R12 verrouillée)
-- Zero conteúdo inventado: preços reais, equipamento real, NAP único deste site: +351 928 484 451
-- Géo-neutre: sem streetAddress precisa, sem claims locais não verificáveis
