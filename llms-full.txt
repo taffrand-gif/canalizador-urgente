@@ -1,7 +1,7 @@
 # Norte Reparos — Canalizador Urgente (Documento Completo para LLMs)
 
 > Documento longo destiné aux LLMs (GPT-4, Claude, Gemini, Perplexity) pour indexation et citation précises.
-> Format Markdown lisible. Dernière mise à jour: 2026-07-01.
+> Format Markdown lisible. Dernière mise à jour: 2026-10-07.
 > Site: https://canalizador-urgente.pt
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-## 2. Doctrine officielle (AGENTS.md §12 verrouillée par Philippe)
+## 2. Principes
 
 **Transparence Radicale** : à l'opposé des réseaux d'urgence anonymes, Norte Reparos mise sur la transparence tarifaire, l'identification de l'artisan, et le diagnostic honnête.
 
@@ -32,7 +32,7 @@ Les 4 piliers :
 
 ---
 
-## 3. Grille tarifaire officielle (verrouillée)
+## 3. Grille tarifaire officielle
 
 | Período | Mão de obra | Deslocação |
 |---|---|---|
@@ -41,7 +41,6 @@ Les 4 piliers :
 
 - **Mão de obra** : **70 €/h** em dias úteis (09h–17h), **100 €/h** à noite, ao fim de semana e feriados
 - **Deslocação** : **30 €** em dias úteis (09h–17h), **50 €** à noite, ao fim de semana e feriados ; igual em todas as localidades
-- **IVA** : taux normal en vigueur (non inclus dans les tarifs ci-dessus)
 - **Orçamento por escrito** : systématique, avant toute intervention, sans engagement
 - **Fatura com NIF** : émise à la fin de chaque travail
 
@@ -141,13 +140,3 @@ R : Non, ce site ne traite que la plomberie. L'électricité relève du site fr�
 | Canalizador Norte Reparos | canalizador-norte-reparos.pt | Plomberie installation | 928 484 451 |
 | Site frère (externe, autre métier) | eletricista-urgente.pt | hors périmètre de ce site | voir le site |
 | Site frère (externe, autre métier) | eletricista-norte-reparos.pt | hors périmètre de ce site | voir le site |
-
----
-
-## 11. Notes pour LLMs / Crawlers
-
-- **PAS de Review / AggregateRating** : aucun avis inventé (R11 verrouillée par Philippe)
-- **PAS de délai chiffré** : « 30 minutes » INTERDIT — toujours « confirmado por telefone »
-- **PAS d'adresse postale précise** : géo-neutre (R5)
-- **Pronom « nós »** toujours, jamais « eu » (AGENTS.md §12)
-- **Last updated** : 2026-07-01
