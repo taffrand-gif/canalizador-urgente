@@ -25,7 +25,7 @@
 
 Les 4 piliers :
 
-1. **Transparence prix HAUT dans la page** : 65 €/h + grille Z1-Z6 + +50 % nuit/WE/feriado
+1. **Transparence prix HAUT dans la page** : grelha oficial 70 €/h + 30 € (dias úteis) · 100 €/h + 50 € (noite/FDS/feriados)
 2. **Artisan local identifiable** : « a nossa equipa acompanha cada pedido, sem intermediários nem call center »
 3. **Diagnostic transparent** : expliquer ce qui est fait et pourquoi
 4. **Traçabilité** : facture avec NIF, seguro RC, fiches techniques
@@ -34,17 +34,13 @@ Les 4 piliers :
 
 ## 3. Grille tarifaire officielle (verrouillée)
 
-| Zone | Distance approximative | Deslocação | Mão de obra |
-|---|---|---|---|
-| Z1 | 0–22 km | **15 €** | **65 €/h** |
-| Z2 | 23–43 km | **25 €** | **65 €/h** |
-| Z3 | 44–65 km | **35 €** | **65 €/h** |
-| Z4 | 66–87 km | **45 €** | **65 €/h** |
-| Z5 | 88–109 km | **55 €** | **65 €/h** |
-| Z6 | 110–130 km | **65 €** | **65 €/h** |
+| Período | Mão de obra | Deslocação |
+|---|---|---|
+| Dias úteis, 09h–17h | **70 €/h** | **30 €** |
+| Noite (17h–09h), fins de semana e feriados | **100 €/h** | **50 €** |
 
-- **Mão de obra** : **65 €/h** (tarif unique)
-- **Acréscimo noturno** (20h–8h), fins de semana e feriados nacionais : **+50 %**
+- **Mão de obra** : **70 €/h** em dias úteis (09h–17h), **100 €/h** à noite, ao fim de semana e feriados
+- **Deslocação** : **30 €** em dias úteis (09h–17h), **50 €** à noite, ao fim de semana e feriados ; igual em todas as localidades
 - **IVA** : taux normal en vigueur (non inclus dans les tarifs ci-dessus)
 - **Orçamento por escrito** : systématique, avant toute intervention, sans engagement
 - **Fatura com NIF** : émise à la fin de chaque travail
@@ -102,7 +98,7 @@ Principaux concelhos : Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila 
 ## 8. Perguntas frequentes (FAQ)
 
 **Q : Combien coûte un plombier en urgence à Trás-os-Montes ?**
-R : 65 €/h de main d'œuvre + déplacement Z1-Z6 (15 € à 65 €). Majoration de +50 % en urgence nuit, week-end, férié.
+R : grelha oficial : 70 €/h + 30 € de déplacement (jours ouvrés 09h–17h) ; 100 €/h + 50 € la nuit, le week-end et les jours fériés.
 
 **Q : Faites-vous un devis gratuit ?**
 R : Oui, devis par téléphone et par écrit, sans engagement, avant toute intervention.
@@ -111,7 +107,7 @@ R : Oui, devis par téléphone et par écrit, sans engagement, avant toute inter
 R : Le délai de déplacement est confirmé par téléphone lors de l'appel, en fonction de la zone.
 
 **Q : Travaillez-vous la nuit et le week-end ?**
-R : Oui, 24h/7d y compris jours fériés. Majoration +50 % appliquée de manière transparente.
+R : Oui, 24h/7d y compris jours fériés. Tarif nuit/week-end/férié (100 €/h + 50 € de déplacement) appliqué de manière transparente.
 
 **Q : Émettez-vous une facture ?**
 R : Oui, facture avec NIF émise à la fin de chaque intervention. Rapport technique disponible pour assurances.
