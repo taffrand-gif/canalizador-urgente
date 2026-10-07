@@ -1,6 +1,5 @@
 # Norte Reparos — Canalizador Urgente em Trás-os-Montes
 
-> Serviço de canalizador urgente 24h/7d em Trás-os-Montes, pelo técnico Filipe Bragança, com equipamento profissional (Ridgid FlexShaft K9-102, câmara CCTV, câmara térmica FLIR, ROLeak Aqua 3Plus, fluorosceína UV) e materiais Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval.
 > Última atualização: 2026-10-07 · Grelha oficial: 70 €/h + 30 € · 100 €/h + 50 € fora do horário normal
 
 ## Serviços
@@ -15,12 +14,12 @@
 
 ## Preços
 
-Grelha oficial Norte Reparos: dias úteis (09h–17h) 70 €/h de mão de obra + 30 € de deslocação; noite, fins de semana e feriados 100 €/h + 50 € de deslocação; cada hora iniciada é devida; deslocação igual em todas as localidades. Orçamento por escrito antes de qualquer intervenção. Voir: [precos.html](https://canalizador-urgente.pt/precos.html)
+Grelha oficial Norte Reparos: dias úteis (09h–18h) 70 €/h de mão de obra + 30 € de deslocação; após as 18h, noite, fins de semana e feriados 100 €/h + 50 € de deslocação. Valores TTC. Toda a hora iniciada é devida. A deslocação é devida sempre que há deslocação. Não há orçamento gratuito quando a deslocação é necessária. Uma estimativa à distância (descrição detalhada e fotos) é indicativa e não definitiva; cada situação é diferente e pode demorar mais ou menos tempo. Voir: [precos.html](https://canalizador-urgente.pt/precos.html)
 
 ## Identidade
 - **Marca:** Norte Reparos (empresa técnica multi-sites)
 - **Serviço:** Canalizador urgente — fuga de água, cano rebentado, entupimento, autoclismo, esquentador
-- **Zona de intervenção:** Trás-os-Montes e Douro (rayon opérationnel ~130 km autour de Macedo de Cavaleiros)
+- **Zona de intervenção:** Trás-os-Montes e Douro, a partir de Macedo de Cavaleiros; a disponibilidade é confirmada conforme a localização e a situação operacional
 - **Horário:** Atendimento 24h/7d, incluindo noites, fins de semana e feriados nacionais
 - **Contacto:** +351 928 484 451
 - **Resposta:** Por telefone — confirmamos a deslocação antes de intervir. Não somos um call center: a nossa equipa trata do seu pedido diretamente.
@@ -30,13 +29,13 @@ Grelha oficial Norte Reparos: dias úteis (09h–17h) 70 €/h de mão de obra +
 
 | Período | Mão de obra | Deslocação |
 |---|---|---|
-| Dias úteis, 09h–17h | **70 €/h** | **30 €** |
-| Noite (17h–09h), fins de semana e feriados | **100 €/h** | **50 €** |
+| Dias úteis, 09h–18h | **70 €/h** | **30 €** |
+| Após as 18h, noite, fins de semana e feriados | **100 €/h** | **50 €** |
 
-- Cada hora iniciada é devida ; a deslocação é igual em todas as localidades
-- **Orçamento por escrito** antes de qualquer intervenção, sem surpresas
+- Valores TTC. Toda a hora iniciada é devida; a deslocação é devida sempre que há deslocação
+- Sem orçamento gratuito quando a deslocação é necessária; estimativa à distância indicativa, não definitiva
+- A janela de chegada é confirmada por telefone e depende da situação operacional
 - **Fatura** com NIF emitida no final de cada trabalho
-- **Seguro** de responsabilidade civil profissional
 
 ## Urgências tratadas (quando ligar agora)
 - Cano rebentado ou fuga de água com inundação
@@ -49,22 +48,21 @@ Grelha oficial Norte Reparos: dias úteis (09h–17h) 70 €/h de mão de obra +
 - **Ridgid FlexShaft K9-102** — desentupimento mecânico industrial
 - **Câmara de inspeção CCTV** — visualização interior de canos
 - **Câmara térmica FLIR** — deteção de fugas sem demolição
-- **ROLeak Aqua 3Plus** — deteção acústica de fugas (diferenciador raro no mercado)
 - **Kit fluorosceína UV** — localização de fugas em pavimentos radiantes
 
 ## Perguntas frequentes
 
 **Quanto custa um canalizador de urgência em Trás-os-Montes?**
-Dias úteis (09h–17h): 70 €/h + 30 € de deslocação. Noite, fins de semana e feriados: 100 €/h + 50 € de deslocação. Orçamento por escrito antes da intervenção.
+Dias úteis (09h–18h): 70 €/h + 30 € de deslocação. Após as 18h, noite, fins de semana e feriados: 100 €/h + 50 € de deslocação. Valores TTC; toda a hora iniciada é devida.
 
 **Fazem orçamento grátis?**
-Sim, orçamento por telefone e por escrito, sem compromisso, antes de qualquer intervenção.
+Não quando é necessária deslocação: a deslocação e a mão de obra são devidas. Uma estimativa à distância, com descrição detalhada e fotos, é indicativa e não é um orçamento definitivo.
 
 **Quanto tempo demora a chegada?**
-A deslocação é confirmada por telefone antes da intervenção. Confirmamos a previsão ao telefone.
+A janela de chegada é confirmada por telefone e depende da situação operacional.
 
 **Trabalham de noite e ao fim de semana?**
-Sim, 24h/7d incluindo feriados. Tarifa de noite, fim de semana e feriados (100 €/h + 50 € de deslocação) comunicada no orçamento escrito.
+Sim, 24h/7d incluindo feriados. Tarifa após as 18h, noite, fim de semana e feriados: 100 €/h + 50 € de deslocação.
 
 **Emitem fatura?**
 Sim, fatura com NIF emitida no final de cada trabalho. Diagnóstico disponível para seguradoras.
@@ -76,7 +74,7 @@ Sim, a nossa equipa acompanha cada pedido — sem intermediários nem call cente
 Sim, cobrimos Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila Real, Mogadouro, Vinhais, Miranda do Douro e restante Trás-os-Montes.
 
 ## Site irmão (eletricidade)
-Este site não presta serviços de eletricidade. Para avarias elétricas: https://eletricista-urgente.pt
+Este site não presta serviços de eletricidade. Para eletricidade: https://eletricista-urgente.pt
 
 ## Marcas de materiais (verídicas, conforme disponibilidade de stock)
 Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval
