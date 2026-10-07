@@ -139,8 +139,8 @@ R : Non, ce site ne traite que la plomberie. L'électricité relève du site fr�
 |---|---|---|---|
 | Canalizador Urgente | canalizador-urgente.pt | Plomberie urgence 24h | 928 484 451 |
 | Canalizador Norte Reparos | canalizador-norte-reparos.pt | Plomberie installation | 928 484 451 |
-| Eletricista Urgente | eletricista-urgente.pt | Électricité urgence 24h | voir le site |
-| Eletricista Norte Reparos | eletricista-norte-reparos.pt | Électricité installation | voir le site |
+| Site frère (externe, autre métier) | eletricista-urgente.pt | hors périmètre de ce site | voir le site |
+| Site frère (externe, autre métier) | eletricista-norte-reparos.pt | hors périmètre de ce site | voir le site |
 
 ---
 
