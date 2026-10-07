@@ -17,7 +17,7 @@ Les anciennes règles ont été archivées dans `../_governance/ARCHIVE/2026-09-
 
 Ne publier aucun claim DGEG, TRIESP, Ficha, Termo ou wallbox sur CU. Ne pas inventer d’avis, de chantiers, de clients, de délais garantis ou de prix.
 
-Appliquer exclusivement le modèle tarifaire central : 70 €/h + 30 € en semaine 09:00–17:00 ; 100 €/h + 50 € la nuit, les week-ends et jours fériés. Aucune zone Z1–Z6 et aucun calcul tarifaire par distance.
+Appliquer exclusivement le modèle tarifaire central : 70 €/h + 30 € en semaine 09:00–18:00 ; 100 €/h + 50 € après 18:00, la nuit, les week-ends et jours fériés (montants TTC, pas de devis gratuit si déplacement). Aucune zone Z1–Z6 et aucun calcul tarifaire par distance.
 
 Lire `SEO_PLAN.md` et `MARKETING.md` pour le contexte éditorial local. Consigner les actions dans l’historique prévu par le plan, sans dupliquer la doctrine centrale.
 
