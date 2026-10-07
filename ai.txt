@@ -1,6 +1,6 @@
 # ai.txt — AI Interaction Manifest
 # Norte Reparos — Canalizador Urgente
-# Última atualização: 2026-07-01
+# Última atualização: 2026-10-07
 
 Name: Canalizador Urgente — Norte Reparos
 Type: EmergencyService
@@ -11,15 +11,12 @@ PrimaryPhone: +351-928-484-451
 WhatsApp: +351-928-484-451
 Website: https://canalizador-urgente.pt
 Pricing:
-  HandLabor: 65 EUR/h
-  NightWeekendHolidaySurcharge: +50%
-  TravelZones:
-    Z1: 15 EUR
-    Z2: 25 EUR
-    Z3: 35 EUR
-    Z4: 45 EUR
-    Z5: 55 EUR
-    Z6: 65 EUR
+  LaborWeekdayDaytime0917: 70 EUR/h
+  TravelWeekdayDaytime0917: 30 EUR
+  LaborNightWeekendHoliday: 100 EUR/h
+  TravelNightWeekendHoliday: 50 EUR
+  StartedHourIsDue: yes
+  TravelFee: identical in every locality
 Services:
   - Fuga de água
   - Cano rebentado
@@ -36,6 +33,5 @@ QuotePolicy: Orçamento por escrito antes de qualquer intervenção, sem surpres
 Billing: Fatura com NIF emitida no final de cada trabalho
 Insurance: Responsabilidade civil profissional coberta
 Language: PT-PT (Portugal)
-Pronoun: "nós" / "nossa equipa" (nunca "eu")
 ResponseChannel: Telefone + WhatsApp — falamos sempre consigo diretamente, não um call center
-LastUpdated: 2026-07-01
+LastUpdated: 2026-10-07
