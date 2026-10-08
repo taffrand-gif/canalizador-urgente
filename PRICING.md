@@ -7,7 +7,7 @@ CU est le site plomberie urgente `canalizador-urgente.pt`. Ce fichier ne redéfi
 ## Tarif actif
 
 - **Jours ouvrés, 09:00–18:00 : 70 €/h + 30 € de déplacement.**
-- **Nuit 17:00–09:00, week-ends et jours fériés : 100 €/h + 50 € de déplacement.**
+- **Nuit 18:00–09:00, week-ends et jours fériés : 100 €/h + 50 € de déplacement.**
 - Toute heure entamée est due.
 - Un devis écrit précède l’intervention.
 - Les prix sont identiques quelle que soit la localité desservie.
