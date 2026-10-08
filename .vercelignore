@@ -35,3 +35,4 @@ _archive/
 _archive-*/
 scripts/
 .hermes-p1-hub-prototype/
+client/
