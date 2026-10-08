@@ -140,7 +140,7 @@ window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', 
  <p><strong>Concelho:</strong> {name}</p>
  <p><strong>Distrito:</strong> {district}</p>
  <p><strong>Distância desde {HUB}:</strong> {dist_desc(c)}</p>
- <p><strong>Deslocação:</strong> {desloc_day} € em dias úteis (9h–17h) e {desloc_night} € à noite, fins de semana e feriados</p>
+ <p><strong>Deslocação:</strong> {desloc_day} € em dias úteis (9h–18h) e {desloc_night} € à noite, fins de semana e feriados</p>
  </div>
 
  <p>{dist_line}</p>
@@ -158,8 +158,8 @@ window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', 
 
  <h2>Preços em {name}</h2>
  <div class="info-box">
- <p><strong>Horário útil (9h–17h):</strong> {hour_day} €/hora + {desloc_day} € de deslocação</p>
- <p><strong>Noite (17h–9h), fins de semana e feriados:</strong> {hour_night} €/hora + {desloc_night} € de deslocação</p>
+ <p><strong>Horário útil (9h–18h):</strong> {hour_day} €/hora + {desloc_day} € de deslocação</p>
+ <p><strong>Noite (18h–9h), fins de semana e feriados:</strong> {hour_night} €/hora + {desloc_night} € de deslocação</p>
  <p style="font-size:.85rem;color:#666;margin-top:.8rem">Cada hora começada é devida. Orçamento por escrito antes da intervenção.</p>
  </div>
 
@@ -168,7 +168,7 @@ window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', 
 
  <h2>Perguntas frequentes — Canalizador em {name}</h2>
  <p><strong>Quanto tempo demoram a chegar a {name}?</strong><br>{faq_time(c)}</p>
- <p style="margin-top:1rem"><strong>Quanto custa a deslocação?</strong><br>{desloc_day} € em dias úteis (9h–17h) e {desloc_night} € à noite, fins de semana e feriados.</p>
+ <p style="margin-top:1rem"><strong>Quanto custa a deslocação?</strong><br>{desloc_day} € em dias úteis (9h–18h) e {desloc_night} € à noite, fins de semana e feriados.</p>
  <p style="margin-top:1rem"><strong>Atendem de noite, fins de semana e feriados?</strong><br>Sim, 24h por dia, 7 dias por semana. Aplica-se a tarifa correspondente ao horário.</p>
  <p style="margin-top:1rem"><strong>Emitem fatura?</strong><br>Sim, fatura detalhada com NIF e garantia sobre os trabalhos.</p>
 
