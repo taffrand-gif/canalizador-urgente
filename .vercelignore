@@ -36,3 +36,4 @@ _archive-*/
 scripts/
 .hermes-p1-hub-prototype/
 client/
+public/llms.txt
