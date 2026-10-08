@@ -28,3 +28,10 @@ blog/*.md
 *.save
 *.tmp
 *~
+
+# 2026-10-08 — archives et outils internes non publics (67 fichiers _archive* servis en 200, dont 54 indexables avec ROLeak / anciens prix).
+# Restent dans git (aucune suppression) ; seulement exclus du déploiement.
+_archive/
+_archive-*/
+scripts/
+.hermes-p1-hub-prototype/
