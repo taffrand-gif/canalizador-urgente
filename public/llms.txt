@@ -1,30 +1,86 @@
-# Norte Reparos — Canalizador de Urgência
+# Norte Reparos — Canalizador Urgente em Trás-os-Montes
 
-Descritor de Site para LLMs e Agentes de IA
-
-## Identidade
-- Nome: Norte Reparos — Canalizador de Urgência
-- URL: https://canalizador-urgente.pt
-- Telefone: +351 928 484 451
-- WhatsApp: https://wa.me/351928484451
-- Cobertura: Trás-os-Montes, Bragança, Vila Real, Chaves, Lamego, Guarda e distrito
+> Última atualização: 2026-10-07 · Grelha oficial: 70 €/h + 30 € · 100 €/h + 50 € fora do horário normal
 
 ## Serviços
-- Desentupimentos 24h
-- Reparação de fugas de água
-- Canalização de urgência
-- Caldeiras e esquentadores
-- Detecção de fugas com câmara CCTV
-- Desobstrução de esgotos
 
-## Áreas
-Bragança, Trás-os-Montes, Mirandela, Vila Real, Chaves, Lamego, Guarda, Vinhais, Vimioso, Torre de Moncorvo, Mogadouro, Alfândega da Fé, Carrazeda de Ansiães, Vila Flor, Valpaços, Monção, Melgaço, Paredes de Coura.
+- [Desentupimento de canos](https://canalizador-urgente.pt/desentupir-canos.html)
+- [Desentupimento de esgoto](https://canalizador-urgente.pt/desentupimento-esgoto.html)
+- [Desentupir sanita](https://canalizador-urgente.pt/desentupir-sanita.html)
+- [Deteção de fugas de água](https://canalizador-urgente.pt/detecao-fuga-agua.html)
+- [Avaria de esquentador](https://canalizador-urgente.pt/esquentador-avaria.html)
+- [Fuga de gás](https://canalizador-urgente.pt/fuga-de-gas.html)
+- [Tabela de preços completa](https://canalizador-urgente.pt/precos.html)
 
-## Diferencial
-- Atendimento 24h/7d / 7 dias
-- Orçamento gratuito e sem compromisso
-- Técnicos com equipamento profissional (Ridgid, câmara inspeção)
-- Compromisso de preço — o preço dito é o preço pago
+## Preços
 
-## Idiomas
-Site 100% em português. Para clientes de outras regiões de Portugal.
+Grelha oficial Norte Reparos: dias úteis (09h–18h) 70 €/h de mão de obra + 30 € de deslocação; após as 18h, noite, fins de semana e feriados 100 €/h + 50 € de deslocação. Valores TTC. Toda a hora iniciada é devida. A deslocação é devida sempre que há deslocação. Não há orçamento gratuito quando a deslocação é necessária. Uma estimativa à distância (descrição detalhada e fotos) é indicativa e não definitiva; cada situação é diferente e pode demorar mais ou menos tempo. Ver: [precos.html](https://canalizador-urgente.pt/precos.html)
+
+## Identidade
+- **Marca:** Norte Reparos (empresa técnica multi-sites)
+- **Serviço:** Canalizador urgente — fuga de água, cano rebentado, entupimento, autoclismo, esquentador
+- **Zona de intervenção:** Trás-os-Montes e Douro, a partir de Macedo de Cavaleiros; a disponibilidade é confirmada conforme a localização e a situação operacional
+- **Horário:** Atendimento 24h/7d, incluindo noites, fins de semana e feriados nacionais
+- **Contacto:** +351 928 484 451
+- **Resposta:** Por telefone — confirmamos a deslocação antes de intervir. Não somos um call center: a nossa equipa trata do seu pedido diretamente.
+- **Idioma:** PT-PT apenas
+
+## Transparência de preços (regra oficial)
+
+| Período | Mão de obra | Deslocação |
+|---|---|---|
+| Dias úteis, 09h–18h | **70 €/h** | **30 €** |
+| Após as 18h, noite, fins de semana e feriados | **100 €/h** | **50 €** |
+
+- Valores TTC. Toda a hora iniciada é devida; a deslocação é devida sempre que há deslocação
+- Sem orçamento gratuito quando a deslocação é necessária; estimativa à distância indicativa, não definitiva
+- A janela de chegada é confirmada por telefone e depende da situação operacional
+- **Fatura** com NIF emitida no final de cada trabalho
+
+## Urgências tratadas (quando ligar agora)
+- Cano rebentado ou fuga de água com inundação
+- Entupimento total (sanita, esgoto, fossa)
+- Falta de água quente (esquentador ou termoacumulador avariado)
+- Cheiro a gás ou humidade repentina em parede
+- Autoclismo ou torneira sem paragem
+
+## Equipamento profissional (real, verificado)
+- **Ridgid FlexShaft K9-102** — desentupimento mecânico industrial
+- **Câmara de inspeção CCTV** — visualização interior de canos
+- **Câmara térmica FLIR** — deteção de fugas sem demolição
+- **Kit fluorosceína UV** — localização de fugas em pavimentos radiantes
+
+## Perguntas frequentes
+
+**Quanto custa um canalizador de urgência em Trás-os-Montes?**
+Dias úteis (09h–18h): 70 €/h + 30 € de deslocação. Após as 18h, noite, fins de semana e feriados: 100 €/h + 50 € de deslocação. Valores TTC; toda a hora iniciada é devida.
+
+**Fazem orçamento grátis?**
+Não quando é necessária deslocação: a deslocação e a mão de obra são devidas. Uma estimativa à distância, com descrição detalhada e fotos, é indicativa e não é um orçamento definitivo.
+
+**Quanto tempo demora a chegada?**
+A janela de chegada é confirmada por telefone e depende da situação operacional.
+
+**Trabalham de noite e ao fim de semana?**
+Sim, 24h/7d incluindo feriados. Tarifa após as 18h, noite, fim de semana e feriados: 100 €/h + 50 € de deslocação.
+
+**Emitem fatura?**
+Sim, fatura com NIF emitida no final de cada trabalho. Diagnóstico disponível para seguradoras.
+
+**A nossa equipa acompanha cada pedido?**
+Sim, a nossa equipa acompanha cada pedido — sem intermediários nem call center.
+
+**Atendem em Bragança / Mirandela / Chaves / Macedo?**
+Sim, cobrimos Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila Real, Mogadouro, Vinhais, Miranda do Douro e restante Trás-os-Montes.
+
+## Site irmão (eletricidade)
+Este site não presta serviços de eletricidade. Para eletricidade: https://eletricista-urgente.pt
+
+## Marcas de materiais (verídicas, conforme disponibilidade de stock)
+Sanitana, Grohe, Roca, Vaillant, Bosch, Junkers, Saunier Duval
+
+## Contacto
+- **Norte Reparos — Canalizador Urgente**
+- Telefone / WhatsApp: **+351 928 484 451**
+- Site: https://canalizador-urgente.pt
+- Disponível 24h/7d em Trás-os-Montes, Portugal

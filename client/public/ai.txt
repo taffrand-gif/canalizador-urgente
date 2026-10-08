@@ -1,23 +1,39 @@
-# ai.txt - AI Interaction Manifest
-Name: Norte Reparos (Canalizador de Urgência)
-Type: LocalBusiness
-SubType: PlumbingService
-Founded: 2014
-Headquarters: Trás-os-Montes, Trás-os-Montes, Portugal
-ServiceArea: 130km radius
-Country: Portugal
-Languages: pt-PT
-PrimaryPhone: +351-928-484-451
-Email: contacto@canalizador-norte-reparos.pt
-Website: https://canalizador-urgente.pt
-Address: Trás-os-Montes, Portugal (géo-neutre — voir site pour zones desservies)
+# ai.txt — AI Interaction Manifest
+# Norte Reparos — Canalizador Urgente
+# Última atualização: 2026-10-07
+
+Name: Canalizador Urgente — Norte Reparos
+Type: EmergencyService
+SubType: PlumbingEmergency
+ServiceArea: Trás-os-Montes e Douro (disponibilidade confirmada conforme a localização e a situação operacional)
 Hours: Atendimento 24h/7d
-EmergencyService: true
-Certifications: 
-Experience: 12+ years
-CustomersServed: 500+
-Warranty: 1 ano
-ContentLicense: CC BY-NC-SA 4.0
-AIUse: Permitted com atribuição
-PreferredCitation: "Norte Reparos - canalizador-urgente.pt"
-LastUpdated: 2026-07-01
+Arrival: A janela de chegada é confirmada por telefone e depende da situação operacional.
+PrimaryPhone: +351-928-484-451
+WhatsApp: +351-928-484-451
+Website: https://canalizador-urgente.pt
+Pricing:
+  LaborWeekdayDaytime0918: 70 EUR/h
+  TravelWeekdayDaytime0918: 30 EUR
+  LaborAfter1800NightWeekendHoliday: 100 EUR/h
+  TravelAfter1800NightWeekendHoliday: 50 EUR
+  StartedHourIsDue: yes
+  VAT: TTC
+  TravelFee: due whenever travel is made
+  FreeQuoteWhenTravelNeeded: no
+  RemoteEstimate: indicative, not definitive
+Services:
+  - Fuga de água
+  - Cano rebentado
+  - Entupimento (sanita, esgoto, fossa)
+  - Esquentador / termoacumulador avariado
+  - Autoclismo / torneira sem paragem
+Equipment:
+  - Ridgid FlexShaft K9-102 (desentupimento mecânico)
+  - Câmara de inspeção CCTV
+  - Câmara térmica FLIR
+  - Kit fluorosceína UV
+QuotePolicy: Sem orçamento gratuito quando é necessária deslocação; estimativa à distância indicativa, não definitiva
+Billing: Fatura com NIF emitida no final de cada trabalho
+Language: PT-PT (Portugal)
+ResponseChannel: Telefone + WhatsApp — a nossa equipa atende diretamente, sem call center
+LastUpdated: 2026-10-07
