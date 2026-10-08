@@ -21,7 +21,7 @@ faqSchema:
  - question: "Quanto tempo demora canalizador 24h a chegar?"
  answer: "Tempo de chegada confirmado por telefone conforme a localização e a disponibilidade da equipa."
  - question: "Quanto custa canalizador Atendemos 24h/7d?"
- answer: "70€/h em dias úteis (9h-17h) ou 100€/h fora do horário útil (noite, fim de semana, feriados). Mais deslocação fixa de 30€ ou 50€ conforme o horário."
+ answer: "70€/h em dias úteis (9h-18h) ou 100€/h fora do horário útil (noite, fim de semana, feriados). Mais deslocação fixa de 30€ ou 50€ conforme o horário."
  - question: "Canalizador 24h trabalha feriados?"
  answer: "Sim, 365 dias por ano incluindo Natal, Ano Novo e todos os feriados. Preços iguais a domingos."
 ---
@@ -129,14 +129,14 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 | Período | Horário | Preço/Hora | Exemplo |
 |---------|---------|------------|---------|
-| **Dias Úteis** | Seg-Sex 9h-17h | 70€/h | Terça 14h: 70€/h |
+| **Dias Úteis** | Seg-Sex 9h-18h | 70€/h | Terça 14h: 70€/h |
 | **Fora do horário útil** | Noite, fim de semana, feriados | 100€/h | Domingo 11h: 100€/h |
 
 ### Deslocação por Zona
 
 | Horário | Deslocação |
 |---------|-----------|
-| **Dias úteis (9h-17h)** | 30€ |
+| **Dias úteis (9h-18h)** | 30€ |
 | **Fora do horário útil** | 50€ |
 
 *Deslocação cobrada 1 vez por intervenção, forfait único independente da distância, toda a área servida.*

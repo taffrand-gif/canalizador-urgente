@@ -12,8 +12,8 @@ const DOMAIN = 'https://canalizador-urgente.pt';
 const PHONE_DISPLAY = '+351 928 484 451';
 const PHONE_E164 = '+351928484451';
 const WHATSAPP = 'https://wa.me/351928484451?text=Ol%C3%A1%2C%20preciso%20de%20ajuda%20com%20uma%20avaria%20de%20canaliza%C3%A7%C3%A3o';
-const PRICE_TEXT = '70 €/h em dias úteis (9h–17h) ou 100 €/h fora do horário útil';
-const ZONES_TEXT = '30 € em dias úteis (9h–17h) ou 50 € à noite, fins de semana e feriados';
+const PRICE_TEXT = '70 €/h em dias úteis (9h–18h) ou 100 €/h fora do horário útil';
+const ZONES_TEXT = '30 € em dias úteis (9h–18h) ou 50 € à noite, fins de semana e feriados';
 const BATCH_LIMIT = 95;
 
 function die(message) {
