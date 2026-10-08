@@ -81,20 +81,20 @@ INFOBOX_TEMPLATES = [
  <p><strong>Concelho:</strong> {name}</p>
  <p><strong>Distrito:</strong> {district}</p>
  <p><strong>Distância desde Macedo de Cavaleiros:</strong> {rkm} km por estrada</p>
- <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–18h) e 50 € à noite, fins de semana e feriados</p>
 </div>''',
     # V1 — focus zone contexte
     '''<div class="info-box">
  <p><strong>Concelho:</strong> {name}</p>
  <p><strong>Distrito:</strong> {district}</p>
  <p><strong>Distância desde Macedo de Cavaleiros:</strong> {rkm} km por estrada</p>
- <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–18h) e 50 € à noite, fins de semana e feriados</p>
 </div>''',
     # V2 — focus tableau
     '''<div class="info-box">
  <p><strong>Local:</strong> {name} ({district})</p>
  <p><strong>Distância operacional:</strong> {rkm} km (estrada municipal + nacional)</p>
- <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–18h) e 50 € à noite, fins de semana e feriados</p>
  <p style="font-size:.85rem;color:#666;margin-top:.5rem">A deslocação é um forfait único por horário.</p>
 </div>''',
     # V3 (NO_ROUTE) — Moimenta
@@ -266,7 +266,7 @@ def render_faq(c, slug, loc_data):
         preco_phrase = f'Partindo de {name} (base operacional Norte Reparos), a deslocação para o próprio concelho está incluída no orçamento por escrito.'
         chegar = 'A janela de atendimento é confirmada por telefone conforme a disponibilidade operacional.'
     else:
-        preco_phrase = f'A deslocação custa 30 € em dias úteis (9h–17h) e 50 € à noite, fins de semana e feriados; o orçamento é apresentado por escrito.'
+        preco_phrase = f'A deslocação custa 30 € em dias úteis (9h–18h) e 50 € à noite, fins de semana e feriados; o orçamento é apresentado por escrito.'
         if rmin is not None:
             chegar = 'A janela de atendimento é confirmada por telefone conforme a disponibilidade operacional.'
         else:
@@ -291,7 +291,7 @@ PRECOS_BLOCK_TEMPLATES = [
  <p><strong>Deslocação:</strong> 30 € em dias úteis e 50 € à noite, fins de semana e feriados — incluída no orçamento</p>
  <p><strong>Intervenção (1h):</strong> desde {h1}€</p>
  <p><strong>Intervenção (2h):</strong> {h2}€</p>
- <p style="font-size:.85rem;color:#666;margin-top:.8rem">70 €/h em dias úteis (9h–17h) + deslocação 30 €. À noite, fins de semana e feriados: 100 €/h + deslocação 50 €. Cada hora começada é devida.</p>
+ <p style="font-size:.85rem;color:#666;margin-top:.8rem">70 €/h em dias úteis (9h–18h) + deslocação 30 €. À noite, fins de semana e feriados: 100 €/h + deslocação 50 €. Cada hora começada é devida.</p>
  </div>''',
     # V1 — focus zone
     '''<h2>Preços em {name}</h2>
