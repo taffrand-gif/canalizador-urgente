@@ -38,7 +38,7 @@ PRECOS_CU = ROOT / "precos-zonas.json"
 GRILLE_PRECOS = OrderedDict([(1, 30), (2, 30), (3, 30), (4, 30), (5, 30), (6, 30)])
 
 TARIF_HORA = 70
-MAJORACAO = "100 €/h + deslocação 50 € à noite (17h-9h), fins de semana e feriados"
+MAJORACAO = "100 €/h + deslocação 50 € à noite (18h-9h), fins de semana e feriados"
 TELEFONE_PUBLIC = "928 484 451"
 TELEFONE_E164 = "+351928484451"
 
@@ -183,8 +183,8 @@ def faq_entries(c: dict) -> list[dict]:
         {
             "q": f"Quanto custa a deslocação de desentupimento a {name}?",
             "a": (
-                f"A deslocação é um forfait único: 30 € em dias úteis (9h–17h) e "
-                f"50 € à noite (17h–9h), fins de semana e feriados. Mão de obra: "
+                f"A deslocação é um forfait único: 30 € em dias úteis (9h–18h) e "
+                f"50 € à noite (18h–9h), fins de semana e feriados. Mão de obra: "
                 f"70 €/hora em horário normal e 100 €/hora fora desse horário."
             ),
         },
@@ -471,7 +471,7 @@ def briques_geo(c: dict, neighbors: list[str]) -> str:
 <table style="width:100%;border-collapse:collapse;background:#fff">
 <thead><tr style="background:#0a4d68;color:#fff"><th style="padding:.6rem;text-align:left">Horário</th><th style="padding:.6rem;text-align:left">Deslocação</th><th style="padding:.6rem;text-align:left">Mão de obra</th></tr></thead>
 <tbody>
-<tr><td style="padding:.55rem;border-bottom:1px solid #eee">Dias úteis, 9h–17h</td><td style="padding:.55rem;border-bottom:1px solid #eee"><strong>30 €</strong></td><td style="padding:.55rem;border-bottom:1px solid #eee">70 €/h</td></tr>
+<tr><td style="padding:.55rem;border-bottom:1px solid #eee">Dias úteis, 9h–18h</td><td style="padding:.55rem;border-bottom:1px solid #eee"><strong>30 €</strong></td><td style="padding:.55rem;border-bottom:1px solid #eee">70 €/h</td></tr>
 <tr style="background:#fff5e0"><td style="padding:.55rem">Noite, fim de semana e feriado</td><td style="padding:.55rem"><strong>50 €</strong></td><td style="padding:.55rem">100 €/h</td></tr>
 </tbody>
 </table>
@@ -554,7 +554,7 @@ def patch_one_page(c: dict, neighbors: list[str], enable_index: bool = False) ->
     )
     new_tarifa_p = (
         f'<p style="font-size:.8rem;color:#666;margin-top:.5rem">Hora de trabalho {TARIF_HORA}€ em dias úteis '
-        f'(9h–17h) ou 100€ fora desse horário (mão de obra). Ligue +351 928 484 451 para orçamento por escrito.</p>'
+        f'(9h–18h) ou 100€ fora desse horário (mão de obra). Ligue +351 928 484 451 para orçamento por escrito.</p>'
     )
     m = tarifa_p_re.search(content)
     if m and m.group(0) != new_tarifa_p:
