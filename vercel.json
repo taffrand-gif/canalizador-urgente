@@ -1562,18 +1562,18 @@
     },
     {
       "source": "/canalizador-urgente-m%C3%B3s-de-celas",
-      "destination": "/canalizador-urgente-mós-de-celas",
-      "statusCode": 410
+      "destination": "/canalizador-urgente-mos-de-celas",
+      "statusCode": 301
     },
     {
       "source": "/canalizador-urgente-m%C3%B3s",
-      "destination": "/canalizador-urgente-mós",
-      "statusCode": 410
+      "destination": "/canalizador-urgente-mos",
+      "statusCode": 301
     },
     {
       "source": "/canalizador-urgente-t%C3%B3",
-      "destination": "/canalizador-urgente-tó",
-      "statusCode": 410
+      "destination": "/canalizador-urgente-to",
+      "statusCode": 301
     },
     {
       "source": "/canalizador-",
@@ -2217,7 +2217,12 @@
     },
     {
       "source": "/canalizador-urgente-corti%C3%A7os",
-      "destination": "/canalizador-urgente-corticos",
+      "destination": "/canalizador-corticos",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-urgente-corticos",
+      "destination": "/canalizador-corticos",
       "statusCode": 301
     },
     {
