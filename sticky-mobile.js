@@ -89,6 +89,7 @@
   
   bar.appendChild(phoneBtn);
   bar.appendChild(waBtn);
+  var st=document.createElement('style');st.textContent='div[id^="rgpd-banner"]{bottom:68px!important}';document.head.appendChild(st); // cta-rgpd
   document.body.appendChild(bar);
   
   // Padding bottom pour éviter que le contenu soit caché
