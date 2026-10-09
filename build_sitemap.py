@@ -37,6 +37,7 @@ NOINDEX_PAGES = {
     'glossario-eletricidade.html',
     'guia-eletricidade.html',
     'top-10-razoes-contratar-eletricista.html',
+    'comparacao.html',
 }
 
 SERVICE_PREFIXES = (
