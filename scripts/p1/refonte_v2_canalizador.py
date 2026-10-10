@@ -3,7 +3,7 @@
 """refonte_v2_canalizador.py — WAVE-2 CU : refonte 5 sections data-driven + variantes linguistiques.
 
 Inspiré du pattern EU (commit f6aef43d sur eletricista-urgente).
-Adapté vocabulaire canalização (Ridgid, ROLeak, Câmara 30m — équipement canonique AGENTS.md §12).
+Adapté vocabulaire canalização (Ridgid K9-102 — seul équipement plomberie confirmé, décision Filipe 2026-10-10).
 Sections refondues : info-box (Z + prix), paragraphe intro, services list, FAQ, "Sobre" block.
 
 Stratégie V2 (variation linguistique) :
@@ -13,9 +13,9 @@ Stratégie V2 (variation linguistique) :
   - District context (VISEU/GUARDA: 'serra da Estrela' etc.) — JAMAIS d'invention sur habitat/climat
 
 Contraintes (R11/R12/SPEC §1/§5) :
-  - Tarif verrouillé : 65€/h canal, Z1=15, Z2=25, Z3=35, Z4=45, Z5=55, Z6=65, majo +50%
+  - Tarif verrouillé (_governance/20-BUSINESS-FACTS.json) : 70 €/h + 30 € (09h–18h) ; 100 €/h + 50 € (nuit/week-end/férié), TTC, heure commencée due
   - Pas d'invention : pas de "ferro galvanizado" non vérifié, pas de "construções antigas" non source
-  - Équipement canonique (AGENTS.md §12) : Ridgid K9-102, ROLeak Aqua 3Plus, câmara 30m, Fluke T6-1000
+  - Équipement confirmé : Ridgid K9-102 uniquement (ni ROLeak, ni caméra 30 m, ni FLIR/Fluke : électricité = ENR/EU)
 
 Usage :
   python3 scripts/p1/refonte_v2_canalizador.py --slug macedo-de-cavaleiros --dry-run
@@ -101,8 +101,8 @@ INFOBOX_TEMPLATES = [
     '''<div class="info-box">
  <p><strong>Concelho:</strong> {name}</p>
  <p><strong>Distrito:</strong> {district}</p>
- <p><strong>Distância operacional:</strong> a confirmar (route_km TomTom indisponível)</p>
- <p><strong>Zona tarifária:</strong> a confirmar por telefone antes do orçamento</p>
+ <p><strong>Cobertura:</strong> confirmada por telefone</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis (9h–18h) e 50 € à noite, fins de semana e feriados</p>
 </div>''',
 ]
 
@@ -142,7 +142,7 @@ INTRO_TEMPLATES = [
     # V4 — base operacional (route_km=0)
     '''<p>{name} é a nossa base operacional em Trás-os-Montes. A partir daqui servimos todo o perímetro administrativo do concelho.</p>''',
     # V5 NO_ROUTE
-    '''<p>Distância operacional a confirmar (route_km TomTom indisponível). Cobertura mediante contacto telefónico para o concelho de {name}.</p>''',
+    '''<p>Cobertura mediante contacto telefónico para o concelho de {name}.</p>''',
 ]
 
 
@@ -168,7 +168,7 @@ SERVICOS_TEMPLATES = [
     '''<h2>Serviços de canalizador em {name}</h2>
  <ul>
  <li>Desentupimentos de canos, esgotos e ralos</li>
- <li>Fugas de água e deteção acústica sem destruir paredes</li>
+ <li>Fugas de água: diagnóstico prévio e reparação</li>
  <li>Autoclismos, torneiras e misturadoras</li>
  <li>Esquentadores, termoacumuladores e caldeiras</li>
  <li>Substituição de tubagens e canalização</li>
@@ -178,8 +178,7 @@ SERVICOS_TEMPLATES = [
     '''<h2>Serviços de canalizador em {name}</h2>
  <ul>
  <li>Desentupimentos mecânicos com máquina Ridgid K9-102</li>
- <li>Inspecção de tubagem com câmara 30 m</li>
- <li>Deteção acústica de fugas com ROLeak Aqua 3Plus</li>
+ <li>Diagnóstico prévio de fugas e reparação localizada</li>
  <li>Reparação e substituição de autoclismos, torneiras, misturadoras</li>
  <li>Esquentadores, termoacumuladores, caldeiras — diagnóstico e reparação</li>
  <li>Substituição total ou parcial de tubagens</li>
@@ -189,10 +188,10 @@ SERVICOS_TEMPLATES = [
     '''<h2>O que intervencionamos em {name}</h2>
  <ul>
  <li>«Cano entupido» — desentupimento mecânico profissional</li>
- <li>«Fuga de água sem ver onde» — deteção acústica ROLeak Aqua 3Plus</li>
+ <li>«Fuga de água sem ver onde» — diagnóstico prévio no local</li>
  <li>«Autoclismo não para» — substituição mecanismo ou caixa completa</li>
  <li>«Esquentador avariado» — diagnóstico e reparação</li>
- <li>«Pressão de água fraca» — inspeção de rede interna com câmara</li>
+ <li>«Pressão de água fraca» — inspeção da rede interna</li>
  <li>«Cheiro a gás/esgoto» — deteção e isolamento</li>
  <li>«Inundação» — resposta urgente 24h em {name}</li>
  </ul>''',
@@ -200,8 +199,7 @@ SERVICOS_TEMPLATES = [
     '''<h2>Cobertura técnica em {name}</h2>
  <ul>
  <li>Desentupimento por máquina mecânica (Ridgid K9-102)</li>
- <li>Inspeção vídeo de tubagem até 30 m</li>
- <li>Deteção de fugas por geofone acústico (ROLeak Aqua 3Plus)</li>
+ <li>Diagnóstico prévio de fugas e reparação localizada</li>
  <li>Reparação de autoclismo, torneira ou misturadora</li>
  <li>Diagnóstico e reparação de esquentador / termoacumulador</li>
  <li>Renovação de canalização em PVC, cobre ou PEX</li>
@@ -233,7 +231,7 @@ FAQ_TEMPLATES = [
  <p style="margin-top:1rem"><strong>Como sei que o orçamento é justo?</strong><br>Publicamos a tabela tarifária no início da página; o orçamento por escrito nunca muda após acordo.</p>
  <p style="margin-top:1rem"><strong>Chegam rápido a {name}?</strong><br>{chegar}</p>
  <p style="margin-top:1rem"><strong>Fazem orçamento antes de trabalhar?</strong><br>Sim — orçamento por escrito antes de qualquer intervenção.</p>
- <p style="margin-top:1rem"><strong>Equipamento profissional em {name}?</strong><br>Ridgid K9-102 (desentupimento mecânico), câmara de inspeção 30 m, ROLeak Aqua 3Plus (deteção acústica de fugas).</p>''',
+ <p style="margin-top:1rem"><strong>Equipamento profissional em {name}?</strong><br>Ridgid K9-102 (desentupimento mecânico).</p>''',
     # V2 — focus pratique
     '''<h2>FAQ Canalizador urgente {name}</h2>
  <p><strong>Quanto vou pagar pela deslocação em {name}?</strong><br>{preco_phrase}</p>
@@ -244,9 +242,9 @@ FAQ_TEMPLATES = [
     # V3 — focus transparência
     '''<h2>Transparência e perguntas — {name}</h2>
  <p><strong>Tarifa publicada para {name}?</strong><br>{preco_phrase}</p>
- <p style="margin-top:1rem"><strong>Orçamento sem compromisso?</strong><br>Sim, sem custos nem obrigação. Marcado por telefone antes da deslocação.</p>
+ <p style="margin-top:1rem"><strong>Há orçamento antes de intervir?</strong><br>Sim, orçamento por escrito antes de qualquer intervenção. A deslocação é faturada sempre que há deslocação.</p>
  <p style="margin-top:1rem"><strong>Qual é a janela de chegada em {name}?</strong><br>{chegar}</p>
- <p style="margin-top:1rem"><strong>Método sem destruição?</strong><br>Câmara 30 m + ROLeak Aqua 3Plus — diagnóstico sem partir paredes quando possível.</p>
+ <p style="margin-top:1rem"><strong>Como localizam uma fuga?</strong><br>Diagnóstico prévio no local; quando necessário, abertura pontual limitada ao estritamente necessário.</p>
  <p style="margin-top:1rem"><strong>Cobertura no concelho?</strong><br>{aldeias}</p>''',
 ]
 
@@ -260,10 +258,10 @@ def render_faq(c, slug, loc_data):
     n_villages = len(loc_data.get(slug, []))
 
     if rkm is None or zone is None or desloc is None:
-        preco_phrase = 'A deslocação em {name} é confirmada por telefone antes do orçamento (route_km TomTom indisponível).'
+        preco_phrase = 'Dias úteis (09h–18h): 70 €/h + 30 € de deslocação; noite, fins de semana e feriados: 100 €/h + 50 €. Montantes TTC; orçamento por escrito antes de qualquer intervenção.'
         chegar = 'A janela de chegada é confirmada por telefone antes da deslocação.'
     elif rkm == 0:
-        preco_phrase = f'Partindo de {name} (base operacional Norte Reparos), a deslocação para o próprio concelho está incluída no orçamento por escrito.'
+        preco_phrase = 'Dias úteis (09h–18h): 70 €/h + 30 € de deslocação; noite, fins de semana e feriados: 100 €/h + 50 €. Montantes TTC; orçamento por escrito antes de qualquer intervenção.'
         chegar = 'A janela de atendimento é confirmada por telefone conforme a disponibilidade operacional.'
     else:
         preco_phrase = f'A deslocação custa 30 € em dias úteis (9h–18h) e 50 € à noite, fins de semana e feriados; o orçamento é apresentado por escrito.'
@@ -288,9 +286,9 @@ PRECOS_BLOCK_TEMPLATES = [
     # V0 — défaut
     '''<h2>Preços em {name}</h2>
  <div class="info-box">
- <p><strong>Deslocação:</strong> 30 € em dias úteis e 50 € à noite, fins de semana e feriados — incluída no orçamento</p>
- <p><strong>Intervenção (1h):</strong> desde {h1}€</p>
- <p><strong>Intervenção (2h):</strong> {h2}€</p>
+ <p><strong>Deslocação:</strong> 30 € em dias úteis e 50 € à noite, fins de semana e feriados</p>
+ <p><strong>Dias úteis, 1h + deslocação:</strong> {h1} € TTC</p>
+ <p><strong>Dias úteis, 2h + deslocação:</strong> {h2} € TTC</p>
  <p style="font-size:.85rem;color:#666;margin-top:.8rem">70 €/h em dias úteis (9h–18h) + deslocação 30 €. À noite, fins de semana e feriados: 100 €/h + deslocação 50 €. Cada hora começada é devida.</p>
  </div>''',
     # V1 — focus zone
@@ -310,7 +308,7 @@ PRECOS_BLOCK_TEMPLATES = [
  <tr><td><strong>Noite, fim de semana e feriado</strong></td><td>100 €/h + 50 €</td></tr>
  <tr><td><strong>Deslocação em horário útil</strong></td><td>30 €</td></tr>
  </table>
- <p style="font-size:.85rem;color:#666;margin-top:.8rem">IVA incluído no total quando aplicável. Majoração anunciada antes.</p>
+ <p style="font-size:.85rem;color:#666;margin-top:.8rem">Montantes TTC. Cada hora começada é devida.</p>
  </div>''',
     # V3 NO_ROUTE
     '''<h2>Preços em {name}</h2>
@@ -324,7 +322,7 @@ PRECOS_BLOCK_TEMPLATES = [
 
 
 # Mapping grille Filipe pour h1/h2 — par défaut h1=80, h2=145 (Macedo Z1)
-# Suivant prix depuis +65 € h de main d'oeuvre
+# H1/H2 = 70 €/h × heures + 30 € de déplacement (dias úteis), TTC
 H1_BASE = 100   # 1ʳᵉ heure (base)
 H2_BASE = 170  # 2h cumul
 
