@@ -110,26 +110,15 @@ INFOBOX_TEMPLATES = [
 def render_infobox(c, slug):
     name = c['name']
     district = c['district']
-    zone = c.get('zone')
-    desloc = 30
     rkm = c.get('route_km')
 
-    if zone is None or desloc is None:
+    if rkm is None:
         t = INFOBOX_TEMPLATES[3]
         return t.format(name=name, district=district)
 
-    zone_label = {
-        1: 'base operacional',
-        2: 'concelho próximo',
-        3: 'percurso intermédio',
-        4: 'área de montanha',
-        5: 'distância grande',
-        6: 'distância máxima',
-    }[zone]
-    rkm_str = f'{rkm:g}' if rkm is not None else '?'
+    rkm_str = f'{rkm:g}'
     t = pick(slug, INFOBOX_TEMPLATES[:3])
-    return t.format(name=name, district=district, rkm=rkm_str,
-                    zone=zone, zone_label=zone_label, desloc=desloc)
+    return t.format(name=name, district=district, rkm=rkm_str)
 
 
 # === VARIANTES PARAGRAPHE INTRO ===
@@ -251,13 +240,11 @@ FAQ_TEMPLATES = [
 
 def render_faq(c, slug, loc_data):
     name = c['name']
-    zone = c.get('zone')
-    desloc = 30
     rkm = c.get('route_km')
     rmin = c.get('route_min')
     n_villages = len(loc_data.get(slug, []))
 
-    if rkm is None or zone is None or desloc is None:
+    if rkm is None:
         preco_phrase = 'Dias úteis (09h–18h): 70 €/h + 30 € de deslocação; noite, fins de semana e feriados: 100 €/h + 50 €. Montantes TTC; orçamento por escrito antes de qualquer intervenção.'
         chegar = 'A janela de chegada é confirmada por telefone antes da deslocação.'
     elif rkm == 0:
@@ -329,25 +316,14 @@ H2_BASE = 170  # 2h cumul
 
 def render_precos_block(c, slug):
     name = c['name']
-    zone = c.get('zone')
-    desloc = 30
     rkm = c.get('route_km')
 
-    if zone is None or desloc is None:
+    if rkm is None:
         t = PRECOS_BLOCK_TEMPLATES[3]
         return t.format(name=name, h1=H1_BASE, h2=H2_BASE)
 
-    zone_label = {
-        1: 'base operacional',
-        2: 'concelho próximo',
-        3: 'percurso intermédio',
-        4: 'área de montanha',
-        5: 'distância grande',
-        6: 'distância máxima',
-    }[zone]
     t = pick(slug, PRECOS_BLOCK_TEMPLATES[:3])
-    return t.format(name=name, zone=zone, zone_label=zone_label, desloc=desloc,
-                    h1=H1_BASE, h2=H2_BASE)
+    return t.format(name=name, h1=H1_BASE, h2=H2_BASE)
 
 
 # === VARIANTES SOBRE (Equipe / fonte) — ne pas toucher canonical ===
