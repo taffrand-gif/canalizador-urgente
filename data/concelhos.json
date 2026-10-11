@@ -3,13 +3,6 @@
   "name": "Macedo de Cavaleiros",
   "slug": "macedo-de-cavaleiros",
   "district": "Bragança",
-  "zone": 1,
-  "grille_km": 0,
-  "price": {
-   "desloc": 15,
-   "desde": 80,
-   "h2": 145
-  },
   "indexable": true,
   "route_km": 0.0,
   "route_min": 5,
@@ -22,13 +15,6 @@
   "name": "Mirandela",
   "slug": "mirandela",
   "district": "Bragança",
-  "zone": 2,
-  "grille_km": 27,
-  "price": {
-   "desloc": 25,
-   "desde": 90,
-   "h2": 155
-  },
   "indexable": true,
   "route_km": 27.4,
   "route_min": 23,
@@ -40,13 +26,6 @@
   "name": "Alfândega da Fé",
   "slug": "alfandega-da-fe",
   "district": "Bragança",
-  "zone": 3,
-  "grille_km": 31,
-  "price": {
-   "desloc": 35,
-   "desde": 90,
-   "h2": 155
-  },
   "indexable": true,
   "route_km": 32.4,
   "route_min": 31,
@@ -58,13 +37,6 @@
   "name": "Vila Flor",
   "slug": "vila-flor",
   "district": "Bragança",
-  "zone": 3,
-  "grille_km": 40,
-  "price": {
-   "desloc": 35,
-   "desde": 90,
-   "h2": 155
-  },
   "indexable": true,
   "route_km": 41.4,
   "route_min": 30,
@@ -76,13 +48,6 @@
   "name": "Bragança",
   "slug": "braganca",
   "district": "Bragança",
-  "zone": 3,
-  "grille_km": 42,
-  "price": {
-   "desloc": 35,
-   "desde": 100,
-   "h2": 165
-  },
   "indexable": true,
   "route_km": 42.4,
   "route_min": 34,
@@ -94,13 +59,6 @@
   "name": "Valpaços",
   "slug": "valpacos",
   "district": "Vila Real",
-  "zone": 3,
-  "grille_km": 48,
-  "price": {
-   "desloc": 35,
-   "desde": 110,
-   "h2": 175
-  },
   "indexable": true,
   "route_km": 48.0,
   "route_min": 35,
@@ -112,13 +70,6 @@
   "name": "Mogadouro",
   "slug": "mogadouro",
   "district": "Bragança",
-  "zone": 3,
-  "grille_km": 48,
-  "price": {
-   "desloc": 35,
-   "desde": 100,
-   "h2": 165
-  },
   "indexable": true,
   "route_km": 48.5,
   "route_min": 46,
@@ -130,13 +81,6 @@
   "name": "Vinhais",
   "slug": "vinhais",
   "district": "Bragança",
-  "zone": 3,
-  "grille_km": 49,
-  "price": {
-   "desloc": 35,
-   "desde": 100,
-   "h2": 165
-  },
   "indexable": true,
   "route_km": 48.7,
   "route_min": 55,
@@ -148,13 +92,6 @@
   "name": "Carrazeda de Ansiães",
   "slug": "carrazeda-de-ansiaes",
   "district": "Bragança",
-  "zone": 4,
-  "grille_km": 51,
-  "price": {
-   "desloc": 45,
-   "desde": 90,
-   "h2": 155
-  },
   "indexable": true,
   "route_km": 51.5,
   "route_min": 49,
@@ -166,13 +103,6 @@
   "name": "Torre de Moncorvo",
   "slug": "torre-de-moncorvo",
   "district": "Bragança",
-  "zone": 4,
-  "grille_km": 52,
-  "price": {
-   "desloc": 45,
-   "desde": 100,
-   "h2": 165
-  },
   "indexable": true,
   "route_km": 52.2,
   "route_min": 50,
@@ -184,13 +114,6 @@
   "name": "Murça",
   "slug": "murca",
   "district": "Vila Real",
-  "zone": 4,
-  "grille_km": 54,
-  "price": {
-   "desloc": 45,
-   "desde": 110,
-   "h2": 175
-  },
   "indexable": true,
   "route_km": 53.7,
   "route_min": 39,
@@ -202,13 +125,6 @@
   "name": "Vila Nova de Foz Côa",
   "slug": "vila-nova-de-foz-coa",
   "district": "Guarda",
-  "zone": 4,
-  "grille_km": 63,
-  "price": {
-   "desloc": 45,
-   "desde": 110,
-   "h2": 175
-  },
   "indexable": true,
   "route_km": 63.0,
   "route_min": 61,
@@ -220,13 +136,6 @@
   "name": "Vimioso",
   "slug": "vimioso",
   "district": "Bragança",
-  "zone": 4,
-  "grille_km": 64,
-  "price": {
-   "desloc": 45,
-   "desde": 100,
-   "h2": 165
-  },
   "indexable": true,
   "route_km": 64.0,
   "route_min": 58,
@@ -238,13 +147,6 @@
   "name": "Alijó",
   "slug": "alijo",
   "district": "Vila Real",
-  "zone": 5,
-  "grille_km": 74,
-  "price": {
-   "desloc": 55,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 73.9,
   "route_min": 54,
@@ -256,13 +158,6 @@
   "name": "Chaves",
   "slug": "chaves",
   "district": "Vila Real",
-  "zone": 5,
-  "grille_km": 75,
-  "price": {
-   "desloc": 55,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 74.7,
   "route_min": 70,
@@ -274,13 +169,6 @@
   "name": "São João da Pesqueira",
   "slug": "sao-joao-da-pesqueira",
   "district": "Viseu",
-  "zone": 5,
-  "grille_km": 80,
-  "price": {
-   "desloc": 55,
-   "desde": 110,
-   "h2": 175
-  },
   "indexable": true,
   "route_km": 79.8,
   "route_min": 79,
@@ -292,13 +180,6 @@
   "name": "Sabrosa",
   "slug": "sabrosa",
   "district": "Vila Real",
-  "zone": 5,
-  "grille_km": 82,
-  "price": {
-   "desloc": 55,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 81.6,
   "route_min": 61,
@@ -310,13 +191,6 @@
   "name": "Vila Real",
   "slug": "vila-real",
   "district": "Vila Real",
-  "zone": 5,
-  "grille_km": 86,
-  "price": {
-   "desloc": 55,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 85.7,
   "route_min": 62,
@@ -328,13 +202,6 @@
   "name": "Vila Pouca de Aguiar",
   "slug": "vila-pouca-de-aguiar",
   "district": "Vila Real",
-  "zone": 5,
-  "grille_km": 89,
-  "price": {
-   "desloc": 55,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 88.7,
   "route_min": 70,
@@ -346,13 +213,6 @@
   "name": "Miranda do Douro",
   "slug": "miranda-do-douro",
   "district": "Bragança",
-  "zone": 6,
-  "grille_km": 92,
-  "price": {
-   "desloc": 65,
-   "desde": 110,
-   "h2": 175
-  },
   "indexable": true,
   "route_km": 92.2,
   "route_min": 84,
@@ -364,13 +224,6 @@
   "name": "Freixo de Espada à Cinta",
   "slug": "freixo-de-espada-a-cinta",
   "district": "Bragança",
-  "zone": 6,
-  "grille_km": 94,
-  "price": {
-   "desloc": 65,
-   "desde": 100,
-   "h2": 165
-  },
   "indexable": true,
   "route_km": 94.0,
   "route_min": 86,
@@ -382,13 +235,6 @@
   "name": "Penedono",
   "slug": "penedono",
   "district": "Viseu",
-  "zone": 6,
-  "grille_km": 98,
-  "price": {
-   "desloc": 65,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 98.1,
   "route_min": 93,
@@ -400,13 +246,6 @@
   "name": "Peso da Régua",
   "slug": "peso-da-regua",
   "district": "Vila Real",
-  "zone": 6,
-  "grille_km": 98,
-  "price": {
-   "desloc": 65,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 98.4,
   "route_min": 69,
@@ -418,13 +257,6 @@
   "name": "Boticas",
   "slug": "boticas",
   "district": "Vila Real",
-  "zone": 6,
-  "grille_km": 99,
-  "price": {
-   "desloc": 65,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 99.4,
   "route_min": 89,
@@ -436,13 +268,6 @@
   "name": "Santa Marta de Penaguião",
   "slug": "santa-marta-de-penaguiao",
   "district": "Vila Real",
-  "zone": 6,
-  "grille_km": 103,
-  "price": {
-   "desloc": 65,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 102.8,
   "route_min": 75,
@@ -454,13 +279,6 @@
   "name": "Tabuaço",
   "slug": "tabuaco",
   "district": "Viseu",
-  "zone": 6,
-  "grille_km": 106,
-  "price": {
-   "desloc": 65,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 105.6,
   "route_min": 87,
@@ -472,13 +290,6 @@
   "name": "Lamego",
   "slug": "lamego",
   "district": "Viseu",
-  "zone": 6,
-  "grille_km": 111,
-  "price": {
-   "desloc": 65,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 110.7,
   "route_min": 78,
@@ -490,13 +301,6 @@
   "name": "Armamar",
   "slug": "armamar",
   "district": "Viseu",
-  "zone": 6,
-  "grille_km": 112,
-  "price": {
-   "desloc": 65,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 111.9,
   "route_min": 82,
@@ -508,13 +312,6 @@
   "name": "Montalegre",
   "slug": "montalegre",
   "district": "Vila Real",
-  "zone": 6,
-  "grille_km": 113,
-  "price": {
-   "desloc": 65,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 112.6,
   "route_min": 111,
@@ -526,13 +323,6 @@
   "name": "Mesão Frio",
   "slug": "mesao-frio",
   "district": "Vila Real",
-  "zone": 6,
-  "grille_km": 113,
-  "price": {
-   "desloc": 65,
-   "desde": 120,
-   "h2": 185
-  },
   "indexable": true,
   "route_km": 112.7,
   "route_min": 83,
@@ -544,13 +334,6 @@
   "name": "Sernancelhe",
   "slug": "sernancelhe",
   "district": "Viseu",
-  "zone": 6,
-  "grille_km": 114,
-  "price": {
-   "desloc": 65,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 113.5,
   "route_min": 109,
@@ -562,13 +345,6 @@
   "name": "Ribeira de Pena",
   "slug": "ribeira-de-pena",
   "district": "Vila Real",
-  "zone": 6,
-  "grille_km": 120,
-  "price": {
-   "desloc": 65,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 119.9,
   "route_min": 89,
@@ -580,13 +356,6 @@
   "name": "Mondim de Basto",
   "slug": "mondim-de-basto",
   "district": "Vila Real",
-  "zone": 6,
-  "grille_km": 129,
-  "price": {
-   "desloc": 65,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": true,
   "route_km": 128.7,
   "route_min": 103,
@@ -598,13 +367,6 @@
   "name": "Moimenta da Beira",
   "slug": "moimenta-da-beira",
   "district": "Viseu",
-  "zone": 6,
-  "grille_km": null,
-  "price": {
-   "desloc": 65,
-   "desde": 130,
-   "h2": 195
-  },
   "indexable": false,
   "route_km": null,
   "route_min": null,

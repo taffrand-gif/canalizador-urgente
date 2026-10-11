@@ -21,18 +21,23 @@ BASE = "https://canalizador-urgente.pt"
 TEL = "+351 928 484 451"
 TEL_RAW = "928484451"
 HUB = "Macedo de Cavaleiros"
+# Grille officielle (_governance/20-BUSINESS-FACTS.json) — montants TTC ; aucune zone, aucun prix par distance
+HOUR_DAY, DESLOC_DAY, HOUR_NIGHT, DESLOC_NIGHT = 70, 30, 100, 50
+# Grille officielle (_governance/20-BUSINESS-FACTS.json) — montants TTC ; aucune zone, aucun prix par distance
+HOUR_DAY, DESLOC_DAY, HOUR_NIGHT, DESLOC_NIGHT = 70, 30, 100, 50
+# Grille officielle (_governance/20-BUSINESS-FACTS.json) — montants TTC ; aucune zone, aucun prix par distance
+HOUR_DAY, DESLOC_DAY, HOUR_NIGHT, DESLOC_NIGHT = 70, 30, 100, 50
 
 def page(c, locs):
-    name = c["name"]; slug = c["slug"]; district = c["district"]; zone = c["zone"]
-    p = c["price"]; desloc_day = p["desloc_day"]; hour_day = p["hour_day"]
-    desloc_night = p["desloc_night"]; hour_night = p["hour_night"]
+    name = c["name"]; slug = c["slug"]; district = c["district"]
+    desloc_day, hour_day, desloc_night, hour_night = DESLOC_DAY, HOUR_DAY, DESLOC_NIGHT, HOUR_NIGHT
     rkm = c["route_km"]; rmin = c["route_min"]; is_hub = c.get("hub")
     url = f"{BASE}/concelhos/{slug}"
 
     if is_hub:
-        dist_line = "Macedo de Cavaleiros é a nossa base de operações — resposta imediata em todo o concelho."
+        dist_line = "Macedo de Cavaleiros é a nossa base de operações."
     else:
-        dist_line = (f"A {rkm:.0f} km de {HUB} (tempo médio de viagem ~{rmin} min). "
+        dist_line = (f"A {rkm:.0f} km de {HUB}. "
                      f"Deslocamo-nos a todo o concelho de {name}.")
 
     if locs:
@@ -51,7 +56,6 @@ def page(c, locs):
         "@type": "LocalBusiness",
         "name": f"Norte Reparos — Canalizador Urgente {name}",
         "telephone": TEL,
-        "priceRange": "30€–100€/h",
         "address": {"@type": "PostalAddress", "addressLocality": name,
                     "addressRegion": district, "addressCountry": "PT"},
         "areaServed": {"@type": "AdministrativeArea", "name": f"Concelho de {name}"},
@@ -160,7 +164,7 @@ window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', 
  <div class="info-box">
  <p><strong>Horário útil (9h–18h):</strong> {hour_day} €/hora + {desloc_day} € de deslocação</p>
  <p><strong>Noite (18h–9h), fins de semana e feriados:</strong> {hour_night} €/hora + {desloc_night} € de deslocação</p>
- <p style="font-size:.85rem;color:#666;margin-top:.8rem">Cada hora começada é devida. Orçamento por escrito antes da intervenção.</p>
+ <p style="font-size:.85rem;color:#666;margin-top:.8rem">Montantes TTC. Cada hora começada é devida. Orçamento por escrito antes de qualquer intervenção.</p>
  </div>
 
  <h2>Sobre a Norte Reparos</h2>
@@ -176,7 +180,7 @@ window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', 
  <h2 style="color:#fff">Precisa de canalizador em {name}?</h2>
  <p>📞 <a href="tel:{TEL_RAW}">{TEL}</a></p>
  <p>💬 <a href="https://wa.me/351{TEL_RAW}">WhatsApp</a></p>
- <p><a href="/zonas-deslocacao.html">Zonas de deslocação</a> · <a href="/calculadora-de-preco.html">Calculadora de preço</a></p>
+ <p><a href="/calculadora-de-preco.html">Calculadora de preço</a></p>
  </div>
 </body>
 </html>
@@ -189,7 +193,7 @@ def district_slug(d):
 
 def dist_desc(c):
     if c.get("hub"): return "0 km (base de operações)"
-    return f"{c['route_km']:.0f} km por estrada (~{c['route_min']} min)"
+    return f"{c['route_km']:.0f} km por estrada"
 
 def faq_time(c):
     if c.get("hub"):
