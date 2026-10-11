@@ -14,7 +14,6 @@ Descritor de Site para LLMs e Agentes de IA
 - Reparação de fugas de água
 - Canalização de urgência
 - Caldeiras e esquentadores
-- Detecção de fugas com câmara CCTV
 - Desobstrução de esgotos
 
 ## Áreas
@@ -22,7 +21,7 @@ Bragança, Trás-os-Montes, Mirandela, Vila Real, Chaves, Lamego, Guarda, Vinhai
 
 ## Diferencial
 - Atendimento 24h/7d / 7 dias
-- Orçamento gratuito e sem compromisso
+- Orçamento por escrito antes de qualquer intervenção
 - Técnicos com equipamento profissional (Ridgid, câmara inspeção)
 - Compromisso de preço — o preço dito é o preço pago
 

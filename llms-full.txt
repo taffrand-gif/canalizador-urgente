@@ -49,9 +49,6 @@ A janela de chegada é confirmada por telefone e depende da situação operacion
 ## 5. Equipamento profissional
 
 - Ridgid FlexShaft K9-102 — desentupimento mecânico
-- Câmara de inspeção CCTV — visualização interior de canos
-- Câmara térmica FLIR — deteção de fugas sem demolição
-- Kit fluorosceína UV — localização de fugas em pavimentos radiantes
 
 ## 6. Zonas (Trás-os-Montes)
 
