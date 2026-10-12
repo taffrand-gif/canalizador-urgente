@@ -12,7 +12,7 @@ Règles dures (paradigme PLOMBIER strict):
 - Drive-time = valeur réelle TomTom, jamais estimée.
 Reproductible.
 """
-import json, os
+import json, os, sys
 
 REPO = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(REPO, "data")
@@ -196,6 +196,12 @@ def faq_time(c):
     return "A janela de atendimento é confirmada por telefone conforme a disponibilidade operacional. Para emergências, ligue diretamente."
 
 def main():
+    # GELÉ 2026-10-12 : data/concelhos.json porte encore l'ancienne grille (zone, grille_km, price.desloc 15…65)
+    # et n'a pas desloc_day/desloc_night -> KeyError ; les 33 pages servies ont été corrigées par patch exact.
+    # Ne pas régénérer tant que la source n'est pas réparée avec des données confirmées par Filipe
+    # (grille officielle : _governance/20-BUSINESS-FACTS.json). Test : scripts/check_concelhos_generator.py
+    if os.environ.get("CU_CONCELHOS_GEN_UNFREEZE") != "1":
+        sys.exit("gen_concelhos.py gelé (source concelhos.json incomplète) — voir en-tête de main()")
     concelhos = json.load(open(os.path.join(DATA,"concelhos.json")))
     localidades = json.load(open(os.path.join(DATA,"localidades.json")))
     os.makedirs(OUT, exist_ok=True)
