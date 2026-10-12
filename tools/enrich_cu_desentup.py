@@ -191,7 +191,7 @@ def faq_entries(c: dict) -> list[dict]:
         {
             "q": f"Atendem entupimentos urgentes em {name} 24h?",
             "a": (
-                f"Sim — desentupimento de sanita, ralo, esgoto, fossa ou coluna: "
+                f"Sim — desentupimento de sanita, ralo, esgoto ou coluna: "
                 f"atendemos 24 horas, 7 dias por semana, incluindo fins de semana e feriados. "
                 f"Ligue +351 928 484 451 — atendimento mediante confirmação por chamada."
             ),
@@ -222,7 +222,6 @@ def service_items(c: dict) -> list[str]:
         f"Desentupimento de sanita em {name} — diagnóstico com câmara 30 m, máquina Ridgid K9-102 sem partir louça",
         f"Desentupimento de ralo e escoamento em {name} — cabelo, gordura ou sabão acumulado, limpeza completa",
         f"Desentupimento de esgoto e coluna em {name} — refluxo, retorno de água suja, hidrojato profissional",
-        f"Desentupimento de fossa sética em {name} — limpeza, desentupimento e verificação de nível",
         f"Desentupimento de banheira/polibã em {name} — acumulação de cabelos e sabão, restabelecimento do escoamento",
         f"Avaria urgente em {name} (noite, fim de semana, feriado) — atendimento 24h/7d com majoração transparente",
     ]
@@ -324,7 +323,7 @@ def service_schema(c: dict) -> dict:
         "@type": "Service",
         "@id": f"https://canalizador-urgente.pt/canalizador-desentupimento-{c['slug']}#service",
         "name": f"Desentupimento Urgente em {name}",
-        "serviceType": "Desentupimento Urgente 24h — canos, sanita, ralo, esgoto, fossa",
+        "serviceType": "Desentupimento Urgente 24h — canos, sanita, ralo, esgoto",
         "provider": {"@id": "https://canalizador-urgente.pt/#organization"},
         "areaServed": {"@type": "AdministrativeArea", "name": f"Concelho de {name}"},
         "availableChannel": {

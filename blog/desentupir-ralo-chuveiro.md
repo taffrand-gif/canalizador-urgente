@@ -328,7 +328,6 @@ O ralo do chuveiro entupido é um problema comum mas **facilmente resolvível** 
 
 **Artigos relacionados:**
 - [Desentupir Canalização: Guia Completo 2026](/blog/desentupir-canalizacao-guia-completo)
-- [Fossa Séptica Cheia: Sinais e Limpeza](/blog/fossa-septica-cheia)
 - [Mau Cheiro no Ralo: 5 Causas e Soluções](/blog/mau-cheiro-ralo-solucoes)
 - [Como Instalar Banheira: Guia Completo](/blog/instalar-banheira)
 - [Picheleiro em Bragança 24h](/canalizador-braganca)

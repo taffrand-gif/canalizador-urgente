@@ -466,5 +466,4 @@ Substituir uma torneira de cozinha é um trabalho **relativamente simples** que 
 - [Torneira Pinga: 5 Causas e Como Arranjar](/blog/torneira-pinga-causas-arranjar)
 - [Como Desentupir Ralo de Chuveiro](/blog/desentupir-ralo-chuveiro)
 - [Instalar Banheira: Guia Completo](/blog/instalar-banheira)
-- [Fossa Séptica Cheia: Sinais e Limpeza](/blog/fossa-septica-cheia)
 - [Picheleiro em Bragança 24h](/canalizador-braganca)

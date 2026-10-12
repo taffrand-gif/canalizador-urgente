@@ -27,7 +27,6 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 | **Ralo duche** | Leve | Limpeza + químico | 20-35 min | **65-95€** |
 | **Esgoto parcial** | Grave | Mola elétrica | 1-2h | **180-280€** |
 | **Esgoto total** | Crítico | Mola elétrica + câmara | 2-4h | **300-500€** |
-| **Fossa séptica** | Crítico | Limpeza completa | 2-3h | **250-450€** |
 
 *Preços dias úteis horário normal. Inclui deslocação + diagnóstico + mão obra + material. Urgências: +30-50%.*
 
@@ -328,38 +327,6 @@ Canalização entupida é um dos problemas mais comuns em casa. Este guia comple
 **Se tubagem colapsada:** Pode precisar escavação e substituição (1000-3000€).
 
 **Urgência:** EXTREMA (chamar imediatamente)
-
-## Fossa Séptica
-
-### Fossa Cheia/Entupida
-
-**Sintomas:**
-- Esgoto reflui
-- Cheiro forte exterior
-- Água não desce
-- Fossa transborda
-
-**Causas comuns:**
-- Fossa cheia (precisa limpar)
-- Filtro entupido
-- Drenagem bloqueada
-- Manutenção atrasada
-
-**Solução profissional:**
-1. Inspeção fossa
-2. Limpeza completa (camião cisterna)
-3. Verificar filtros
-4. Limpar drenagem
-5. Teste funcionamento
-**Tempo:** conforme zona
-
-**Custo detalhado:**
-- Deslocação camião: 50-80€
-- Limpeza fossa: 150-300€ (conforme tamanho)
-- Mão obra: 50-70€
-- **TOTAL: 250-450€**
-
-**Frequência recomendada:** Limpar fossa a cada 2-3 anos (prevenir entupimentos).
 
 ## Métodos Desentupimento Profissional
 
