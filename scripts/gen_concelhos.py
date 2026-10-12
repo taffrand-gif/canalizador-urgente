@@ -51,7 +51,6 @@ def page(c, locs):
         "@type": "LocalBusiness",
         "name": f"Norte Reparos — Canalizador Urgente {name}",
         "telephone": TEL,
-        "priceRange": "30€–100€/h",
         "address": {"@type": "PostalAddress", "addressLocality": name,
                     "addressRegion": district, "addressCountry": "PT"},
         "areaServed": {"@type": "AdministrativeArea", "name": f"Concelho de {name}"},
