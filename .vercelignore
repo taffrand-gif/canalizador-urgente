@@ -28,3 +28,7 @@ blog/*.md
 *.save
 *.tmp
 *~
+
+# 2026-10-12 — _archive/ servi publiquement (200 vérifié, ex. fossa-enchendo-urgente) :
+# copies pré-R12 avec contenu retiré (fosse septique non proposée). Reste dans git.
+_archive/
