@@ -126,17 +126,6 @@ priority: "HIGH DEMAND"
 
 **Solução:** Correção profissional €300-1.500
 
-### 8. Fossa Séptica Cheia (1% dos casos)
-**Zonas rurais sem saneamento:**
-
-**Sinais:**
-- Todas as canalizações entopem
-- Mau cheiro intenso
-- Água sobe em vários ralos
-- Fossa não limpa há 3+ anos
-
-**Solução:** Limpeza de fossa €150-300
-
 ## 7 Métodos Profissionais Para Desentupir
 
 ### Método 1: Ventosa (Eficácia 70%)
@@ -314,7 +303,6 @@ priority: "HIGH DEMAND"
 
 **2. Várias canalizações entupidas**
 - Problema na coluna principal
-- Fossa séptica cheia
 - **Urgência:** Ligue 928 484 451
 
 **3. Água sobe de outros ralos**
@@ -390,7 +378,6 @@ priority: "HIGH DEMAND"
 9. **Faça descarga completa sempre** - água suficiente
 10. **Limpeza profissional anual** - €100-200 previne emergências
 11. **Ensine crianças** - não deitar objetos
-12. **Limpe fossa séptica a cada 2-3 anos** - zonas rurais
 
 ### Manutenção Preventiva Profissional:
 
@@ -413,7 +400,6 @@ priority: "HIGH DEMAND"
 | Inspeção com câmara | €150-300 | €250-400 |
 | Remoção de raízes | €300-800 | €500-1.200 |
 | Substituir troço tubagem (3m) | €200-400 | €350-600 |
-| Limpeza fossa séptica | €150-300 | €250-450 |
 | Limpeza preventiva anual | €100-200 | - |
 
 **Dica:** Serviço durante horário normal (8h-18h) é 40% mais barato

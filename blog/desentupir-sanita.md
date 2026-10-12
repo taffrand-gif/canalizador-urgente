@@ -29,7 +29,6 @@ Em Trás-os-Montes, três particularidades locais agravam o problema:
 
 - **Água muito dura (calcário).** A água da região tem elevado teor de calcário, que se deposita no sifão e nas paredes dos canos ao longo dos anos, estreitando a passagem.
 - **Canalização antiga.** Muitas casas da região têm décadas; as tubagens em ferro galvanizado ou PVC antigo acumulam rugosidades internas que prendem resíduos.
-- **Fossas sépticas em zonas rurais.** Onde a rede pública de esgotos não chega, a fossa séptica ou o sistema de tratamento local pode saturar, e o sintoma aparece em primeiro lugar na sanita.
 
 ## Causas mais frequentes de sanita entupida
 
@@ -47,10 +46,6 @@ Brinquedos, escovas de dentes, pente, toalhitas, pensos higiénicos, tampões, f
 
 Em zonas de água dura como Trás-os-Montes, o calcário deposita-se lentamente nas paredes do sifão e dos canos. Ao longo de anos, a secção útil da tubagem reduz-se até à obstrução. Sintomas de aviso: a sanita desce mais lentamente do que devia, mesmo sem entupimento visível.
 
-### Problema na fossa ou na canalização principal
-
-Quando várias sanitas e ralos (duche, lavatório) entopem ao mesmo tempo, ou a água sobe em outros pontos quando se dá descarga na sanita, o problema não está na sanita isolada — está mais fundo: fossa saturada, caixa de inspeção cheia, ou obstrução na canalização principal. Estes casos exigem diagnóstico profissional com máquina e, se necessário, câmara de inspeção.
-
 ### Sanita antiga ou mal instalada
 
 Sifão com design antigo (geometria que facilita acumulação), autoclismo com pouca pressão (não empurra os resíduos com força suficiente), sanita mal nivelada (declive insuficiente para o escoamento). Substituir a sanita resolve quando o problema é estrutural — intervenção sempre avaliada **sob orçamento por escrito**.
@@ -62,7 +57,6 @@ Este procedimento permite-nos chegar ao local com a informação certa e avança
 1. Se a água está a transbordar, feche a torneira de corte (atrás da sanita, na parede ou no chão) imediatamente. Esta é a única situação em que a ação urgente do cliente é estritamente necessária.
 2. Verifique se é só esta sanita ou se outras (ralos, lavatório) também estão a entupir. Esta pista determina se o problema é local ou na canalização principal.
 3. Tente uma única vez a ventosa (desentupidor de borracha específico para sanita, com borda larga). Se não resultar à primeira, pare — forçar repetidamente pode empurrar o bloqueio mais fundo.
-4. Não utilize soda cáustica, produtos químicos agressivos ou água a ferver — podem danificar a porcelana, atacar o vedante ou matar bactérias da fossa séptica.
 5. Anote a hora a que o problema começou e o que foi atirado para a sanita nessas horas (papel em excesso, objeto, etc.). Estas pistas aceleram o diagnóstico.
 
 ## Como se processa a intervenção no local
@@ -85,7 +79,6 @@ A manutenção periódica e o uso consciente da sanita reduzem a probabilidade d
 - Use papel higiénico de qualidade, em quantidade moderada. Dê descarga em duas vezes se necessário, esperando o autoclismo encher entre cargas.
 - Limpeza mensal com vinagre branco (1 L despejado na sanita, deixado atuar durante a noite) ajuda a dissolver depósitos de calcário antes que se tornem bloqueio.
 - Em casas com mais de duas décadas sem revisão da canalização, considere uma inspeção preventiva com câmara — sempre **sob orçamento por escrito**.
-- Em zonas rurais com fossa séptica, mantenha a manutenção periódica da fossa (limpeza e inspeção) para evitar que a saturação se manifeste primeiro nos sanitários.
 
 ## Perguntas Frequentes
 
@@ -116,7 +109,5 @@ Sim, 24 horas por dia, sete dias por semana, em toda a região de Trás-os-Monte
 ### A água está a transbordar da sanita. O que faço agora?
 
 Feche a torneira de corte da sanita (atrás, na parede ou no chão) e contacte-nos. Não continue a dar descargas — cada descarga adiciona mais água ao transbordo. Esta é a única situação em que a ação imediata do cliente é estritamente necessária antes da nossa chegada.
-
-### Como sei se o problema é na sanita ou na fossa?
 
 Se só esta sanita entope e os outros ralos (duche, lavatório, banca da cozinha) funcionam normalmente, o problema é local (sifão ou tubo de descarga da sanita). Se várias sanitas e ralos entopem ao mesmo tempo, ou a água sobe noutros pontos quando dá descarga, o problema está mais fundo — fossa saturada, caixa de inspeção cheia, ou bloqueio na canalização principal. A nossa equipa diagnostica no local e identifica a origem com câmara de inspeção.
