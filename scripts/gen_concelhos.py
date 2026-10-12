@@ -20,6 +20,24 @@ OUT = os.path.join(REPO, "concelhos")
 BASE = "https://canalizador-urgente.pt"
 TEL = "+351 928 484 451"
 TEL_RAW = "928484451"
+TEL_PLUS = "+351928484451"
+# Bannière RGPD (Consent Mode v2 UI) — texte repris à l'identique des pages publiées ; hors f-string pour ne pas échapper les accolades JS
+RGPD_BANNER = r'''<script data-rgpd-marker="RGPD-t_639f45fd-BANNER-cu-v1">
+(function(){
+  var KEY="rgpd-consent-cu-v1";
+  var STORAGES=["ad_storage","analytics_storage","ad_user_data","ad_personalization","functionality_storage","personalization_storage"];
+  function applyChoice(v){localStorage.setItem(KEY,v);var p={};for(var i=0;i<STORAGES.length;i++)p[STORAGES[i]]=v;if(window.gtag)window.gtag("consent","update",p);}
+  if(document.getElementById("rgpd-banner-cu"))return;
+  var saved=localStorage.getItem(KEY);
+  if(saved==="granted"||saved==="denied"){applyChoice(saved);return;}
+  var b=document.createElement("div");b.id="rgpd-banner-cu";b.setAttribute("role","dialog");b.setAttribute("aria-label","Consentimento de cookies");
+  b.innerHTML="<div style=\"flex:1;min-width:220px\"><strong>Cookies e análise de utilização.</strong> Utilizamos cookies para analisar a utilização do site (Google Analytics) e melhorar o serviço. Pode aceitar ou recusar — a sua escolha é livre. <a href=\"/politica-cookies\" style=\"color:#7dd3fc;text-decoration:underline;margin-left:4px\">Política de cookies</a></div><div style=\"display:flex;gap:10px;flex-shrink:0\"><button id=\"rgpd-banner-cu-accept\" type=\"button\" style=\"background:#2193b0;color:#fff;border:0;padding:10px 18px;border-radius:6px;font-weight:700;cursor:pointer;font-size:14px\">Aceitar</button><button id=\"rgpd-banner-cu-reject\" type=\"button\" style=\"background:#2193b0;color:#fff;border:0;padding:10px 18px;border-radius:6px;font-weight:700;cursor:pointer;font-size:14px\">Recusar</button></div>";
+  b.style="position:fixed;bottom:0;left:0;right:0;z-index:10000;background:rgba(17,24,39,.97);color:#f3f4f6;padding:14px 18px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:center;font-size:14px;line-height:1.45";
+  document.body.appendChild(b);
+  function bind(){var a=document.getElementById("rgpd-banner-cu-accept");var r=document.getElementById("rgpd-banner-cu-reject");if(a)a.addEventListener("click",function(){applyChoice("granted");b.remove();});if(r)r.addEventListener("click",function(){applyChoice("denied");b.remove();});}
+  if(document.readyState==="complete")bind();else window.addEventListener("load",bind);
+})();
+</script>'''
 HUB = "Macedo de Cavaleiros"
 # Grille officielle (_governance/20-BUSINESS-FACTS.json) — montants TTC ; aucune zone, aucun prix par distance
 HOUR_DAY, DESLOC_DAY, HOUR_NIGHT, DESLOC_NIGHT = 70, 30, 100, 50
@@ -130,6 +148,7 @@ window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', 
  .cta {{ background: #2193b0; color: white; padding: 2rem; border-radius: 8px; margin: 2rem 0; text-align: center; }}
  .cta a {{ color: white; font-weight: bold; }}
  </style>
+<script src="/call-tracking.js" defer></script>
 </head>
 <body role="document">
  <nav role="navigation" style="font-size:.85rem;color:#666;margin-bottom:1rem">
@@ -178,11 +197,11 @@ window.trackWhatsAppClick = function(source) {{ gtag('event', 'click_whatsapp', 
 
  <div class="cta">
  <h2 style="color:#fff">Precisa de canalizador em {name}?</h2>
- <p>📞 <a href="tel:{TEL_RAW}">{TEL}</a></p>
+ <p>📞 <a href="tel:{TEL_PLUS}">{TEL}</a></p>
  <p>💬 <a href="https://wa.me/351{TEL_RAW}">WhatsApp</a></p>
- <p><a href="/calculadora-de-preco.html">Calculadora de preço</a></p>
+ <p><a href="/zonas-deslocacao.html">Zonas de deslocação</a> · <a href="/calculadora-de-preco.html">Calculadora de preço</a></p>
  </div>
-</body>
+{RGPD_BANNER}</body>
 </html>
 """
 
