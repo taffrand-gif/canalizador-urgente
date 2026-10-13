@@ -284,7 +284,6 @@ def local_business_schema(c: dict) -> dict:
         "name": f"Norte Reparos — Desentupimento Urgente {name}",
         "alternateName": f"Desentupimento Urgente {name} 24h",
         "telephone": "+351 928 484 451",
-        "priceRange": "€€",
         "address": {
             "@type": "PostalAddress",
             "addressLocality": name,
