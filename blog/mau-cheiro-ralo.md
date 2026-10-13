@@ -237,33 +237,6 @@ Se métodos anteriores não resolverem:
 
 **Ver artigo completo:** [Desentupir Ralo de Chuveiro: 7 Métodos](/blog/desentupir-ralo-chuveiro)
 
-### Causa 5: Problema na Fossa Séptica ou Rede de Esgoto - 5% dos casos
-
-**Como identificar:**
-- Cheiro em toda a casa
-- Cheiro no exterior (perto da fossa)
-- Água no jardim (fossa cheia)
-- Vários ralos entupidos
-
-**Por que acontece:**
-- Fossa séptica cheia (precisa limpeza)
-- Fossa com problema (rachada, entupida)
-- Problema na rede pública de esgoto
-
-**Solução: Limpar fossa ou contactar entidade gestora (€80-250)**
-
-**Se tem fossa séptica:**
-- Limpeza necessária a cada 2-4 anos
-- Custo: €80-250 (camião de sucção)
-- Sinais: cheiro, água lenta, água no jardim
-
-**Ver artigo completo:** [Fossa Séptica Cheia: Sinais e Limpeza](/blog/fossa-septica-cheia)
-
-**Se ligado à rede pública:**
-- Contacte entidade gestora (Águas de Trás-os-Montes)
-- Telefone: 259 300 130
-- Podem ter problema na rede
-
 ## 💰 Custos das Soluções
 
 ### Soluções DIY
@@ -285,7 +258,6 @@ Se métodos anteriores não resolverem:
 | Desentupir ralo | €60-150 |
 | Instalar válvula admissão ar | €90-150 |
 | Desentupir tubagem principal | €100-300 |
-| Limpar fossa séptica | €80-250 |
 | Urgência 24h | +€30-50 |
 
 > 💡 **Mau cheiro persistente?** Picheleiro em Bragança: **[928 484 451](tel:+351928484451)** — Solução definitiva, não provisória.
@@ -331,7 +303,6 @@ Se métodos anteriores não resolverem:
 **Anual:**
 - Inspeção completa por picheleiro
 - Limpeza profunda de tubagem
-- Verificar fossa séptica (se tiver)
 
 ### Produtos Naturais Eficazes
 
@@ -377,7 +348,7 @@ Se métodos anteriores não resolverem:
 ## ❓ Perguntas Frequentes
 
 **1. Cheiro vem do ralo ou de outro sítio?**
-Teste: tape o ralo com plástico + fita adesiva. Se cheiro desaparece = vem do ralo. Se continua = vem de outro sítio (parede, teto, fossa).
+Teste: tape o ralo com plástico + fita adesiva. Se cheiro desaparece = vem do ralo. Se continua = vem de outro sítio (parede, teto).
 
 **2. Posso usar lixívia para eliminar cheiro?**
 Não recomendado. Lixívia mata bactérias mas não remove gordura/resíduos (causa do cheiro). Pode danificar tubos. Prefira bicarbonato + vinagre.
@@ -423,7 +394,6 @@ Mau cheiro no ralo tem **causas identificáveis e soluções eficazes**:
 - Vários ralos afetados
 - Suspeita de problema na tubagem
 - Precisa instalar ventilação
-- Fossa séptica cheia
 
 ### 🚨 Mau Cheiro Persistente? Solução Definitiva em Trás-os-Montes
 
@@ -446,7 +416,6 @@ Mau cheiro no ralo tem **causas identificáveis e soluções eficazes**:
 
 **Artigos relacionados:**
 - [Desentupir Ralo de Chuveiro: 7 Métodos](/blog/desentupir-ralo-chuveiro)
-- [Fossa Séptica Cheia: Sinais e Limpeza](/blog/fossa-septica-cheia)
 - [Torneira Pinga: 5 Causas e Arranjo](/blog/torneira-pinga-causas-arranjar)
 - [Autoclismo Não Enche: 6 Causas](/blog/autoclismo-nao-enche)
 - [Picheleiro em Bragança 24h](/canalizador-braganca)

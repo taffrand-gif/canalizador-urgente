@@ -40,7 +40,7 @@ NOINDEX_PAGES = {
 }
 
 SERVICE_PREFIXES = (
-    'autoclismo-', 'fuga-agua-', 'fossa-septica-', 'esquentador-',
+    'autoclismo-', 'fuga-agua-', 'esquentador-',
     'canalizacao-nova-', 'canalizacao-', 'torneira-', 'pressao-agua-',
 )
 

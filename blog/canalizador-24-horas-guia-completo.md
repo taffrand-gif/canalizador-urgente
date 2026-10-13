@@ -40,7 +40,7 @@ Precisa de um canalizador urgente a qualquer hora? Este guia completo explica co
 
 **Resposta:** conforme zona conforme localização.
 
-**Tipos intervenção:** Fugas água, entupimentos, avarias esquentador/caldeira, rotura canalização, fossa séptica.
+**Tipos intervenção:** Fugas água, entupimentos, avarias esquentador/caldeira, rotura canalização.
 
 ## Quando Chamar Canalizador Atendemos 24h/7d?
 

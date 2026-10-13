@@ -467,5 +467,4 @@ Pressão de água baixa tem **múltiplas causas**, desde simples (filtro entupid
 - [Aquecedor de Água Não Aquece: 8 Causas](/blog/aquecedor-agua-nao-aquece)
 - [Substituir Torneira de Cozinha: Guia Completo](/blog/substituir-torneira-cozinha)
 - [Desentupir Ralo de Chuveiro: 7 Métodos](/blog/desentupir-ralo-chuveiro)
-- [Fossa Séptica Cheia: Sinais e Limpeza](/blog/fossa-septica-cheia)
 - [Picheleiro em Bragança 24h](/canalizador-braganca)

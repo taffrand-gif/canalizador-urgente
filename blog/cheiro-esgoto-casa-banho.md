@@ -276,39 +276,6 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 5. Despeje água fervente nos ralos
 6. Repita semanalmente (prevenção)
 
-### 7. Problema na Fossa ou Rede de Esgoto (3% dos Casos)
-
-**O que acontece:**
-- Fossa séptica cheia
-- Rede de esgoto entupida
-- Gases retornam pelas canalizações
-
-**Por que acontece:**
-- Fossa não limpa há anos
-- Entupimento na rede pública
-- Raízes de árvores nos tubos
-- Colapso de tubo enterrado
-
-**Sintomas:**
-- Cheiro em todas as casas de banho
-- Água escoa lentamente em todos os aparelhos
-- Borbulhas ao descarregar sanita
-- Esgoto volta pelos ralos (casos graves)
-
-**Como identificar:**
-1. Verifique se problema afeta toda a casa
-2. Pergunte aos vizinhos (se rede pública)
-3. Verifique última limpeza da fossa
-4. Observe se água escoa lentamente em todos os pontos
-
-**Solução:**
-- **Limpar fossa séptica:** €80-200
-- **Desentupir rede:** €150-500
-- **Arranjar tubo enterrado:** €300-1.500
-- **Dificuldade:** Profissional obrigatório
-
----
-
 ## Diagnóstico Rápido: Identifique a Causa
 
 ### Teste 1: Despeje Água
@@ -323,7 +290,6 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 2. **Lavatório:** Sifão seco/sujo (65%)
 3. **Chuveiro:** Sifão seco/entupido (60%)
 4. **Sanita:** Base com fuga (50%) ou biofilme (30%)
-5. **Geral:** Ventilação (40%) ou fossa (30%)
 
 ### Teste 3: Observe Sintomas
 
@@ -340,7 +306,6 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 - Solução: Repare fuga
 
 **Cheiro em toda a casa:**
-- Causa: Ventilação (50%) ou fossa (40%)
 - Solução: Chame picheleiro
 
 ---
@@ -366,7 +331,6 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 | Substituir sifão | €75-140 |
 | Arranjar fuga | €100-400 |
 | Instalar ventilação | €200-600 |
-| Limpar fossa | €80-200 |
 | Desentupir rede | €150-500 |
 
 ---
@@ -395,7 +359,6 @@ Com base na nossa experiência de 1.100+ intervenções em Trás-os-Montes:
 
 ### 5. Manutenção Profissional
 - Inspeção anual: €60-100
-- Limpeza de fossa: a cada 2-4 anos
 - Verificação de tubos: a cada 5-10 anos
 
 ---
