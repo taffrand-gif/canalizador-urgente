@@ -28,3 +28,36 @@ blog/*.md
 *.save
 *.tmp
 *~
+
+# 2026-10-20 — surfaces internes (même incident que EU, RETOUR 261 A).
+# Sans `outputDirectory`, tout fichier suivi est servi : scripts de
+# `scripts/`, `tools/`, `_audit/`, `.loop/`, prototypes `.hermes-*`,
+# anciennes versions de pages `_archive*/*.PRE*` et la table de zones
+# legacy `precos-zonas.json` répondaient 200. Motifs ancrés à la racine.
+# `vercel-ignore.sh` reste présent (utilisé par `ignoreCommand`).
+/.hermes*
+/.loop
+/.openclaw
+/.github
+/.claude
+/.codex
+/.cursor
+/.vscode
+/.vercel-rebuild
+/_archive*
+/_audit
+/_reports
+/scripts
+/tools
+/tests
+/client
+/data
+/precos-zonas.json
+/canalizador-urgente-indexnow-urls.txt
+*.py
+*.diff
+*.patch
+*.log
+*.csv
+.env
+.env.*
