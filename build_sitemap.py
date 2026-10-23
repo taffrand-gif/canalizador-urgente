@@ -38,6 +38,10 @@ NOINDEX_PAGES = {
     'guia-eletricidade.html',
     'top-10-razoes-contratar-eletricista.html',
 }
+NOINDEX_PREFIXES = ('canalizador-fossa-septica-',)
+
+def is_noindex_file(filename):
+    return filename in NOINDEX_PAGES or filename.startswith(NOINDEX_PREFIXES)
 
 SERVICE_PREFIXES = (
     'autoclismo-', 'fuga-agua-', 'fossa-septica-', 'esquentador-',
@@ -85,7 +89,7 @@ def categorize(unique_files, root_dir):
     noindex = set()
 
     for f in unique_files:
-        if f in NOINDEX_PAGES:
+        if is_noindex_file(f):
             noindex.add(f)
             continue
         if not f.startswith('canalizador-'):

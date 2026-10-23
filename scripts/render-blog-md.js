@@ -390,6 +390,7 @@ function renderPage(parsed, repoRoot) {
   const schemas = makeSchemas({ title, description: answer, slug, date: String(frontmatter.date), faq, howTo, repoRoot });
   const articleHtml = markdownToHtml(body);
   const metaDescription = answer.length <= 160 ? answer : `${answer.slice(0, 156).replace(/\s+\S*$/, '')}…`;
+  const robots = slug.startsWith('fossa-') ? '<meta name="robots" content="noindex,follow">' : '';
 
   return { slug, html: `<!DOCTYPE html>
 <html lang="pt-PT">
@@ -398,6 +399,7 @@ function renderPage(parsed, repoRoot) {
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>${escapeHtml(frontmatter.metaTitle || title)}</title>
   <meta name="description" content="${escapeHtml(metaDescription)}">
+  ${robots}
   <link rel="canonical" href="${canonical}">
   <meta property="og:title" content="${escapeHtml(title)}">
   <meta property="og:description" content="${escapeHtml(metaDescription)}">
