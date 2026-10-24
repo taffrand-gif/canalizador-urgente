@@ -38,6 +38,11 @@ NOINDEX_PAGES = {
     'guia-eletricidade.html',
     'top-10-razoes-contratar-eletricista.html',
 }
+NOINDEX_PREFIXES = ('canalizador-fossa-septica-',)
+BLOG_EXCLUDED_PREFIXES = ('fossa-',)
+
+def is_noindex_file(filename):
+    return filename in NOINDEX_PAGES or filename.startswith(NOINDEX_PREFIXES)
 
 SERVICE_PREFIXES = (
     'autoclismo-', 'fuga-agua-', 'fossa-septica-', 'esquentador-',
@@ -85,7 +90,7 @@ def categorize(unique_files, root_dir):
     noindex = set()
 
     for f in unique_files:
-        if f in NOINDEX_PAGES:
+        if is_noindex_file(f):
             noindex.add(f)
             continue
         if not f.startswith('canalizador-'):
@@ -155,7 +160,10 @@ def main():
 
     concelhos = sorted(os.listdir(concelhos_dir))
     distritos = sorted(os.listdir(distritos_dir))
-    blog_html = sorted([f for f in os.listdir(blog_dir) if f.endswith('.html')])
+    blog_html = sorted(
+        f for f in os.listdir(blog_dir)
+        if f.endswith('.html') and not f.startswith(BLOG_EXCLUDED_PREFIXES)
+    )
 
     # 4) Construction de la liste ordonnée
     urls = []  # (url, priority)
