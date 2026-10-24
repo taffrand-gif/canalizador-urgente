@@ -42,6 +42,11 @@ MAJORACAO = "100 €/h + deslocação 50 € à noite (18h-9h), fins de semana e
 TELEFONE_PUBLIC = "928 484 451"
 TELEFONE_E164 = "+351928484451"
 
+# Chaves foi reescrita manualmente em 2026-10-24 no piloto SEO/GEO.
+# Não a reprocessar: a página servida tem conteúdo e JSON-LD próprios, validados
+# para desentupimento doméstico, sem dados geográficos/tarifários legados.
+MANUALLY_CURATED_SLUGS = {"chaves"}
+
 # Fallback centroïde district pour lat/lon si non trouvé
 DISTRICT_COORDS = {
     "Bragança": (41.806, -6.768),
@@ -490,6 +495,8 @@ def patch_one_page(c: dict, neighbors: list[str], enable_index: bool = False) ->
     """Patch une page CU canalizador-desentupimento-{slug}.html. Retourne (modified, log)."""
     slug = c["slug"]
     name = c["name"]
+    if slug in MANUALLY_CURATED_SLUGS:
+        return False, f"  SKIP {slug}: página manualmente curada; não reintroduzir blocos GEO legados"
     path = ROOT / f"canalizador-desentupimento-{slug}.html"
     if not path.exists():
         return False, f"  SKIP {slug}: file not found"
@@ -630,6 +637,14 @@ def main():
     parser.add_argument("--only", nargs="+", help="Restreindre à ces slugs")
     parser.add_argument("--index", action="store_true", help="Activer index sur pages noindex")
     args = parser.parse_args()
+
+    # Permite validar ou executar explicitamente o alvo curado sem depender
+    # das fontes de enriquecimento legadas que não são necessárias para ele.
+    if args.only and set(args.only).issubset(MANUALLY_CURATED_SLUGS):
+        for slug in args.only:
+            print(f"· SKIP {slug}: página manualmente curada; não reintroduzir blocos GEO legados")
+        print(f"DONE: 0 modified, {len(args.only)} skipped, manual preservation")
+        return
 
     global all_concelhos_lookup
 
