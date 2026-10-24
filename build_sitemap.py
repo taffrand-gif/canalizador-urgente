@@ -39,6 +39,7 @@ NOINDEX_PAGES = {
     'top-10-razoes-contratar-eletricista.html',
 }
 NOINDEX_PREFIXES = ('canalizador-fossa-septica-',)
+BLOG_EXCLUDED_PREFIXES = ('fossa-',)
 
 def is_noindex_file(filename):
     return filename in NOINDEX_PAGES or filename.startswith(NOINDEX_PREFIXES)
@@ -159,7 +160,10 @@ def main():
 
     concelhos = sorted(os.listdir(concelhos_dir))
     distritos = sorted(os.listdir(distritos_dir))
-    blog_html = sorted([f for f in os.listdir(blog_dir) if f.endswith('.html')])
+    blog_html = sorted(
+        f for f in os.listdir(blog_dir)
+        if f.endswith('.html') and not f.startswith(BLOG_EXCLUDED_PREFIXES)
+    )
 
     # 4) Construction de la liste ordonnée
     urls = []  # (url, priority)

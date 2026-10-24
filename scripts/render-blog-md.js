@@ -253,13 +253,13 @@ function wordCount(value) {
   return stripMarkdown(value).split(/\s+/).filter(Boolean).length;
 }
 
-function directAnswer(frontmatter, body) {
+function directAnswer(frontmatter, body, isFossaEditorial = false) {
   let answer = stripMarkdown(frontmatter.directAnswer || frontmatter.excerpt || frontmatter.summary || '');
   if (!answer) {
     const first = body.split(/\n\s*\n/).find((block) => block.trim() && !block.trim().startsWith('#')) || '';
     answer = stripMarkdown(first);
   }
-  const suffix = 'A nossa equipa explica o diagnóstico, aplica 70 €/h em dias úteis ou 100 €/h fora do horário útil, e apresenta orçamento por escrito antes de qualquer intervenção, com deslocação fixa de 30 € ou 50 € conforme o horário e sem surpresas na fatura.';
+  const suffix = isFossaEditorial ? 'Este conteúdo é exclusivamente educativo e preventivo. Não é uma oferta, orçamento, diagnóstico à distância nem instrução para realizar trabalhos numa fossa séptica. Procure apoio habilitado em segurança.' : 'A nossa equipa explica o diagnóstico, aplica 70 €/h em dias úteis ou 100 €/h fora do horário útil, e apresenta orçamento por escrito antes de qualquer intervenção, com deslocação fixa de 30 € ou 50 € conforme o horário e sem surpresas na fatura.';
   while (wordCount(answer) < 40 && !answer.includes(suffix)) answer = `${answer} ${suffix}`.trim();
   const words = answer.split(/\s+/).filter(Boolean);
   if (words.length > 60) answer = `${words.slice(0, 59).join(' ').replace(/[,:;]$/, '')}.`;
@@ -312,7 +312,7 @@ function collectAreaServed(repoRoot) {
   return ['Trás-os-Montes', ...names].map((name) => ({ '@type': 'AdministrativeArea', name }));
 }
 
-function makeSchemas({ title, description, slug, date, faq, howTo, repoRoot }) {
+function makeSchemas({ title, description, slug, date, faq, howTo, repoRoot, isFossaEditorial = false }) {
   const url = `${DOMAIN}/blog/${slug}`;
   const areaServed = collectAreaServed(repoRoot);
   const provider = {
@@ -355,8 +355,8 @@ function makeSchemas({ title, description, slug, date, faq, howTo, repoRoot }) {
     author: { '@type': 'Organization', name: 'Norte Reparos' },
     publisher: { '@type': 'Organization', name: 'Norte Reparos', url: DOMAIN },
   };
-  const schemas = [emergency, service, faqSchema, article];
-  if (howTo) schemas.push({
+  const schemas = isFossaEditorial ? [faqSchema, article] : [emergency, service, faqSchema, article];
+  if (howTo && !isFossaEditorial) schemas.push({
     '@context': 'https://schema.org',
     '@type': 'HowTo',
     '@id': `${url}#howto`,
@@ -382,15 +382,21 @@ function renderPage(parsed, repoRoot) {
   if (titleFindings.length) throw new Error(`title/H1 non conforme: ${titleFindings.map((f) => f.label).join(', ')}`);
   const slug = slugify(frontmatter.slug || path.basename(frontmatter.__source, '.md'));
   if (!slug) throw new Error('slug vide');
-  const answer = directAnswer(frontmatter, body);
+  const isFossaEditorial = slug.startsWith('fossa-');
+  const answer = directAnswer(frontmatter, body, isFossaEditorial);
   const faq = extractFaq(body);
   if (faq.length < 3) throw new Error(`FAQ insuffisante: 3 minimum, trouvé ${faq.length}`);
   const howTo = extractHowTo(body, frontmatter);
   const canonical = `${DOMAIN}/blog/${slug}`;
-  const schemas = makeSchemas({ title, description: answer, slug, date: String(frontmatter.date), faq, howTo, repoRoot });
+  const schemas = makeSchemas({ title, description: answer, slug, date: String(frontmatter.date), faq, howTo, repoRoot, isFossaEditorial });
   const articleHtml = markdownToHtml(body);
   const metaDescription = answer.length <= 160 ? answer : `${answer.slice(0, 156).replace(/\s+\S*$/, '')}…`;
-  const robots = slug.startsWith('fossa-') ? '<meta name="robots" content="noindex,follow">' : '';
+  const robots = isFossaEditorial ? '<meta name="robots" content="noindex,follow">' : '';
+  const fossaNotice = 'A Norte Reparos não realiza instalação, reparação, limpeza, manutenção, esvaziamento, curagem, bombagem, desobstrução nem qualquer outro serviço em fossas sépticas.';
+  if (isFossaEditorial) {
+    return { slug, html: `<!DOCTYPE html>
+<html lang="pt-PT"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>${escapeHtml(title)}</title><meta name="description" content="Informação de segurança sobre fossas sépticas; não realizamos serviços neste âmbito."><meta name="robots" content="noindex,follow"><link rel="canonical" href="${canonical}"><meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="Conteúdo educativo; não realizamos serviços em fossas sépticas."><meta property="og:type" content="article"><meta property="og:url" content="${canonical}"><meta property="og:locale" content="pt_PT"><meta name="twitter:card" content="summary">${schemas.map(jsonLd).join('\n  ')}<style>body{margin:0;background:#f4f7f9;color:#1f2933;font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main,footer{width:min(900px,calc(100% - 32px));margin:24px auto}main{background:#fff;padding:clamp(22px,5vw,52px);border-radius:12px;box-shadow:0 8px 30px #102a4312}h1,h2{color:#10324a;line-height:1.25}.notice{background:#fff4e8;border-left:5px solid #d95f02;padding:18px;border-radius:8px;font-weight:700}.contact{background:#edf5f8;border-left:5px solid #10324a;padding:18px;border-radius:8px}a{color:#a84300}footer{color:#5b6770;padding-bottom:36px}</style><script src="/call-tracking.js" defer></script></head><body><main><nav aria-label="Navegação"><a href="/">Início</a> › <a href="/blog/">Blog</a> › ${escapeHtml(title)}</nav><article><h1>${escapeHtml(h1)}</h1><p class="notice">${fossaNotice}</p><p>Este artigo é exclusivamente educativo. Não é uma oferta, orçamento, diagnóstico à distância nem instrução para realizar trabalhos numa fossa séptica.</p>${articleHtml}<section class="contact"><h2>Canalização fora deste âmbito</h2><p>Para uma avaria de canalização que não envolva uma fossa séptica: <a href="tel:${PHONE_E164}"><strong>${PHONE_DISPLAY}</strong></a>.</p></section></article></main><footer><p>Conteúdo informativo da Norte Reparos · <a href="/contactos">Contactos</a></p></footer></body></html>\n` };
+  }
 
   return { slug, html: `<!DOCTYPE html>
 <html lang="pt-PT">
