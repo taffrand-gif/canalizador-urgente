@@ -11,7 +11,7 @@ import sys
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DOMAIN = "canalizador-urgente.pt"
-EXCLUDED_NAMES = {"404.html"}
+EXCLUDED_NAMES = {"404.html", "como-detetar-fuga-agua.html"}  # D3 2026-10-26 : noindex,follow (doublon d'intention, 0 impression GSC)
 EXCLUDED_MARKERS = ("template", "partial")
 
 
