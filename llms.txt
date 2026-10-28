@@ -47,7 +47,7 @@ Grelha oficial Norte Reparos: dias úteis (09h–18h) 70 €/h de mão de obra +
 ## Equipamento profissional (real, verificado)
 - **Ridgid FlexShaft K9-102** — desentupimento mecânico industrial
 - **Câmara de inspeção CCTV** — visualização interior de canos
-- **Câmara térmica FLIR** — deteção de fugas sem demolição
+- **Detetor de humidade** — apoio à localização de fugas antes de abrir
 - **Kit fluorosceína UV** — localização de fugas em pavimentos radiantes
 
 ## Perguntas frequentes
