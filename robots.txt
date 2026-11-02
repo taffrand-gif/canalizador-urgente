@@ -1,4 +1,4 @@
-# AI Crawlers - explicitement autorisés (cf AGENTS.md R10)
+# AI Crawlers
 User-agent: GPTBot
 Allow: /
 
