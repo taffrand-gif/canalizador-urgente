@@ -2626,5 +2626,5 @@
       "statusCode": 301
     }
   ],
-  "ignoreCommand": "git diff --quiet \"$VERCEL_GIT_PREVIOUS_SHA\" \"$VERCEL_GIT_COMMIT_SHA\" -- . ':!*.md' ':!*.markdown' ':!docs/**' ':!.github/**' ':!.openclaw/**'"
+  "ignoreCommand": "if git diff --quiet \"$VERCEL_GIT_PREVIOUS_SHA\" \"$VERCEL_GIT_COMMIT_SHA\" -- . ':!*.md' ':!*.markdown' ':!docs/**' ':!.github/**' ':!.openclaw/**' 2>/dev/null; then exit 0; else exit 1; fi"
 }
