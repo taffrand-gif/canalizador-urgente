@@ -1453,6 +1453,7 @@
     }
   ],
   "redirects": [
+    { "source": "/vercel-ignore.sh", "destination": "/", "statusCode": 410 },
     { "source": "/(.*)\\.md", "destination": "/", "statusCode": 410 },
     {
       "source": "/:path*",
