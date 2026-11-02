@@ -39,15 +39,22 @@ Grelha oficial Norte Reparos: dias úteis (09h–18h) 70 €/h de mão de obra +
 
 ## Urgências tratadas (quando ligar agora)
 - Cano rebentado ou fuga de água com inundação
-- Entupimento total (sanita, esgoto, fossa)
+- Entupimento total (sanita, lava-loiça, esgoto)
 - Falta de água quente (esquentador ou termoacumulador avariado)
 - Cheiro a gás ou humidade repentina em parede
 - Autoclismo ou torneira sem paragem
 
+## Situações complexas ou recorrentes
+Uma abordagem técnica para situações urgentes, complexas, recorrentes ou deixadas incompletas por intervenções anteriores.
+- [Fuga de água que já foi procurada e não foi encontrada](https://canalizador-urgente.pt/fuga-agua-nao-encontrada): confirmação no contador, isolamento de troços, câmara térmica FLIR, detetor de humidade, fluoresceína com luz UV ou câmara de inspeção conforme o caso. Procuramos localizar antes de abrir, quando as condições o permitem; não prometemos que nunca será preciso abrir.
+- [Cano que volta a entupir](https://canalizador-urgente.pt/entupimento-recorrente): vemos o interior com câmara de inspeção quando há acesso; máquina de desentupimento ou alta pressão conforme o diagnóstico; dizemos se a causa está na configuração da canalização. Diga-nos se já usou soda cáustica ou outros produtos.
+- [Canalização antiga ou alterada](https://canalizador-urgente.pt/canalizacao-antiga-modificada): diagnóstico da rede antes de reparar mais um ponto; separamos o urgente do que pode esperar.
+Limites: nenhum instrumento serve para todos os casos; parte da rede embutida só se confirma com acesso.
+
 ## Equipamento profissional (real, verificado)
 - **Ridgid FlexShaft K9-102** — desentupimento mecânico industrial
 - **Câmara de inspeção CCTV** — visualização interior de canos
-- **Câmara térmica FLIR** — deteção de fugas sem demolição
+- **Câmara térmica FLIR** — procura de fugas e humidade em paredes e pavimentos, antes de abrir quando as condições o permitem
 - **Kit fluorosceína UV** — localização de fugas em pavimentos radiantes
 
 ## Perguntas frequentes

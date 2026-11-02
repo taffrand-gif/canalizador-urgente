@@ -24,9 +24,13 @@ Pricing:
 Services:
   - Fuga de água
   - Cano rebentado
-  - Entupimento (sanita, esgoto, fossa)
+  - Entupimento (sanita, esgoto)
+  - Fuga de água já procurada sem resultado (nova pesquisa metódica)
+  - Entupimento recorrente (diagnóstico da causa antes de repetir)
+  - Canalização antiga ou alterada com problemas repetidos
   - Esquentador / termoacumulador avariado
   - Autoclismo / torneira sem paragem
+NotOffered: reparação, instalação, limpeza, esvaziamento ou bombagem de fossas sépticas
 Equipment:
   - Ridgid FlexShaft K9-102 (desentupimento mecânico)
   - Câmara de inspeção CCTV
