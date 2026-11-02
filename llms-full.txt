@@ -49,7 +49,7 @@ A janela de chegada é confirmada por telefone e depende da situação operacion
 ## 4b. Situações complexas ou recorrentes
 Uma abordagem técnica para situações urgentes, complexas, recorrentes ou deixadas incompletas por intervenções anteriores.
 - [Fuga de água que já foi procurada e não foi encontrada](https://canalizador-urgente.pt/fuga-agua-nao-encontrada): confirmação no contador, isolamento de troços, câmara térmica FLIR, detetor de humidade, fluoresceína com luz UV ou câmara de inspeção conforme o caso. Procuramos localizar antes de abrir, quando as condições o permitem; não prometemos que nunca será preciso abrir.
-- [Cano que volta a entupir](https://canalizador-urgente.pt/entupimento-recorrente): vemos o interior com câmara de inspeção quando há acesso; máquina de desentupimento ou alta pressão conforme o diagnóstico; dizemos se a causa está na configuração da canalização. Diga-nos se já usou soda cáustica ou outros produtos.
+- [Cano que volta a entupir](https://canalizador-urgente.pt/entupimento-recorrente): vemos o interior com câmara de inspeção quando há acesso; máquina de desentupimento ou desobstrução de canalizações com alta pressão, conforme o diagnóstico e as condições da instalação; dizemos se a causa está na configuração da canalização. Diga-nos se já usou soda cáustica ou outros produtos.
 - [Canalização antiga ou alterada](https://canalizador-urgente.pt/canalizacao-antiga-modificada): diagnóstico da rede antes de reparar mais um ponto; separamos o urgente do que pode esperar.
 Limites: nenhum instrumento serve para todos os casos; parte da rede embutida só se confirma com acesso.
 
