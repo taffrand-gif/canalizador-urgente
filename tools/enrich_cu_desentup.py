@@ -470,11 +470,11 @@ def briques_geo(c: dict, neighbors: list[str]) -> str:
 <table style="width:100%;border-collapse:collapse;background:#fff">
 <thead><tr style="background:#0a4d68;color:#fff"><th style="padding:.6rem;text-align:left">Horário</th><th style="padding:.6rem;text-align:left">Deslocação</th><th style="padding:.6rem;text-align:left">Mão de obra</th></tr></thead>
 <tbody>
-<tr><td style="padding:.55rem;border-bottom:1px solid #eee">Dias úteis, 9h–18h</td><td style="padding:.55rem;border-bottom:1px solid #eee"><strong>30 €</strong></td><td style="padding:.55rem;border-bottom:1px solid #eee">70 €/h</td></tr>
+<tr><td style="padding:.55rem;border-bottom:1px solid #eee">Dias úteis, 09h–18h</td><td style="padding:.55rem;border-bottom:1px solid #eee"><strong>30 €</strong></td><td style="padding:.55rem;border-bottom:1px solid #eee">70 €/h</td></tr>
 <tr style="background:#fff5e0"><td style="padding:.55rem">Noite, fim de semana e feriado</td><td style="padding:.55rem"><strong>50 €</strong></td><td style="padding:.55rem">100 €/h</td></tr>
 </tbody>
 </table>
-<p style="font-size:.8rem;color:#666;margin-top:.5rem">Hora de trabalho {TARIF_HORA}€ (mão de obra). Para confirmação exata da sua zona, ligue +351 928 484 451.</p>
+<p style="font-size:.8rem;color:#666;margin-top:.5rem">Os valores apresentados incluem IVA (TTC). Em dias úteis (09h–18h): mão de obra {TARIF_HORA} €/h + deslocação 30 €; à noite (18h–09h), fins de semana e feriados: mão de obra 100 €/h + deslocação 50 €. Cada hora iniciada é devida. A disponibilidade e a janela da deslocação são confirmadas por telefone.</p>
 </section>
 
 <section class="geo-links-cu" style="background:#f8f9fa;padding:1.5rem;border-radius:10px;margin:1.5rem 0">
