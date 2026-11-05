@@ -40,14 +40,14 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 
 | Dia | Preço/Hora |
 |-----|-----------|
-| **Dias Úteis (Seg-Sex, 9h-17h)** | 70€/h |
+| **Dias Úteis (Seg-Sex, 9h-18h)** | 70€/h |
 | **Fora do horário útil (noite, sábado, domingo, feriado)** | 100€/h |
 
 ### Deslocação por Zona
 
 | Horário | Deslocação |
 |---------|-----------|
-| Dias úteis (9h-17h) | 30€ |
+| Dias úteis (9h-18h) | 30€ |
 | Fora do horário útil | 50€ |
 
 *Nota: Deslocação cobrada apenas uma vez por intervenção, independentemente da duração.*

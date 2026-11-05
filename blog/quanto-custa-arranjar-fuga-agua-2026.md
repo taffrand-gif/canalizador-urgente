@@ -31,7 +31,7 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 | **Fuga canalização oculta** | 30€ | 80€ | 40-80€ | **150-190€** |
 | **Esquentador fuga ligação** | 20€ | 40€ | 15-30€ | **75-90€** |
 
-*Preços de mão de obra e material em dias úteis (9h-17h). Fora do horário útil (noite, fim de semana, feriados): mão de obra a 100€/h em vez de 70€/h. Deslocação: forfait fixo de 30€ (dias úteis) ou 50€ (fora desse horário), independente da distância.*
+*Preços de mão de obra e material em dias úteis (9h-18h). Fora do horário útil (noite, fim de semana, feriados): mão de obra a 100€/h em vez de 70€/h. Deslocação: forfait fixo de 30€ (dias úteis) ou 50€ (fora desse horário), independente da distância.*
 
 ## Fugas Torneiras: Preços Detalhados
 
@@ -392,14 +392,14 @@ Fuga de água pode custar desde 40€ (vedante torneira) até 500€+ (rotura ca
 
 | Horário | Preço/Hora | Exemplo 1h |
 |---------|-----------|------------|
-| Dias úteis (9h-17h) | 70€/h | 70€ |
+| Dias úteis (9h-18h) | 70€/h | 70€ |
 | Fora do horário útil (noite, fim de semana, feriados) | 100€/h | 100€ |
 
 ### 2. Localização (Deslocação)
 
 | Horário | Deslocação |
 |---------|-----------|
-| Dias úteis (9h-17h) | 30€ |
+| Dias úteis (9h-18h) | 30€ |
 | Fora do horário útil | 50€ |
 
 ### 3. Complexidade Acesso
