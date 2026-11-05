@@ -1481,11 +1481,6 @@
       "statusCode": 410
     },
     {
-      "source": "/canalizador-a-gudia",
-      "destination": "/canalizador-a-gudina",
-      "statusCode": 301
-    },
-    {
       "source": "/canalizador-alfndega-da-fe",
       "destination": "/canalizador-alfandega-da-fe",
       "statusCode": 301
@@ -2517,52 +2512,42 @@
     },
     {
       "source": "/canalizador-24-horas-alf%C3%A2ndega-da-fe",
-      "destination": "/canalizador-24-horas-alfandega-da-fe",
+      "destination": "/canalizador-alfandega-da-fe",
       "statusCode": 301
     },
     {
       "source": "/desentupir-sanita-alf%C3%A2ndega-da-fe",
-      "destination": "/desentupir-sanita-alfandega-da-fe",
+      "destination": "/canalizador-desentupimento-alfandega-da-fe",
       "statusCode": 301
     },
     {
       "source": "/fuga-de-agua-alf%C3%A2ndega-da-fe",
-      "destination": "/fuga-de-agua-alfandega-da-fe",
-      "statusCode": 301
-    },
-    {
-      "source": "/cano-rebentado-alf%C3%A2ndega-da-fe",
-      "destination": "/cano-rebentado-alfandega-da-fe",
+      "destination": "/canalizador-fuga-agua-alfandega-da-fe",
       "statusCode": 301
     },
     {
       "source": "/canalizador-ao-domingo-alf%C3%A2ndega-da-fe",
-      "destination": "/canalizador-ao-domingo-alfandega-da-fe",
+      "destination": "/canalizador-alfandega-da-fe",
       "statusCode": 301
     },
     {
       "source": "/canalizador-24-horas-freixo-de-espada-%C3%A0-cinta",
-      "destination": "/canalizador-24-horas-freixo-de-espada-a-cinta",
+      "destination": "/canalizador-freixo-de-espada-a-cinta",
       "statusCode": 301
     },
     {
       "source": "/desentupir-sanita-freixo-de-espada-%C3%A0-cinta",
-      "destination": "/desentupir-sanita-freixo-de-espada-a-cinta",
+      "destination": "/canalizador-desentupimento-freixo-de-espada-a-cinta",
       "statusCode": 301
     },
     {
       "source": "/fuga-de-agua-freixo-de-espada-%C3%A0-cinta",
-      "destination": "/fuga-de-agua-freixo-de-espada-a-cinta",
-      "statusCode": 301
-    },
-    {
-      "source": "/cano-rebentado-freixo-de-espada-%C3%A0-cinta",
-      "destination": "/cano-rebentado-freixo-de-espada-a-cinta",
+      "destination": "/canalizador-fuga-agua-freixo-de-espada-a-cinta",
       "statusCode": 301
     },
     {
       "source": "/canalizador-ao-domingo-freixo-de-espada-%C3%A0-cinta",
-      "destination": "/canalizador-ao-domingo-freixo-de-espada-a-cinta",
+      "destination": "/canalizador-freixo-de-espada-a-cinta",
       "statusCode": 301
     },
     {
@@ -2572,57 +2557,22 @@
     },
     {
       "source": "/canalizador-24-horas-vila-nova-de-foz-c%C3%B4a",
-      "destination": "/canalizador-24-horas-vila-nova-de-foz-coa",
+      "destination": "/canalizador-vila-nova-de-foz-coa",
       "statusCode": 301
     },
     {
       "source": "/desentupir-sanita-vila-nova-de-foz-c%C3%B4a",
-      "destination": "/desentupir-sanita-vila-nova-de-foz-coa",
+      "destination": "/canalizador-desentupimento-vila-nova-de-foz-coa",
       "statusCode": 301
     },
     {
       "source": "/fuga-de-agua-vila-nova-de-foz-c%C3%B4a",
-      "destination": "/fuga-de-agua-vila-nova-de-foz-coa",
-      "statusCode": 301
-    },
-    {
-      "source": "/cano-rebentado-vila-nova-de-foz-c%C3%B4a",
-      "destination": "/cano-rebentado-vila-nova-de-foz-coa",
+      "destination": "/canalizador-fuga-agua-vila-nova-de-foz-coa",
       "statusCode": 301
     },
     {
       "source": "/canalizador-ao-domingo-vila-nova-de-foz-c%C3%B4a",
-      "destination": "/canalizador-ao-domingo-vila-nova-de-foz-coa",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-urgente-m%C3%AAda",
-      "destination": "/canalizador-urgente-meda",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-24-horas-m%C3%AAda",
-      "destination": "/canalizador-24-horas-meda",
-      "statusCode": 301
-    },
-    {
-      "source": "/desentupir-sanita-m%C3%AAda",
-      "destination": "/desentupir-sanita-meda",
-      "statusCode": 301
-    },
-    {
-      "source": "/fuga-de-agua-m%C3%AAda",
-      "destination": "/fuga-de-agua-meda",
-      "statusCode": 301
-    },
-    {
-      "source": "/cano-rebentado-m%C3%AAda",
-      "destination": "/cano-rebentado-meda",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-ao-domingo-m%C3%AAda",
-      "destination": "/canalizador-ao-domingo-meda",
+      "destination": "/canalizador-vila-nova-de-foz-coa",
       "statusCode": 301
     }
   ],
