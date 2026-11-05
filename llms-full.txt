@@ -36,11 +36,11 @@ Les 4 piliers :
 
 | Período | Mão de obra | Deslocação |
 |---|---|---|
-| Dias úteis, 09h–17h | **70 €/h** | **30 €** |
-| Noite (17h–09h), fins de semana e feriados | **100 €/h** | **50 €** |
+| Dias úteis, 09h–18h | **70 €/h** | **30 €** |
+| Após as 18h, noite, fins de semana e feriados | **100 €/h** | **50 €** |
 
-- **Mão de obra** : **70 €/h** em dias úteis (09h–17h), **100 €/h** à noite, ao fim de semana e feriados
-- **Deslocação** : **30 €** em dias úteis (09h–17h), **50 €** à noite, ao fim de semana e feriados ; igual em todas as localidades
+- **Mão de obra** : **70 €/h** em dias úteis (09h–18h), **100 €/h** após as 18h, à noite, ao fim de semana e feriados
+- **Deslocação** : **30 €** em dias úteis (09h–18h), **50 €** após as 18h, à noite, ao fim de semana e feriados ; igual em todas as localidades
 - **IVA** : taux normal en vigueur (non inclus dans les tarifs ci-dessus)
 - **Orçamento por escrito** : systématique, avant toute intervention, sans engagement
 - **Fatura com NIF** : émise à la fin de chaque travail
@@ -98,7 +98,7 @@ Principaux concelhos : Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila 
 ## 8. Perguntas frequentes (FAQ)
 
 **Q : Combien coûte un plombier en urgence à Trás-os-Montes ?**
-R : grelha oficial : 70 €/h + 30 € de déplacement (jours ouvrés 09h–17h) ; 100 €/h + 50 € la nuit, le week-end et les jours fériés.
+R : grelha oficial : 70 €/h + 30 € de déplacement (jours ouvrés 09h–18h) ; 100 €/h + 50 € après 18h, la nuit, le week-end et les jours fériés.
 
 **Q : Faites-vous un devis gratuit ?**
 R : Oui, devis par téléphone et par écrit, sans engagement, avant toute intervention.
