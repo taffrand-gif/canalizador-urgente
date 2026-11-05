@@ -21,7 +21,7 @@ A Norte Reparos presta serviços de canalização em Trás-os-Montes. Este domí
 | Dias úteis, 09h–18h | **70 €/h** | **30 €** |
 | Após as 18h, noite, fins de semana e feriados | **100 €/h** | **50 €** |
 
-- Valores em euros, TTC. Cada hora iniciada é devida.
+- Valores finais com IVA incluído, em euros. Cada hora iniciada é devida.
 - A deslocação é devida sempre que há deslocação ao local.
 - Não há orçamento gratuito quando a deslocação é necessária.
 - Uma estimativa à distância (descrição detalhada e fotos) é indicativa e não é um orçamento definitivo. Cada situação é diferente e pode demorar mais ou menos tempo; o preço final depende do diagnóstico e da intervenção real.
@@ -60,7 +60,7 @@ Principais concelhos: Bragança, Mirandela, Chaves, Macedo de Cavaleiros, Vila R
 ## 7. Perguntas frequentes
 
 **Quanto custa um canalizador de urgência em Trás-os-Montes?**
-Dias úteis (09h–18h): 70 €/h + 30 € de deslocação. Após as 18h, noite, fins de semana e feriados: 100 €/h + 50 € de deslocação. Valores TTC; cada hora iniciada é devida.
+Dias úteis (09h–18h): 70 €/h + 30 € de deslocação. Após as 18h, noite, fins de semana e feriados: 100 €/h + 50 € de deslocação. Valores finais com IVA incluído. Cada hora iniciada é devida.
 
 **Fazem orçamento grátis?**
 Não quando é necessária deslocação: a deslocação e a mão de obra são devidas. Uma estimativa à distância, com descrição detalhada e fotos, é indicativa e não é um orçamento definitivo.
