@@ -26,6 +26,7 @@ https://canalizador-urgente.pt/blog/torneira-geral-nao-fecha
 https://canalizador-urgente.pt/blog/torneira-grande-fuga
 https://canalizador-urgente.pt/blog/vazamento-tanque-agua
 https://canalizador-urgente.pt/calculadora-de-preco
+https://canalizador-urgente.pt/canalizador-a-mezquita
 https://canalizador-urgente.pt/canalizador-abacas
 https://canalizador-urgente.pt/canalizador-abambres
 https://canalizador-urgente.pt/canalizador-abreiro
@@ -42,6 +43,8 @@ https://canalizador-urgente.pt/canalizador-aguas-vivas
 https://canalizador-urgente.pt/canalizador-aguieira
 https://canalizador-urgente.pt/canalizador-aguieiras
 https://canalizador-urgente.pt/canalizador-ala
+https://canalizador-urgente.pt/canalizador-albarellos
+https://canalizador-urgente.pt/canalizador-alcaices
 https://canalizador-urgente.pt/canalizador-alcarva
 https://canalizador-urgente.pt/canalizador-aldeia-vicosa
 https://canalizador-urgente.pt/canalizador-aldeias
@@ -77,6 +80,7 @@ https://canalizador-urgente.pt/canalizador-antas
 https://canalizador-urgente.pt/canalizador-arcas
 https://canalizador-urgente.pt/canalizador-arcosso
 https://canalizador-urgente.pt/canalizador-ardaos
+https://canalizador-urgente.pt/canalizador-argan
 https://canalizador-urgente.pt/canalizador-argana
 https://canalizador-urgente.pt/canalizador-argozelo
 https://canalizador-urgente.pt/canalizador-aricera
@@ -166,6 +170,7 @@ https://canalizador-urgente.pt/canalizador-autoclismo-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-autoclismo-vilarandelo
 https://canalizador-urgente.pt/canalizador-autoclismo-vimioso
 https://canalizador-urgente.pt/canalizador-autoclismo-vinhais
+https://canalizador-urgente.pt/canalizador-autoclismo-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-avantos
 https://canalizador-urgente.pt/canalizador-avelanoso
 https://canalizador-urgente.pt/canalizador-avelas-da-ribeira
@@ -316,6 +321,7 @@ https://canalizador-urgente.pt/canalizador-canalizacao-nova-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-canalizacao-nova-vilarandelo
 https://canalizador-urgente.pt/canalizador-canalizacao-nova-vimioso
 https://canalizador-urgente.pt/canalizador-canalizacao-nova-vinhais
+https://canalizador-urgente.pt/canalizador-canalizacao-nova-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-canaveses
 https://canalizador-urgente.pt/canalizador-candedo
 https://canalizador-urgente.pt/canalizador-candemil
@@ -358,6 +364,7 @@ https://canalizador-urgente.pt/canalizador-castelo-branco
 https://canalizador-urgente.pt/canalizador-castelo-de-balsamao
 https://canalizador-urgente.pt/canalizador-castelo-melhor
 https://canalizador-urgente.pt/canalizador-castelo-rodrigo
+https://canalizador-urgente.pt/canalizador-castrelo-do-val
 https://canalizador-urgente.pt/canalizador-castrelos
 https://canalizador-urgente.pt/canalizador-castro-de-avelas
 https://canalizador-urgente.pt/canalizador-castro-roupal
@@ -501,6 +508,7 @@ https://canalizador-urgente.pt/canalizador-desentupimento-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-desentupimento-vilarandelo
 https://canalizador-urgente.pt/canalizador-desentupimento-vimioso
 https://canalizador-urgente.pt/canalizador-desentupimento-vinhais
+https://canalizador-urgente.pt/canalizador-desentupimento-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-distrito-de-braganca
 https://canalizador-urgente.pt/canalizador-distrito-de-guarda
 https://canalizador-urgente.pt/canalizador-distrito-de-vila-real
@@ -527,6 +535,7 @@ https://canalizador-urgente.pt/canalizador-ervoes
 https://canalizador-urgente.pt/canalizador-escalhao
 https://canalizador-urgente.pt/canalizador-escarigo
 https://canalizador-urgente.pt/canalizador-escurquela
+https://canalizador-urgente.pt/canalizador-espadaedo
 https://canalizador-urgente.pt/canalizador-espadanedo
 https://canalizador-urgente.pt/canalizador-espinhosa
 https://canalizador-urgente.pt/canalizador-espinhosela
@@ -606,6 +615,7 @@ https://canalizador-urgente.pt/canalizador-esquentador-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-esquentador-vilarandelo
 https://canalizador-urgente.pt/canalizador-esquentador-vimioso
 https://canalizador-urgente.pt/canalizador-esquentador-vinhais
+https://canalizador-urgente.pt/canalizador-esquentador-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-eucisia
 https://canalizador-urgente.pt/canalizador-faioes
 https://canalizador-urgente.pt/canalizador-falde
@@ -621,6 +631,7 @@ https://canalizador-urgente.pt/canalizador-ferradosa
 https://canalizador-urgente.pt/canalizador-ferreira
 https://canalizador-urgente.pt/canalizador-ferreirim
 https://canalizador-urgente.pt/canalizador-ferreiros-de-avoes
+https://canalizador-urgente.pt/canalizador-ferreruela-de-tabara
 https://canalizador-urgente.pt/canalizador-fervidelas
 https://canalizador-urgente.pt/canalizador-fiaes-do-rio
 https://canalizador-urgente.pt/canalizador-fiaes-do-tamega
@@ -713,6 +724,7 @@ https://canalizador-urgente.pt/canalizador-fossa-septica-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-fossa-septica-vilarandelo
 https://canalizador-urgente.pt/canalizador-fossa-septica-vimioso
 https://canalizador-urgente.pt/canalizador-fossa-septica-vinhais
+https://canalizador-urgente.pt/canalizador-fossa-septica-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-fradizela
 https://canalizador-urgente.pt/canalizador-franca
 https://canalizador-urgente.pt/canalizador-franco
@@ -810,8 +822,10 @@ https://canalizador-urgente.pt/canalizador-fuga-agua-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-fuga-agua-vilarandelo
 https://canalizador-urgente.pt/canalizador-fuga-agua-vimioso
 https://canalizador-urgente.pt/canalizador-fuga-agua-vinhais
+https://canalizador-urgente.pt/canalizador-fuga-agua-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-fuinhas
 https://canalizador-urgente.pt/canalizador-galafura
+https://canalizador-urgente.pt/canalizador-gallegos-del-ro
 https://canalizador-urgente.pt/canalizador-gandaricas
 https://canalizador-urgente.pt/canalizador-gatao
 https://canalizador-urgente.pt/canalizador-gateira
@@ -896,6 +910,7 @@ https://canalizador-urgente.pt/canalizador-maceira
 https://canalizador-urgente.pt/canalizador-macores
 https://canalizador-urgente.pt/canalizador-madalena
 https://canalizador-urgente.pt/canalizador-magueija
+https://canalizador-urgente.pt/canalizador-mahde
 https://canalizador-urgente.pt/canalizador-mairos
 https://canalizador-urgente.pt/canalizador-malhadas
 https://canalizador-urgente.pt/canalizador-malta
@@ -938,6 +953,7 @@ https://canalizador-urgente.pt/canalizador-mondim-de-basto
 https://canalizador-urgente.pt/canalizador-mondroes
 https://canalizador-urgente.pt/canalizador-montalegre
 https://canalizador-urgente.pt/canalizador-monteiras
+https://canalizador-urgente.pt/canalizador-monterrei
 https://canalizador-urgente.pt/canalizador-montouto
 https://canalizador-urgente.pt/canalizador-morais
 https://canalizador-urgente.pt/canalizador-moredo
@@ -972,6 +988,7 @@ https://canalizador-urgente.pt/canalizador-nozelos
 https://canalizador-urgente.pt/canalizador-numao
 https://canalizador-urgente.pt/canalizador-nunes
 https://canalizador-urgente.pt/canalizador-nuzedo-de-baixo
+https://canalizador-urgente.pt/canalizador-o-rios
 https://canalizador-urgente.pt/canalizador-olas
 https://canalizador-urgente.pt/canalizador-olmos
 https://canalizador-urgente.pt/canalizador-olo
@@ -1016,6 +1033,7 @@ https://canalizador-urgente.pt/canalizador-pas
 https://canalizador-urgente.pt/canalizador-passo
 https://canalizador-urgente.pt/canalizador-passos
 https://canalizador-urgente.pt/canalizador-paus
+https://canalizador-urgente.pt/canalizador-pedralba-de-la-praderia
 https://canalizador-urgente.pt/canalizador-pedras-salgadas
 https://canalizador-urgente.pt/canalizador-pegarinhos
 https://canalizador-urgente.pt/canalizador-pena-verde
@@ -1033,6 +1051,7 @@ https://canalizador-urgente.pt/canalizador-peredo-dos-castelhanos
 https://canalizador-urgente.pt/canalizador-peredo
 https://canalizador-urgente.pt/canalizador-pereira
 https://canalizador-urgente.pt/canalizador-pereiros
+https://canalizador-urgente.pt/canalizador-perena-de-la-ribera
 https://canalizador-urgente.pt/canalizador-peso-da-regua
 https://canalizador-urgente.pt/canalizador-picote
 https://canalizador-urgente.pt/canalizador-pinela
@@ -1135,6 +1154,7 @@ https://canalizador-urgente.pt/canalizador-pressao-agua-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-pressao-agua-vilarandelo
 https://canalizador-urgente.pt/canalizador-pressao-agua-vimioso
 https://canalizador-urgente.pt/canalizador-pressao-agua-vinhais
+https://canalizador-urgente.pt/canalizador-pressao-agua-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-pretarouca
 https://canalizador-urgente.pt/canalizador-prova
 https://canalizador-urgente.pt/canalizador-provesende
@@ -1168,6 +1188,7 @@ https://canalizador-urgente.pt/canalizador-refoios
 https://canalizador-urgente.pt/canalizador-rego-de-vide
 https://canalizador-urgente.pt/canalizador-reigada
 https://canalizador-urgente.pt/canalizador-remondes
+https://canalizador-urgente.pt/canalizador-requejo-de-sanabria
 https://canalizador-urgente.pt/canalizador-resende
 https://canalizador-urgente.pt/canalizador-ribalonga
 https://canalizador-urgente.pt/canalizador-ribeira-de-goujoim
@@ -1180,6 +1201,7 @@ https://canalizador-urgente.pt/canalizador-rio-de-onor
 https://canalizador-urgente.pt/canalizador-rio-frio
 https://canalizador-urgente.pt/canalizador-rio-torto
 https://canalizador-urgente.pt/canalizador-riodades
+https://canalizador-urgente.pt/canalizador-riofro-de-aliste
 https://canalizador-urgente.pt/canalizador-rocamondo
 https://canalizador-urgente.pt/canalizador-rogodeiro
 https://canalizador-urgente.pt/canalizador-roios
@@ -1198,9 +1220,11 @@ https://canalizador-urgente.pt/canalizador-salzedas
 https://canalizador-urgente.pt/canalizador-samaioes
 https://canalizador-urgente.pt/canalizador-sambade
 https://canalizador-urgente.pt/canalizador-samil
+https://canalizador-urgente.pt/canalizador-samir-de-los-canos
 https://canalizador-urgente.pt/canalizador-samodaes
 https://canalizador-urgente.pt/canalizador-samoes
 https://canalizador-urgente.pt/canalizador-sampaio
+https://canalizador-urgente.pt/canalizador-san-pedro-de-la-silba
 https://canalizador-urgente.pt/canalizador-sanceriz
 https://canalizador-urgente.pt/canalizador-sanche
 https://canalizador-urgente.pt/canalizador-sande
@@ -1396,6 +1420,7 @@ https://canalizador-urgente.pt/canalizador-torneira-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-torneira-vilarandelo
 https://canalizador-urgente.pt/canalizador-torneira-vimioso
 https://canalizador-urgente.pt/canalizador-torneira-vinhais
+https://canalizador-urgente.pt/canalizador-torneira-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-torre-de-dona-chama
 https://canalizador-urgente.pt/canalizador-torre-de-moncorvo
 https://canalizador-urgente.pt/canalizador-torre-do-pinhao
@@ -1411,6 +1436,7 @@ https://canalizador-urgente.pt/canalizador-tronco
 https://canalizador-urgente.pt/canalizador-truchas-trueitas
 https://canalizador-urgente.pt/canalizador-tuizelo
 https://canalizador-urgente.pt/canalizador-ucanha
+https://canalizador-urgente.pt/canalizador-urgente-a-gudina
 https://canalizador-urgente.pt/canalizador-urgente-abacas
 https://canalizador-urgente.pt/canalizador-urgente-acoreira
 https://canalizador-urgente.pt/canalizador-urgente-agrochao
@@ -1483,6 +1509,7 @@ https://canalizador-urgente.pt/canalizador-urgente-failde
 https://canalizador-urgente.pt/canalizador-urgente-faioes
 https://canalizador-urgente.pt/canalizador-urgente-favaios
 https://canalizador-urgente.pt/canalizador-urgente-fermentaos
+https://canalizador-urgente.pt/canalizador-urgente-ferreruela-de-tabara
 https://canalizador-urgente.pt/canalizador-urgente-fiaes-do-tamega
 https://canalizador-urgente.pt/canalizador-urgente-fiaes
 https://canalizador-urgente.pt/canalizador-urgente-figueira-de-castelo-rodrigo
@@ -1545,6 +1572,7 @@ https://canalizador-urgente.pt/canalizador-urgente-murcos
 https://canalizador-urgente.pt/canalizador-urgente-murias
 https://canalizador-urgente.pt/canalizador-urgente-negroes
 https://canalizador-urgente.pt/canalizador-urgente-numao
+https://canalizador-urgente.pt/canalizador-urgente-o-rios
 https://canalizador-urgente.pt/canalizador-urgente-ousilhao
 https://canalizador-urgente.pt/canalizador-urgente-paco-de-sortes
 https://canalizador-urgente.pt/canalizador-urgente-pacos
@@ -1558,6 +1586,7 @@ https://canalizador-urgente.pt/canalizador-urgente-penedono
 https://canalizador-urgente.pt/canalizador-urgente-penha-de-aguia
 https://canalizador-urgente.pt/canalizador-urgente-peso-da-r-gua
 https://canalizador-urgente.pt/canalizador-urgente-peso-da-regua
+https://canalizador-urgente.pt/canalizador-urgente-pias
 https://canalizador-urgente.pt/canalizador-urgente-pinhao
 https://canalizador-urgente.pt/canalizador-urgente-poco-do-canto
 https://canalizador-urgente.pt/canalizador-urgente-podence
@@ -1650,13 +1679,16 @@ https://canalizador-urgente.pt/canalizador-urgente-vila-real
 https://canalizador-urgente.pt/canalizador-urgente-vilar-chao
 https://canalizador-urgente.pt/canalizador-urgente-vilar-de-macada
 https://canalizador-urgente.pt/canalizador-urgente-vilarandelo
+https://canalizador-urgente.pt/canalizador-urgente-vilardevos
 https://canalizador-urgente.pt/canalizador-urgente-vilares-da-vilarica
 https://canalizador-urgente.pt/canalizador-urgente-vilarinho-de-agrochao
 https://canalizador-urgente.pt/canalizador-urgente-vilarinho-de-samarda
 https://canalizador-urgente.pt/canalizador-urgente-vilarinho-de-sao-romao
+https://canalizador-urgente.pt/canalizador-urgente-vilarino-de-conso
 https://canalizador-urgente.pt/canalizador-urgente-vilela-do-tamega
 https://canalizador-urgente.pt/canalizador-urgente-vimioso
 https://canalizador-urgente.pt/canalizador-urgente-vinhais
+https://canalizador-urgente.pt/canalizador-urgente-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-urros
 https://canalizador-urgente.pt/canalizador-uva
 https://canalizador-urgente.pt/canalizador-vacalar
@@ -1729,6 +1761,7 @@ https://canalizador-urgente.pt/canalizador-vermiosa
 https://canalizador-urgente.pt/canalizador-vern
 https://canalizador-urgente.pt/canalizador-viade-de-baixo
 https://canalizador-urgente.pt/canalizador-viariz
+https://canalizador-urgente.pt/canalizador-vias
 https://canalizador-urgente.pt/canalizador-vidago
 https://canalizador-urgente.pt/canalizador-vide-entre-vinhas
 https://canalizador-urgente.pt/canalizador-viduedo
@@ -1777,6 +1810,7 @@ https://canalizador-urgente.pt/canalizador-vilar-seco-de-lomba
 https://canalizador-urgente.pt/canalizador-vilar-seco
 https://canalizador-urgente.pt/canalizador-vilar-torpim
 https://canalizador-urgente.pt/canalizador-vilarandelo
+https://canalizador-urgente.pt/canalizador-vilardevos
 https://canalizador-urgente.pt/canalizador-vilarelho-da-raia
 https://canalizador-urgente.pt/canalizador-vilarelhos
 https://canalizador-urgente.pt/canalizador-vilares-da-torre
@@ -1791,6 +1825,7 @@ https://canalizador-urgente.pt/canalizador-vilarinho-de-sao-romao
 https://canalizador-urgente.pt/canalizador-vilarinho-do-monte
 https://canalizador-urgente.pt/canalizador-vilarinho-dos-freires
 https://canalizador-urgente.pt/canalizador-vilarinho-dos-galegos
+https://canalizador-urgente.pt/canalizador-vilarino-de-conso
 https://canalizador-urgente.pt/canalizador-vilarouco
 https://canalizador-urgente.pt/canalizador-vilas-boas
 https://canalizador-urgente.pt/canalizador-vilela-do-tamega
@@ -1802,6 +1837,7 @@ https://canalizador-urgente.pt/canalizador-vinhas
 https://canalizador-urgente.pt/canalizador-vinhos
 https://canalizador-urgente.pt/canalizador-vreia-de-bornes
 https://canalizador-urgente.pt/canalizador-vreia-de-jales
+https://canalizador-urgente.pt/canalizador-xinzo-de-limia
 https://canalizador-urgente.pt/canalizador-zedes
 https://canalizador-urgente.pt/canalizador-zoio
 https://canalizador-urgente.pt/como-detetar-fuga-agua
