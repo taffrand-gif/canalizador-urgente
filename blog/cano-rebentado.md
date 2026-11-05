@@ -444,7 +444,6 @@ Cano rebentado é **emergência que requer ação imediata**:
 
 **Artigos relacionados:**
 - [Pressão de Água Baixa: 9 Causas](/blog/pressao-agua-baixa)
-- [Fossa Séptica Cheia: Sinais e Limpeza](/blog/fossa-septica-cheia)
 - [Mau Cheiro no Ralo: 5 Causas](/blog/mau-cheiro-ralo-solucoes)
 - [Torneira Pinga: 5 Causas](/blog/torneira-pinga-causas-arranjar)
 - [Picheleiro em Bragança 24h](/canalizador-braganca)

@@ -35,7 +35,6 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 | **Renovar canalização** | ❌ Não | Muito alta | Muito alto | 500-1000€ | Profissional |
 | **Certificação gás** | ❌ Não | N/A | N/A | 0€ | Profissional (obrigatório) |
 | **Desentupir esgoto** | ❌ Não | Alta | Alto | 80-150€ | Profissional |
-| **Fossa séptica** | ❌ Não | Muito alta | Muito alto | 0€ | Profissional (obrigatório) |
 
 ## Trabalhos DIY Seguros (Pode Fazer)
 
@@ -385,25 +384,6 @@ Nem tudo precisa canalizador, mas alguns trabalhos DIY saem muito caros. Este gu
 **Custo DIY:** Equipamento 500-2000€ (não compensa)
 
 **Veredito:** ❌ NUNCA DIY
-
-### 14. Limpar Fossa Séptica ❌
-
-**Porquê profissional:**
-- Equipamento especializado (camião cisterna)
-- Regulamentado
-- Risco saúde grave
-- Descarte controlado
-
-**Risco DIY:**
-- Impossível sem equipamento
-- Risco saúde (gases tóxicos)
-- Contaminação ambiental
-- Multa ambiental
-
-**Custo profissional:** 250-450€
-**Custo DIY:** Impossível
-
-**Veredito:** ❌ NUNCA DIY - IMPOSSÍVEL
 
 ### 15. Fuga Gás ❌
 

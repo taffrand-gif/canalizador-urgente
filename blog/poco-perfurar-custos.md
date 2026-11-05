@@ -241,7 +241,6 @@ keywords: ["poço perfurar", "furo água", "água própria", "custos poço", "Tr
 ### Distâncias Mínimas
 
 **Obrigatório**:
-- 15m fossa séptica
 - 30m estrumeira
 - 50m cemitério
 - 10m limites terreno
