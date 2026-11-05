@@ -36,7 +36,7 @@ A janela de chegada é confirmada por telefone e depende da situação operacion
 ### Urgências 24h/7d
 - Fuga de água (deteção e reparação)
 - Cano rebentado (reparação ou substituição)
-- Entupimento (sanita, lava-loiça, esgoto, fossa séptica)
+- Entupimento (sanita, lava-loiça, esgoto)
 - Esquentador / termoacumulador avariado
 - Autoclismo ou torneira sem paragem
 
