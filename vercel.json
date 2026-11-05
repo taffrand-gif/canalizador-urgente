@@ -2217,7 +2217,12 @@
     },
     {
       "source": "/canalizador-urgente-corti%C3%A7os",
-      "destination": "/canalizador-urgente-corticos",
+      "destination": "/canalizador-corticos",
+      "statusCode": 301
+    },
+    {
+      "source": "/canalizador-urgente-corticos",
+      "destination": "/canalizador-corticos",
       "statusCode": 301
     },
     {
