@@ -63,6 +63,10 @@ def git_lastmod(rel_path: str) -> str:
         return TODAY
 
 
+def is_excluded_root_slug(slug: str) -> bool:
+    return slug.startswith('canalizador-fossa-septica-')
+
+
 def list_html_slugs(directory):
     """Liste tous les .html (slug = filename sans .html)."""
     if not os.path.isdir(directory):
@@ -93,7 +97,7 @@ def build_sitemap_xml(urls_with_relpath):
 
 def main():
     # 1) Racine : TOUTES les .html (sans seuil)
-    root_html = list_html_slugs(ROOT)
+    root_html = [s for s in list_html_slugs(ROOT) if not is_excluded_root_slug(s)]
 
     # 2) /concelhos/
     concelhos_dir = os.path.join(ROOT, "concelhos")

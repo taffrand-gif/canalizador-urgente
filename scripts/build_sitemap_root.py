@@ -13,13 +13,14 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DOMAIN = "canalizador-urgente.pt"
 EXCLUDED_NAMES = {"404.html"}
 EXCLUDED_MARKERS = ("template", "partial")
+EXCLUDED_PREFIXES = ("canalizador-fossa-septica-",)
 
 
 def page_slugs():
     pages = []
     for path in ROOT.glob("*.html"):
         name = path.name.lower()
-        if name in EXCLUDED_NAMES or any(marker in name for marker in EXCLUDED_MARKERS):
+        if name in EXCLUDED_NAMES or any(marker in name for marker in EXCLUDED_MARKERS) or any(name.startswith(prefix) for prefix in EXCLUDED_PREFIXES):
             continue
         pages.append(path)
     return sorted(pages, key=lambda path: (path.name != "index.html", path.name))
