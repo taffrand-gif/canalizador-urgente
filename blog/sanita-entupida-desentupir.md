@@ -40,14 +40,6 @@ priority: "CRITICAL"
 
 **Sinais:** Água escoa lentamente, entupimentos frequentes
 
-### 4. Problemas na Fossa Séptica (8% dos casos)
-**Comum em zonas rurais de Bragança, Mirandela:**
-- Fossa cheia (precisa limpeza a cada 2-3 anos)
-- Fossa mal dimensionada
-- Infiltração de raízes
-
-**Solução:** Limpeza profissional da fossa €150-300
-
 ### 5. Tubagem Antiga ou Mal Instalada (5% dos casos)
 **Casas antigas em Trás-os-Montes:**
 - Tubos de ferro fundido corroídos
@@ -149,7 +141,6 @@ priority: "CRITICAL"
 
 **3. Várias sanitas entupidas ao mesmo tempo**
 - Problema na coluna principal
-- Fossa séptica cheia
 - **Solução:** Inspeção profissional urgente
 
 **4. Mau cheiro intenso**
@@ -199,7 +190,6 @@ priority: "CRITICAL"
 7. **Faça descarga completa sempre**
 8. **Limpe sanita semanalmente com produto anti-calcário**
 9. **Despeje água quente mensalmente** (previne acumulações)
-10. **Inspecione fossa séptica a cada 2 anos** (zonas rurais)
 
 ### Manutenção Preventiva Profissional:
 
@@ -266,9 +256,6 @@ R: Desentupimento simples €100-120 (urgente 24h). Serviço normal €60-80. No
 
 **P: Toalhitas biodegradáveis podem ir na sanita?**
 R: NÃO! Mesmo as "biodegradáveis" demoram meses a desfazer-se. Deite sempre no lixo.
-
-**P: Com que frequência limpar fossa séptica?**
-R: A cada 2-3 anos em uso normal. Anualmente se família numerosa (5+ pessoas).
 
 ## Conclusão: Resolva Já o Problema
 

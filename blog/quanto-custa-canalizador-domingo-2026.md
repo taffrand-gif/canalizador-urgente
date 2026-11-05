@@ -121,7 +121,6 @@ Chamar um canalizador ao domingo custa mais por várias razões legítimas:
 3. **Sanita entupida** - Única casa, família grande. Veja [causas e soluções entupimentos](https://canalizador-urgente.pt/blog/canalizacao-entupida-causas-solucoes).
 4. **Canalização rebentada** - Água jorra. Saiba [quanto custa arranjar fugas](https://canalizador-urgente.pt/blog/quanto-custa-arranjar-fuga-agua-2026).
 5. **Esquentador avariado** - Inverno rigoroso
-6. **Fossa séptica a transbordar** - Risco saúde
 
 ### PODE ESPERAR ATÉ SEGUNDA (Poupar 20-25%) ⏳
 

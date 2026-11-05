@@ -151,9 +151,6 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 
 **Solução:** 
 - Rede pública: contactar Câmara Municipal
-- Fossa séptica: esvaziar (empresa especializada)
-
-**Custo:** €100-200 (esvaziar fossa) ou €0 (problema público)
 
 ---
 
@@ -292,7 +289,6 @@ O **sifão** é aquele tubo em forma de "U" ou "S" debaixo do lavatório, banhei
 **⚠️ ATENÇÃO:**
 - NUNCA misture lixívia com outros produtos (gases tóxicos)
 - Use luvas e ventile bem
-- Não use em fossas sépticas (mata bactérias benéficas)
 
 ---
 
