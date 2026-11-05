@@ -43,6 +43,15 @@
       ]
     },
     {
+      "source": "/public/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, follow"
+        }
+      ]
+    },
+    {
       "source": "/(.*)plumber(.*)",
       "headers": [
         {
