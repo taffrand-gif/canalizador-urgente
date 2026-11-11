@@ -29,9 +29,6 @@ Services:
   - Autoclismo / torneira sem paragem
 Equipment:
   - Ridgid FlexShaft K9-102 (desentupimento mecânico)
-  - Câmara de inspeção CCTV
-  - Câmara térmica FLIR
-  - Kit fluorosceína UV
 QuotePolicy: Sem orçamento gratuito quando é necessária deslocação; estimativa à distância indicativa, não definitiva
 Billing: Fatura com NIF emitida no final de cada trabalho
 Language: PT-PT (Portugal)
