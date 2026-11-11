@@ -15,6 +15,26 @@ const WHATSAPP = 'https://wa.me/351928484451?text=Ol%C3%A1%2C%20preciso%20de%20a
 const PRICE_TEXT = '70 €/h em dias úteis (9h–18h) ou 100 €/h fora do horário útil';
 const ZONES_TEXT = '30 € em dias úteis (9h–18h) ou 50 € à noite, fins de semana e feriados';
 const BATCH_LIMIT = 95;
+// Coquille servie (2026-10-26) : GA4, Consent Mode v2 (default denied), bandeau RGPD, CTA-stack et call-tracking
+// sont injectés tels qu'ils sont servis sur blog/*.html. Source unique : scripts/partials/cu-blog-shell/.
+// Sans eux, une régénération retirait le tracking et le RGPD des pages servies.
+const SHELL_DIR = path.join(__dirname, 'partials', 'cu-blog-shell');
+const SHELL = ['head-top', 'head-end', 'body-end'].reduce((acc, name) => {
+  acc[name] = fs.readFileSync(path.join(SHELL_DIR, `${name}.html`), 'utf8');
+  return acc;
+}, {});
+
+function withShell(html) {
+  if (html.includes('data-rgpd-marker="RGPD-t_639f45fd-BANNER-cu-v1"')) return html;
+  const h = html.indexOf('<head>');
+  const he = html.indexOf('</head>');
+  const be = html.lastIndexOf('</body>');
+  if (h < 0 || he < h || be < he) throw new Error('coquille HTML introuvable (head/body)');
+  const afterHead = h + '<head>'.length;
+  const rest = html[afterHead] === '\n' ? afterHead + 1 : afterHead;
+  return `${html.slice(0, afterHead)}\n${SHELL['head-top']}${html.slice(rest, he)}${SHELL['head-end']}` +
+    `${html.slice(he, be)}${SHELL['body-end']}${html.slice(be)}`;
+}
 
 function die(message) {
   console.error(message);
@@ -227,6 +247,10 @@ const CONFORMITY_RULES = [
   ['prix/fourchette non sourcé', /(?:€\s*\d|\b(?!(?:70|100)(?:[.,]0+)?\s*€\s*\/\s*(?:h|hora)\b)\d+(?:[.,]\d+)?\s*€\s*(?:[-–]\s*\d+|por|\/\s*(?:h|hora|metro|unidade)))/i],
   ['ancienneté/volume non vérifié', /\b(?:\d+\+?\s+anos? de experiência|mais de \d+ anos|\d+% problemas resolvidos)\b/i],
   ['PT-BR', /\b(?:vazamento|entupiu|torneira pingando|registro|torneira da cozinha)\b/i],
+  // 2026-10-26 : matériel du métier frère (20-BUSINESS-FACTS equipment.electrical_only) et matériel non détenu (unpublishable.roleak)
+  ['matériel électricité sur plomberie', /\b(?:FLIR|Fluke)\b|c[aâ]mara\s+t[eé]rmica|termogr[aá]fi/i],
+  ['matériel non disponible (ROLeak)', /\bro\s?leak\b|rothenberger/i],
+  ['garantie Norte non confirmée', /\bgarantia\s+(?:escrita|por escrito|de\s+\d|\d)|\d+\s+anos?\s+de\s+garantia/i],
   ['service interdit', /\b(?:painéis? solares?|ar condicionado|bomba de calor|carregador(?:es)? (?:de )?ve[í]culos?)\b/i],
   ['pronom client interdit', /\b(?:eu|meu|minha|sozinho|contacto pessoal|falar comigo|chamar-me)\b/i],
   // NAP canalizador absent (doit apparaître au moins une fois) — vérifié hors regex ci-dessous
@@ -394,11 +418,11 @@ function renderPage(parsed, repoRoot) {
   const robots = isFossaEditorial ? '<meta name="robots" content="noindex,follow">' : '';
   const fossaNotice = 'A Norte Reparos não realiza instalação, reparação, limpeza, manutenção, esvaziamento, curagem, bombagem, desobstrução nem qualquer outro serviço em fossas sépticas.';
   if (isFossaEditorial) {
-    return { slug, html: `<!DOCTYPE html>
-<html lang="pt-PT"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>${escapeHtml(title)}</title><meta name="description" content="Informação de segurança sobre fossas sépticas; não realizamos serviços neste âmbito."><meta name="robots" content="noindex,follow"><link rel="canonical" href="${canonical}"><meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="Conteúdo educativo; não realizamos serviços em fossas sépticas."><meta property="og:type" content="article"><meta property="og:url" content="${canonical}"><meta property="og:locale" content="pt_PT"><meta name="twitter:card" content="summary">${schemas.map(jsonLd).join('\n  ')}<style>body{margin:0;background:#f4f7f9;color:#1f2933;font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main,footer{width:min(900px,calc(100% - 32px));margin:24px auto}main{background:#fff;padding:clamp(22px,5vw,52px);border-radius:12px;box-shadow:0 8px 30px #102a4312}h1,h2{color:#10324a;line-height:1.25}.notice{background:#fff4e8;border-left:5px solid #d95f02;padding:18px;border-radius:8px;font-weight:700}.contact{background:#edf5f8;border-left:5px solid #10324a;padding:18px;border-radius:8px}a{color:#a84300}footer{color:#5b6770;padding-bottom:36px}</style><script src="/call-tracking.js" defer></script></head><body><main><nav aria-label="Navegação"><a href="/">Início</a> › <a href="/blog/">Blog</a> › ${escapeHtml(title)}</nav><article><h1>${escapeHtml(h1)}</h1><p class="notice">${fossaNotice}</p><p>Este artigo é exclusivamente educativo. Não é uma oferta, orçamento, diagnóstico à distância nem instrução para realizar trabalhos numa fossa séptica.</p>${articleHtml}<section class="contact"><h2>Canalização fora deste âmbito</h2><p>Para uma avaria de canalização que não envolva uma fossa séptica: <a href="tel:${PHONE_E164}"><strong>${PHONE_DISPLAY}</strong></a>.</p></section></article></main><footer><p>Conteúdo informativo da Norte Reparos · <a href="/contactos">Contactos</a></p></footer></body></html>\n` };
+    return { slug, html: withShell(`<!DOCTYPE html>
+<html lang="pt-PT"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>${escapeHtml(title)}</title><meta name="description" content="Informação de segurança sobre fossas sépticas; não realizamos serviços neste âmbito."><meta name="robots" content="noindex,follow"><link rel="canonical" href="${canonical}"><meta property="og:title" content="${escapeHtml(title)}"><meta property="og:description" content="Conteúdo educativo; não realizamos serviços em fossas sépticas."><meta property="og:type" content="article"><meta property="og:url" content="${canonical}"><meta property="og:locale" content="pt_PT"><meta name="twitter:card" content="summary">${schemas.map(jsonLd).join('\n  ')}<style>body{margin:0;background:#f4f7f9;color:#1f2933;font:17px/1.7 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}main,footer{width:min(900px,calc(100% - 32px));margin:24px auto}main{background:#fff;padding:clamp(22px,5vw,52px);border-radius:12px;box-shadow:0 8px 30px #102a4312}h1,h2{color:#10324a;line-height:1.25}.notice{background:#fff4e8;border-left:5px solid #d95f02;padding:18px;border-radius:8px;font-weight:700}.contact{background:#edf5f8;border-left:5px solid #10324a;padding:18px;border-radius:8px}a{color:#a84300}footer{color:#5b6770;padding-bottom:36px}</style><script src="/call-tracking.js" defer></script></head><body><main><nav aria-label="Navegação"><a href="/">Início</a> › <a href="/blog/">Blog</a> › ${escapeHtml(title)}</nav><article><h1>${escapeHtml(h1)}</h1><p class="notice">${fossaNotice}</p><p>Este artigo é exclusivamente educativo. Não é uma oferta, orçamento, diagnóstico à distância nem instrução para realizar trabalhos numa fossa séptica.</p>${articleHtml}<section class="contact"><h2>Canalização fora deste âmbito</h2><p>Para uma avaria de canalização que não envolva uma fossa séptica: <a href="tel:${PHONE_E164}"><strong>${PHONE_DISPLAY}</strong></a>.</p></section></article></main><footer><p>Conteúdo informativo da Norte Reparos · <a href="/contactos">Contactos</a></p></footer></body></html>\n`) };
   }
 
-  return { slug, html: `<!DOCTYPE html>
+  return { slug, html: withShell(`<!DOCTYPE html>
 <html lang="pt-PT">
 <head>
   <meta charset="UTF-8">
@@ -436,7 +460,7 @@ function renderPage(parsed, repoRoot) {
       </section>
       <section class="trust-box" aria-labelledby="quem-atende">
         <h2 id="quem-atende">Quem atende</h2>
-        <p>Na Norte Reparos, <strong>falamos sempre consigo diretamente, não um call center</strong>. Explicamos o diagnóstico e o trabalho necessário antes de intervir. Emitimos fatura com NIF e damos garantia escrita do trabalho executado.</p>
+        <p>Na Norte Reparos, <strong>falamos sempre consigo diretamente, não um call center</strong>. Explicamos o diagnóstico e o trabalho necessário antes de intervir. Emitimos fatura com NIF.</p>
       </section>
       ${articleHtml}
       <section class="evidence-box" aria-labelledby="relatos-verificados">
@@ -453,7 +477,7 @@ function renderPage(parsed, repoRoot) {
   <footer><p>Conteúdo informativo da Norte Reparos · Atualizado em ${escapeHtml(String(frontmatter.date))} · <a href="/contactos">Contactos</a></p></footer>
   <div class="sticky-cta" aria-label="Contactos rápidos"><div class="inner"><a class="call" href="tel:${PHONE_E164}">Ligar ${PHONE_DISPLAY}</a><a class="whatsapp" href="${WHATSAPP}">WhatsApp</a></div></div>
 </body>
-</html>\n` };
+</html>\n`) };
 }
 
 function listSources(sourcePath) {
