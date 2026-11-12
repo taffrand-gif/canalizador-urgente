@@ -39,7 +39,7 @@ Grelha oficial Norte Reparos: dias úteis (09h–18h) 70 €/h de mão de obra +
 
 ## Urgências tratadas (quando ligar agora)
 - Cano rebentado ou fuga de água com inundação
-- Entupimento total (sanita, esgoto, fossa)
+- Entupimento total (sanita, esgoto)
 - Falta de água quente (esquentador ou termoacumulador avariado)
 - Cheiro a gás ou humidade repentina em parede
 - Autoclismo ou torneira sem paragem

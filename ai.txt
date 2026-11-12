@@ -24,7 +24,7 @@ Pricing:
 Services:
   - Fuga de água
   - Cano rebentado
-  - Entupimento (sanita, esgoto, fossa)
+  - Entupimento (sanita, esgoto)
   - Esquentador / termoacumulador avariado
   - Autoclismo / torneira sem paragem
 Equipment:
