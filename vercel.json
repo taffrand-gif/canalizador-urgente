@@ -1481,11 +1481,6 @@
       "statusCode": 410
     },
     {
-      "source": "/canalizador-a-gudia",
-      "destination": "/canalizador-a-gudina",
-      "statusCode": 301
-    },
-    {
       "source": "/canalizador-alfndega-da-fe",
       "destination": "/canalizador-alfandega-da-fe",
       "statusCode": 301
@@ -1498,11 +1493,6 @@
     {
       "source": "/canalizador-carrazeda-de-anciaes",
       "destination": "/canalizador-carrazeda-de-ansiaes",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-cerezal-de-peahorcada",
-      "destination": "/canalizador-cerezal-de-penahorcada",
       "statusCode": 301
     },
     {
@@ -1521,31 +1511,6 @@
       "statusCode": 301
     },
     {
-      "source": "/canalizador-la-pea",
-      "destination": "/canalizador-la-pena",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-la-vdola",
-      "destination": "/canalizador-la-vidola",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-pedralba-de-la-pradera",
-      "destination": "/canalizador-pedralba-de-la-praderia",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-perea-de-la-ribera",
-      "destination": "/canalizador-perena-de-la-ribera",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-samir-de-los-caos",
-      "destination": "/canalizador-samir-de-los-canos",
-      "statusCode": 301
-    },
-    {
       "source": "/canalizador-seixo-de-anasiaes",
       "destination": "/canalizador-seixo-de-ansiaes",
       "statusCode": 301
@@ -1553,11 +1518,6 @@
     {
       "source": "/canalizador-urgente-carrazeda-de-anciaes",
       "destination": "/canalizador-urgente-carrazeda-de-ansiaes",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-vilario-de-conso",
-      "destination": "/canalizador-vilarino-de-conso",
       "statusCode": 301
     },
     {
@@ -1578,11 +1538,6 @@
     {
       "source": "/canalizador-",
       "destination": "/canalizador-",
-      "statusCode": 410
-    },
-    {
-      "source": "/canalizador-gallegos-del-ro",
-      "destination": "/canalizador-gallegos-del-ro",
       "statusCode": 410
     },
     {
@@ -1891,11 +1846,6 @@
       "statusCode": 301
     },
     {
-      "source": "/canalizador-urgente-vilardev%C3%B3s",
-      "destination": "/canalizador-urgente-vilardevos",
-      "statusCode": 301
-    },
-    {
       "source": "/canalizador-urgente-andr%C3%A3es",
       "destination": "/canalizador-urgente-andraes",
       "statusCode": 301
@@ -1923,11 +1873,6 @@
     {
       "source": "/canalizador-urgente-p%C3%B3voa-de-lila",
       "destination": "/canalizador-urgente-povoa-de-lila",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-urgente-a-gudi%C3%B1a",
-      "destination": "/canalizador-urgente-a-gudina",
       "statusCode": 301
     },
     {
@@ -2026,11 +1971,6 @@
       "statusCode": 301
     },
     {
-      "source": "/canalizador-urgente-vilari%C3%B1o-de-conso",
-      "destination": "/canalizador-urgente-vilarino-de-conso",
-      "statusCode": 301
-    },
-    {
       "source": "/canalizador-urgente-ferment%C3%A3os",
       "destination": "/canalizador-urgente-fermentaos",
       "statusCode": 301
@@ -2103,11 +2043,6 @@
     {
       "source": "/canalizador-urgente-marzag%C3%A3o",
       "destination": "/canalizador-urgente-marzagao",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-urgente-ferreruela-de-t%C3%A1bara",
-      "destination": "/canalizador-urgente-ferreruela-de-tabara",
       "statusCode": 301
     },
     {
@@ -2286,11 +2221,6 @@
       "statusCode": 301
     },
     {
-      "source": "/canalizador-urgente-p%C3%ADas",
-      "destination": "/canalizador-urgente-pias",
-      "statusCode": 301
-    },
-    {
       "source": "/canalizador-urgente-seixo-de-ansi%C3%A3es",
       "destination": "/canalizador-urgente-seixo-de-ansiaes",
       "statusCode": 301
@@ -2373,11 +2303,6 @@
     {
       "source": "/canalizador-urgente-gen%C3%ADsio",
       "destination": "/canalizador-urgente-genisio",
-      "statusCode": 301
-    },
-    {
-      "source": "/canalizador-urgente-o-ri%C3%B3s",
-      "destination": "/canalizador-urgente-o-rios",
       "statusCode": 301
     },
     {
