@@ -2,6 +2,13 @@
      Jamais lu par le dispatch. Écrire en TÊTE ou en QUEUE est ici
      sans conséquence : aucun pointeur ne vise ce fichier. -->
 
+## 2026-11-16 — CU — lot commercial `/desentupir-canos` — PR #515 — EN COURS
+
+- **Sélection** : CNR #633 et #635 sont toujours OPEN/Draft, créées par `taffrand-gif`; #635 est empilée sur la branche de #633 et modifie le même `client/public/desentupimentos.html` (contenu), tandis que #633 porte aussi canonical/prerender/sitemaps/config. Elles restent un lot CNR distinct et chevauchant. CU #515 est une PR Draft du propriétaire sur `main`, limitée à `/desentupir-canos.html`, sans overlap avec ces fichiers; retenue comme premier lot commercial libre. Aucune PR CNR modifiée.
+- **Correction réelle** : refonte de la landing en PT-PT pour canalização entupida/desentupimento urgente, contexte esgoto entupido, et distinction vers la page dédiée sanita; prix main-d’œuvre et déplacement TTC; permanence téléphonique humaine 24/7 séparée d’une promesse de déplacement/arrivée; zone Portugal seulement, plafond de 130 km routiers depuis Macedo; aucune nouvelle page locale clonée; limites fossas explicites. JSON-LD Service/FAQPage réduit à des zones servies portugaises locales; canonical inchangé; lastmod synchronisé sur l’URL existante dans les deux sitemaps.
+- **Contrôle géographique** : exemples Macedo de Cavaleiros, Bragança, Mirandela, Chaves et Vila Real restent dans la limite routière de 130 km. Distances ville-à-ville et sources ouvertes conservées hors dépôt dans `/workspace/cu-local-route-verification-2026-11-16.txt`; le contenu publié ne présente pas ces distances comme ETA ou promesse de déplacement et demande confirmation de la morada.
+- **Contrôles en cours** : HTML/JSON-LD, parité sitemap, tracking local, build/Vercel Preview et DOM aux largeurs 390/1280 à compléter avant Ready/merge. Aucun merge ni déploiement effectué à ce stade.
+
 ## 🔄 HISTORIQUE P0 (batch 04/07/2026) — Mission Hermes prix/zones OSRM (urgence)
 
 > **Mode** : autonomie Philippe sur le réversible. 2 STOP-durs : (1) QUALITÉ 4 prototypes validés avant batch, (2) merge main = STOP Filipe surtout CU/EU. **AGENTS.md §12** : JAMAIS merger main urgence sans STOP Filipe.
