@@ -680,4 +680,9 @@ def main():
 
 
 if __name__ == "__main__":
+    # Retired 2026-11-19: this generator reads precos-zonas.json (Z1-Z6 travel
+    # zones) and writes "Garantia 2 anos sobre mão de obra e peças". Both were
+    # removed from the served pages; running it again would bring them back.
+    # Source of truth: _governance/20-BUSINESS-FACTS.json.
+    raise SystemExit("%s is retired (legacy zone pricing and warranty): see the comment before this line." % __file__)
     main()
