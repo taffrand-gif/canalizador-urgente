@@ -61,3 +61,9 @@ blog/*.md
 *.csv
 .env
 .env.*
+
+# 2026-11-20 : public/ est une copie ancienne du site, servie à /public/* (84 pages
+# indexables, anciens prix « Mínimo 100 € (150 € noite) »). Pas de build ni de
+# publicDir sur ce site : le dossier n'est jamais servi. Les URL ayant un équivalent
+# réel sont redirigées en 301 dans vercel.json ; les autres répondent 404.
+/public/
