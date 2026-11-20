@@ -225,6 +225,8 @@ const CONFORMITY_RULES = [
   ['document/certification émis', /\b(?:emit(?:e|imos|ir|ido)[^\n.]{0,50}(?:certificad|relatório|ficha)|fichas? eletrotécnicas?|relatório técnico|certificado em \d|certificação completa|instalações certificadas|orçamento por escrito de conformidade)\b/i],
   ['statut DGEG interdit', /\b(?:DGEG|registo em curso|aguardando registo|1757\/2026\/DIEN)\b/i],
   ['prix/fourchette non sourcé', /(?:€\s*\d|\b(?!(?:70|100)(?:[.,]0+)?\s*€\s*\/\s*(?:h|hora)\b)\d+(?:[.,]\d+)?\s*€\s*(?:[-–]\s*\d+|por|\/\s*(?:h|hora|metro|unidade)))/i],
+  // « Poupança: 40-65 € » = prix professionnel implicite (forme X-Y € non couverte par la règle précédente)
+  ['poupança chiffrée', /\bpoupa(?:n[çc]a)?\b[^\n.]{0,60}?\b\d+(?:[.,]\d+)?\s*[-–]\s*\d+(?:[.,]\d+)?\s*€/i],
   ['ancienneté/volume non vérifié', /\b(?:\d+\+?\s+anos? de experiência|mais de \d+ anos|\d+% problemas resolvidos)\b/i],
   ['PT-BR', /\b(?:vazamento|entupiu|torneira pingando|registro|torneira da cozinha)\b/i],
   ['service interdit', /\b(?:painéis? solares?|ar condicionado|bomba de calor|carregador(?:es)? (?:de )?ve[í]culos?)\b/i],
