@@ -1453,6 +1453,8 @@
     }
   ],
   "redirects": [
+    {"source": "/public", "destination": "/", "statusCode": 301},
+    {"source": "/public.html", "destination": "/", "statusCode": 301},
     {"source": "/public/avaliacoes-clientes", "destination": "/testemunhos", "statusCode": 301},
     {"source": "/public/avaliacoes-clientes.html", "destination": "/testemunhos", "statusCode": 301},
     {"source": "/public/canalizador-urgente-aguiar-da-beira", "destination": "/canalizador-aguiar-da-beira", "statusCode": 301},
