@@ -28,7 +28,7 @@ Services:
   - Esquentador / termoacumulador avariado
   - Autoclismo / torneira sem paragem
 Equipment:
-  - Ridgid FlexShaft K9-102 (desentupimento mecânico)
+  - Ridgid FlexShaft K9-204 (desentupimento mecânico)
   - Câmara de inspeção CCTV
   - Câmara térmica FLIR
   - Kit fluorosceína UV
