@@ -20,32 +20,6 @@
   window.trackPhoneClick = noop;
   window.trackWhatsAppClick = noop;
 
-  // Click counter: no cookie, nothing stored on the device, no identifier. Not anonymous in the strict
-  // sense: the request carries the page path, and Cloudflare receives IP + user agent technically.
-  // Inactive while COUNTER_URL is empty. Filled only at deploy, after Filipe's GO.
-  var COUNTER_URL = "";
-  // Option A (Filipe, 2026-11-23): no beacon before explicit consent. Sent only if Consent Mode
-  // says analytics_storage = "granted" (last consent default/update pushed by the RGPD banner).
-  function analyticsConsentGranted() {
-    var dl = window.dataLayer;
-    if (!dl || !dl.length) return false;
-    for (var i = dl.length - 1; i >= 0; i--) {
-      var e = dl[i];
-      if (e && e[0] === "consent" && (e[1] === "update" || e[1] === "default") && e[2] &&
-          Object.prototype.hasOwnProperty.call(e[2], "analytics_storage")) {
-        return e[2].analytics_storage === "granted";
-      }
-    }
-    return false;
-  }
-  function countContact(name, pos) {
-    if (!analyticsConsentGranted()) return;
-    var t = name === "phone_click" ? "tel" : name === "whatsapp_click" ? "wa" : null;
-    if (!t || !COUNTER_URL || !navigator.sendBeacon) return;
-    var body = JSON.stringify({ s: SITE, p: location.pathname, t: t, l: pos });
-    try { navigator.sendBeacon(COUNTER_URL, new Blob([body], { type: "text/plain" })); } catch (e) {}
-  }
-
   function kind(el) {
     var tracked = el.getAttribute("data-track");
     if (tracked === "phone_click" || tracked === "whatsapp_click") return tracked;
@@ -74,15 +48,13 @@
       if (!el) return;
       var name = kind(el);
       if (!name) return;
-      var pos = position(el);
       gtagSafe("event", name, {
         site: SITE,
         link_url: (el.getAttribute("href") || "").split("?")[0],
-        link_position: pos,
+        link_position: position(el),
         link_text: (el.innerText || "").replace(/\s+/g, " ").trim().slice(0, 60),
         transport_type: "beacon",
       });
-      countContact(name, pos);
     },
     true
   );
