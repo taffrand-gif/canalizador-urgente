@@ -20,7 +20,8 @@
   window.trackPhoneClick = noop;
   window.trackWhatsAppClick = noop;
 
-  // Contagem anónima de cliques (sem cookie, sem armazenamento no dispositivo, sem identificador).
+  // Click counter: no cookie, nothing stored on the device, no identifier. Not anonymous in the strict
+  // sense: the request carries the page path, and Cloudflare receives IP + user agent technically.
   // Inactive while COUNTER_URL is empty. Filled only at deploy, after Filipe's GO.
   var COUNTER_URL = "";
   function countContact(name, pos) {
