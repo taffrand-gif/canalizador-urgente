@@ -13,7 +13,7 @@
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}
 gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',functionality_storage:'denied',personalization_storage:'denied',security_storage:'granted',wait_for_update:500});
 </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-65XLQV88LM"></script>
+<!-- GA4 gtag.js : chargé seulement après consentement explicite (bandeau RGPD, applyChoice) -->
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-65XLQV88LM',{send_page_view:true,anonymize_ip:true,cookie_flags:'SameSite=None;Secure'});</script>
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Deteção de fuga de água em Trás-os-Montes","url":"https://canalizador-urgente.pt/detecao-fuga-agua","inLanguage":"pt-PT","description":"Pesquisa de fuga de água, humidade persistente ou consumo anormal em Trás-os-Montes. Métodos escolhidos conforme a instalação; ligue para confirmar disponibilidade.","publisher":{"@type":"Organization","name":"Norte Reparos","url":"https://canalizador-urgente.pt"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://canalizador-urgente.pt/detecao-fuga-agua"},"serviceType":"Pesquisa e localização de fugas de água","provider":{"@type":"Plumber","name":"Norte Reparos","telephone":"+351 928 484 451","url":"https://canalizador-urgente.pt"},"areaServed":{"@type":"AdministrativeArea","name":"Trás-os-Montes e Douro, Portugal"}}</script>
@@ -49,7 +49,7 @@ gtag('consent','default',{ad_storage:'denied',analytics_storage:'denied',ad_user
 
 <script data-rgpd-marker="RGPD-t_639f45fd-BANNER-cu-v1">
 (function(){var KEY='rgpd-consent-cu-v1',STORAGES=['ad_storage','analytics_storage','ad_user_data','ad_personalization','functionality_storage','personalization_storage'],saved=null;try{saved=localStorage.getItem(KEY)}catch(e){}
-function update(v){var p={};STORAGES.forEach(function(k){p[k]=v});gtag('consent','update',p)}
+function update(v){var p={};STORAGES.forEach(function(k){p[k]=v});gtag('consent','update',p);if(v==='granted'&&!window.__ga4Loaded){window.__ga4Loaded=1;var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtag/js?id=G-65XLQV88LM';document.head.appendChild(g)}}
 if(saved==='granted'||saved==='denied'){update(saved);return}
 var b=document.createElement('div');b.id='rgpd-banner-cu';b.setAttribute('role','dialog');b.setAttribute('aria-label','Consentimento de cookies');b.style.cssText='position:fixed;bottom:0;left:0;right:0;z-index:10000;background:rgba(17,24,39,.97);color:#f3f4f6;padding:14px 18px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:center;font:14px/1.45 -apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif';
 b.innerHTML='<div style="flex:1;min-width:220px"><strong>Cookies e análise de utilização.</strong> Utilizamos cookies para analisar a utilização do site. Pode aceitar ou recusar. <a href="/politica-cookies" style="color:#7dd3fc">Política de cookies</a></div><div style="display:flex;gap:10px"><button id="rgpd-banner-cu-accept" type="button">Aceitar</button><button id="rgpd-banner-cu-reject" type="button">Recusar</button></div>';document.body.appendChild(b);
