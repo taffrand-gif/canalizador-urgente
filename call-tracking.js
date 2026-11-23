@@ -20,6 +20,16 @@
   window.trackPhoneClick = noop;
   window.trackWhatsAppClick = noop;
 
+  // Contagem anónima de cliques (sem cookie, sem armazenamento no dispositivo, sem identificador).
+  // Inactive while COUNTER_URL is empty. Filled only at deploy, after Filipe's GO.
+  var COUNTER_URL = "";
+  function countContact(name, pos) {
+    var t = name === "phone_click" ? "tel" : name === "whatsapp_click" ? "wa" : null;
+    if (!t || !COUNTER_URL || !navigator.sendBeacon) return;
+    var body = JSON.stringify({ s: SITE, p: location.pathname, t: t, l: pos });
+    try { navigator.sendBeacon(COUNTER_URL, new Blob([body], { type: "text/plain" })); } catch (e) {}
+  }
+
   function kind(el) {
     var tracked = el.getAttribute("data-track");
     if (tracked === "phone_click" || tracked === "whatsapp_click") return tracked;
@@ -48,13 +58,15 @@
       if (!el) return;
       var name = kind(el);
       if (!name) return;
+      var pos = position(el);
       gtagSafe("event", name, {
         site: SITE,
         link_url: (el.getAttribute("href") || "").split("?")[0],
-        link_position: position(el),
+        link_position: pos,
         link_text: (el.innerText || "").replace(/\s+/g, " ").trim().slice(0, 60),
         transport_type: "beacon",
       });
+      countContact(name, pos);
     },
     true
   );
