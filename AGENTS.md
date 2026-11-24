@@ -2,9 +2,9 @@
 
 ## Autorité
 
-Les règles centrales sont dans `../_governance/` : lire `00-AUTHORITY.md`, `10-SAFETY.md`, `20-BUSINESS-FACTS.json`, `30-CONTENT-DOCTRINE.md` et `40-RUNBOOKS.md` avant toute action. Le détail de migration de ce dépôt est dans `NORTE-GOVERNANCE.md`.
+La doctrine unique est `../_governance/` (`~/work/Sites/_governance/`). Lire `00-AUTHORITY.md` (carte des sujets, acteurs, règle d'autonomie) avant toute action, puis le fichier canonique du sujet traité. Ce fichier est une adaptation locale : il ne porte aucun fait métier. En cas d'écart, `_governance` l'emporte.
 
-Les anciennes règles ont été archivées dans `../_governance/ARCHIVE/2026-09-25-legacy-rules/`. Elles sont historiques et ne font plus autorité.
+Les anciennes règles sont archivées dans `../_governance/ARCHIVE/2026-09-25-legacy-rules/` : historiques, non normatives. Les fichiers `MISSION_HERMES_*` et les rapports datés de ce dépôt sont historiques : Hermes, OpenClaw et MiniMax sont retirés de Norte.
 
 ## Périmètre
 
@@ -12,15 +12,15 @@ Les anciennes règles ont été archivées dans `../_governance/ARCHIVE/2026-09-
 - Domaine : `canalizador-urgente.pt`
 - Métier : plomberie urgente
 - Langue client : PT-PT
+- Acteurs : Manus, Cue, Claude (rôles dans `00-AUTHORITY.md`)
 
 ## Règles locales
 
-Ne publier aucun claim DGEG, TRIESP, Ficha, Termo ou wallbox sur CU. Ne pas inventer d’avis, de chantiers, de clients, de délais garantis ou de prix.
+- Faits métier (tarifs, horaires, zones, téléphones, services, garanties, assurance, statut réglementaire) : uniquement depuis `../_governance/20-BUSINESS-FACTS.json`, jamais recopiés dans ce dépôt. Un fait absent n'existe pas : le demander à Filipe.
+- Site plomberie (`site_scope.CU`) : aucun claim DGEG, TRIESP, Ficha, Termo ou wallbox ; aucun contenu, numéro, couleur ou équipement du métier électricité (`10-SAFETY.md`).
+- Ne pas inventer d'avis, de chantiers, de clients, de délais garantis ou de prix. Aucune zone Z1–Z6 et aucun calcul tarifaire par distance.
+- Contexte éditorial local : `SEO_PLAN.md` et `MARKETING.md`, sans dupliquer la doctrine centrale.
 
-Appliquer exclusivement le modèle tarifaire central : 70 €/h + 30 € en semaine 09:00–18:00 ; 100 €/h + 50 € la nuit, les week-ends et jours fériés. Aucune zone Z1–Z6 et aucun calcul tarifaire par distance.
+## Git, preuve et publication
 
-Lire `SEO_PLAN.md` et `MARKETING.md` pour le contexte éditorial local. Consigner les actions dans l’historique prévu par le plan, sans dupliquer la doctrine centrale.
-
-## Git et contrôle
-
-Travailler sur une branche identifiée. Ne jamais réécrire l’historique ni forcer un push. Aucun merge ou déploiement sans validation explicite de Filipe. Après modification, contrôler les générateurs, les pages produites et les prix visibles.
+Suivre `../_governance/40-RUNBOOKS.md` : déclaration dans `../_coordination/REGISTRE.md`, un lot = une branche = un worktree en chemin absolu = une PR, ni réécriture d'historique ni force-push, statuts de preuve du done-gate. Merge, production et rollback : GO nommé de Filipe (dépôt + numéro de PR). Après modification, contrôler les générateurs, les pages produites et les prix visibles.
