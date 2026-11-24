@@ -72,8 +72,6 @@ A nossa equipa chega com o equipamento profissional descrito abaixo e segue um m
 - **Mola desentupidora profissional (cabo espiral motorizado).** Permite alcançar bloqueios a vários metros dentro da tubagem, desfazendo o entupimento por rotação. É o método mecânico mais eficaz para obstruções entre o sifão e a caixa de inspeção.
 - **Máquina desentupidora de alta pressão.** Para bloqueios mais profundos ou compactados, a jato de água profissional resolve sem atacar paredes dos canos.
 - **Câmara de inspeção 30 m.** Visualização do interior dos canos para localizar a obstrução, identificar a causa (raiz, calcário, objeto, deflexão) e decidir o método mais adequado.
-- **ROLeak Aqua 3Plus — correlação acústica.** Localização precisa de fugas ou bloqueios em tubagens enterradas ou dentro de paredes, sem abertura desnecessária. Diferenciador raro no mercado regional.
-- **FLIR E96 — câmara térmica.** Identificação visual de anomalias em tubagens e paredes (humidade, variações térmicas associadas a bloqueios ou fugas).
 
 O trabalho decorre à tarifa horária de **70 €/h** em dias úteis ou **100 €/h** fora do horário útil, com deslocação fixa de 30 € ou 50 € conforme o horário. Recebe **orçamento por escrito antes de qualquer intervenção**, e a fatura discrimina horas, deslocação e materiais. A nossa equipa realiza o trabalho de canalização (desobstrução, reparação, substituição). Quando a legislação exige documentação ou formalidade equivalente (por exemplo, intervenção significativa na rede predial), esse passo é tratado pelo técnico habilitado em causa — informe-se connosco para indicarmos o caminho correto.
 
