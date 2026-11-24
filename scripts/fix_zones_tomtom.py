@@ -20,6 +20,8 @@ quand grille(route_km) OK, sinon zones-distances via lookup ZONE_BANDS).
 import json, argparse, sys, shutil
 from pathlib import Path
 
+raise SystemExit("DÉSACTIVÉ (2026-10-10) : ce script réintroduit la grille Z1–Z6 / prix par distance, interdite (_governance/10-SAFETY.md, 20-BUSINESS-FACTS.json). Ne pas exécuter.")
+
 ROOT = Path(__file__).resolve().parent.parent
 ZONAS_FILE = Path('/Users/admin/work/Sites/_audit/zonas-distances-concelhos.json')
 DATA_FILE = ROOT / 'data' / 'concelhos.json'
