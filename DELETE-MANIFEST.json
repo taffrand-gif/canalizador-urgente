@@ -1,0 +1,30 @@
+{
+  "site": "CU",
+  "reason": "confirmed out-of-coverage or Spain; Vila Nova da Rainha explicitly authorized for deletion",
+  "excluded": [
+    "Chaves",
+    "Valpaos",
+    "CNR PAA reserved pages"
+  ],
+  "paths": [
+    "canalizador-a-mezquita.html",
+    "canalizador-albarellos.html",
+    "canalizador-alcaices.html",
+    "canalizador-argan.html",
+    "canalizador-argana.html",
+    "canalizador-autoclismo-xinzo-de-limia.html",
+    "canalizador-canalizacao-nova-xinzo-de-limia.html",
+    "canalizador-castrelo-do-val.html",
+    "canalizador-desentupimento-xinzo-de-limia.html",
+    "canalizador-esquentador-xinzo-de-limia.html",
+    "canalizador-fossa-septica-xinzo-de-limia.html",
+    "canalizador-fuga-agua-xinzo-de-limia.html",
+    "canalizador-pressao-agua-xinzo-de-limia.html",
+    "canalizador-torneira-xinzo-de-limia.html",
+    "canalizador-urgente-xinzo-de-limia.html",
+    "canalizador-xinzo-de-limia.html",
+    "canalizador-urgente-moimenta-da-beira.html",
+    "distritos/viseu.html"
+  ],
+  "scope_note": "Vila Verde da Raia is Chaves and covered; Vila Nova da Rainha is the Macedo de Cavaleiros locality (~25 km) and covered; both excluded from deletion."
+}
