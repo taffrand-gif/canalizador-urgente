@@ -74,9 +74,16 @@ PY
 - Sitemaps XML : tous les `sitemap*.xml` parsés ; URL canonique présente dans `sitemap.xml`.
 - Dépôt statique : aucun `package.json` ; build applicatif : N/A, artefact = HTML source.
 
-## Statut initial
+## Résultat done-gate v3.14
 
-`PARTIEL / PASS_SOURCE` après audit source ; artefact/build, HTTP, DOM, Preview et production : `NON VÉRIFIÉ`.
+- Passage source tenté avec `done-gate.py` : `BLOCKED` car la commande initiale testait un HEAD sans le commit du lot ; le second passage a aussi exigé les témoins multi-couche et la variante JSON-LD du lot.
+- Sonde DOM officielle tentée sur `http://127.0.0.1:8765/desentupir-canos.html` : `BLOCKED` par la politique d’exécution (`Permission denied` sur le bind local) ; aucune preuve DOM n’est revendiquée.
+- `vercel.json` est signalé hors lot par le gate mais présent dans la surface servie ; aucune modification de ce fichier.
+- Preview publique et production : `NON VÉRIFIÉES` ; pas de merge, Ready, promotion ou production.
+
+## Statut
+
+`PARTIEL / PASS_SOURCE` par contrôles déterministes dédiés ci-dessus ; `PASS_BUILD`, `PASS_HTTP`, `PASS_DOM`, `PASS_PREVIEW` et `PASS_PRODUCTION` : `NON VÉRIFIÉ`.
 
 ## FINI attendue
 
