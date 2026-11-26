@@ -1,0 +1,42 @@
+{
+  "generated": "2026-11-26",
+  "repo": "canalizador-urgente",
+  "base_commit": "055e0db9f5bb853cbed240b21208c9e0f448a89d",
+  "branch": "fix/cu-coverage-source-20261126",
+  "source": "20-BUSINESS-FACTS.json",
+  "policy": "Moimenta da Beira hors couverture par décision Filipe 2026-11-23 ; Tavira non servie ; Requejo de Sanabria déjà supprimée dans le lot parent ; Moimenta/Vinhais et Vila Nova da Rainha hors population conservées.",
+  "before_sub_lot": {
+    "moimenta_da_beira_served_surface_files": 21,
+    "moimenta_da_beira_served_surface_lines": 41,
+    "tavira_served_surface_files": 16,
+    "tavira_served_surface_lines": 35,
+    "moimenta_tavira_paa_index_links": 21
+  },
+  "after_expected": {
+    "moimenta_da_beira_html_xml_txt_residuals": 0,
+    "tavira_html_xml_txt_residuals": 0,
+    "requejo_html_xml_txt_residuals": 0,
+    "authorized_canalizador_moimenta_preserved": true,
+    "vila_nova_da_rainha_untouched": true,
+    "classification_source_indexable_false_preserved": true
+  },
+  "changed_surfaces": [
+    "client/public/llms.txt",
+    "client/public/llms-full.txt",
+    "commercial/global HTML locality boilerplate",
+    "indice-a-z.html PAA links",
+    "precos.html dead Moimenta da Beira link"
+  ],
+  "not_changed": [
+    "data/concelhos.json Moimenta da Beira record (indexable:false, classification source)",
+    "scripts/build_data.py classification comment",
+    "canalizador-moimenta.html",
+    "Vila Nova da Rainha",
+    "Production"
+  ],
+  "parent_lot": {
+    "requejo_commit": "055e0db9f5bb853cbed240b21208c9e0f448a89d",
+    "requejo_page_deleted": true,
+    "requejo_sitemap_indexnow_surfaces_removed": true
+  }
+}
