@@ -1,7 +1,7 @@
 # GATES — CU coverage source 2026-11-26
 
-BASE: ed9fb26d3
-HEAD: à produire après commit
+HEAD: 20f80a7a4d7277580dedfb3c64052a4e25983be4
+FILES_SHA256: 9919208caf7d917e408fa33503e2416db8be503f909a458c3797f08395ebb1c7
 FILES_SHA256: À CALCULER PAR LE gate
 POPULATION: page Requejo + 4 sitemaps + source precos-zonas + IndexNow + index A-Z + index Schema.org local + maillage Mahíde + résidus Moimenta/Tavira dans HTML/LLM/index PAA
 BRANCH: fix/cu-coverage-source-20261126
