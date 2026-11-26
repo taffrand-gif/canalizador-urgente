@@ -8,6 +8,13 @@
 - **Arbitrage** : cette page est le hub canonique parce que son title/H1/canonical ciblent déjà le service général et que `/sitemap.xml` contient une entrée dédiée ; les pages `canalizador-desentupimento-<localidade>` restent hors périmètre du pilote.
 - **GO requis** : aucun merge, Ready ou déploiement production sans GO nommé de Filipe.
 
+## Empreintes du lot
+
+- **BASE** : `ed9fb26d39c49e6458c2f94558016f2e6d1398ed`
+- **HEAD** : `ea5af60487cf83a84a42c887ed7616f1a877b099`
+- **FILES_SHA256** : `4b2c7922301e5efa2306743fc4bc3818c1a1c13beb42bc02e56d06058a12cf6e`
+- **POPULATION surface gate** : `2587` fichiers texte scannés ; **lot servi** : `desentupir-canos.html` (1 fichier)
+
 ## Population et invariants
 
 - Fichier modifié autorisé : `desentupir-canos.html`.
@@ -59,9 +66,17 @@ PY
 - `PASS_PREVIEW` seulement après HTTP 200 de la page HTML attendue et DOM Playwright exécuté par le done-gate.
 - Une Preview Vercel protégée par login est `NON VÉRIFIÉE`, jamais `PASS_PREVIEW`.
 
+## Preuves source obtenues après le commit `ea5af60487cf83a84a42c887ed7616f1a877b099`
+
+- `git diff --check` : OK.
+- Contrôles Python : canonical attendu, `tel:` CU, WhatsApp CU, Ridgid K9-102, câmara endoscópica, absence DGEG/TR​​IESP/wallbox : OK.
+- JSON-LD : 1 bloc parsé ; H1 : 1.
+- Sitemaps XML : tous les `sitemap*.xml` parsés ; URL canonique présente dans `sitemap.xml`.
+- Dépôt statique : aucun `package.json` ; build applicatif : N/A, artefact = HTML source.
+
 ## Statut initial
 
-`PARTIEL / PASS_SOURCE` après audit initial ; build, HTTP, DOM, Preview et production : `NON VÉRIFIÉ`.
+`PARTIEL / PASS_SOURCE` après audit source ; artefact/build, HTTP, DOM, Preview et production : `NON VÉRIFIÉ`.
 
 ## FINI attendue
 
