@@ -23,3 +23,10 @@ STATUT: PARTIEL — intégration rejouée ; aucun merge, Ready ou Production.
 - `python3 scripts/build_sitemap_full.py https://canalizador-urgente.pt`: PASS — `sitemap.xml` et `public/sitemap.xml` valides, 2095 URLs ; `git diff --check`: PASS.
 - Le contrôle natif `node scripts/check-phones.mjs .` reste bloqué par 7 fichiers de `_archive/canalizador-urgente-pre-r12-massif-2026-06-28`, hors surfaces servies ; aucune archive modifiée.
 - Build applicatif et typecheck npm : N/A, aucun `package.json` dans ce site statique ; HTTP, DOM, Preview, Production et contrôle Jev : NON VÉRIFIÉS.
+
+## Preuves Preview  2026-11-27
+- Preview READY : `https://canalizador-urgente-ecofm62bq-filipes-projects-4b992c3d.vercel.app/`.
+- DOM/HTTP contrVercelllll s : racine, Chaves et Moimenta de Vinhais rpondent ; tlphone/WhatsApp visibles.
+- Non-exposition contrlllle : Moimenta da Beira ne rpond pas sur Preview.
+- Population contrlllle : 2 095 URLs ; contrlllle tlphones servi : 2 471 fichiers, numro unique `+351 928484451`.
+- Statut :  Preview contrPartielllll e, pas de merge ni Production.
