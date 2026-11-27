@@ -15,4 +15,10 @@ POPULATION_SUPPLÉMENTAIRE: 1 fichier source du commit ca2ef89d6, plus ce gate.
 INVARIANTS: `/canalizador-moimenta` (Moimenta de Vinhais), Chaves et Vila Nova da Rainha conservées ; aucune adresse privée ni promesse non sourcée ; téléphone/WhatsApp conservés.
 SOURCE: _governance/20-BUSINESS-FACTS.json ; index.html ; sitemaps/générateurs du commit de base.
 PREUVES: manifest exact, scan des fichiers présents, JSON-LD parseable, canonical, CTA, sitemap/XML, git diff --check, régénération contrôlée.
-STATUT: PARTIEL — intégration non rejouée ; aucun merge, Ready ou Production.
+STATUT: PARTIEL — intégration rejouée ; aucun merge, Ready ou Production.
+
+## Preuves rejouées — 2026-11-27
+- XML des sitemaps : PASS ; exclusions géographiques contrôlées ; `git diff --check`: PASS.
+- Contrôle téléphones sur copie temporaire des surfaces servies, avec exclusion explicite de `_archive`: PASS — 2471 fichiers, numéro unique `+351 928484451`.
+- Le contrôle natif `node scripts/check-phones.mjs .` reste bloqué par 7 fichiers de `_archive/canalizador-urgente-pre-r12-massif-2026-06-28`, hors surfaces servies ; aucune archive modifiée.
+- Build, typecheck, HTTP, DOM, Preview, Production et contrôle Jev : NON VÉRIFIÉS.
