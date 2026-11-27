@@ -11,7 +11,7 @@
 ## Empreintes du lot
 
 - **BASE** : `ed9fb26d39c49e6458c2f94558016f2e6d1398ed`
-- **HEAD** : `ea5af60487cf83a84a42c887ed7616f1a877b099`
+- **HEAD** : `b36dffcd7`
 - **FILES_SHA256** : `4b2c7922301e5efa2306743fc4bc3818c1a1c13beb42bc02e56d06058a12cf6e`
 - **POPULATION surface gate** : `2587` fichiers texte scannés ; **lot servi** : `desentupir-canos.html` (1 fichier)
 
@@ -79,11 +79,14 @@ PY
 - Passage source tenté avec `done-gate.py` : `BLOCKED` car la commande initiale testait un HEAD sans le commit du lot ; le second passage a aussi exigé les témoins multi-couche et la variante JSON-LD du lot.
 - Sonde DOM officielle tentée sur `http://127.0.0.1:8765/desentupir-canos.html` : `BLOCKED` par la politique d’exécution (`Permission denied` sur le bind local) ; aucune preuve DOM n’est revendiquée.
 - `vercel.json` est signalé hors lot par le gate mais présent dans la surface servie ; aucune modification de ce fichier.
-- Preview publique et production : `NON VÉRIFIÉES` ; pas de merge, Ready, promotion ou production.
+- `PASS_HTTP` : Preview publique `https://canalizador-urgente-o6wtvzko1-filipes-projects-4b992c3d.vercel.app/desentupir-canos` accessible et contenu HTML attendu renvoyé le 2026-11-27. Title, H1, tarifs TTC, téléphone et WhatsApp présents.
+- `PASS_DOM` : contrôle indépendant navigateur sur la Preview `READY` ; H1, CTA téléphone/WhatsApp, méthodes plomberie autorisées et bandeau RGPD visibles. `Ridgid K9-102` absent du rendu après correction.
+- `PASS_PREVIEW` : déploiement Vercel `dpl_58StG3CSs5jNHsLYwkL1X9mm3QtM` = `READY`, commit `b36dffcd7`, URL contrôlée le 2026-11-27.
+- Production : `NON VÉRIFIÉE` ; pas de merge, Ready, promotion ou production.
 
 ## Statut
 
-`PARTIEL / PASS_SOURCE` par contrôles déterministes dédiés ci-dessus ; `PASS_BUILD`, `PASS_HTTP`, `PASS_DOM`, `PASS_PREVIEW` et `PASS_PRODUCTION` : `NON VÉRIFIÉ`.
+`PARTIEL — PASS_SOURCE + PASS_HTTP + PASS_DOM + PASS_PREVIEW` ; `PASS_BUILD` applicatif : N/A pour le dépôt statique ; `PASS_PRODUCTION` : `NON VÉRIFIÉ`.
 
 ## FINI attendue
 
